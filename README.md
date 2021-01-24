@@ -17,3 +17,8 @@
 | [呱牛笔记](https://it3q.com/) || 开发
 | [吴先森的笔记](https://www.wunote.cn/) || 开发
 | [JalenChuh 的个人博客](https://blog.jalenchuh.cn/) | [github](https://github.com/jalenchuh/blog) | 开发
+| [Zeruns's Blog](https://blog.zeruns.tech/) | | 开发
+| [羽忆江南](https://yyjn.org/)
+| [小令童鞋](https://www.zeekling.cn/) || 开发
+| [时光笔记](https://www.ttext.cn/) || 开发
+| [徐冬冬博客](http://www.kobegigi.com/) || 开发
