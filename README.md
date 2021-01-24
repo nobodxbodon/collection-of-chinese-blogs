@@ -1,6 +1,6 @@
-## 个人博客与对应 git 仓库
+## 中文博客与所在 git 仓库
 
-为 [基于 git 的去中心化内容收发平台](https://zhuanlan.zhihu.com/p/346258393) 搜集中文博客。
+为 [基于 git 的去中心化内容收发平台](https://zhuanlan.zhihu.com/p/346258393) 搜集中文博客。欢迎通过 issue 或 pr 分享博客资源。
 
 以下大部分源自 [中文博客圈](https://blog.huhexian.com/)，顺序不分先后：
 
