@@ -2,10 +2,11 @@
 
 为 [基于 git 的去中心化内容收发平台](https://zhuanlan.zhihu.com/p/346258393) 搜集中文博客。
 
-以下源自 [中文博客圈](https://blog.huhexian.com/)，顺序不分先后：
+以下大部分源自 [中文博客圈](https://blog.huhexian.com/)，顺序不分先后：
 
 | 博客 | 内容所在 git 仓库 | 内容包含
 | ------------- | ------------- | ------------- |
+| [林一二的开放记忆 \| 关于前端_模因学_语义网_游戏开发_的博客](https://onetwo.ren/) | [github](https://github.com/linonetwo/linonetwo.github.io) | 开发
 | [JosePhilo - Philosophy of Joseph Cheung...](https://josephilo.com/)
 | [TSBBLOG](https://tsb2blog.com/)
 | [LJF的个人博客](https://ljf.com/) | 无 |
