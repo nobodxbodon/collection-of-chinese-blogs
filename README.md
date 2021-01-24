@@ -22,3 +22,12 @@
 | [小令童鞋](https://www.zeekling.cn/) || 开发
 | [时光笔记](https://www.ttext.cn/) || 开发
 | [徐冬冬博客](http://www.kobegigi.com/) || 开发
+| [ArchiTech's blog](https://arch1tech.com/) || 开发
+| [FengMo](https://mo66.cn/) || 开发
+| [ZM沫](https://zmmio.com/) || 开发
+| [酒疯子波尔](https://blog.jfz.xyz/) || 开发
+| [Eltrac's](https://blog.guhub.cn/) || 开发
+
+### 尚待整理
+
+- 源自 [酒疯子波尔博文](https://blog.jfz.xyz/post-203.html) 的 [1700 个博客地址](1700博客地址.txt)
