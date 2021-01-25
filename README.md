@@ -2,13 +2,24 @@
 
 为 [基于 git 的去中心化内容收发平台](https://zhuanlan.zhihu.com/p/346258393) 搜集中文博客。欢迎通过 issue 或 pr 分享博客资源。
 
-以下大部分源自 [中文博客圈](https://blog.huhexian.com/)，内容在 git 平台的在前。其他顺序不分先后：
+下面是内容在 git 平台公开的，顺序不分先后：
 
 | 博客 | 内容所在 git 仓库 | 内容包含
 | ------------- | ------------- | ------------- |
 | [林一二的开放记忆 \| 关于前端_模因学_语义网_游戏开发_的博客](https://onetwo.ren/) | [github](https://github.com/linonetwo/linonetwo.github.io) | 开发
 | [A Fairy Tale of the Two](https://yuukoamamiya.github.io/) | [github](https://github.com/yuukoamamiya/yuukoamamiya.github.io) |
 | [JalenChuh 的个人博客](https://blog.jalenchuh.cn/) | [github](https://github.com/jalenchuh/blog) | 开发
+
+
+### 尚待整理
+
+- [中文独立博客列表](https://github.com/timqian/chinese-independent-blogs)
+- 源自 [酒疯子波尔博文](https://blog.jfz.xyz/post-203.html) 的 [1700 个博客地址](1700博客地址.txt)
+
+以下大部分源自 [中文博客圈](https://blog.huhexian.com/)
+
+| 博客 | 内容所在 git 仓库 | 内容包含
+| ------------- | ------------- | ------------- |
 | [JosePhilo - Philosophy of Joseph Cheung...](https://josephilo.com/)
 | [TSBBLOG](https://tsb2blog.com/)
 | [LJF的个人博客](https://ljf.com/) | 无 |
@@ -28,7 +39,3 @@
 | [ZM沫](https://zmmio.com/) || 开发
 | [酒疯子波尔](https://blog.jfz.xyz/) || 开发
 | [Eltrac's](https://blog.guhub.cn/) || 开发
-
-### 尚待整理
-
-- 源自 [酒疯子波尔博文](https://blog.jfz.xyz/post-203.html) 的 [1700 个博客地址](1700博客地址.txt)
