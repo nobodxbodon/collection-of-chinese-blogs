@@ -4,11 +4,12 @@
 
 下面是内容在 git 平台公开的，顺序不分先后：
 
-| 博客 | 内容所在 git 仓库 | 内容包含
-| ------------- | ------------- | ------------- |
-| [林一二的开放记忆 \| 关于前端_模因学_语义网_游戏开发_的博客](https://onetwo.ren/) | [github](https://github.com/linonetwo/linonetwo.github.io) | 开发
-| [A Fairy Tale of the Two](https://yuukoamamiya.github.io/) | [github](https://github.com/yuukoamamiya/yuukoamamiya.github.io) |
-| [JalenChuh 的个人博客](https://blog.jalenchuh.cn/) | [github](https://github.com/jalenchuh/blog) | 开发
+| 博客 | 内容所在 git 仓库 | 格式 | 相关
+| ------------- | ------------- | ------------- | ------------- |
+| [林一二的开放记忆 \| 关于前端_模因学_语义网_游戏开发_的博客](https://onetwo.ren/) | [github](https://github.com/linonetwo/linonetwo.github.io) | md Jekyll | 开发
+| [A Fairy Tale of the Two](https://yuukoamamiya.github.io/) | [github](https://github.com/yuukoamamiya/yuukoamamiya.github.io) | html
+| [JalenChuh 的个人博客](https://blog.jalenchuh.cn/) | [github](https://github.com/jalenchuh/blog) | md Gridsome | 开发
+| [ShrekShao](http://shrekshao.github.io) | [github](https://github.com/shrekshao/shrekshao.github.io) | md Jekyll | 编程
 
 
 ### 尚待整理
