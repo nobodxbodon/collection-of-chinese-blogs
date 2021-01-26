@@ -13,7 +13,7 @@
 | [vzard's blog](https://blog.vzard.cn/) | [github](https://github.com/vzardlloo/vzardlloo.github.io) | html | 编程
 | [前端工程师 Toweave](https://toweave.github.io/) | [github](https://github.com/toweave/toweave.github.io) | html Gatsby | 编程
 | [diss带码](https://dumplingbao.github.io/) | [github](https://github.com/dumplingbao/dumplingbao.github.io) | html | 编程
-| [HelloDog](https://wsgzao.github.io) | [github](https://wsgzao.github.io) | html Hexo | 编程
+| [HelloDog](https://wsgzao.github.io) | [github](https://github.com/wsgzao/wsgzao.github.io) | html Hexo | 编程
 | [Vivaxy's blog](https://vivaxyblog.github.io) | [github](https://github.com/vivaxyblog/vivaxyblog.github.io) | md Jekyll | 编程
 | [Qt进阶之路-涛哥的博客](https://jaredtao.github.io/) [gitee 镜像](https://jaredtao.gitee.io/) | [github](https://github.com/jaredtao/jaredtao.github.io); [gitee](https://gitee.com/jaredtao/jaredtao) | html | 编程; Qt
 | [Alexander D Huang's Blog](https://alxddh.github.io) | [github](https://github.com/alxddh/alxddh.github.io) | md Jekyll | 编程; 游戏
@@ -51,3 +51,5 @@
 ### 统计
 
 41 个博客中，内容 19 个为 markdown 格式，22 个为 HTML 格式
+
+手动 git clone 到本地耗时约半小时，5 GB。
