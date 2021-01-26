@@ -6,7 +6,7 @@
 
 | 博客网址 | git 仓储 | 格式 | 相关
 | ------------- | ------------- | ------------- | ------------- |
-| [近视眼逛博客](https://ditou.org/) | [github](https://github.com/1078503/blog) | html hugo | 随笔; 技术
+| [近视眼逛博客](https://ditou.org/) | [github](https://github.com/1078503/blog) | md hugo | 随笔; 技术
 | [林一二的开放记忆 \| 关于前端_模因学_语义网_游戏开发_的博客](https://onetwo.ren/) | [github](https://github.com/linonetwo/linonetwo.github.io) | md Jekyll | 开发
 | [Yuko's Blog](https://yuukoamamiya.github.io/) | [github](https://github.com/yuukoamamiya/yuukoamamiya.github.io) | html | 二次元; 人文; 社科; 读书; 游戏
 | [JalenChuh 的个人博客](https://blog.jalenchuh.cn/) | [github](https://github.com/jalenchuh/blog) | md Gridsome | 开发
