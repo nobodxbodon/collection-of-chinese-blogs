@@ -47,3 +47,7 @@
 | [阿掖山：一个博客](https://mountaye.github.io/blog/) | [github](https://github.com/MountAye/blog) | html | 物理; 生物; 编程; 摄影
 | [AmbroseRen](https://ambroseren.github.io/test/) | [github](https://github.com/ambroseren/ambroseren.github.io) | html | 综合数据库笔记; 博客
 | [张小凯的博客](https://jasonkayzk.github.io/) | [github](https://github.com/jasonkayzk/jasonkayzk.github.io) | md | 编程; 后端; 生活; 分享
+
+### 统计
+
+41 个博客中，内容 19 个为 markdown 格式，22 个为 HTML 格式
