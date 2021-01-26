@@ -15,7 +15,7 @@
 | [diss带码](https://dumplingbao.github.io/) | [github](https://github.com/dumplingbao/dumplingbao.github.io) | html | 编程
 | [HelloDog](https://wsgzao.github.io) | [github](https://github.com/wsgzao/wsgzao.github.io) | html Hexo | 编程
 | [Vivaxy's blog](https://vivaxyblog.github.io) | [github](https://github.com/vivaxyblog/vivaxyblog.github.io) | md Jekyll | 编程
-| [Qt进阶之路-涛哥的博客](https://jaredtao.github.io/) [gitee 镜像](https://jaredtao.gitee.io/) | [github](https://github.com/jaredtao/jaredtao.github.io); [gitee](https://gitee.com/jaredtao/jaredtao) | html | 编程; Qt
+| [Qt进阶之路-涛哥的博客](https://jaredtao.github.io/) [gitee 镜像](https://jaredtao.gitee.io/) | [github](https://github.com/jaredtao/jaredtao.github.io/tree/tao); [gitee](https://gitee.com/jaredtao/jaredtao/tree/tao/) | md hexo | 编程; Qt
 | [Alexander D Huang's Blog](https://alxddh.github.io) | [github](https://github.com/alxddh/alxddh.github.io) | md Jekyll | 编程; 游戏
 | [遥行 Gofurther 技术&ML&BC博客](https://charlesliuyx.github.io/) | [github](https://github.com/charlesliuyx/charlesliuyx.github.io) | html hexo | 机器学习; 区块链; 算法; 幕布; Dota2
 | [IPhysResearch](https://iphysresearch.github.io/blog/) | [github(部分)](https://github.com/iphysresearch/iphysresearch.github.io_Archive) | html | 编程; 科研; 物理; 引力波; AI; 机器学习; 深度学习; 开源
@@ -50,6 +50,6 @@
 
 ### 统计
 
-41 个博客中，内容 19 个为 markdown 格式，22 个为 HTML 格式
+41 个博客中，内容 20 个为 markdown 格式，21 个为 HTML 格式
 
 手动 git clone 到本地耗时约半小时，5 GB。
