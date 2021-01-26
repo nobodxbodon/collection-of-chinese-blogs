@@ -10,6 +10,8 @@
 | [A Fairy Tale of the Two](https://yuukoamamiya.github.io/) | [github](https://github.com/yuukoamamiya/yuukoamamiya.github.io) | html
 | [JalenChuh 的个人博客](https://blog.jalenchuh.cn/) | [github](https://github.com/jalenchuh/blog) | md Gridsome | 开发
 | [ShrekShao](http://shrekshao.github.io) | [github](https://github.com/shrekshao/shrekshao.github.io) | md Jekyll | 编程
+| [vzard's blog](https://blog.vzard.cn/) | [github](https://github.com/vzardlloo/vzardlloo.github.io) | html | 编程
+
 
 
 ### 尚待整理
