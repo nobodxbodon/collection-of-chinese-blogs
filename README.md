@@ -51,9 +51,14 @@
 | [AmbroseRen](https://ambroseren.github.io/test/) | [github](https://github.com/ambroseren/ambroseren.github.io) | html | 综合数据库笔记; 博客
 | [张小凯的博客](https://jasonkayzk.github.io/) | [github](https://github.com/jasonkayzk/jasonkayzk.github.io) | md | 编程; 后端; 生活; 分享
 | [木千之的格物斋](https://muqianzhi.gitee.io/) | [gitee](https://gitee.com/MuQianzhi/MuQianzhi) | html |
+| [故事熊 —— 情绪泛滥 沉浸其中](https://felixxiong.github.io/) | [github](https://github.com/FelixXiong/FelixXiong.github.io) | html
+| [Pointing to the Moon](https://yk-liu.github.io/) | [github](https://github.com/yk-liu/yk-liu.github.io/tree/master) | md Jekyll
+| [HyG's Blog](https://gaohaoyang.github.io/) | [github部分](https://github.com/Liu0330/Liu0330.github.io) | md Jekyll
+| [辣椒の酱](https://removeif.github.io/) | [github](https://github.com/removeif/removeif.github.io) | html
+
 
 ### 统计
 
-42 个博客中，内容 20 个为 markdown 格式，22 个为 HTML 格式
+47 个博客中，内容 22 个为 markdown 格式，25 个为 HTML 格式
 
-手动 git clone 到本地耗时约半小时，5 GB。
+手动 git clone 到本地耗时约半小时，5.3 GB。
