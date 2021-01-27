@@ -2,6 +2,8 @@
 
 为 [基于 git 的去中心化内容收发平台](https://zhuanlan.zhihu.com/p/346258393) 搜集中文博客。
 
+功能简介初稿：[基于 git 的博客聚合工具使用场景（一）：读者](文档/2021-01-26-基于%20%git%20%的博客聚合工具使用场景（一）：读者.md)
+
 下面是博客内容公开在 git 平台的，顺序不分先后。欢迎通过 issue 或 pr 分享博客资源：
 
 | 博客网址 | git 仓储 | 格式 | 相关
@@ -48,6 +50,7 @@
 | [阿掖山：一个博客](https://mountaye.github.io/blog/) | [github](https://github.com/MountAye/blog) | html | 物理; 生物; 编程; 摄影
 | [AmbroseRen](https://ambroseren.github.io/test/) | [github](https://github.com/ambroseren/ambroseren.github.io) | html | 综合数据库笔记; 博客
 | [张小凯的博客](https://jasonkayzk.github.io/) | [github](https://github.com/jasonkayzk/jasonkayzk.github.io) | md | 编程; 后端; 生活; 分享
+| [木千之的格物斋](https://muqianzhi.gitee.io/) | [gitee](https://gitee.com/MuQianzhi/MuQianzhi) | html |
 
 ### 统计
 
