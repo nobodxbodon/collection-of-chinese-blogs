@@ -26,7 +26,7 @@
 | [爱写代码的小书童](https://zofun.github.io/) | [github](https://github.com/zofun/zofun.github.io) | html | 编程; 随笔; 后端
 | [LIANYONGXING的博客](https://lianyongxing.github.io/) | [github](https://github.com/lianyongxing/lianyongxing.github.io) | html | 编程; 技术; 生活
 | [后端进阶](https://objcoding.com/) | [github](https://github.com/objcoding/objcoding.github.io) | md Jekyll | Java、Golang、分布式中间件、WEB框架、服务治理等等
-| [Claude's Blog](https://claude-ray.github.io) | [github](https://github.com/claude-ray/claude-ray.github.io) | html Hexo| 编程; 折腾
+| [Claude's Blog](https://claude-ray.github.io) | [github](https://github.com/claude-ray/claude-ray.github.io) | md Hexo| 编程; 折腾
 | [桑弧蓬矢射四方](https://iphyer.github.io/) | [github](https://github.com/iphyer/iphyer.github.io) | md Jekyll | 深度学习; 科研; 生活
 | [Yiran's Blog](https://zdyxry.github.io/) | [github](https://github.com/zdyxry/zdyxry.github.io) | html | 编程; Linux
 | [Michael翔](https://michael728.github.io/) | [github](https://github.com/michael728/michael728.github.io) | html | 编程; DevOps; 随笔
@@ -62,3 +62,10 @@
 47 个博客中，内容 22 个为 markdown 格式，25 个为 HTML 格式
 
 手动 git clone 到本地耗时约半小时，5.3 GB。
+
+### 静态网页生成器的 md 目录
+
+| 生成器 | 目录 |
+| ------------- | ------------- |
+Hexo | source/_posts
+Jekyll | _posts
