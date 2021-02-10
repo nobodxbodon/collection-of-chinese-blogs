@@ -37,7 +37,6 @@
 | [weirane's blog](https://blog.ruo-chen.wang/) | [github](https://github.com/weirane/weirane.github.io) | html | 编程; Linux; Rust
 | [Mayx的博客](https://mabbs.github.io/) | [github](https://github.com/mabbs/mabbs.github.io) | md Jekyll | 编程; 随笔; 生活
 | [the wandering potato 出遊的土豆](https://thewanderingpotato.github.io/) | [github](https://github.com/thewanderingpotato/thewanderingpotato.github.io) | md Jekyll | 随笔; 生活; 摄影
-| [Hszhakka](https://spellonyou.github.io/) | [github](https://github.com/hszhakka/SpellOnYou.github.io) | md Jekyll | 编程; 随笔; 读书笔记
 | [Wulu's Blog](https://emuqi.github.io/) | [github](https://github.com/emuqi/emuqi.github.io) | html | 笔记; 经验分享; 学习
 | [Frost's Blog](https://frost-lee.github.io) | [github](https://github.com/frost-lee/frost-lee.github.io) | html | 编程; 数据分析; 随笔; 旅行
 | [Lineuman's Blog](https://lineuman.github.io/blog/) | [github](https://github.com/lineuman/blog) | md Jekyll | 编程; 测试
