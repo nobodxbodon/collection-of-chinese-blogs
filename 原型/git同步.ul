@@ -1,0 +1,19 @@
+using sys
+using os
+
+仓库地址 = "https://gitee.com/zhishi/test.git"
+
+路径  = "/Users/xuanwu/git/聚聚/测试/"
+下载 = "git clone `仓库地址`"
+同步 = "git pull"
+
+仓库本地路径 = "`路径`test"
+
+已下载 = os.path.exists(仓库本地路径) and os.path.isdir(仓库本地路径)
+if 已下载 {
+    os.chdir(仓库本地路径)
+    os.system(同步)
+} else {
+    os.chdir(路径)
+    os.system(下载)
+}
