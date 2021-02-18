@@ -1,6 +1,12 @@
 using sys
 using os
 
+using 运行 in 运行命令
+
+func 下载仓库(路径, 仓库地址) {
+    os.chdir(路径); 运行("git clone `仓库地址`"); println("已下载: `仓库地址`")
+}
+
 仓库表 = {
     "https://github.com/1078503/blog": "ditou.org",
     "https://github.com/linonetwo/linonetwo.github.io": "onetwo.ren",
@@ -20,15 +26,23 @@ using os
 路径  = "/Users/xuanwu/git/聚聚/博客聚合/"
 同步 = "git pull"
 
+无法合并 = "fatal: refusing to merge unrelated histories\n"
+
 for 仓库地址 in 仓库表 {
-    仓库本地路径 = 路径 + 仓库表[仓库地址]
+    目标目录 = 仓库表[仓库地址]
+    仓库本地路径 = 路径 + 目标目录
 
     已下载 = os.path.exists(仓库本地路径) and os.path.isdir(仓库本地路径)
-    if 已下载 { os.chdir(仓库本地路径); os.system(同步); println("已同步: `仓库地址`") }
-    else { os.chdir(路径); os.system("git clone `仓库地址`"); println("已下载: `仓库地址`") }
-}
+    if 已下载 {
+        os.chdir(仓库本地路径); 报错 = 运行(同步);
+        // println("报错: " + 报错)
+        if 报错 == 无法合并 {
+            println("无法合并: `仓库地址`")
 
-/*
-fatal: refusing to merge unrelated histories
-已同步: https://github.com/claude-ray/claude-ray.github.io
-*/
+            // TODO: 备份似乎无效
+            os.rename(仓库本地路径, 仓库本地路径 + "_bak")
+            下载仓库(路径, 仓库地址, 目标目录)
+        } else { println("已同步: `仓库地址`") }
+    }
+    else { 下载仓库(路径, 仓库地址, 目标目录) }
+}
