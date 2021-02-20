@@ -1,6 +1,7 @@
 using sys
 using os
 using subprocess
+using csv
 
 func 运行(命令) {
     进程 = subprocess.run(命令.split(" "), stdout=subprocess.PIPE, stderr=subprocess.PIPE)
@@ -10,24 +11,16 @@ func 运行(命令) {
     }
 }
 
-func 下载仓库(路径, 仓库地址) {
-    os.chdir(路径); 运行("git clone `仓库地址`"); println("已下载: `仓库地址`")
+func 下载仓库(路径, 仓库地址, 目标目录) {
+    os.chdir(路径); 运行("git clone `仓库地址` `目标目录`"); println("已下载: `仓库地址`")
 }
 
-仓库表 = {
-    "https://github.com/1078503/blog": "ditou.org",
-    "https://github.com/linonetwo/linonetwo.github.io": "onetwo.ren",
-    "https://github.com/jalenchuh/blog": "blog.jalenchuh.cn",
-    "https://github.com/vivaxyblog/vivaxyblog.github.io": "vivaxyblog.github.io",
-    "https://gitee.com/jaredtao/jaredtao/tree/tao/": "jaredtao.gitee.io",
-    "https://github.com/claude-ray/claude-ray.github.io": "claude-ray.github.io",
-    "https://github.com/iphyer/iphyer.github.io": "iphyer.github.io",
-    "https://github.com/mabbs/mabbs.github.io": "mabbs.github.io",
-    "https://github.com/thewanderingpotato/thewanderingpotato.github.io": "thewanderingpotato.github.io",
-    "https://github.com/zsqk/news": "zsqk.github.io",
-    "https://github.com/luyuhuang/luyuhuang.github.io": "luyuhuang.github.io",
-    "https://github.com/jasonkayzk/jasonkayzk.github.io": "jasonkayzk.github.io",
-    "https://github.com/hh54188/jekyll-blog": "qingbob.com"
+仓库表 = {:}
+try 仓库数据=open("原型/仓库列表.csv") {
+    各行 = csv.reader(仓库数据, delimiter=',')
+    for 行 in 各行 {
+        仓库表[行[0]] = 行[1]
+    }
 }
 
 路径  = "/Users/xuanwu/git/聚聚/博客聚合/"
