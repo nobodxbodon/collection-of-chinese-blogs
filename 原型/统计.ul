@@ -16,12 +16,32 @@ try 仓库数据=open("原型/仓库列表.csv") {
 
 路径 = "/Users/xuanwu/git/聚聚/博客聚合/"
 
+func 取所占空间(目录) {
+    空间 = 0
+    for 当前路径, 目录名, 所有文件 in os.walk(目录) {
+        for 文件 in 所有文件 {
+            文件路径 = os.path.join(当前路径, 文件)
+
+            continue if os.path.islink(文件路径)
+            try {
+                文件大小 = os.path.getsize(文件路径)
+            } catch e {
+                print("取不了大小：`文件路径`")
+            }
+
+            空间 += 文件大小
+        }
+    }
+    return 空间/1000000
+}
+
 统计数据 = []
 for 仓库地址 in 仓库表 {
     目标目录 = 仓库表[仓库地址]
     格式 = 格式表[仓库地址]
     仓库本地路径 = os.path.join(路径, 目标目录, 路径表[格式])
 
+    所占空间 = 取所占空间(os.path.join(路径, 目标目录))
     文件个数 = 0
     for 当前路径, 目录名, 所有文件 in os.walk(仓库本地路径) {
         for 文件 in 所有文件 {
@@ -29,7 +49,7 @@ for 仓库地址 in 仓库表 {
             文件个数 += 1 if 文件路径.endswith(".md") or 文件路径.endswith(".markdown")
         }
     }
-    统计数据.append(tuple(目标目录, 文件个数))
+    统计数据.append(tuple(目标目录, 文件个数, 所占空间))
     println("`目标目录` 无 md 文件！") if 文件个数 == 0
 }
 
