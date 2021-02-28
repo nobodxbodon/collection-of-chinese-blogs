@@ -1,5 +1,6 @@
 using os
 using csv
+using * in 原型.md相关
 
 路径表 = {
     "hexo": "source/_posts",
@@ -43,13 +44,34 @@ for 仓库地址 in 仓库表 {
 
     所占空间 = 取所占空间(os.path.join(路径, 目标目录))
     文件个数 = 0
+    所有简报 = []
     for 当前路径, 目录名, 所有文件 in os.walk(仓库本地路径) {
         for 文件 in 所有文件 {
             文件路径 = os.path.join(当前路径, 文件)
-            文件个数 += 1 if 文件路径.endswith(".md") or 文件路径.endswith(".markdown")
+            if 文件路径.endswith(".md") or 文件路径.endswith(".markdown") {
+              文件个数 += 1
+              所有简报.append(提取简报(文件路径))
+            }
         }
     }
-    统计数据.append(tuple(目标目录, 文件个数, 所占空间))
+    println("`目标目录`: `所有简报`")
+    
+    更新时间 = ""
+    for 简报 in 所有简报 {
+      if 简报 {
+        // TODO: 加入格式表
+        if 简报.__contains__('date') {
+          时间戳 = 简报['date']
+        } elif 简报.__contains__('modified') {
+          时间戳 = 简报['modified']
+        } else {
+          时间戳 = ''
+        }
+        更新时间 = 时间戳 if 更新时间 < 时间戳
+      }
+    }
+    
+    统计数据.append(tuple(目标目录, 文件个数, 所占空间, 更新时间))
     println("`目标目录` 无 md 文件！") if 文件个数 == 0
 }
 
