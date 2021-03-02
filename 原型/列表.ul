@@ -1,0 +1,69 @@
+using os
+using csv
+using * in 原型.md相关
+
+路径表 = {
+    "hexo": "source/_posts",
+    "gridsome": "content/posts",
+    "hugo": "content/posts",
+    "": "_posts"  // Jekyll 默认
+}
+
+仓库表 = {:}
+格式表 = {:}
+try 仓库数据=open("原型/仓库列表.csv") {
+    for 行 in csv.reader(仓库数据, delimiter=',') { 仓库表[行[0]] = 行[1]; 格式表[行[0]] = 行[2] }
+}
+
+路径 = "/Users/xuanwu/git/聚聚/博客聚合/"
+
+所有博文 = []
+for 仓库地址 in 仓库表 {
+    目标目录 = 仓库表[仓库地址]
+    格式 = 格式表[仓库地址]
+    仓库本地路径 = os.path.join(路径, 目标目录, 路径表[格式])
+
+    文件个数 = 0
+    所有简报 = []
+    for 当前路径, 目录名, 所有文件 in os.walk(仓库本地路径) {
+        for 文件 in 所有文件 {
+            文件路径 = os.path.join(当前路径, 文件)
+            if 文件路径.endswith(".md") or 文件路径.endswith(".markdown") {
+              文件个数 += 1
+              简报 = 提取简报(文件路径)
+              简报['文件名'] = 文件
+              所有简报.append(简报)
+            }
+        }
+    }
+    //println("`目标目录`: `所有简报`")
+
+    for 简报 in 所有简报 {
+        时间戳 = ""
+        // TODO: 加入格式表
+        if 简报.__contains__('date') {
+          时间戳 = 简报['date']
+        } elif 简报.__contains__('modified') {
+          时间戳 = 简报['modified']
+        } else {
+          时间戳 = 文件名提取时间戳(简报['文件名'])
+        }
+
+        if 简报.__contains__('title') {
+          题目 = 简报['title']
+        } else {
+          题目 = 文件名提取题目(简报['文件名'])
+        }
+
+        所有博文.append(tuple(目标目录, 时间戳, 题目))
+    }
+
+    println("`目标目录` 无 md 文件！") if 文件个数 == 0
+}
+
+try 博文单=open("原型/博文目录.csv", "w", newline='') {
+    写入 = csv.writer(博文单)
+    for 行 in 所有博文 {
+        写入.writerow(行)
+    }
+}
