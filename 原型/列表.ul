@@ -1,6 +1,7 @@
 using os
 using csv
 using Template in jinja2
+using urllib.parse
 using * in 原型.md相关
 using * in 原型.网页相关
 
@@ -91,7 +92,7 @@ try 博文单=open("原型/博文目录.csv", "w", newline='') {
 所有链接 = []
 完整简报.sort(key=x -> x['时间'], reverse=true)
 for 简报 in 完整简报 {
-  所有链接.append({'题目': 简报['时间'] + ' ' + 简报['题目'], '链接': 简报['网页']})
+  所有链接.append({'题目': 简报['时间'] + ' ' + 简报['题目'], '链接': urllib.parse.quote(简报['网页'])})
 }
 try 模板文件=open('原型/索引模板.html') {
   模板 = Template(模板文件.read())
