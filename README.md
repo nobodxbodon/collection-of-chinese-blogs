@@ -67,5 +67,5 @@
 
 | 生成器 | 目录 |
 | ------------- | ------------- |
-Hexo | source/_posts
-Jekyll | _posts
+| Hexo | source/_posts
+| Jekyll | _posts

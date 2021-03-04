@@ -1,6 +1,7 @@
 using os
 using csv
 using * in 原型.md相关
+using * in 原型.网页相关
 
 路径表 = {
     "hexo": "source/_posts",
@@ -32,6 +33,7 @@ for 仓库地址 in 仓库表 {
               文件个数 += 1
               简报 = 提取简报(文件路径)
               简报['文件名'] = 文件
+              简报['路径'] = 文件路径
               所有简报.append(简报)
             }
         }
@@ -55,7 +57,17 @@ for 仓库地址 in 仓库表 {
           题目 = 文件名提取题目(简报['文件名'])
         }
 
+        题目 = 剔除引号(题目)
         所有博文.append(tuple(目标目录, 时间戳, 题目))
+
+        // 将所有 md 文件转为 html，置于一个目录中，同时生成一个索引页，今后可作排序、搜索功能
+
+        子目录 = os.path.join("html", 目标目录)
+        if !os.path.exists(子目录) {
+          os.mkdir(子目录)
+        }
+        // println(简报['路径'])
+        生成网页(简报['路径'], os.path.join(子目录, 题目.replace("/", "_") + ".html"))
     }
 
     println("`目标目录` 无 md 文件！") if 文件个数 == 0

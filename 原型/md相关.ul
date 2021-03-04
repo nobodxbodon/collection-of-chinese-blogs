@@ -33,6 +33,13 @@ func 文件名提取题目(文件名) {
   return 分段 ? 分段.group(2) : ""
 }
 
+func 剔除引号(文本) {
+  分段 = re.search("\"(.*)\"", 文本)
+  return 分段.group(1) if 分段
+  分段 = re.search("'(.*)'", 文本)
+  return 分段 ? 分段.group(1) : 文本
+}
+
 /*
 文件名 = "原型/测试/test1.md"
 print(提取简报(文件名))
