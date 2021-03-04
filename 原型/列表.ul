@@ -1,5 +1,6 @@
 using os
 using csv
+using Template in jinja2
 using * in 原型.md相关
 using * in 原型.网页相关
 
@@ -19,6 +20,7 @@ try 仓库数据=open("原型/仓库列表.csv") {
 路径 = "/Users/xuanwu/git/聚聚/博客聚合/"
 
 所有博文 = []
+完整简报 = []
 for 仓库地址 in 仓库表 {
     目标目录 = 仓库表[仓库地址]
     格式 = 格式表[仓库地址]
@@ -50,7 +52,7 @@ for 仓库地址 in 仓库表 {
         } else {
           时间戳 = 文件名提取时间戳(简报['文件名'])
         }
-
+        简报['时间'] = 时间戳
         if 简报.__contains__('title') {
           题目 = 简报['title']
         } else {
@@ -58,18 +60,23 @@ for 仓库地址 in 仓库表 {
         }
 
         题目 = 剔除引号(题目)
+        简报['题目'] = 题目
         所有博文.append(tuple(目标目录, 时间戳, 题目))
 
-        // 将所有 md 文件转为 html，置于一个目录中，同时生成一个索引页，今后可作排序、搜索功能
-
+        // 将所有 md 文件转为 html，置于一个目录中
+        // TODO: 避免重新转换同样内容的 md
         子目录 = os.path.join("html", 目标目录)
         if !os.path.exists(子目录) {
           os.mkdir(子目录)
         }
         // println(简报['路径'])
-        生成网页(简报['路径'], os.path.join(子目录, 题目.replace("/", "_") + ".html"))
+        网页文件 = 题目.replace("/", "_") + ".html"
+        网页路径 = os.path.join(子目录, 网页文件)
+        简报['网页'] = os.path.join(目标目录, 网页文件)
+        //生成网页(简报['路径'], 网页路径)
     }
 
+    完整简报 += 所有简报
     println("`目标目录` 无 md 文件！") if 文件个数 == 0
 }
 
@@ -78,4 +85,17 @@ try 博文单=open("原型/博文目录.csv", "w", newline='') {
     for 行 in 所有博文 {
         写入.writerow(行)
     }
+}
+
+// 生成一个索引页，今后可作排序、搜索功能
+所有链接 = []
+完整简报.sort(key=x -> x['时间'], reverse=true)
+for 简报 in 完整简报 {
+  所有链接.append({'题目': 简报['时间'] + ' ' + 简报['题目'], '链接': 简报['网页']})
+}
+try 模板文件=open('原型/索引模板.html') {
+  模板 = Template(模板文件.read())
+}
+try 索引=open('html/索引.html', 'w') {
+  索引.write(模板.render({'所有博文': 所有链接}))
 }

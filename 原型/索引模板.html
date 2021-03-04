@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>目录</title>
+</head>
+<body>
+    <ol>
+        {% for 博文 in 所有博文 %}
+        <li><a href={{博文.链接}}>{{博文.题目}}</a></li>
+        {% endfor %}
+    </ol>
+</body>
+</html>
