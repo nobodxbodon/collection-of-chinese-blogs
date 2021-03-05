@@ -1,21 +1,6 @@
 using os
-using csv
 using * in 原型.md相关
-
-路径表 = {
-    "hexo": "source/_posts",
-    "gridsome": "content/posts",
-    "hugo": "content/posts",
-    "": "_posts"  // Jekyll 默认
-}
-
-仓库表 = {:}
-格式表 = {:}
-try 仓库数据=open("原型/仓库列表.csv") {
-    for 行 in csv.reader(仓库数据, delimiter=',') { 仓库表[行[0]] = 行[1]; 格式表[行[0]] = 行[2] }
-}
-
-路径 = "/Users/xuanwu/git/聚聚/博客聚合/"
+using * in 原型.通用
 
 func 取所占空间(目录) {
     空间 = 0
@@ -85,9 +70,4 @@ for 仓库地址 in 仓库表 {
     println("`目标目录` 无 md 文件！") if 文件个数 == 0
 }
 
-try 统计文件=open("原型/统计数据.csv", "w", newline='') {
-    写入 = csv.writer(统计文件)
-    for 行 in 统计数据 {
-        写入.writerow(行)
-    }
-}
+写入csv文件("原型/统计数据.csv", 统计数据)

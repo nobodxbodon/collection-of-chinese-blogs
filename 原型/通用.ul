@@ -1,0 +1,25 @@
+using csv
+
+路径  = "/Users/xuanwu/git/聚聚/博客聚合/"
+
+路径表 = {
+    "hexo": "source/_posts",
+    "gridsome": "content/posts",
+    "hugo": "content/posts",
+    "": "_posts"  // Jekyll 默认
+}
+
+仓库表 = {:}
+格式表 = {:}
+try 仓库数据=open("原型/仓库列表.csv") {
+    for 行 in csv.reader(仓库数据, delimiter=',') { 仓库表[行[0]] = 行[1]; 格式表[行[0]] = 行[2] }
+}
+
+func 写入csv文件(文件名, 内容) {
+  try 文件=open(文件名, "w", newline='') {
+    写入 = csv.writer(文件)
+    for 行 in 内容 {
+        写入.writerow(行)
+    }
+  }
+}

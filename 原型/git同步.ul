@@ -1,13 +1,6 @@
 using os
-using csv
 using * in 原型.git功用
-
-仓库表 = {:}
-try 仓库数据=open("原型/仓库列表.csv") {
-    for 行 in csv.reader(仓库数据, delimiter=',') { 仓库表[行[0]] = 行[1] }
-}
-
-路径  = "/Users/xuanwu/git/聚聚/博客聚合/"
+using * in 原型.通用
 
 无法合并 = "fatal: refusing to merge unrelated histories\n"
 无新内容 = "Already up-to-date.\n"

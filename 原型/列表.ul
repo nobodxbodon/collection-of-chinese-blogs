@@ -1,24 +1,9 @@
 using os
-using csv
 using Template in jinja2
 using urllib.parse
 using * in 原型.md相关
 using * in 原型.网页相关
-
-路径表 = {
-    "hexo": "source/_posts",
-    "gridsome": "content/posts",
-    "hugo": "content/posts",
-    "": "_posts"  // Jekyll 默认
-}
-
-仓库表 = {:}
-格式表 = {:}
-try 仓库数据=open("原型/仓库列表.csv") {
-    for 行 in csv.reader(仓库数据, delimiter=',') { 仓库表[行[0]] = 行[1]; 格式表[行[0]] = 行[2] }
-}
-
-路径 = "/Users/xuanwu/git/聚聚/博客聚合/"
+using * in 原型.通用
 
 所有博文 = []
 完整简报 = []
@@ -81,12 +66,7 @@ for 仓库地址 in 仓库表 {
     println("`目标目录` 无 md 文件！") if 文件个数 == 0
 }
 
-try 博文单=open("原型/博文目录.csv", "w", newline='') {
-    写入 = csv.writer(博文单)
-    for 行 in 所有博文 {
-        写入.writerow(行)
-    }
-}
+写入csv文件("原型/博文目录.csv", 所有博文)
 
 // 生成一个索引页，今后可作排序、搜索功能
 所有链接 = []
