@@ -5,7 +5,7 @@ using * in 原型.md相关
 using * in 原型.网页相关
 using * in 原型.通用
 
-重新生成 = true
+重新生成 = false
 
 所有博文 = []
 完整简报 = []
