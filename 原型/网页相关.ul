@@ -1,9 +1,12 @@
 using mistune
+using BeautifulSoup in bs4
+
+using * in 原型.通用
 
 // TODO:
 // - 避免重名
 // - 删除头部 --- 部分, 添加题目/在线博客等信息
-func 生成网页(md文件, 网页路径) {
+func 生成网页(md文件, 网页路径, 博客子目录) {
   try 文件=open(md文件) {
       原内容=文件.read()
   }
@@ -11,6 +14,23 @@ func 生成网页(md文件, 网页路径) {
   // 如果表格内容行开头无 | 则不渲染为表格
   网页 = mistune.markdown(原内容)
   try 文件=open(网页路径, 'w') {
-      文件.write(网页)
+      文件.write(补全资源路径(网页, 博客子目录))
   }
+}
+
+/* 搜索图片链接, 如果链接不为 url, 则前缀 根目录+博客子目录, TODO: 检查文件是否存在
+ /assets/in-post/2017-05-03-Three-js-Introduction-Study-Note-1.png  =>
+ /Users/xuanwu/git/聚聚/博客聚合/hijiangtao.github.io/assets/in-post/2017-05-03-Three-js-Introduction-Study-Note-4.jpg
+*/
+func 补全资源路径(原网页内容, 博客子目录) {
+  页面 = BeautifulSoup(原网页内容, 'html.parser')
+
+  所有图片 = 页面.find_all('img')
+
+  for 图片 in 所有图片 {
+    if !图片['src'].startswith('http') {
+      图片['src'] = 路径 + 博客子目录 + 图片['src']
+    }
+  }
+  return str(页面)
 }
