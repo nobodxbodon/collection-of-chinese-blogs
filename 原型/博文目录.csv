@@ -1362,3 +1362,283 @@ shrekshao.github.io,2017-05-09,TinySearchEngine
 shrekshao.github.io,2015-12-07,Unified Particle Simulation in CUDA
 shrekshao.github.io,2016-09-11,glTF Emoji/Meme Render Plugin
 shrekshao.github.io,2016-11-02,WebGL Tiled Forward Plus Renderer
+alxddh.github.io,2019-10-09 16:59:33 +0800,基于贝叶斯平均对豆瓣图书的搜索结果进行排序
+alxddh.github.io,2019-11-15 17:32:09 +0800,UGF 源码阅读笔记：（1）安装
+alxddh.github.io,2019-11-12 17:31:47 +0800,How to Implement a Tag Archive Page in Jekyll
+objcoding.github.io,2019-06-21,日期用这种方式来存储可能更加优雅
+objcoding.github.io,2017-12-27,Go函数作为值与类型
+objcoding.github.io,2017-05-27,Shiro身份认证与授权
+objcoding.github.io,2019-03-17,mybatis-plus源码分析之sql注入器
+objcoding.github.io,2020-07-05,Kafka 消费线程模型在中通消息服务运维平台的应用
+objcoding.github.io,2019-01-18,搭建RocketMQ集群
+objcoding.github.io,2019-09-21,RocketMQ主从同步源码分析
+objcoding.github.io,2017-06-08,使用Apache的Fileupload工具实现文件上传
+objcoding.github.io,2018-09-13,Go Modules详解
+objcoding.github.io,2018-06-12,Mybatis-spring源码分析之注册Mapper Bean
+objcoding.github.io,2017-07-01,分析new和反射机制创建对象的区别
+objcoding.github.io,2020-12-29,Kafka 消息存储设计
+objcoding.github.io,2017-06-07,Workbook导出Excel文件的思路
+objcoding.github.io,2021-01-17,Apache Calcite 框架 50 倍性能优化实践
+objcoding.github.io,2018-03-15,Docker实战（四）
+objcoding.github.io,2020-07-13,Seata RPC 模块的重构之路
+objcoding.github.io,2017-06-15,SpringMVC处理请求过程
+objcoding.github.io,2019-01-23,使用Docker搭建ELK日志系统
+objcoding.github.io,2020-09-12,Kafka Producer 异步发送消息居然也会阻塞？
+objcoding.github.io,2020-09-07,有一次小明传数据给我，把我弄哭了
+objcoding.github.io,2017-06-14,SpringMVC初始化过程
+objcoding.github.io,2018-04-09,Payoneer 支付流程
+objcoding.github.io,2017-09-05,解决fastJson循环引用的问题
+objcoding.github.io,2017-07-04,浅谈多线程中的synchronized和volatile关键字
+objcoding.github.io,2020-01-15,彻底解决 GitHub 拉取代码网速慢的问题
+objcoding.github.io,2017-12-18,Go的环境配置与应用编译
+objcoding.github.io,2019-03-31,深度解析RocketMQ Topic的创建机制
+objcoding.github.io,2020-09-06,图解 DataX 核心设计原理
+objcoding.github.io,2019-09-28,Kafka重平衡机制
+objcoding.github.io,2018-09-28,令人惊叹的ZGC
+objcoding.github.io,2020-12-15,"Mybatis+Spring整合,没有考虑Interceptor线程安全,却只在debug时诱发bug"
+objcoding.github.io,2019-09-23,RocketMQ主从如何同步消息消费进度？
+objcoding.github.io,2019-05-05,Java并发之AQS源码分析（一）
+objcoding.github.io,2020-04-22,保证严格的消息顺序消费究竟有多难？
+objcoding.github.io,2019-12-12,Seata 配置中心实现原理
+objcoding.github.io,2017-05-10,SpringCloud微服务架构之服务消费者
+objcoding.github.io,2019-03-14,创建Docker Swarm集群步骤
+objcoding.github.io,2018-01-15,「红包」的设计与实现
+objcoding.github.io,2018-02-07,Java 后端自学之路
+objcoding.github.io,2018-12-07,老哥，我这里有两本内功修炼宝典，你需要吗？
+objcoding.github.io,2019-01-17,搭建Redis主从+哨兵模式
+objcoding.github.io,2017-05-23,SpringCloud微服务架构之feign客户端
+objcoding.github.io,2020-12-13,使用 Hexo + Gitee 快速搭建属于自己的博客
+objcoding.github.io,2017-10-31,最全的SSH连接远程终端教程
+objcoding.github.io,2019-12-15,Seata 动态配置订阅与降级实现原理
+objcoding.github.io,2020-08-26,使用 K8s 进行作业调度实战分享
+objcoding.github.io,2018-11-29,Java并发之CAS原理分析
+objcoding.github.io,2019-04-06,RocketMQ消息发送的高可用设计
+objcoding.github.io,2021-01-09,Kafka 消息格式的演进
+objcoding.github.io,2018-10-10,腾讯云重启后登录不了解决办法
+objcoding.github.io,2017-05-20,SpringCloud微服务架构之服务网关
+objcoding.github.io,2017-05-15,SpringCloud微服务架构之断路器
+objcoding.github.io,2019-04-25,从源码的角度解析线程池运行原理
+objcoding.github.io,2020-04-26,Kafka/RocketMQ 多线程消费时如何保证消费顺序？
+objcoding.github.io,2019-03-20,从源码的角度解析Mybatis的会话机制
+objcoding.github.io,2017-08-25,Spring面向切面编程
+objcoding.github.io,2017-09-11,用Redis实现一个简易的MQ
+objcoding.github.io,2018-08-23,验证Docker Swarm集群的负载均衡
+objcoding.github.io,2020-02-28,回来了
+objcoding.github.io,2017-12-01,Docker实战（一）
+objcoding.github.io,2019-09-14,沪漂
+objcoding.github.io,2020-08-24,图解 K8s 核心概念和术语
+objcoding.github.io,2018-08-19,Docker网络模型
+objcoding.github.io,2017-07-12,Java8新特性之Lambda表达式
+objcoding.github.io,2019-05-30,聊聊Tomcat的架构设计
+objcoding.github.io,2017-12-07,Docker实战（二）
+objcoding.github.io,2017-07-18,JavaScript原型链
+objcoding.github.io,2019-05-08,Java并发之AQS源码分析（二）
+objcoding.github.io,2018-08-12,Docker实战之搭建Swarm集群
+objcoding.github.io,2020-08-16,探讨缓存行与伪共享
+objcoding.github.io,2018-06-01,Mybatis源码分析之Mapper注册与绑定
+objcoding.github.io,2019-09-24,Kafka消息体大小设置的一些细节
+objcoding.github.io,2019-10-31,图解 Kafka 水印备份机制
+objcoding.github.io,2018-02-02,实战|如何自定义SpringBoot Starter？
+objcoding.github.io,2019-01-31,Docker容器的日志处理
+objcoding.github.io,2020-03-15,Kafka 常用运维脚本
+objcoding.github.io,2017-07-03,JDBC获取连接对象源码分析
+objcoding.github.io,2019-01-22,RocketMQ的消费模式
+objcoding.github.io,2019-03-04,关于Java Lambda表达式看这一篇就够了
+objcoding.github.io,2020-09-13,深度剖析 Kafka Producer 的缓冲池机制【图解 + 源码分析】
+objcoding.github.io,2017-06-19,ApplicationContextAware的作用
+objcoding.github.io,2019-10-26,记一次Kafka集群线上扩容
+objcoding.github.io,2019-04-02,关于RocketMQ Topic的创建机制，我还有一些细节上的思考
+objcoding.github.io,2017-11-28,使用Gitalk搭建博客评论模块
+objcoding.github.io,2018-10-20,SpringBoot整合RabbitMQ
+objcoding.github.io,2019-09-13,Kafka分区副本与RocketMQ队列的区别
+objcoding.github.io,2019-04-11,你都理解创建线程池的参数吗？
+objcoding.github.io,2020-03-16,当 Kafka 分区不可用且 leader 副本被损坏时，如何尽量减少数据的丢失？
+objcoding.github.io,2017-07-10,字符串创建与存储机制
+objcoding.github.io,2019-02-16,基于Jenkins Pipeline自动化部署
+objcoding.github.io,2020-12-16,使用 PicGo + Gitee 搭建免费图床
+objcoding.github.io,2019-10-11,关于RocketMQ消息消费与重平衡的一些问题
+objcoding.github.io,2018-09-03,Docker Stack多服务编排
+objcoding.github.io,2018-03-22,阿里社招电话一面总结
+objcoding.github.io,2017-05-03,SpringBoot构建web项目
+objcoding.github.io,2019-09-20,Kafka发送消息时提示请求数据过大是怎么回事？
+objcoding.github.io,2020-01-05,一次 kafka 消息堆积问题排查
+objcoding.github.io,2018-10-19,RabbitMQ集群原理与部署
+objcoding.github.io,2019-10-28,Kafka 分区重分配源码分析
+objcoding.github.io,2017-06-03,AngularJS的基本用法
+objcoding.github.io,2017-08-16,Java动态代理原理分析
+objcoding.github.io,2021-01-27,日均千亿消息量的 Kafka 集群频繁发生 ISR 变化，原因竟是...
+objcoding.github.io,2017-09-20,用Redis实现积分排行榜
+objcoding.github.io,2020-11-19,中通消息平台 Kafka 顺序消费线程模型的实践与优化
+objcoding.github.io,2020-03-12,记一次 Kafka 重启失败问题排查
+objcoding.github.io,2019-11-18,关于 Kafka 的一些面试题目
+objcoding.github.io,2018-01-30,SpringBoot自动化配置源码分析
+objcoding.github.io,2019-04-14,关于线程池你不得不知道的一些设置
+objcoding.github.io,2017-07-21,Maven打包依赖项目到本地库
+objcoding.github.io,2019-03-11,RocketMQ源码分析之路由中心
+objcoding.github.io,2018-09-14,go test单元测试
+objcoding.github.io,2020-05-01,深度剖析 Kafka/RocketMQ 顺序消息的一些坑
+objcoding.github.io,2017-06-26,使用Collection的Stream拼装数据
+objcoding.github.io,2017-06-12,Tomcat结构及处理请求过程
+objcoding.github.io,2017-05-30,Shiro密码加密与校验
+objcoding.github.io,2019-11-03,RocketMQ 同步复制 SLAVE_NOT_AVAILABLE 异常源码分析
+objcoding.github.io,2019-11-12,你就是我要找的人
+objcoding.github.io,2019-11-28,Seata 客户端需要同时启动 RM 和 TM 吗？
+objcoding.github.io,2019-09-18,RocketMQ Broker启动流程梳理
+objcoding.github.io,2018-05-25,微信H5支付遇到的坑
+objcoding.github.io,2018-01-22,Go的new和make
+objcoding.github.io,2020-07-01,记一次关于位移提交的问题回答
+objcoding.github.io,2019-10-10,一个小小的里程碑
+objcoding.github.io,2017-07-07,多线程在项目中的运用
+objcoding.github.io,2019-07-11,分布式事务中间件Seata的设计原理
+objcoding.github.io,2019-02-21,Docker Overlay网络的一些总结
+objcoding.github.io,2019-06-04,我对支付平台架构设计的一些思考
+objcoding.github.io,2018-02-06,Docker实战（三）
+objcoding.github.io,2021-01-19,花了一年多的时间，写了 30 篇关于 Kafka 的文章
+objcoding.github.io,2019-05-16,由for update引发的血案
+objcoding.github.io,2017-12-14,Eureka的高可用与用户验证
+objcoding.github.io,2020-09-19,Kafka 独立消费者
+objcoding.github.io,2017-05-07,SpringCloud微服务架构之服务注册与发现
+objcoding.github.io,2020-03-14,从源码和日志文件结构中分析 Kafka 重启失败事件
+objcoding.github.io,2019-01-20,Dubbo服务暴露之注册地址和端口
+objcoding.github.io,2019-11-05,Kafka ISR 副本同步机制
+objcoding.github.io,2020-05-30,Spring 异步实现原理与实战分享
+objcoding.github.io,2019-11-04,RocketMQ 位移提交源码分析
+objcoding.github.io,2017-08-12,Git的一些常用命令
+objcoding.github.io,2020-03-25,在使用 SpringMVC 时，Spring 容器是如何与 Servlet 容器进行交互的？
+objcoding.github.io,2017-05-01,"hello, blog"
+objcoding.github.io,2019-07-27,RocketMQ为什么要保证订阅关系的一致性？
+objcoding.github.io,2019-11-27,Seata AT 模式启动源码分析
+objcoding.github.io,2019-01-24,Dubbo全链路追踪日志的实现
+objcoding.github.io,2019-03-15,Docker Swarm 集群部署笔记
+objcoding.github.io,2018-10-16,RabbitMQ的一些基本概念
+objcoding.github.io,2020-09-18,记一次 Kafka Producer 性能调优实战
+objcoding.github.io,2020-04-23,盘点 Kafka 不能保证严格消费顺序的各种情况
+objcoding.github.io,2019-11-10,Kafka 删除主题流程分析
+objcoding.github.io,2020-05-18,彻底搞懂 Kafka 消息大小相关参数设置的规则
+objcoding.github.io,2018-01-27,对用户输入的url进行包装处理
+objcoding.github.io,2018-07-18,用GitHub搭建个人Maven仓库
+objcoding.github.io,2020-08-25,我的6封情书通过中通快递送达给你
+objcoding.github.io,2021-03-03,中通消息平台集群突破百万主题的技术探索
+objcoding.github.io,2019-09-22,RocketMQ主从读写分离机制
+objcoding.github.io,2020-04-08,我参与 Seata 开源项目的一些感悟
+lineuman_blog,2017-11-04,download-video-from-youtube
+lineuman_blog,2017-06-23,c-programming
+lineuman_blog,2017-06-26,django-session
+lineuman_blog,2017-09-29,code-injection
+lineuman_blog,2017-09-07,slowhttptest
+lineuman_blog,2017-06-19 20:55:16 +0800,blog-migrating
+lineuman_blog,2017-06-11 19:44:00 +0800,Django Basic
+lineuman_blog,2017-05-23 22:37:00 +0800,python-encode-decode
+lineuman_blog,2016-12-23 22:51:00 +0800,sphinx帮助我通过rst生成静态html
+lineuman_blog,2017-09-03,tcp-ip-protocol
+lineuman_blog,2017-08-01,django-mariadb
+lineuman_blog,2018-03-13,别做拒绝成长的苹果树
+lineuman_blog,2017-08-22,django-paginator
+lineuman_blog,2018-01-09,代码覆盖率
+lineuman_blog,2017-11-20,testcase-report
+lineuman_blog,2017-07-21,ansible
+lineuman_blog,2017-07-25,expect-usage
+lineuman_blog,2017-09-08,snmp
+lineuman_blog,2017-06-15 22:25:16 +0800,ruby-first-meet
+lineuman_blog,2018-04-18,如何去消耗服务端资源
+lineuman_blog,2017-09-01,ntp
+lineuman_blog,2018-02-1,zookeeper
+lineuman_blog,2017-06-11 19:33:00 +0800,Django-modules
+lineuman_blog,2017-08-01,nginx
+lineuman_blog,2017-08-10,django-forms
+lineuman_blog,2017-08-02,tornado-python
+lineuman_blog,2017-08-11,c-tools
+lineuman_blog,2015-06-15 19:25:00 +0800,repeat-practice
+lineuman_blog,2017-06-28,django-rest-framework
+lineuman_blog,2017-07-03,python-operate-excel
+lineuman_blog,2017-08-23,vim-config-for-python
+lineuman_blog,2017-05-26 23:04:00 +0800,python-string
+lineuman_blog,2017-06-30,java-first-meet
+lineuman_blog,2017-09-04,jQuery
+lineuman_blog,2018-01-08,testng-java
+lineuman_blog,2017-06-20,react-learning
+lineuman_blog,2018-01-03,mysql-tips
+lineuman_blog,2017-10-06,web-security
+lineuman_blog,2017-07-21,mariadb-basic
+lineuman_blog,2017-06-10 22:03:00 +0800,会话，授权，认证概念解析
+lineuman_blog,2017-11-04,java-first-meet
+lineuman_blog,2017-09-30,sql-injection
+lineuman_blog,2017-09-03,socket
+lineuman_blog,2017-11-23,jQuery注入到任意网页中
+lineuman_blog,2018-01-13,git多远端
+lineuman_blog,2016-05-23 22:29:00,django-first-meet
+lineuman_blog,2017-07-18,vb-excel
+lineuman_blog,2017-07-25,disk-storage
+lineuman_blog,2017-08-16,apache
+lineuman_blog,2020-04-18,怎么去下载视频
+lineuman_blog,2018-03-14,GUI测试之图片识别
+lineuman_blog,2017-06-10 22:42:00 +0800,Django里面的python module学习
+lineuman_blog,2017-02-24 22:18:00 +0800,ovs-openstack
+lineuman_blog,2017-10-08,bootstrap-jquery
+lineuman_blog,2015-09-07 23:14:00 +0800,object-oriented-first-meet
+lineuman_blog,2017-08-31,user-agent
+lineuman_blog,2017-08-15,tcpdump-nmap-nping-usage
+lineuman_blog,2017-06-06 20:15:00 +0800,redis-first-meet
+lineuman_blog,2016-07-06 20:18:00 +0800,linux-systemd-and-service-runlevel
+lineuman_blog,2017-09-24,url-quote-unquote
+lineuman_blog,2017-07-24,python-apscheduler
+lineuman_blog,2016-07-07 22:40:00 +0800,python-tips
+lineuman_blog,2017-08-16,kernel-parameters-and-sysctl
+lineuman_blog,2017-03-01 21:54:00 +0800,CSS样式层叠表
+lineuman_blog,2018-03-02,spring-boot-test
+lineuman_blog,2015-09-07 23:14:00 +0800,keeping-blog
+lineuman_blog,2017-07-28,linux-crontab
+lineuman_blog,2017-09-11,python-select
+lineuman_blog,2017-08-31,dns-server-config
+lineuman_blog,2017-07-28,go-lang
+lineuman_blog,2018-04-18,长度与宽度
+lineuman_blog,2017-07-07,python-scapy
+lineuman_blog,2018-01-06,python3-install-django
+lineuman_blog,2017-06-26,bash程序污点数据分析
+lineuman_blog,2016-07-25 22:37:00 +0800,software-testing-thought
+lineuman_blog,2017-03-01 21:54:00 +0800,ddos-attack
+lineuman_blog,2016-07-06 22:40:00 +0800,linux系统用户登陆时脚本执行顺序
+lineuman_blog,2016-05-13 21:10:00 +0800,excel-basic-usage
+lineuman_blog,2015-08-15 15:14:00 +0800,regular-regex
+lineuman_blog,2018-01-17,mysql表名字段名称设计
+lineuman_blog,2017-06-21 22:32:00 -0700,Style Guide for Python Code
+lineuman_blog,2015-07-04 22:35:00 +0800,thanks-people-trust-you
+lineuman_blog,2017-08-16,xml-parse
+lineuman_blog,2017-12-31,我的博客是否使用oss存储
+lineuman_blog,2017-08-09,django-template-language
+lineuman_blog,2017-04-05 21:28:00 +0800,script-and-scriptreplay
+lineuman_blog,2017-12-22,我的想法
+lineuman_blog,2017-06-15 10:25:16 +0800,python-metaclass
+lineuman_blog,2017-08-31,python-select
+lineuman_blog,2017-10-05,php-first-meet
+lineuman_blog,2017-06-14 23:25:16 +0800,jekyll-blog
+lineuman_blog,2017-08-28,samba
+lineuman_blog,2017-03-26 20:42:00 +0800,bootstrap-first-setps
+lineuman_blog,2017-12-31,记录一种快速生成html代码的方法
+lineuman_blog,2017-08-01,uwsgi
+lineuman_blog,2017-07-07,javascript-tutorial
+lineuman_blog,2017-08-09,jenkins
+lineuman_blog,2017-09-23,python-library
+lineuman_blog,2017-08-21,docker-basic
+lineuman_blog,2017-10-16,powershell
+lineuman_blog,2017-11-29,java-maven问题记录
+lineuman_blog,2018-01-17,fetch
+lineuman_blog,2018-01-18,前端tips
+lineuman_blog,2018-03-30,依赖于第三方服务的场景要怎么测试
+lineuman_blog,2017-09-02,npm
+ngzhio.github.io,2020-07-15 02:16:03 +0800,2020 年 7 月 12 日清远一日游
+ngzhio.github.io,2020-07-30 22:39:17 +0800,自建博客就是最强大的笔记工具
+ngzhio.github.io,2020-05-31 05:22:19 +0800,结束五年的程序员生涯
+ngzhio.github.io,2020-06-13 21:44:51 +0800,拳击力量与爆发力训练
+ngzhio.github.io,2020-09-03 01:01:04 +0800,解决中国境内在某些网络环境下无法访问 github.io 的问题
+ngzhio.github.io,2020-05-24 03:01:06 +0800,开始五年的程序员生涯
+ngzhio.github.io,2020-07-01 20:35:05 +0800,Releasing Hamilton 1.4.0
+ngzhio.github.io,2020-04-11 22:49:20 +0800,贝叶斯平均及其应用于豆瓣图书的排序
+ngzhio.github.io,2020-08-27 16:16:39 +0800,David A. Black 小传
+ngzhio.github.io,2020-07-25 00:03:11 +0800,程序员是如何解决性生活的
+yk-liu.github.io,2018-12-12,Sample Post - Markdown Syntax
+yk-liu.github.io,2018-12-01,Build Your Blog with GitHub Pages
+Liu0330.github.io,2019-04-10,Django-安装xadmin的方法及主要配置方法
+Liu0330.github.io,2019-04-10,Django-安装xadmin的方法及主要配置方法
+Liu0330.github.io,2019-04-10,Django-安装xadmin的方法及主要配置方法
+Liu0330.github.io,2019-04-09,ＨＥＬＬＯ　ＷＯＲＬＤ！Blog-01.
