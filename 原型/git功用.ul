@@ -11,7 +11,7 @@ func 运行(命令) {
       错误 = 进程.stderr.decode('utf-8')
       return { "输出": 输出, "错误": 错误 }
     } catch e : UnicodeDecodeError {
-      println(e)
+      return { "输出": "", "错误": e }
     }
 }
 
