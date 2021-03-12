@@ -1,0 +1,64 @@
+
+using csv, re
+
+using * in 原型.git功用
+using * in 原型.通用
+
+func 获取CNAME(域名) {
+  返回 = 运行("dig `域名` +nostats +nocomments +nocmd")
+  println("出错: " + 返回["错误"]) if 返回["错误"]
+  输出 = 返回["输出"]
+
+  表 = []
+  for 行 in 输出.split("\n") {
+    各段 = 行.split("\t")
+    if len(各段) >= 5 and 各段[-2] == 'CNAME' {
+      表.append(tuple(各段[0], 各段[-1]))
+    }
+  }
+  return 表
+}
+
+func 获取域名(网址) {
+  匹配 = re.search("http(s)?://([-\w\.]+)(/[-\w\.]+)*", 网址)
+  return 匹配 ? 匹配.group(2) : ''
+}
+
+func 读取博客域名(文件名) {
+  所有域名 = []
+  try csvfile=open(文件名, newline='') {
+    各行 = csv.reader(csvfile, delimiter=',', quotechar='|')
+    for 行 in 各行 { 所有域名.append(获取域名(行[1].strip())) }
+  }
+  return 所有域名
+}
+
+func 获取cname表(所有域名) {
+  cname表 = [] 
+  for 域名 in 所有域名 {
+    if 域名 {
+      cname = 获取CNAME(域名)
+      if len(cname)>0 {
+        println(cname)
+        cname表 += cname
+      }
+    }
+  }
+  return cname表
+}
+
+func 除去引号(网址) {
+  匹配 = re.search("[\"']([-\w\.]+)[\"']", 网址)
+  return 匹配 ? 匹配.group(1) : 网址
+}
+
+func 读取1700博客域名(文件名) {
+  所有域名 = []
+  try csvfile=open(文件名, newline='') {
+    各行 = csv.reader(csvfile, delimiter=',', quotechar='|')
+    for 行 in 各行 { 所有域名.append(除去引号(行[0].strip())) }
+  }
+}
+
+写入csv文件("临时/cname表/个人博客20.csv", 获取cname表(读取博客域名('临时/blogs-original20.csv')))
+写入csv文件("临时/cname表/1700.csv", 获取cname表(读取1700博客域名('临时/1700博客地址.csv')))
