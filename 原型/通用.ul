@@ -3,6 +3,9 @@ using csv
 路径  = "/Users/xuanwu/git/聚聚/博客聚合/"
 
 路径表 = {
+    // 特殊
+    "barretlee": "blog/src/_posts",
+    // 下面为通用格式
     "hexo": "source/_posts",
     "gridsome": "content/posts",
     "hugo": "content/posts",
