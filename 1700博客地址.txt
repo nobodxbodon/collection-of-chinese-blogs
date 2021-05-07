@@ -1548,7 +1548,7 @@ $links = array(
 "blog.zeekling.cn",
 "blog.zeruns.tech",
 "jeffdingzone.com",
-"无rekols.github.io",
+"rekols.github.io",
 "wangshuashua.com",
 "aiweikai.com",
 "aloneblog.me",

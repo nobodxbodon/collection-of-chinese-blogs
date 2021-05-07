@@ -549,8 +549,10 @@ mabbs.github.io,2020-08-21,假期总结第二弹
 mabbs.github.io,2020-02-18,Mayx的浏览器使用史
 mabbs.github.io,2019-04-05,Mayx又双叒叕Crash了……
 mabbs.github.io,2021-02-23,快速自制微信图片机器人
+mabbs.github.io,2021-04-09,自制微信二维码登录API
 mabbs.github.io,2019-11-21,Web Crypto Api学习笔记
 mabbs.github.io,2021-02-09,Mayx的产品测评（二）
+mabbs.github.io,2021-04-05,Mayx的产品测评（三）
 mabbs.github.io,2018-12-02,对网络免费资源的感想
 mabbs.github.io,2019-03-22,分享一下我最喜欢的游戏BGM
 mabbs.github.io,2019-02-17,关于网络攻防的一些看法
@@ -598,6 +600,7 @@ mabbs.github.io,2020-08-28,网站被Ban怎么办？
 mabbs.github.io,2020-05-20,Re:加装内存
 mabbs.github.io,2018-12-22,论Mayx是怎么被抓的
 mabbs.github.io,2019-12-31,年终总结
+mabbs.github.io,2021-04-18,Mayx的运维笔记 - 隐藏自己
 mabbs.github.io,2019-08-24,假期总结
 mabbs.github.io,2020-02-02,过去与未来的科技变化
 mabbs.github.io,2019-06-22,如何自己写一个博客计数器
@@ -694,6 +697,7 @@ luyuhuang.github.io,2020-02-09,Promise 和 Deferred
 luyuhuang.github.io,2019-10-07,解数独算法
 luyuhuang.github.io,2020-07-16,搞清楚令人头疼的乱码问题
 luyuhuang.github.io,2019-09-17,牛顿迭代法求平方根
+luyuhuang.github.io,2021-05-02,ZooKeeper 入门教程
 luyuhuang.github.io,2018-02-09,"从分治策略到动态规划,再到贪心算法"
 luyuhuang.github.io,2020-03-20,为什么说 Lua 5.3 中没有全局变量了
 luyuhuang.github.io,2020-08-28,只出现一次的数字
@@ -716,6 +720,7 @@ luyuhuang.github.io,2019-11-04,关于容错和断言的一些思考
 luyuhuang.github.io,2021-01-01,2020 Annual Summary
 luyuhuang.github.io,2021-02-05,自动生成 Lua 热更新代码
 luyuhuang.github.io,2020-05-22,[翻译] Nginx 入门指南
+luyuhuang.github.io,2021-03-31,并不简单的二分查找
 luyuhuang.github.io,2021-01-24,Go 设置 socket 端口复用
 luyuhuang.github.io,2019-09-23,编辑距离
 luyuhuang.github.io,2019-11-28,[翻译] Jekyll 手把手教学
@@ -735,6 +740,7 @@ jasonkayzk.github.io,1996-07-27 08:00:00,算法:删除链表中重复的结点
 jasonkayzk.github.io,1996-07-27 08:00:00,算法:二叉搜索树的后序遍历序列
 jasonkayzk.github.io,2020-11-15 16:09:26,在Clion中执行单个Cpp文件
 jasonkayzk.github.io,2021-03-07 15:14:16,apt和apt-get的区别
+jasonkayzk.github.io,2021-03-28 15:44:31,【转】在AppStore下载美区APP
 jasonkayzk.github.io,2019-10-16 15:22:23,使用Docker部署你的JavaWeb项目
 jasonkayzk.github.io,2020-05-10 15:03:09,解决由于CRLF导致shell脚本无法运行
 jasonkayzk.github.io,2021-02-17 20:21:49,npm的instal命令总结
@@ -819,6 +825,7 @@ jasonkayzk.github.io,2019-09-17 19:30:22,Java Annotation总结
 jasonkayzk.github.io,2019-09-08 19:09:54,给女朋友写小工具的总结之-正则表达式
 jasonkayzk.github.io,2020-11-20 16:23:09,使用jsDelivr加速github资源
 jasonkayzk.github.io,1996-07-27 08:00:00,算法:数字在排序数组中出现的次数
+jasonkayzk.github.io,2021-04-21 15:40:13,使用Uber开源的goleak库进行goroutine泄露检测
 jasonkayzk.github.io,1996-07-27 00:00:04,算法:从尾到头打印链表
 jasonkayzk.github.io,1996-07-27 08:00:00,算法:字符串的排列
 jasonkayzk.github.io,2020-04-06 12:27:04,Linux软件安装
@@ -843,6 +850,7 @@ jasonkayzk.github.io,2019-12-04 09:51:57,MySQL存储过程
 jasonkayzk.github.io,2020-03-10 08:52:53,Java阻塞队列
 jasonkayzk.github.io,2021-03-10 18:48:29,购买了新的CVM
 jasonkayzk.github.io,2020-09-30 20:53:04,使用Go实现一个进度条并发下载器
+jasonkayzk.github.io,2021-04-17 17:33:26,Linux中的/dev/null
 jasonkayzk.github.io,2021-03-06 20:21:11,一个可以使用文本文字描绘流图的开源项目
 jasonkayzk.github.io,2020-02-25 16:38:54,Fibonacci序列生成算法的优化
 jasonkayzk.github.io,1996-07-27 08:00:00,算法:对称的二叉树
@@ -850,6 +858,7 @@ jasonkayzk.github.io,2020-09-12 19:14:14,【顶】ようこそ、見知らぬ旅
 jasonkayzk.github.io,1996-07-27 08:00:00,算法:复杂链表的复制
 jasonkayzk.github.io,2020-01-02 17:08:51,SpringBoot集成Swagger
 jasonkayzk.github.io,2020-11-22 14:37:12,在python中使用ssh隧道连接mysql
+jasonkayzk.github.io,2021-04-20 10:06:58,yield用法总结
 jasonkayzk.github.io,2019-09-10 16:49:37,Java并发总结-1
 jasonkayzk.github.io,2020-01-14 22:06:46,Spring中使用Value注解注入static属性的问题
 jasonkayzk.github.io,2020-04-21 10:09:45,在Docker中安装MongoDB并配置
@@ -932,6 +941,7 @@ jasonkayzk.github.io,1996-07-27 00:00:03,算法:替换空格
 jasonkayzk.github.io,2020-03-17 10:43:21,最近一些面试经历的总结
 jasonkayzk.github.io,2020-04-21 20:00:37,解决由于DNS污染导致的网站无法访问问题
 jasonkayzk.github.io,1996-07-27 08:00:00,算法:最小的K个数
+jasonkayzk.github.io,2021-04-19 09:20:22,进程间通信的几种方式总结
 jasonkayzk.github.io,2020-04-10 12:44:00,LVS中DR模型实战
 jasonkayzk.github.io,2020-02-27 10:28:22,分享一个反向代理的翻Q网站
 jasonkayzk.github.io,2020-02-24 15:38:47,几种常见排序方法的优化(上)
@@ -971,6 +981,7 @@ jasonkayzk.github.io,2020-06-25 20:47:19,golang并发素数筛-并发真的会�
 jasonkayzk.github.io,2020-09-29 23:50:12,Golang中的进度条使用
 jasonkayzk.github.io,2021-01-27 17:35:04,cmake生成动态链接库dll
 jasonkayzk.github.io,2020-05-02 17:43:02,解决Aria2的BT下载速度慢或没速度的问题
+jasonkayzk.github.io,2021-03-28 20:59:08,使用Go打包二进制React单页面应用
 jasonkayzk.github.io,2021-03-10 16:58:31,CentOS7安装MongoDB
 jasonkayzk.github.io,2019-09-12 16:15:45,几种常见的开源协议总结
 jasonkayzk.github.io,2019-09-04 21:42:35,Ubuntu下安装IDEA
@@ -1019,6 +1030,7 @@ jasonkayzk.github.io,2020-12-13 11:08:44,浅谈C++中的RAII
 jasonkayzk.github.io,2021-02-21 19:42:08,使用WifiAudio让Android机充当无线音箱
 jasonkayzk.github.io,2020-07-11 21:38:47,使用装饰器模式给你的异步回调设置超时重试
 jasonkayzk.github.io,1996-07-27 08:00:02,算法:重建二叉树
+jasonkayzk.github.io,2021-04-18 13:48:14,最近赶毕业论文的一些感受
 jasonkayzk.github.io,2019-12-24 22:37:24,Java面试题总结之一
 jasonkayzk.github.io,2020-01-17 22:30:29,[转]redis常用配置redis.conf说明
 jasonkayzk.github.io,2020-02-28 23:06:00,记一次面试前和阿里员工交流感悟
@@ -1091,6 +1103,7 @@ qingbob.com,2019-12-28,如果 Angular 组件无法更新，这篇文章能帮到
 qingbob.com,2015-12-31,2015年我写了一本书《高性能响应式Web开发实战》
 qingbob.com,2018-11-15,从美团这篇文章聊聊微前端的聚合问题
 qingbob.com,2018-02-22,JavaScript 奇怪事件簿
+qingbob.com,2021-04-14,性能指标的信仰危机
 qingbob.com,2012-02-17,【原创翻译】深入理解javascript事件处理函数绑定三部曲（一）——早期的事件处理函数
 qingbob.com,2013-12-20,关于博客搬迁至Jekyll的FAQ
 qingbob.com,2017-07-06,面试系列之三：你真的了解React吗（中）组件间的通信以及React优化
@@ -1203,6 +1216,7 @@ hijiangtao.github.io,2016-12-31,总有那么一刻让我回忆起，不说再见
 hijiangtao.github.io,2020-08-04,RxJS Subject 及其变体一探究竟
 hijiangtao.github.io,2014-03-23 23:00:00,Linux环境下RHadoop配置笔记
 hijiangtao.github.io,2014-05-10 15:00:00,Spark的单机部署与测试笔记
+hijiangtao.github.io,2021-04-13,Service Worker 实践指南
 hijiangtao.github.io,2016-04-01,时空数据可视分析与可视化读书笔记
 hijiangtao.github.io,2016-11-07,Visual Comparison of Customer Stickiness in Retail Stores
 hijiangtao.github.io,2014-08-29 20:00,"Dark-Tech, A New Hexo Theme"
@@ -1235,6 +1249,7 @@ hijiangtao.github.io,2017-05-07,"\[译\] JavaScript 中至关重要的 Apply, Ca
 hijiangtao.github.io,2018-01-08,聊聊 JavaScript 与浏览器的那些事 - 引擎与线程
 hijiangtao.github.io,2019-12-01,让我们来写个 webpack 插件
 hijiangtao.github.io,2017-06-19,React 与 Vue 的实践总结
+hijiangtao.github.io,2021-04-18,中年女子
 hijiangtao.github.io,2013-12-21,还有十天，再见2013！
 hijiangtao.github.io,2019-06-04,Rust学习笔记 - 错误处理
 hijiangtao.github.io,2017-08-20,HTML5 History API 和 Location 对象剖析
@@ -1270,9 +1285,11 @@ knightyun.github.io,2018-04-06,位运算符与位运算
 knightyun.github.io,2018-04-01,搭建 Github Pages 个人博客网站
 knightyun.github.io,2018-04-06,递归函数之阶乘的实现
 knightyun.github.io,2019-01-27,"UTF-8, ASCII, Unicode 的介绍与区分"
+knightyun.github.io,2021-04-18,TypeScript 之泛型
 knightyun.github.io,2018-04-24,贪吃蛇 C 语言源码与算法分析
 knightyun.github.io,2020-09-03,React 组件间传值的几种情形
 knightyun.github.io,2018-05-22,CSS 样式之内容居中方法
+knightyun.github.io,2021-04-03,TypeScript 中类型 any，void，unknown，never之间的区别
 knightyun.github.io,2020-01-14,个人博客网站文章添加目录导航
 knightyun.github.io,2019-09-02,JavaScript 变异与非变异数组方法
 knightyun.github.io,2019-09-02,JavaScript 变量提升（Hoisting）详解
@@ -1422,6 +1439,7 @@ objcoding.github.io,2017-10-31,最全的SSH连接远程终端教程
 objcoding.github.io,2019-12-15,Seata 动态配置订阅与降级实现原理
 objcoding.github.io,2020-08-26,使用 K8s 进行作业调度实战分享
 objcoding.github.io,2018-11-29,Java并发之CAS原理分析
+objcoding.github.io,2021-04-12,有关 RocketMQ 的文章都在这里了，请查阅！
 objcoding.github.io,2019-04-06,RocketMQ消息发送的高可用设计
 objcoding.github.io,2021-01-09,Kafka 消息格式的演进
 objcoding.github.io,2018-10-10,腾讯云重启后登录不了解决办法
@@ -1442,6 +1460,7 @@ objcoding.github.io,2017-07-12,Java8新特性之Lambda表达式
 objcoding.github.io,2019-05-30,聊聊Tomcat的架构设计
 objcoding.github.io,2017-12-07,Docker实战（二）
 objcoding.github.io,2017-07-18,JavaScript原型链
+objcoding.github.io,2021-04-23,Seata 分布式事务 XA 与 AT 全面解析
 objcoding.github.io,2019-05-08,Java并发之AQS源码分析（二）
 objcoding.github.io,2018-08-12,Docker实战之搭建Swarm集群
 objcoding.github.io,2020-08-16,探讨缓存行与伪共享
@@ -1456,6 +1475,7 @@ objcoding.github.io,2019-01-22,RocketMQ的消费模式
 objcoding.github.io,2019-03-04,关于Java Lambda表达式看这一篇就够了
 objcoding.github.io,2020-09-13,深度剖析 Kafka Producer 的缓冲池机制【图解 + 源码分析】
 objcoding.github.io,2017-06-19,ApplicationContextAware的作用
+objcoding.github.io,2021-04-20,穷且益坚，不坠青云之志！
 objcoding.github.io,2019-10-26,记一次Kafka集群线上扩容
 objcoding.github.io,2019-04-02,关于RocketMQ Topic的创建机制，我还有一些细节上的思考
 objcoding.github.io,2017-11-28,使用Gitalk搭建博客评论模块
@@ -1464,8 +1484,10 @@ objcoding.github.io,2019-09-13,Kafka分区副本与RocketMQ队列的区别
 objcoding.github.io,2019-04-11,你都理解创建线程池的参数吗？
 objcoding.github.io,2020-03-16,当 Kafka 分区不可用且 leader 副本被损坏时，如何尽量减少数据的丢失？
 objcoding.github.io,2017-07-10,字符串创建与存储机制
+objcoding.github.io,2021-04-19,图解 Raft 共识算法：如何选举领导者？
 objcoding.github.io,2019-02-16,基于Jenkins Pipeline自动化部署
 objcoding.github.io,2020-12-16,使用 PicGo + Gitee 搭建免费图床
+objcoding.github.io,2021-04-01,这可能是一年中进蚂蚁最好的时机了
 objcoding.github.io,2019-10-11,关于RocketMQ消息消费与重平衡的一些问题
 objcoding.github.io,2018-09-03,Docker Stack多服务编排
 objcoding.github.io,2018-03-22,阿里社招电话一面总结
@@ -1484,6 +1506,7 @@ objcoding.github.io,2019-11-18,关于 Kafka 的一些面试题目
 objcoding.github.io,2018-01-30,SpringBoot自动化配置源码分析
 objcoding.github.io,2019-04-14,关于线程池你不得不知道的一些设置
 objcoding.github.io,2017-07-21,Maven打包依赖项目到本地库
+objcoding.github.io,2021-04-05,四年磨一剑：我是如何拿到蚂蚁offer的？
 objcoding.github.io,2019-03-11,RocketMQ源码分析之路由中心
 objcoding.github.io,2018-09-14,go test单元测试
 objcoding.github.io,2020-05-01,深度剖析 Kafka/RocketMQ 顺序消息的一些坑
@@ -2721,6 +2744,7 @@ blog.forecho.com,2016-05-22T11:17:00+08:00,项目 Beta 版上线总结
 blog.forecho.com,2012-07-06T15:32:00+08:00,yii学习笔记（一）-yii初使用
 blog.forecho.com,2018-02-16T13:09:00+08:00,2017年终总结
 blog.forecho.com,2013-09-04T12:07:00+08:00,一切都来得及，就怕你不做
+blog.forecho.com,2021-04-09T16:09:00+08:00,【深度理财25】随机买股票实验
 blog.forecho.com,2012-10-16T13:46:00+08:00,PHP最简单的方法调用kindeditor编辑器
 blog.forecho.com,2020-07-16T11:09:00+08:00,【深度理财11】美股打新经验分享
 blog.forecho.com,2012-11-05T12:04:00+08:00,只要你愿意，任何时候都不算晚
@@ -2951,6 +2975,7 @@ blog.forecho.com,2012-12-06T10:27:00+08:00,Yii关于登录表单汉化操作
 blog.forecho.com,2020-10-25T15:12:00+08:00,iPad Apple ID 解激活锁
 blog.forecho.com,2016-12-31T20:05:00+08:00,圣诞节在香港
 blog.forecho.com,2013-11-05T22:14:00+08:00,MacBook 升级到 SSD（固态硬盘）
+blog.forecho.com,2021-04-06T17:33:00+08:00,用投资的思维提升自己
 blog.forecho.com,2021-01-04T12:09:00+08:00,【深度理财19】2020 年年终总结投资篇
 blog.forecho.com,2020-06-29T13:09:00+08:00,【深度理财08】美港股打新哪家强
 blog.forecho.com,2015-11-30T17:40:00+08:00,如何让团队里的工程师对工作不厌烦
@@ -3017,6 +3042,7 @@ blog.forecho.com,2012-11-30T16:53:00+08:00,Mac输入法神器-鼠须管？
 blog.forecho.com,2013-07-16T17:47:00+08:00,PHP对象转成数组的函数
 blog.forecho.com,2021-03-19T19:09:00+08:00,【深度理财23】什么是期权
 blog.forecho.com,2013-06-25T09:39:00+08:00,把项目移植到Ubuntu上遇到的一些坑 - PHP5.4降级到PHP5.3
+blog.forecho.com,2021-04-06T12:33:00+08:00,Hugo 极简主题 Echo
 blog.forecho.com,2013-02-19T15:35:00+08:00,PHP知识点笔记
 blog.forecho.com,2012-12-12T11:58:00+08:00,Yii—accessRules用法
 blog.forecho.com,2013-08-03T14:20:00+08:00,Yii 多表使用一个Model文件
@@ -3033,6 +3059,7 @@ blog.forecho.com,2014-10-19T22:06:00+08:00,Mac 升级 Yosemite 之后 PHP 环境
 blog.forecho.com,2012-07-10T11:28:00+08:00,yii学习笔记（三）-gii的使用以及模块的使用
 blog.forecho.com,2016-01-26T15:28:00+08:00,2015年终总结
 blog.forecho.com,2018-02-26T13:09:00+08:00,再谈美股开户:富途 VS 雪盈
+blog.forecho.com,2021-04-26T17:09:00+08:00,【深度理财27】交易期权容易犯的错
 blog.forecho.com,2015-12-17T19:50:00+08:00,为什么要开源
 blog.forecho.com,2012-02-18T00:08:00+08:00,2012年，生活还得继续
 blog.forecho.com,2020-08-26T22:09:00+08:00,【深度理财13】投资 投机 赌博
@@ -3056,6 +3083,7 @@ blog.forecho.com,2020-09-29T17:33:00+08:00,HTTP Location
 blog.forecho.com,2016-10-07T07:58:00+08:00,第六站：涠洲岛之旅
 blog.forecho.com,2013-11-02T12:38:00+08:00,程序员的《权利法案》
 blog.forecho.com,2013-11-26T00:05:00+08:00,《不许联想》读书笔记
+blog.forecho.com,2021-04-23T16:09:00+08:00,【深度理财26】随机买股票实验结局
 blog.forecho.com,2019-06-26T22:58:00+08:00,Bose QC30 VS AirPods
 blog.forecho.com,2020-07-25T11:09:00+08:00,【深度理财12】现在投资什么最好？
 blog.forecho.com,2012-10-15T10:46:00+08:00,第一站，成都
