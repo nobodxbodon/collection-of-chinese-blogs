@@ -1,0 +1,11 @@
+分支：
+jaredtao.gitee.io | tao
+
+
+git clone 错误处理：
+```
+git clone https://gitee.com/jaredtao/jaredtao/tree/tao/ jaredtao.gitee.io
+Cloning into 'jaredtao.gitee.io'...
+remote: 404 page not found
+fatal: repository 'https://gitee.com/jaredtao/jaredtao/tree/tao/' not found
+```

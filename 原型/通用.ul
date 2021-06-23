@@ -1,6 +1,6 @@
 using csv
 
-路径  = "/Users/xuanwu/git/聚聚/博客聚合/"
+路径  = "/Users/xuanwu/work/聚聚/源数据/博客聚合/"
 
 路径表 = {
     // 特殊

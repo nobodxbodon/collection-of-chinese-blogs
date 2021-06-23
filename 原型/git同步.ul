@@ -3,7 +3,7 @@ using * in 原型.git功用
 using * in 原型.通用
 
 无法合并 = "fatal: refusing to merge unrelated histories\n"
-无新内容 = "Already up-to-date.\n"
+无新内容 = "Already" // git 新版本为 Already up to date. 老版本为 Already up-to-date.
 
 未变的库 = []
 for 仓库地址 in 仓库表 {
@@ -19,7 +19,7 @@ for 仓库地址 in 仓库表 {
             os.rename(仓库本地路径, 仓库本地路径 + "_bak")
             下载仓库(路径, 仓库地址, 目标目录)
         } else {
-            if 输出 == 无新内容 { 未变的库.append(仓库地址) }
+            if 输出[0:7] == 无新内容 { 未变的库.append(仓库地址) }
             else { println("`仓库地址`\n`输出`")}
         }
     }

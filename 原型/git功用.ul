@@ -19,4 +19,5 @@ func 下载仓库(路径, 仓库地址, 目标目录) {
     os.chdir(路径); 运行("git clone `仓库地址` `目标目录`"); println("已下载: `仓库地址`")
 }
 
+// 万一存在本地修改，直接 git checkout . 吗？
 func 同步仓库 { return 运行(同步) }
