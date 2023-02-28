@@ -9,7 +9,7 @@ using csv
     // 下面为通用格式
     "hexo": "source/_posts",
     "gridsome": "content/posts",
-    "hugo": "content/posts",
+    "hugo": "content",
     "": "_posts"  // Jekyll 默认
 }
 
