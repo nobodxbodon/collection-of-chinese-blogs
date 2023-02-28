@@ -122,36 +122,6 @@ onetwo.ren,2018-03-15 00:00:54 +0800,魔法的基础设施
 onetwo.ren,2016-08-04 22:29:00 +0800,Meteor推出的数据框架APOLLO
 onetwo.ren,2017-03-13 17:44:19 +0800,RxJS基本单子词典
 onetwo.ren,2018-03-06 21:32:11 +0800,JS-IPFS文件添加招式表
-blog.jalenchuh.cn,2020-01-01,再见 2019，你好 2020
-blog.jalenchuh.cn,2019-11-24,Hello World
-blog.jalenchuh.cn,2020-04-02,Hexo Fluid 暗黑模式
-blog.jalenchuh.cn,2020-07-30,我是如何加速博客的
-blog.jalenchuh.cn,2020-10-19 21:54:24,「周记」考试周
-blog.jalenchuh.cn,2021-02-05,再见 2020，你好 2021
-blog.jalenchuh.cn,2020-07-05,利用 GitHub Action 实现自动化
-blog.jalenchuh.cn,2020-08-11 09:05:19,利用 GitHub 从 sitemap 中提取链接并推送至百度
-blog.jalenchuh.cn,2021-02-06 22:34:47,春节·前
-blog.jalenchuh.cn,2020-07-11,P3372 【模板】线段树 2
-blog.jalenchuh.cn,2020-06-20,写在计算机会考前
-blog.jalenchuh.cn,2021-09-25 15:04:46,Long time no see
-blog.jalenchuh.cn,2020-03-18,P3368 【模板】树状数组 1
-blog.jalenchuh.cn,2020-04-26,HandShaker 好看实用的手机管理工具
-blog.jalenchuh.cn,2020-10-02,「月记」你好高二
-blog.jalenchuh.cn,2020-08-31,再见八月
-blog.jalenchuh.cn,2020-04-20,加速网页加载？我选择对图片下手
-blog.jalenchuh.cn,2021-03-21 17:40:19,初·开学
-blog.jalenchuh.cn,2021-02-22 11:50:00,春节·后
-blog.jalenchuh.cn,2020-09-19 20:43:50,《生死功课》
-blog.jalenchuh.cn,2020-08-27,招商银行宝可梦联名卡开箱
-blog.jalenchuh.cn,2021-07-11 10:43:57,末·过去的一学期
-blog.jalenchuh.cn,2021-02-11 18:18:52,新年快乐
-blog.jalenchuh.cn,2020-06-05,P3372 【模板】线段树 1
-blog.jalenchuh.cn,2020-03-26,P3368 【模板】树状数组 2
-blog.jalenchuh.cn,2020-08-23,Artalk 自托管评论系统的后端部署
-blog.jalenchuh.cn,2019-11-24,2019 CSP 游记
-blog.jalenchuh.cn,2020-04-01,Hexo Fluid 瞎折腾
-blog.jalenchuh.cn,2020-07-26,19-20 学年总结
-blog.jalenchuh.cn,2020-07-07,爱折腾的少年｜新人报道
 vivaxyblog.github.io,2017-06-02,一个 reveal.js 的 Node 命令行工具
 vivaxyblog.github.io,2016-08-04,在 Ajax 中开启 CORS
 vivaxyblog.github.io,2019-11-19,Babel 的工程化实现
@@ -286,7 +256,6 @@ jaredtao.gitee.io,2019-05-24 18:44:23,玩转Qml(9)-Model和View
 claude-ray.github.io,2021-01-27 19:05:25,记录 Got(Node.js) 代理 HTTP 请求的坑
 claude-ray.github.io,2019-01-24 21:45:26,Nginx改写$args未生效踩坑
 claude-ray.github.io,2018-01-27 12:57:42,使用chokidar监视文件更新
-claude-ray.github.io,,Hello World
 claude-ray.github.io,2019-10-02 23:19:44,CSAPP DataLab 题解
 claude-ray.github.io,2017-12-05 23:40:53,vscode+evernote云笔记
 claude-ray.github.io,2019-01-09 22:42:14,Nginx 的 if 使用须知
@@ -318,6 +287,7 @@ claude-ray.github.io,2019-07-17 20:55:30,fcitx-remote-for-osx 设置 Squirrel �
 claude-ray.github.io,2020-04-29 21:13:15,分享一个 npm dist-tag 的冷知识
 claude-ray.github.io,2019-08-08 21:31:02,记一次 Node.js 进程挂起的 BUG 追踪
 claude-ray.github.io,2019-08-01 21:56:25,警惕 Travis CI 的 npm 缓存
+claude-ray.github.io,2022-06-28 12:16:30,浅谈 npm 依赖治理
 claude-ray.github.io,2017-10-05 08:50:46,Node获取GBK编码“字符串”
 claude-ray.github.io,2019-03-11 22:11:05,MySQL 分页查询优化思路
 claude-ray.github.io,2018-09-02 21:46:55,node图形验证码实现
@@ -338,10 +308,11 @@ claude-ray.github.io,2019-09-13 11:55:57,如何解决 Debian 系 Elastic apm-ser
 claude-ray.github.io,2017-12-23 19:29:48,Array.map(parseInt)为什么返回了NaN
 claude-ray.github.io,2018-03-19 11:53:52,解决svn没有merge全部更改的问题
 iphyer.github.io,2019-01-26 21:13,北美工作 LaTeX 模板分享
-iphyer.github.io,2020-08-05 16:49,搬家记录
+iphyer.github.io,2020-08-05 16:49,搬家记录2
 iphyer.github.io,2013-09-30 19:24,从Linux培训的一些话题引申开去
 iphyer.github.io,2013-03-23 11:33,PythonDownloadBook
 iphyer.github.io,2013-01-13 13:22,Python编程8——Python寻找单词中符合顺序的元音字母
+iphyer.github.io,2023-02-14 15:54,德州车牌和驾照更换总结
 iphyer.github.io,2016-12-22 19:49,USA印象2:双子城游记
 iphyer.github.io,2013-01-13 10:42,Python编程5——Python实现对与输入的检查
 iphyer.github.io,2018-04-20 23:32,修复 AttributeError: module 'pip' has no attribute 'main' in PyCharm
@@ -357,6 +328,7 @@ iphyer.github.io,2016-12-31 23:13,2016总结
 iphyer.github.io,2018-02-09 20:49,关于LATEX的思考——我们需要学到了什么
 iphyer.github.io,2015-01-11 16:17,晶界内耗的读书报告
 iphyer.github.io,2013-12-09 14:50,X ray峰的指标化
+iphyer.github.io,2022-12-04 21:54,Discounted Tire 推荐
 iphyer.github.io,2020-07-01 16:49,如何用 Matplotlib imshow 画矩阵数据
 iphyer.github.io,2017-06-07 16:00,USA印象5:缅因州&波士顿游记
 iphyer.github.io,2013-09-10 20:42,北京进城纪实
@@ -382,7 +354,7 @@ iphyer.github.io,2013-09-12 19:52,我喜爱的宋词两首
 iphyer.github.io,2014-07-03 20:09,基于xelatex的中国科学院博士硕士毕业论文模板
 iphyer.github.io,2019-02-05 22:13,Github Too Large File Deny
 iphyer.github.io,2017-06-06 18:10,记一件游泳小事－－如何进入泳道
-iphyer.github.io,2021-07-25 21:01,搬家记录-Year2021
+iphyer.github.io,2021-07-25 21:01,搬家记录3: Year2021
 iphyer.github.io,2016-07-09 22:42,更好的随机数生成总结
 iphyer.github.io,2013-09-30 20:52,关于物理思维的思考
 iphyer.github.io,2012-09-23 04:56,Revised GRE_Arugement 终极提纲1.0
@@ -390,20 +362,24 @@ iphyer.github.io,2012-10-03 21:43,荷叶曲线的人生
 iphyer.github.io,2019-11-15 13:44,USA印象11:北密游记
 iphyer.github.io,2013-01-13 10:48,Python编程6——Python实现Collatz
 iphyer.github.io,2017-09-10 23:19,助教感受
+iphyer.github.io,2022-04-10 21:54,2022 Q1 总结
 iphyer.github.io,2017-02-24 22:57,麦迪逊印象
 iphyer.github.io,2013-09-24 13:31,阶段总结+读书笔记2013-09-24
 iphyer.github.io,2016-10-26 17:57,USA印象1:芝加哥游记
 iphyer.github.io,2018-01-31 21:09,2018年计划
 iphyer.github.io,2012-10-02 22:21,教案：一道有关叠加固体的压强的比问题
 iphyer.github.io,2018-07-21 14:49,lc1 : 463. Island Perimeter
+iphyer.github.io,2023-02-07 15:54,2022总结&2023计划
 iphyer.github.io,2013-06-28 09:28,大学回顾
 iphyer.github.io,2014-08-31 17:51,NCE4-Lesson5仿写练习
 iphyer.github.io,2014-08-31 17:51,NCE4-Lesson4仿写练习
 iphyer.github.io,2020-10-21 11:49,preliminary examination
+iphyer.github.io,2022-05-01 22:54,工作总结 1
 iphyer.github.io,2016-11-26 16:36,美国驾考1——威斯康辛州笔试
+iphyer.github.io,2022-12-05 23:54,Scala 学习总结
 iphyer.github.io,2015-06-22 20:12,Linux下批量Kill多个进程的方法
 iphyer.github.io,2013-12-09 14:46,物理思考
-iphyer.github.io,2016-04-03 10:42,UTD Hackathon总结
+iphyer.github.io,2016-04-03 10:42,UTD Hackathon 总结
 iphyer.github.io,2014-09-05 15:47,GRE阅读36套疑难问题集锦和总结
 iphyer.github.io,2016-04-15 10:50,CS学习攻略
 iphyer.github.io,2014-05-11 21:57,关于玻璃转变物理模型的报告
@@ -414,6 +390,7 @@ iphyer.github.io,2014-12-03 15:12,NCE4-Lesson11仿写练习
 iphyer.github.io,2014-12-03 15:12,NCE4-Lesson10仿写练习
 iphyer.github.io,2016-06-20 16:00,签证总结
 iphyer.github.io,2018-01-31 21:11,Intermittent fasting 减肥
+iphyer.github.io,2022-07-02 22:55,USA印象15: 美国中部游记
 iphyer.github.io,2017-07-14 21:11,威斯康星麦迪逊路考总结
 iphyer.github.io,2019-04-21 23:21,Reading Notes of Grokking Deep Learning Chapter 4
 iphyer.github.io,2019-09-07 01:44,分清主次 保护时间 说到做到
@@ -426,6 +403,7 @@ iphyer.github.io,2014-12-20 23:40,2014年终总结兼GRE检讨
 iphyer.github.io,2018-04-18 18:53,用影子数组 ( Shadow Array )加速数组扩容
 iphyer.github.io,2015-01-26 04:08,QuiteRSS更新折腾记
 iphyer.github.io,2017-04-20 01:15,托福考试备考总结
+iphyer.github.io,2022-05-25 22:54,Job Searching Notes Summary
 iphyer.github.io,2014-01-06 13:47,Linux打印目录下多个文件
 iphyer.github.io,2013-01-13 14:27,Python编程10——Python做葛底斯堡演讲的词频统计
 iphyer.github.io,2015-08-02 00:38,Rstudio修改默认library安装位置
@@ -439,6 +417,7 @@ iphyer.github.io,2018-01-15 22:12,UW-Madison TA Speaking Test 总结
 iphyer.github.io,2017-02-27 00:14,USA印象4:佛罗里达游记
 iphyer.github.io,2014-11-27 15:27,NCE4-Lesson6仿写练习
 iphyer.github.io,2014-11-27 16:12,NCE4-Lesson7仿写练习
+iphyer.github.io,2022-07-02 22:54,2022 Q2 总结
 iphyer.github.io,2013-01-04 21:54,白鹿原的影评
 iphyer.github.io,2017-05-02 21:11,威斯康星州路考指南
 iphyer.github.io,2015-02-16 21:22,330club结班回顾和总结
@@ -461,6 +440,7 @@ iphyer.github.io,2014-12-03 15:14,NCE4-Lesson14仿写练习
 iphyer.github.io,2015-01-26 04:17,GRE的一道数学题目的总结和拓展
 iphyer.github.io,2020-10-23 21:49,Bounding Box 匹配问题探讨
 iphyer.github.io,2020-07-02 16:49,如何正确的讨论 Science Questions
+iphyer.github.io,2023-01-31 22:54,工作总结 2
 iphyer.github.io,2012-11-05 10:49,第五届R语言中国会议(上海)
 iphyer.github.io,2018-04-30 16:26,欲渡黄河冰塞川 将登太行雪满山
 iphyer.github.io,2013-04-08 10:11,Linux简介
@@ -471,6 +451,7 @@ iphyer.github.io,2019-05-05 23:21,Fast.ai 如何设置带标签的测试集 Test
 iphyer.github.io,2018-02-09 21:23,运用R做数据分析
 iphyer.github.io,2014-08-31 09:38,NCE4-Lesson1仿写练习
 iphyer.github.io,2019-04-03 19:36,微软面试总结
+iphyer.github.io,2022-07-02 22:50,搬家记录4: Year2022 From Madison to Austin
 iphyer.github.io,2012-10-30 11:31,如何使用时间
 iphyer.github.io,2017-12-25 15:23,TA 总结
 iphyer.github.io,2014-05-01 18:48,C语言的Argv的使用
@@ -482,11 +463,13 @@ iphyer.github.io,2014-10-19 21:38,GRE1019考试及复习总结
 iphyer.github.io,2015-04-26 20:17,开学两个月总结
 iphyer.github.io,2020-05-04 15:16,Presentation Tips
 iphyer.github.io,2017-03-11 08:38,分子动力学计算的小细节
+iphyer.github.io,2022-12-05 22:58, Git使用总结 2
 iphyer.github.io,2014-12-31 22:43,"2014最后一篇博客文章--回顾2014,展望2015,明天会更好!"
 iphyer.github.io,2019-04-03 14:59,2019一季度计划总结
 iphyer.github.io,2014-11-27 21:02,NCE4-Lesson8仿写练习
 iphyer.github.io,2019-03-21 14:56,USA印象9:得克萨斯州——达拉斯游记
 iphyer.github.io,2014-08-08 14:36,GRE单词背诵推荐
+iphyer.github.io,2022-12-02 22:54,USA印象17: 凤凰城（Phoenix）游记
 iphyer.github.io,2015-12-31 23:07,2015总结以及2016年愿望
 iphyer.github.io,2013-01-13 10:36,Python编程4——Python实现猜数字的程序
 iphyer.github.io,2021-06-13 23:49,Intern Plan List
@@ -523,6 +506,7 @@ iphyer.github.io,2020-10-21 16:49,USA印象13: North Wisconsin 游记
 iphyer.github.io,2018-12-31 22:37,2018食物总结
 iphyer.github.io,2020-10-23 21:49,Python2 Binary String 和 Python3 的转换
 iphyer.github.io,2015-05-18 20:15,苏州游记
+iphyer.github.io,2022-12-02 22:54,USA印象16: 纽约游记
 iphyer.github.io,2014-12-22 18:02,将微信语音导出转换成mp3
 iphyer.github.io,2014-10-21 23:28,再要你命3000手机刷单词的修正
 iphyer.github.io,2013-04-08 09:02,关于物理的思考
@@ -530,7 +514,7 @@ iphyer.github.io,2014-05-01 10:36,推荐一个源地址生成器——适用所�
 iphyer.github.io,2014-12-03 15:14,NCE4-Lesson16仿写练习
 iphyer.github.io,2019-01-05 22:45,2019计划
 iphyer.github.io,2013-01-13 13:02,Python编程7——Python比较相同字母组成的单词
-iphyer.github.io,2018-08-07 13:11,麦迪逊搬家地址更新总结
+iphyer.github.io,2018-08-07 13:11,搬家记录1：麦迪逊搬家地址更新总结
 iphyer.github.io,2020-04-05 13:16,Python the unpacking operator and how to use it to traverse grids
 iphyer.github.io,2014-12-03 15:12,NCE4-Lesson12仿写练习
 iphyer.github.io,2018-02-09 21:09,游记——南京博物馆梵高画展
@@ -545,25 +529,32 @@ iphyer.github.io,2016-06-10 13:45,申请总结
 iphyer.github.io,2013-04-08 09:24,背影
 iphyer.github.io,2012-12-20 23:45,关于TOEFL的思考
 iphyer.github.io,2018-08-05 23:51,科研工作经验总结 2
+mabbs.github.io,2021-09-28,云游戏的体验与感受
 mabbs.github.io,2020-03-12,关于写小说的技巧探究
 mabbs.github.io,2019-04-05,Mayx对编程语言的选择
 mabbs.github.io,2021-03-23,亲自体验微信推送的制作感受
+mabbs.github.io,2021-09-06,记一次线下的信息安全比赛
 mabbs.github.io,2021-02-06,自制一个简单的微信聊天机器人
 mabbs.github.io,2021-02-19,如何制作一个能发好图的微信机器人
 mabbs.github.io,2020-04-21,记一次买笔电的经历
 mabbs.github.io,2020-07-29,如何制作一个PCB名片
 mabbs.github.io,2021-03-02,使用CloudFlare Workers做一些有趣的功能
 mabbs.github.io,2019-09-28,Python学习笔记 - Turtle
+mabbs.github.io,2022-08-15,如何避免Cloudflare背后的源站被恶意访问
 mabbs.github.io,2018-12-28,Mayx的博客换域名啦
 mabbs.github.io,2020-09-27,关于虚拟化的学习记录
+mabbs.github.io,2022-10-05,Cloudflare规则新功能体验
 mabbs.github.io,2020-08-21,假期总结第二弹
+mabbs.github.io,2022-10-14,如何破解我上次写的加密程序？
 mabbs.github.io,2020-02-18,Mayx的浏览器使用史
 mabbs.github.io,2019-04-05,Mayx又双叒叕Crash了……
 mabbs.github.io,2021-02-23,快速自制微信图片机器人
+mabbs.github.io,2021-11-28,Mayx被拍了糟糕的视频？！
 mabbs.github.io,2021-04-09,自制微信二维码登录API
 mabbs.github.io,2019-11-21,Web Crypto Api学习笔记
 mabbs.github.io,2021-02-09,Mayx的产品测评（二）
 mabbs.github.io,2021-04-05,Mayx的产品测评（三）
+mabbs.github.io,2022-01-16,wssocks的简单评测
 mabbs.github.io,2018-12-02,对网络免费资源的感想
 mabbs.github.io,2019-03-22,分享一下我最喜欢的游戏BGM
 mabbs.github.io,2019-02-17,关于网络攻防的一些看法
@@ -572,6 +563,7 @@ mabbs.github.io,2019-07-15,EncMail-Project Part 1 - 准备阶段
 mabbs.github.io,2020-05-29,写一个加密传输的Demo
 mabbs.github.io,2019-06-24,如何利用MySQL数据库制作一个图站
 mabbs.github.io,2020-06-06,关于Demoscene的探索
+mabbs.github.io,2023-02-03,MacBook Pro 2022 13寸使用体验
 mabbs.github.io,2019-07-25,Mayx终于考上大学了
 mabbs.github.io,2019-05-12,如何不使用百度App打开搜索结果？
 mabbs.github.io,2021-01-04,年终总结
@@ -579,25 +571,33 @@ mabbs.github.io,2019-01-27,Mayx应聘失败
 mabbs.github.io,2018-11-10,免费订阅一个属于自己的邮件日报
 mabbs.github.io,2021-01-17,piCore的使用经历
 mabbs.github.io,2020-09-10,如何建立一个校园内部网站
+mabbs.github.io,2021-11-27,记一次CTF出题的经历
 mabbs.github.io,2019-03-23,让Git.io无限制
 mabbs.github.io,2021-02-26,做一个Server酱·TurboMini企业应用版
+mabbs.github.io,2022-04-17,体验成为PCDN的节点
 mabbs.github.io,2020-01-21,Mayx的运维笔记 - 应用优化
 mabbs.github.io,2019-12-17,New Game!
 mabbs.github.io,2018-10-28,Mayx的自检报告
+mabbs.github.io,2022-02-15,在平板上使用Termux的经历
 mabbs.github.io,2021-01-06,如何用PHP制作一个简单的反向代理
 mabbs.github.io,2021-07-23,如何给博客加上全文搜索功能
+mabbs.github.io,2022-07-03,关于字节跳动旗下某些“极速版”软件的探索
+mabbs.github.io,2021-12-27,年终总结
 mabbs.github.io,2021-06-10,关于去中心化分布式系统的探索
 mabbs.github.io,2020-06-13,加密传输Demo V2
 mabbs.github.io,2021-02-02,自己动手做一个Server酱·TurboMini版
 mabbs.github.io,2019-12-04,废人的研究
+mabbs.github.io,2021-10-23,微软产品使用体验与感想
 mabbs.github.io,2018-10-20,关于在Github Pages上使用评论的心得
 mabbs.github.io,2018-03-26,(转)关于Neko与羽毛的记录
 mabbs.github.io,2020-11-24,记一次组织CTF的经历
 mabbs.github.io,2020-03-01,对于云手机的策划书
 mabbs.github.io,2019-02-01,Mayx的计算机学习史
 mabbs.github.io,2020-05-07,合理消费
+mabbs.github.io,2022-03-12,Alpine的使用体验
 mabbs.github.io,2019-08-05,记一次办理22卡的经历
 mabbs.github.io,2020-01-05,Mayx的运维笔记
+mabbs.github.io,2022-12-26,为自己的i2p站点添加一个SSL证书
 mabbs.github.io,2019-07-02,制作分布式加密邮件系统的计划
 mabbs.github.io,2019-11-01,Mayx应聘失败(Python版)
 mabbs.github.io,2019-04-13,如何下载Iwara上的视频？
@@ -607,32 +607,47 @@ mabbs.github.io,2021-07-13,绕过Portal认证的另一个想法
 mabbs.github.io,2020-03-08,旧手机的N种用法
 mabbs.github.io,2018-06-20,编程与设计（演讲稿）
 mabbs.github.io,2019-06-10,Mayx被外国人骗了？！
+mabbs.github.io,2022-03-27,用树莓派自制FM电台
 mabbs.github.io,2020-02-15,关于对未来手机的想象
 mabbs.github.io,2020-10-24,Mayx的产品测评
+mabbs.github.io,2022-02-14,Mayx的博客分发方案
 mabbs.github.io,2019-01-11,Github支持免费私有仓库啦
 mabbs.github.io,2020-08-28,网站被Ban怎么办？
 mabbs.github.io,2020-05-20,Re:加装内存
 mabbs.github.io,2018-12-22,论Mayx是怎么被抓的
+mabbs.github.io,2022-12-12,如何自定义宝塔亚马逊S3云存储插件的端点
 mabbs.github.io,2019-12-31,年终总结
+mabbs.github.io,2023-02-22,使用CF Workers Cron触发器进行签到
 mabbs.github.io,2021-04-18,Mayx的运维笔记 - 隐藏自己
 mabbs.github.io,2019-08-24,假期总结
+mabbs.github.io,2022-05-27,在宿舍煮粽子的小方案
 mabbs.github.io,2020-02-02,过去与未来的科技变化
+mabbs.github.io,2022-10-19,在Web3上搭建一个自己的博客
 mabbs.github.io,2019-06-22,如何自己写一个博客计数器
 mabbs.github.io,2021-08-15,如何选择合适的博客平台
 mabbs.github.io,2020-12-07,在树莓派上体验piCore
 mabbs.github.io,2015-02-23,2015.2.23日记
 mabbs.github.io,2019-09-20,开学总结
+mabbs.github.io,2022-01-04,Github封禁了我的博客？！
+mabbs.github.io,2022-11-08,提高Cloudflare站点在中国的体验
 mabbs.github.io,2021-05-15,论如何发现一个计算机漏洞
 mabbs.github.io,2020-06-17,论备份的重要性
 mabbs.github.io,2019-06-11,Jekyll也可以加密文章啦！
 mabbs.github.io,2019-08-17,记一次悲惨的加装内存的事故
+mabbs.github.io,2022-11-29,体验小白也会使用的免费容器云
+mabbs.github.io,2022-11-23,i2pd在服务器上的使用体验
+mabbs.github.io,2022-10-08,用Python写一个超简单的加密程序
 mabbs.github.io,2020-02-10,如何不使用贴吧App查看贴吧
 mabbs.github.io,2019-05-27,使用PHP批量下载Mediawiki站点的图片
 mabbs.github.io,2019-04-24,(转)Shell 脚本编程陷阱
+mabbs.github.io,2022-07-16,关于在网络中隐私的研究
+mabbs.github.io,2022-09-21,使用Python制作可热载的定时调度器
 mabbs.github.io,2018-11-04,Mayx的创想
 mabbs.github.io,2020-12-13,关于内网穿透的笔记
+mabbs.github.io,2023-01-01,年终总结
 mabbs.github.io,2021-08-06,最近打电路板的体验
 mabbs.github.io,2019-02-07,玩《Finding Paradise》有感
+mabbs.github.io,2022-09-05,制作程序运行提示标志的历程
 mabbs.github.io,2020-04-19,关于制作考试（答题）系统的研究
 mabbs.github.io,2019-12-16,CTF初体验
 mabbs.github.io,2019-05-30,高考即将来临
@@ -641,6 +656,7 @@ mabbs.github.io,2020-04-06,Mayx的自我探索之旅
 mabbs.github.io,2019-10-21,Python学习笔记 - 求质数
 mabbs.github.io,2021-05-07,网络任意互联指南
 mabbs.github.io,2019-11-18,Bug Forever！
+mabbs.github.io,2022-11-16,Tor在服务器上的使用体验
 thewanderingpotato.github.io,2021-02-28,二月看展嘮叨
 thewanderingpotato.github.io,2020-03-15,網絡輿論控制
 thewanderingpotato.github.io,2020-03-29,家醜和面子
@@ -669,6 +685,7 @@ zsqk.github.io,2020-03-27,国内部分地区用户遭到中间人攻击
 zsqk.github.io,2020-04-09,questions-philosophers-ponder
 zsqk.github.io,2020-05-13,HTTP/3
 zsqk.github.io,2020-04-14,chrome-plug
+zsqk.github.io,2022-02-23,在 Deno 中实现 HTTP 返回 body 的 Brotli 压缩
 zsqk.github.io,2020-05-06,awesome
 zsqk.github.io,2020-04-07,insert-into-select
 zsqk.github.io,2020-05-22,node
@@ -699,6 +716,7 @@ zsqk.github.io,2020-04-08,道长在硅谷工作是怎样一种体验
 zsqk.github.io,2020-05-15,js-function
 zsqk.github.io,2020-04-15,css-filter
 zsqk.github.io,2020-04-04,"司徒正美, 健康"
+luyuhuang.github.io,2022-05-10,谈谈 C++ 中的 const
 luyuhuang.github.io,2020-09-13,A simple way to turn callback pattern to coroutine pattern in Lua
 luyuhuang.github.io,2020-06-03,使用 Cloudflare 免费搭建 HTTPS 服务
 luyuhuang.github.io,2019-09-28,详解寻路算法(2)-生成图
@@ -706,7 +724,10 @@ luyuhuang.github.io,2020-08-27,[翻译] RFC 1928: SOCKS 协议第 5 版
 luyuhuang.github.io,2020-10-29,Lua 夏令时时区问题
 luyuhuang.github.io,2020-08-08,Y-Combinator: 如何在匿名函数中递归调用自身
 luyuhuang.github.io,2020-12-09,详解 KCP 协议的原理和实现
+luyuhuang.github.io,2022-04-10,使用 gperftools 分析程序性能
 luyuhuang.github.io,2020-03-16,矩阵的 n 次方和斐波那契数列通项式
+luyuhuang.github.io,2022-10-30,C++ 实现无锁队列
+luyuhuang.github.io,2022-12-05,使用 tcpdump 抓包
 luyuhuang.github.io,2019-09-12,跳跃游戏
 luyuhuang.github.io,2022-01-18,[翻译] x86 汇编的基础介绍
 luyuhuang.github.io,2021-11-14,Switch 语句的语义
@@ -718,6 +739,7 @@ luyuhuang.github.io,2020-02-09,Promise 和 Deferred
 luyuhuang.github.io,2019-10-07,解数独算法
 luyuhuang.github.io,2021-06-27,用树莓派搭建一个能在外网访问的 NAS
 luyuhuang.github.io,2021-09-21,DWords2: 全新版本的弹幕背单词
+luyuhuang.github.io,2022-06-25,谈谈 C++ 中的内存顺序 (Memory Order)
 luyuhuang.github.io,2021-07-30,Beware of Hash Collisions in Lua Tables
 luyuhuang.github.io,2020-07-16,搞清楚令人头疼的乱码问题
 luyuhuang.github.io,2021-12-12,做了一次服务迁移
@@ -736,6 +758,7 @@ luyuhuang.github.io,2021-09-05,基于 TCP 的应用层协议设计
 luyuhuang.github.io,2020-10-23,Lua next 函数的一个有趣问题
 luyuhuang.github.io,2017-08-19,避免使用无符号数
 luyuhuang.github.io,2019-11-07,使用协程处理耗时过程
+luyuhuang.github.io,2023-01-11,2022 Annual Summary
 luyuhuang.github.io,2020-01-01,2019 Annual Summary
 luyuhuang.github.io,2021-01-27,由斜杠划分的区域
 luyuhuang.github.io,2020-06-24,使用 LPeg 解析语法
@@ -748,6 +771,7 @@ luyuhuang.github.io,2019-11-27,安全地传递密码
 luyuhuang.github.io,2019-11-04,关于容错和断言的一些思考
 luyuhuang.github.io,2021-01-01,2020 Annual Summary
 luyuhuang.github.io,2021-02-05,自动生成 Lua 热更新代码
+luyuhuang.github.io,2022-03-03,Jekyll Email Protection
 luyuhuang.github.io,2020-05-22,[翻译] Nginx 入门指南
 luyuhuang.github.io,2021-03-31,并不简单的二分查找
 luyuhuang.github.io,2021-01-24,Go 设置 socket 端口复用
@@ -759,9 +783,12 @@ luyuhuang.github.io,2019-09-12,在Jekyll中使用LaTeX
 luyuhuang.github.io,2020-04-28,Gzip 格式和 DEFLATE 压缩算法
 luyuhuang.github.io,2019-12-21,如何优雅地实现一个新手引导系统
 luyuhuang.github.io,2019-09-15,在Lua中使用装饰器
+luyuhuang.github.io,2022-05-06,树形动态规划: 如何处理子节点依赖父节点的问题
+luyuhuang.github.io,2023-01-27,图论巧解复杂依赖问题
 luyuhuang.github.io,2019-10-11,通过 UNIX domain socket 在进程间传递文件描述符
 luyuhuang.github.io,2020-01-01,通过弹幕背单词
 luyuhuang.github.io,2020-01-16,三个思路相通的最大面积问题
+jasonkayzk.github.io,2022-11-25 11:08:40,Rust反射之过程宏
 jasonkayzk.github.io,2021-05-22 09:19:39,FFmpeg常用API总结
 jasonkayzk.github.io,2021-06-20 22:14:32,在Go中仅使用MySQL实现高性能分布式ID生成器
 jasonkayzk.github.io,2019-11-27 10:32:56,"Java集合七-List总结(LinkedList, ArrayList使用场景及性能分析)"
@@ -776,6 +803,7 @@ jasonkayzk.github.io,1996-07-27 08:00:00,算法:二叉搜索树的后序遍历�
 jasonkayzk.github.io,2020-11-15 16:09:26,在Clion中执行单个Cpp文件
 jasonkayzk.github.io,2021-03-07 15:14:16,apt和apt-get的区别
 jasonkayzk.github.io,2021-03-28 15:44:31,【转】在AppStore下载美区APP
+jasonkayzk.github.io,2022-10-25 08:38:34,在k3s集群上部署ClickHouse集群
 jasonkayzk.github.io,2019-10-16 15:22:23,使用Docker部署你的JavaWeb项目
 jasonkayzk.github.io,2021-06-20 21:14:32,高性能分布式ID生成器实现方法总结
 jasonkayzk.github.io,2020-05-10 15:03:09,解决由于CRLF导致shell脚本无法运行
@@ -787,6 +815,7 @@ jasonkayzk.github.io,2020-10-28 15:31:17,使用golang构建简单的websocket应
 jasonkayzk.github.io,2020-09-28 10:34:00,关于博客站内通知的一点思索
 jasonkayzk.github.io,2020-12-07 20:57:24,生成二维码的原理
 jasonkayzk.github.io,2020-09-25 22:42:39,【译】BT下载的工作原理
+jasonkayzk.github.io,2022-05-05 00:28:04,五一假期的一些总结
 jasonkayzk.github.io,2019-10-22 14:19:04,Git分支相关总结
 jasonkayzk.github.io,2019-09-04 19:12:29,记一次重装系统
 jasonkayzk.github.io,2019-09-18 09:36:24,Java中的代理模式-静态代理与动态代理
@@ -800,6 +829,7 @@ jasonkayzk.github.io,2019-12-04 20:25:48,MySQL变量
 jasonkayzk.github.io,2021-02-20 22:50:30,信息爆炸时代
 jasonkayzk.github.io,2020-05-14 19:39:26,Golang项目结构规范
 jasonkayzk.github.io,2021-05-15 16:24:04,使用Docker-Compose部署单节点ELK-Stack
+jasonkayzk.github.io,2022-11-28 16:45:20,通过一个例子学习Cargo Features
 jasonkayzk.github.io,2021-05-07 21:03:59,Linux截图工具总结
 jasonkayzk.github.io,2019-10-22 14:17:19,Maven标签总结
 jasonkayzk.github.io,2020-04-05 21:58:35,Linux文本数据操作
@@ -815,15 +845,18 @@ jasonkayzk.github.io,1996-07-27 08:00:00,算法:数值的整数次方
 jasonkayzk.github.io,2020-03-05 16:33:04,推荐一个查看网页开发用到的技术的浏览器插件Wappalyzer
 jasonkayzk.github.io,2020-04-30 17:20:22,推荐一个在线学习Git的网站
 jasonkayzk.github.io,2020-04-16 21:35:56,分享-网易云每周听歌排行
+jasonkayzk.github.io,2022-09-02 22:33:41,博客三周年，来看看有意思的数据再聊聊设计
 jasonkayzk.github.io,2020-10-04 11:21:48,【转】Golang中Slice底层实现
 jasonkayzk.github.io,2019-11-26 22:34:09,Java集合五-Vector
 jasonkayzk.github.io,2020-09-25 17:34:17,Golang实现自定义协程池
 jasonkayzk.github.io,2020-09-23 21:06:47,使用gowatch热部署提升你的开发效率
+jasonkayzk.github.io,2022-11-19 20:41:26,Rust中的默认初始化和初始化重载
 jasonkayzk.github.io,2020-05-15 20:03:54,转-Protofuf3总结
 jasonkayzk.github.io,2019-11-26 09:49:58,Java集合四-LinkedList
 jasonkayzk.github.io,2020-02-05 21:01:28,蚂蚁金服面试题-1
 jasonkayzk.github.io,2020-02-09 15:51:08,"UUID生成算法,UUID还是snowflake"
 jasonkayzk.github.io,2021-06-25 10:29:40,快速搭建属于你自己的网盘：FileBrowser
+jasonkayzk.github.io,2022-12-07 16:24:38,mini-redis项目-6-测试与示例
 jasonkayzk.github.io,2019-12-25 11:12:32,Java实现的自定义类加载器
 jasonkayzk.github.io,2019-12-12 21:16:11,Java中自动拆装箱的陷阱
 jasonkayzk.github.io,2020-01-10 10:27:18,在Win10下使用Docker部署FTP服务
@@ -833,52 +866,76 @@ jasonkayzk.github.io,2020-04-05 10:49:47,Linux命令概念
 jasonkayzk.github.io,2020-04-26 20:15:21,使用Docker部署kafka集群
 jasonkayzk.github.io,2020-04-04 10:47:19,网页是如何一夜之间变成黑白的
 jasonkayzk.github.io,2020-03-17 10:50:27,感谢一直以来支持我的那些人
+jasonkayzk.github.io,2022-12-05 19:58:43,mini-redis项目-2-存储层
 jasonkayzk.github.io,2021-11-09 13:24:54,使用C++解释器Cling
 jasonkayzk.github.io,2020-09-02 21:29:11,win10内网穿透实现远程桌面连接
+jasonkayzk.github.io,2022-05-09 22:39:02,C++中使用GoogleTest进行单元测试
+jasonkayzk.github.io,2022-10-22 13:20:42,单机部署autok3s
 jasonkayzk.github.io,2020-09-23 19:34:32,Golang中的context
 jasonkayzk.github.io,1996-07-27 08:00:00,算法:顺时针打印矩阵
+jasonkayzk.github.io,2022-10-30 10:01:24,分享两篇关于函数式编程写的很好的文章
 jasonkayzk.github.io,2020-05-14 19:30:36,使用Gin+xorm实现简单的CRUD
 jasonkayzk.github.io,2019-12-06 18:23:55,Dubbo快速上手案例
 jasonkayzk.github.io,2020-11-08 20:49:52,在Win10下交叉编译Electron项目
 jasonkayzk.github.io,2019-11-21 21:40:32,Java基础总结之三
 jasonkayzk.github.io,1996-07-27 00:00:00,算法:二维数组中的查找
+jasonkayzk.github.io,2022-06-14 13:36:52,ElasticSearch基本使用总结
 jasonkayzk.github.io,2020-09-23 20:06:47,初探Go-WebAssembly
 jasonkayzk.github.io,2021-02-14 13:41:13,Telegram群组、频道、机器人汇总分享
 jasonkayzk.github.io,1996-07-27 08:00:00,算法:二叉树的下一个结点
 jasonkayzk.github.io,2020-03-03 21:45:02,总结一个在技术交流群中解决群友的问题
+jasonkayzk.github.io,2022-02-11 19:44:22,MySQL一致性视图的坑
 jasonkayzk.github.io,2019-11-25 11:21:30,JavaWeb总结之一
 jasonkayzk.github.io,2020-12-17 09:26:03,迁移MongoDB官方Atlas集群中数据
 jasonkayzk.github.io,2021-05-08 08:25:39,Github-Actions自动部署Hexo
 jasonkayzk.github.io,2021-06-24 15:10:29,【转】Nginx的Header中使用下划线时的一个坑
+jasonkayzk.github.io,2022-02-27 11:06:11,深入探讨MySQL查询时字符串尾部存在空格的问题
 jasonkayzk.github.io,1996-07-27 08:00:00,算法:链表中环的入口结点
 jasonkayzk.github.io,2020-04-10 11:49:22,LVS功能配置
 jasonkayzk.github.io,2019-12-03 20:22:54,数据库总结之一
 jasonkayzk.github.io,1996-07-27 00:00:01,算法:矩形覆盖
 jasonkayzk.github.io,2020-12-05 21:08:41,VMWare安装Ubuntu虚拟机
+jasonkayzk.github.io,2022-02-20 11:15:16,使用Rust实现一个双向链表
 jasonkayzk.github.io,2020-06-25 16:04:21,解决提交代码到Github不显示小绿点的问题
+jasonkayzk.github.io,2022-05-28 23:56:16,分享一个在线编译器
+jasonkayzk.github.io,1996-07-27 18:39:08,Start a new phase in my life
+jasonkayzk.github.io,2022-11-30 11:11:51,Rust项目模版
 jasonkayzk.github.io,2021-01-13 10:00:25,AndroidSupportLibrary和AndroidX的区别
 jasonkayzk.github.io,2019-09-24 17:50:25,Kubernetes之Minikube安装与无法获取docker镜像源的解决方法
 jasonkayzk.github.io,2020-12-06 16:21:54,Bash命令自动补全的原理
 jasonkayzk.github.io,2020-04-05 09:07:04,Docker下安装与配置CentOS
 jasonkayzk.github.io,2019-09-14 15:31:24,Java反射基础总结
+jasonkayzk.github.io,2022-11-19 09:45:43,Rust模块组织结构
+jasonkayzk.github.io,2022-12-06 16:00:59,mini-redis项目-4-服务端
+jasonkayzk.github.io,2022-12-06 00:16:29,mini-redis项目-3-连接层
+jasonkayzk.github.io,2022-11-23 10:14:05,Cargo命令及其扩展
+jasonkayzk.github.io,2022-08-07 15:26:24,Some new thoughts
 jasonkayzk.github.io,2020-12-17 20:40:36,Node+Redis实现基于IP的限流策略
 jasonkayzk.github.io,1996-07-27 08:00:00,算法:链表中倒数第k个结点
 jasonkayzk.github.io,2020-02-06 11:00:05,QuickSort总结
+jasonkayzk.github.io,2022-06-22 13:23:04,ES修改索引结构
+jasonkayzk.github.io,2022-07-05 14:13:47,配置Clion中的代码风格
 jasonkayzk.github.io,2020-04-12 14:08:31,负载均衡之keepalived
 jasonkayzk.github.io,2020-01-01 09:12:25,Netty解决通信中的粘包和拆包问题
 jasonkayzk.github.io,2019-09-17 19:30:22,Java Annotation总结
 jasonkayzk.github.io,2019-09-08 19:09:54,给女朋友写小工具的总结之-正则表达式
 jasonkayzk.github.io,2020-11-20 16:23:09,使用jsDelivr加速github资源
+jasonkayzk.github.io,2022-12-22 11:44:56,将图片转为字符图片的Rust实现
 jasonkayzk.github.io,1996-07-27 08:00:00,算法:数字在排序数组中出现的次数
 jasonkayzk.github.io,2021-04-21 15:40:13,使用Uber开源的goleak库进行goroutine泄露检测
 jasonkayzk.github.io,1996-07-27 00:00:04,算法:从尾到头打印链表
 jasonkayzk.github.io,1996-07-27 08:00:00,算法:字符串的排列
+jasonkayzk.github.io,2022-12-16 14:47:19,使用Rust实现布隆过滤器BloomFilter
+jasonkayzk.github.io,2022-08-14 11:06:41,centos7中使用yum安装docker报错解决方法
+jasonkayzk.github.io,2022-12-03 14:19:51,Rust的GRPC实现Tonic
 jasonkayzk.github.io,2020-04-06 12:27:04,Linux软件安装
 jasonkayzk.github.io,2020-11-10 20:39:18,解决okular无法添加注释的问题
+jasonkayzk.github.io,2022-11-28 14:31:24,TOML学习
 jasonkayzk.github.io,2021-02-11 22:04:10,加油2021！
 jasonkayzk.github.io,1996-07-27 08:00:00,算法:和为S的连续正数序列
 jasonkayzk.github.io,2021-03-05 11:15:32,使用Go实现服务端事件推送SSE
 jasonkayzk.github.io,1996-07-27 08:00:00,算法:把数组排成最小的数
+jasonkayzk.github.io,2022-05-05 13:29:05,设置vcpkg默认安装64位库
 jasonkayzk.github.io,2021-08-15 16:20:28,解决Github突然不支持密码访问的问题
 jasonkayzk.github.io,2021-09-05 15:24:47,Docker原理实战-4：容器Container
 jasonkayzk.github.io,2020-09-18 19:20:37,一个用蒙特卡罗方法自动玩2048的仓库
@@ -886,11 +943,13 @@ jasonkayzk.github.io,2021-02-14 14:57:35,Go的中国身份证号校验库
 jasonkayzk.github.io,2020-02-06 22:37:43,Java线程池ThreadPoolExecutor分析与实战
 jasonkayzk.github.io,2020-05-02 16:14:20,使用Aria2搭建你自己的离线下载服务器
 jasonkayzk.github.io,2020-04-16 21:29:57,分享-VIP会员账号在线实时获取平台
+jasonkayzk.github.io,2022-11-17 17:00:19,为Cargo编译的可执行文件增加commit版本号
 jasonkayzk.github.io,2019-10-21 11:12:18,软件工程UML图总结
 jasonkayzk.github.io,2019-09-11 1:49:37,Java并发编程总结-1: ThreadLocal
 jasonkayzk.github.io,2021-06-28 09:22:22,一文看懂Go方法中的值接收器和引用接收器
 jasonkayzk.github.io,1996-07-27 08:00:00,算法:矩阵中的路径
 jasonkayzk.github.io,2021-02-15 14:58:46,使用纯Go实现的MySQL数据库
+jasonkayzk.github.io,2022-10-31 13:46:15,Docker安装Bytebase
 jasonkayzk.github.io,2020-12-08 10:42:28,对抗SSH恶意访问
 jasonkayzk.github.io,2021-06-26 10:19:22,Linux中的chroot命令
 jasonkayzk.github.io,1996-07-27 08:00:00,算法:字符流中第一个不重复的字符
@@ -904,6 +963,7 @@ jasonkayzk.github.io,2021-03-06 20:21:11,一个可以使用文本文字描绘流
 jasonkayzk.github.io,2020-02-25 16:38:54,Fibonacci序列生成算法的优化
 jasonkayzk.github.io,1996-07-27 08:00:00,算法:对称的二叉树
 jasonkayzk.github.io,2020-09-12 19:14:14,【顶】ようこそ、見知らぬ旅人
+jasonkayzk.github.io,2022-08-08 21:13:48,排查tcp连接数不断升高的问题
 jasonkayzk.github.io,1996-07-27 08:00:00,算法:复杂链表的复制
 jasonkayzk.github.io,2020-01-02 17:08:51,SpringBoot集成Swagger
 jasonkayzk.github.io,2020-11-22 14:37:12,在python中使用ssh隧道连接mysql
@@ -918,6 +978,7 @@ jasonkayzk.github.io,2020-03-25 16:44:06,分享一个云盘万能钥匙插件
 jasonkayzk.github.io,2020-01-16 14:41:28,使用Docker容器时添加对外映射端口的方法总结
 jasonkayzk.github.io,2020-03-02 13:28:39,Java的内省技术
 jasonkayzk.github.io,2019-09-23 14:45:34,使用RSS构建你自己的聚合信息
+jasonkayzk.github.io,2022-12-21 10:27:15,JuiceFS使用总结
 jasonkayzk.github.io,1996-07-27 08:00:00,算法:第N个丑数
 jasonkayzk.github.io,2021-08-29 20:26:12,Docker原理实战-1：Namespace
 jasonkayzk.github.io,2019-10-01 23:43:55,为什么在Java中String被设计为不可变
@@ -926,6 +987,8 @@ jasonkayzk.github.io,2021-05-14 11:12:57,Promise中的all、race和any
 jasonkayzk.github.io,2019-11-24 16:39:37,Java集合三-Iterator的Fail-Fast机制总结
 jasonkayzk.github.io,2021-11-09 12:54:30,安装JupyterLab
 jasonkayzk.github.io,2019-12-30 12:34:53,阿里云Redis开发规范
+jasonkayzk.github.io,2022-06-03 12:22:14,浅谈协程
+jasonkayzk.github.io,2022-10-21 23:08:19,单机部署k3s
 jasonkayzk.github.io,2019-10-16 14:48:40,为什么Spring中不推荐使用@Autowired字段注入
 jasonkayzk.github.io,2021-08-01 22:30:09,WLB看似简单，其实很难！
 jasonkayzk.github.io,2020-12-07 11:29:21,Bash命令自动补全实战
@@ -933,6 +996,7 @@ jasonkayzk.github.io,2021-05-26 22:00:37,CentOS7安装minikube
 jasonkayzk.github.io,2020-06-21 20:22:01,最近一个月以来的总结
 jasonkayzk.github.io,1996-07-27 08:00:00,算法:二叉搜索树的第k个结点
 jasonkayzk.github.io,2019-09-13 10:13:28,Java实现的一个原生RPC例子
+jasonkayzk.github.io,2022-11-12 10:27:10,简单实现C++内存分配跟踪
 jasonkayzk.github.io,1996-07-27 08:00:00,算法:用两个栈实现队列
 jasonkayzk.github.io,2020-05-01 13:51:50,Aria2安装与配置
 jasonkayzk.github.io,2019-11-22 14:12:59,Java基础总结之六
@@ -957,15 +1021,19 @@ jasonkayzk.github.io,1996-07-27 08:00:01,算法:旋转数组的最小数字
 jasonkayzk.github.io,1996-07-27 08:00:00,算法:不用加减乘除做加法
 jasonkayzk.github.io,2019-09-26 10:56:22,NIO相关基础篇之操作系统I/O模型
 jasonkayzk.github.io,2019-12-04 10:02:09,MySQL自定义函数
+jasonkayzk.github.io,2022-10-07 15:53:03,这个十一我做了些什么？
 jasonkayzk.github.io,2020-08-28 16:00:13,Github Actions总结
 jasonkayzk.github.io,2020-04-13 09:33:35,负载均衡Nginx-一些常见的问题
 jasonkayzk.github.io,2020-03-03 21:56:04,记一次Github仓库重构
 jasonkayzk.github.io,1996-07-27 08:00:00,算法:表示数值的字符串
 jasonkayzk.github.io,1996-07-27 08:00:00,算法:第一个只出现一次的字符位置
+jasonkayzk.github.io,2022-11-12 14:42:40,分享一个可以学习并部署高可用Postgres的网站CrunchyData
+jasonkayzk.github.io,2022-11-18 11:19:07,Rust中的错误处理
 jasonkayzk.github.io,1996-07-27 08:00:00,算法:连续子数组的最大和
 jasonkayzk.github.io,2020-04-26 19:36:59,为你的Docker瘦身
 jasonkayzk.github.io,2019-12-12 22:41:42,深入剖析Java中的void和java.lang.Void
 jasonkayzk.github.io,2020-10-26 19:50:59,使用mongodb和serverless给你的博客添加点赞吧
+jasonkayzk.github.io,2022-04-30 17:01:31,A method to add string literals in C++
 jasonkayzk.github.io,2019-09-16 14:28:00,Lambda表达式总结
 jasonkayzk.github.io,2019-09-14 00:40:52,IDEA的maven工程读取resource资源文件
 jasonkayzk.github.io,2019-10-10 20:40:24,ElasticSearch之学习篇-1
@@ -976,9 +1044,11 @@ jasonkayzk.github.io,2020-09-18 19:10:08,在Gitee搭建Github Pages
 jasonkayzk.github.io,2021-06-23 14:07:00,CN2网络线路总结
 jasonkayzk.github.io,2021-03-06 19:37:41,Github主页更新了，变得更加酷炫！
 jasonkayzk.github.io,2019-11-23 13:31:19,Java集合一-Collection架构
+jasonkayzk.github.io,2022-05-11 09:44:15,管理Git在本地的远程分支追踪
 jasonkayzk.github.io,2020-01-17 21:30:52,使用Docker部署Redis集群-三主三从
 jasonkayzk.github.io,2021-07-05 15:30:23,在Docker中体验Go1.17中的泛型
 jasonkayzk.github.io,2021-10-31 16:46:39,使用K8S部署最简单的Go应用
+jasonkayzk.github.io,2022-12-16 22:20:44,使用Rust实现跳表Skiplist
 jasonkayzk.github.io,2019-09-25 15:52:54,NIO相关基础篇之JDK
 jasonkayzk.github.io,1996-07-27 08:00:00,算法:整数中1出现的次数
 jasonkayzk.github.io,2019-11-25 10:09:54,IDEA中设置JVM运行参数
@@ -987,16 +1057,21 @@ jasonkayzk.github.io,2021-02-17 14:15:18,那些刻在DNA里的
 jasonkayzk.github.io,2019-11-21 10:39:14,Java基础总结之一
 jasonkayzk.github.io,2020-04-10 19:34:17,分享算法可视化的网站
 jasonkayzk.github.io,2021-03-25 08:46:25,sudo-su和su的区别
+jasonkayzk.github.io,2022-11-05 11:47:56,BTree、B+Tree和LSM-Tree常用存储引擎数据结构总结
+jasonkayzk.github.io,2023-02-20 18:31:41,解决Ubuntu搜狗输入法无法输入中文的问题
 jasonkayzk.github.io,2019-12-03 20:36:03,关于JDK8添加的Spliterator的一些理解
 jasonkayzk.github.io,2020-04-03 15:44:30,ACM集训-STL
+jasonkayzk.github.io,2022-07-01 13:30:07,ELK设置密码
 jasonkayzk.github.io,2020-01-22 20:39:16,EZShare项目总结-2
 jasonkayzk.github.io,2020-04-30 15:47:29,git-cherry-pick教程
 jasonkayzk.github.io,2021-06-24 14:08:15,Linux输出流重定向
+jasonkayzk.github.io,2023-01-15 20:18:56,关于软考的一些总结
 jasonkayzk.github.io,2020-09-18 19:15:31,在Github免费领取你的Mac和Linux终端吧~
 jasonkayzk.github.io,1996-07-27 08:00:00,算法:数据流中的中位数
 jasonkayzk.github.io,2019-09-24 20:38:21,在Linux下配置Docker的相关问题以及工具推荐
 jasonkayzk.github.io,2019-12-06 19:02:30,Dubbo-Admin的部署
 jasonkayzk.github.io,2020-01-10 11:24:27,使用Maven插件在Docker中部署你的Tomcat项目
+jasonkayzk.github.io,2022-02-12 17:15:12,一致性Hash算法总结与应用
 jasonkayzk.github.io,1996-07-27 00:00:03,算法:替换空格
 jasonkayzk.github.io,2021-06-23 13:22:02,【转】指标数据TP50、TP90、TP99、TP999
 jasonkayzk.github.io,2020-03-17 10:43:21,最近一些面试经历的总结
@@ -1010,6 +1085,7 @@ jasonkayzk.github.io,2020-02-27 10:28:22,分享一个反向代理的翻Q网站
 jasonkayzk.github.io,2020-02-24 15:38:47,几种常见排序方法的优化(上)
 jasonkayzk.github.io,1996-07-27 08:00:00,算法:数组中只出现一次的数字
 jasonkayzk.github.io,2019-11-27 14:18:28,Java集合八-Map架构
+jasonkayzk.github.io,2022-12-09 11:57:24,LevelDB使用示例
 jasonkayzk.github.io,2021-01-13 10:29:37,解决Android项目下载Gradle速度极慢的问题
 jasonkayzk.github.io,1996-07-27 08:00:00,算法:扑克牌顺子
 jasonkayzk.github.io,2021-03-25 20:45:30,计算机内存综述
@@ -1018,10 +1094,12 @@ jasonkayzk.github.io,2020-03-25 14:48:22,Java中的反射真的可以获取泛�
 jasonkayzk.github.io,2020-02-06 22:51:45,怎么保证Redis和DB中的数据一致
 jasonkayzk.github.io,2021-06-16 15:19:07,实时流数据库PipelineDB介绍
 jasonkayzk.github.io,2021-10-10 13:19:14,Rust实现WebAssembly初窥
+jasonkayzk.github.io,2022-11-13 14:59:35,记录服务器迁移Debian
 jasonkayzk.github.io,1996-07-27 08:00:00,算法:二叉搜索树与双向链表
 jasonkayzk.github.io,2020-05-22 20:50:15,Postman中Tests脚本总结
 jasonkayzk.github.io,2020-12-05 21:37:43,【转】在AMD处理器上通过VMWare15安装MacOS
 jasonkayzk.github.io,2019-09-06 14:05:15,有关博客源代码如何在Github上保存的相关总结
+jasonkayzk.github.io,2022-05-04 22:07:13,C++库之fmt
 jasonkayzk.github.io,2020-02-05 16:22:43,最近いろいろの感想
 jasonkayzk.github.io,2021-05-31 08:47:34,配置Ingress处理TLS传输
 jasonkayzk.github.io,2020-10-23 18:11:08,使用Github-Actions同步github和gitee仓库
@@ -1036,22 +1114,28 @@ jasonkayzk.github.io,2019-12-05 14:07:35,Java基础总结之八
 jasonkayzk.github.io,2019-12-30 10:31:43,JVM堆内存溢出后其他线程可否继续工作
 jasonkayzk.github.io,2020-03-10 10:51:33,深入理解AQS实现原理
 jasonkayzk.github.io,2019-09-01 22:29:38 #文章生成时间，一般不改，当然也可以任意修改,张小凯的博客开通啦!  #文章页面上的显示名称，一般是中文
+jasonkayzk.github.io,2022-10-08 23:34:40,mit-6.824 lab1 MapReduce总结
+jasonkayzk.github.io,2023-01-14 21:01:09,全身疼痛、博客又停更
 jasonkayzk.github.io,2020-10-01 21:55:24,【转】ShadowsocksR部署
 jasonkayzk.github.io,2021-08-29 20:26:44,Docker原理实战-2：Cgroups
 jasonkayzk.github.io,1996-07-27 08:00:00,算法:正则表达式匹配
+jasonkayzk.github.io,2022-11-29 10:23:46,Rust中Future执行底层探秘
 jasonkayzk.github.io,2020-03-17 10:50:09,关于协程的一些思考
 jasonkayzk.github.io,2020-02-21 09:06:54,关于写代码这几年的一些感悟和总结
+jasonkayzk.github.io,2022-05-03 17:42:38,What is object slicing?
 jasonkayzk.github.io,2020-03-02 12:36:42,实现一个简单的SpringIOC容器
 jasonkayzk.github.io,1996-07-27 08:00:00,算法:二进制中1的个数
 jasonkayzk.github.io,2021-05-30 19:42:48,国内在minikube中添加ingress-nginx插件
 jasonkayzk.github.io,2019-10-16 19:30:51,Dockerfile学习
 jasonkayzk.github.io,1996-07-27 08:00:00,算法:栈的压入、弹出序列
+jasonkayzk.github.io,2022-10-30 20:50:56,共识算法的前生今世总结
 jasonkayzk.github.io,2020-06-25 20:47:19,golang并发素数筛-并发真的会快吗？
 jasonkayzk.github.io,2020-09-29 23:50:12,Golang中的进度条使用
 jasonkayzk.github.io,2021-01-27 17:35:04,cmake生成动态链接库dll
 jasonkayzk.github.io,2020-05-02 17:43:02,解决Aria2的BT下载速度慢或没速度的问题
 jasonkayzk.github.io,2021-03-28 20:59:08,使用Go打包二进制React单页面应用
 jasonkayzk.github.io,2021-03-10 16:58:31,CentOS7安装MongoDB
+jasonkayzk.github.io,2022-11-17 13:49:07,Rust从panic中恢复
 jasonkayzk.github.io,2021-05-16 21:45:31,在VMWare中部署你的K8S集群
 jasonkayzk.github.io,2019-09-12 16:15:45,几种常见的开源协议总结
 jasonkayzk.github.io,2019-09-04 21:42:35,Ubuntu下安装IDEA
@@ -1064,6 +1148,7 @@ jasonkayzk.github.io,2019-11-22 19:28:07,"将你的博客文章封面修改为�
 jasonkayzk.github.io,2020-12-19 11:28:08,使用MongoDB查找最近阅读最多的文章
 jasonkayzk.github.io,2021-05-07 22:10:45,Ubuntu工作区（workspace）介绍
 jasonkayzk.github.io,2020-01-14 22:31:51,使用Docker-Maven插件部署Tomcat
+jasonkayzk.github.io,2022-12-05 16:43:55,mini-redis项目-1-简介
 jasonkayzk.github.io,1996-07-27 08:00:00,算法:包含min函数的栈
 jasonkayzk.github.io,2019-10-31 21:37:54,双十一任务脚本
 jasonkayzk.github.io,2019-11-22 10:40:32,Java基础总结之四
@@ -1071,7 +1156,9 @@ jasonkayzk.github.io,2020-05-14 21:16:31,使用Protobuf3和grpc实现RPC调用
 jasonkayzk.github.io,2020-01-16 14:24:39,解决Mybatis分页插件PageHelper的Interceptor不匹配的问题
 jasonkayzk.github.io,2020-02-10 12:15:05,Redis实现分布式Session
 jasonkayzk.github.io,2021-03-06 21:05:10,【转】浅谈vpn、vps、Proxy以及shadowsocks之间的联系和区别
+jasonkayzk.github.io,2022-10-24 14:07:53,使用Nginx代理TCP或UDP
 jasonkayzk.github.io,2020-05-10 14:19:09,Windows下添加cmder右键选项
+jasonkayzk.github.io,2022-02-11 10:03:44,一些学习Rust的总结
 jasonkayzk.github.io,1996-07-27 08:00:00,算法:机器人的运动范围
 jasonkayzk.github.io,1996-07-27 08:00:00,算法:二叉树的深度
 jasonkayzk.github.io,2020-04-13 09:30:59,负载均衡Nginx
@@ -1080,7 +1167,11 @@ jasonkayzk.github.io,2019-10-04 19:14:55,在单台服务器部署多个ElasticSe
 jasonkayzk.github.io,2020-02-05 23:28:43,Redis面试相关问题
 jasonkayzk.github.io,2020-02-28 18:54:48,分享一个在线P2P文件传送网站(支持视频流)
 jasonkayzk.github.io,2021-06-13 10:06:46,流量编排系统Easegress初探
+jasonkayzk.github.io,2023-01-02 13:45:40,阳了之后的感受以及新的生活
 jasonkayzk.github.io,2021-03-25 10:19:11,操作系统内存管理简述
+jasonkayzk.github.io,2022-06-01 21:16:20,浅谈函数调用
+jasonkayzk.github.io,2022-12-20 15:06:00,使用Rust实现跳表LruCache
+jasonkayzk.github.io,2022-12-21 15:03:39,【转】使用telnet测试端口连通性
 jasonkayzk.github.io,2020-05-03 17:06:56,Git Worktree的使用
 jasonkayzk.github.io,2019-11-21 19:59:32,Java基础总结之二
 jasonkayzk.github.io,2020-10-23 21:46:58,Chrome扩展入门
@@ -1094,6 +1185,7 @@ jasonkayzk.github.io,2020-04-26 20:07:32,使用Docker部署zookeeper集群
 jasonkayzk.github.io,2021-06-16 09:44:24,学习Rust两周后我的一些感想
 jasonkayzk.github.io,1996-07-27 08:00:00,算法:数组中出现次数超过一半的数字
 jasonkayzk.github.io,2019-09-04 21:30:28,Ubuntu下安装Typora
+jasonkayzk.github.io,2022-10-07 16:23:20,用TypeScript写了一个Mock Protobuf的工具
 jasonkayzk.github.io,1996-07-27 08:00:03,算法:跳台阶
 jasonkayzk.github.io,1996-07-27 08:00:00,算法:圆圈中最后剩下的数
 jasonkayzk.github.io,1996-07-27 08:00:00,算法:平衡二叉树
@@ -1106,9 +1198,11 @@ jasonkayzk.github.io,2021-02-21 19:42:08,使用WifiAudio让Android机充当无�
 jasonkayzk.github.io,2020-07-11 21:38:47,使用装饰器模式给你的异步回调设置超时重试
 jasonkayzk.github.io,1996-07-27 08:00:02,算法:重建二叉树
 jasonkayzk.github.io,2021-08-29 20:27:09,Docker原理实战-3：UnionFS
+jasonkayzk.github.io,2022-11-23 13:43:26,Rust中的比较
 jasonkayzk.github.io,2021-04-18 13:48:14,最近赶毕业论文的一些感受
 jasonkayzk.github.io,2019-12-24 22:37:24,Java面试题总结之一
 jasonkayzk.github.io,2020-01-17 22:30:29,[转]redis常用配置redis.conf说明
+jasonkayzk.github.io,2022-11-24 17:37:17,Rust反射之Any
 jasonkayzk.github.io,2020-02-28 23:06:00,记一次面试前和阿里员工交流感悟
 jasonkayzk.github.io,2020-12-07 15:28:10,cURL命令转代码工具
 jasonkayzk.github.io,2019-10-03 09:52:15,ElasticSearch为什么在高版本移除映射类型
@@ -1116,12 +1210,17 @@ jasonkayzk.github.io,2020-01-16 11:08:15,使用Docker搭建图片服务器
 jasonkayzk.github.io,1996-07-27 08:00:00,算法:二叉树中和为某一值的路径
 jasonkayzk.github.io,2020-11-13 10:38:44,两行Nginx代码获取访问者的公网IP
 jasonkayzk.github.io,2021-01-15 11:15:57,分享一个在线协作白板网站
+jasonkayzk.github.io,2022-05-11 09:49:54,C++编译器优化中的RVO和NRVO
 jasonkayzk.github.io,2020-05-03 10:57:45,Git Stash用法总结
 jasonkayzk.github.io,2020-04-30 11:42:19,推荐几个静态资源托管网站
+jasonkayzk.github.io,2022-05-08 13:44:48,深入理解C++中的move和forward
 jasonkayzk.github.io,2020-01-12 11:52:11,首次装机全纪录
 jasonkayzk.github.io,2021-03-04 08:46:16,关于建筑设计
+jasonkayzk.github.io,2022-10-23 13:47:07,10分钟搞懂CAP理论笔记
 jasonkayzk.github.io,2019-10-10 21:32:56,"关于使用Git时push/pull超时, 以及Github访问慢的解决办法"
+jasonkayzk.github.io,2022-12-07 16:20:06,mini-redis项目-5-客户端
 jasonkayzk.github.io,2019-12-04 10:02:18,MySQL触发器
+jasonkayzk.github.io,2022-10-26 09:04:49,【翻译】Go内存模型
 jasonkayzk.github.io,2020-11-04 11:21:53,手把手教你使用Electron开发新浪微博免登录图片下载器
 jasonkayzk.github.io,2019-09-28 10:52:18,YAML文件总结
 jasonkayzk.github.io,2021-10-20 10:40:46,Rust中的PhantomType
@@ -1130,20 +1229,27 @@ jasonkayzk.github.io,2020-03-04 17:07:47,Java线程池ThreadPoolExecutor分析�
 jasonkayzk.github.io,2021-08-15 15:23:05,BI工具Redash体验
 jasonkayzk.github.io,1996-07-27 08:00:00,算法:剪绳子
 jasonkayzk.github.io,2019-11-27 10:05:10,Java集合六-Stack
+jasonkayzk.github.io,2023-01-02 14:01:15,memos部署总结
 jasonkayzk.github.io,2019-10-16 13:43:19,Maven打包java11报错Fatal error compiling的解决办法
+jasonkayzk.github.io,2022-10-19 21:56:11,跨平台文件同步工具syncthing
+jasonkayzk.github.io,2022-05-29 00:23:27,C++主流编译器总结
 jasonkayzk.github.io,2019-09-26 16:29:59,NIO相关基础篇之实战
 jasonkayzk.github.io,2020-03-09 10:35:21,分享几个直播源地址
 jasonkayzk.github.io,2021-01-21 17:06:57,使用Go构建GraphQL API
 jasonkayzk.github.io,2020-01-15 17:25:08,mybatis-generator逆向工程总结
 jasonkayzk.github.io,2019-09-14 22:52:14,Java并发总结-3-ThreadLocalRandom类
+jasonkayzk.github.io,2023-02-26 17:24:16,推荐一些台式机共享音视频的软件
 jasonkayzk.github.io,1996-07-27 08:00:00,算法:树的子结构
 jasonkayzk.github.io,1996-07-27 08:00:00,算法:序列化二叉树
+jasonkayzk.github.io,2022-08-14 22:36:10,解决Cargo下载过慢的问题
 jasonkayzk.github.io,2020-02-25 17:37:53,并发排序从ForkJoin到Stream
 jasonkayzk.github.io,2020-04-16 21:45:34,分享-两个视频在线解析网站
 jasonkayzk.github.io,2021-06-27 18:47:00,一个Go实现的终端PPT展示库：slides
+jasonkayzk.github.io,2022-10-08 22:58:15,我决定用 Rust 构建我的下一个开源项目
 qingbob.com,2020-07-08,【译文】【前端架构鉴赏 02】：可拓展 Angular 2 架构
 qingbob.com,2012-02-29,【原创翻译】深入理解javascript事件处理函数绑定三部曲（二）——传统处理函数绑定模型
 qingbob.com,2020-06-30,【译文】【前端架构鉴赏 01】：Angular 架构模式与最佳实践
+qingbob.com,2023-02-12,NodeJS 实战系列：DevOps 尚未解决的问题
 qingbob.com,2011-01-12,"深入浅出CSS3：background-clip,background-origin和border-image教程"
 qingbob.com,2020-06-16,前端架构 101（五）：从 Flux 进化到 Model-View-Presenter
 qingbob.com,2014-06-16,让我们再聊聊浏览器资源加载优化
@@ -1151,6 +1257,7 @@ qingbob.com,2020-06-09,前端架构 101（四）：MVC的不足与Flux的崛起
 qingbob.com,2018-12-17,Mobx 与 Redux 的性能对比
 qingbob.com,2014-02-28,从垃圾回收算法到Object Pool
 qingbob.com,2017-04-20,图文并茂的Visual Studio Code快捷键技巧大全
+qingbob.com,2022-05-24,做一个能对标阿里云的前端APM工具（下）
 qingbob.com,2021-07-25,SQL Server 查询语句优化入门
 qingbob.com,2017-07-12,无懈可击的浏览器缓存方案：关于思路，细节，ServiceWorker，以及HTTP/2
 qingbob.com,2013-12-20,Promise/A的误区以及实践
@@ -1161,12 +1268,15 @@ qingbob.com,2013-08-10,关于Unicode和URL encoding入门的一切以及注意�
 qingbob.com,2013-1-20,从MVC模式在前端开发中的局限性谈起
 qingbob.com,2019-05-18,深入理解 Webpack 打包分块（上）
 qingbob.com,2020-06-02,前端架构 101（一）：在谈论它们之前我们需要达成的共识
+qingbob.com,2022-10-27,重塑影响力
 qingbob.com,2012-03-01,用最通俗易懂的代码帮助新手理解javascript闭包
 qingbob.com,2016-01-23,【译文】了解XSS攻击
 qingbob.com,2010-11-20,今天遇到的jquery $.ajax()取xml数据的小问题
 qingbob.com,2017-11-05,深入React的生命周期(上)：出生(Mount)
 qingbob.com,2019-07-21,代码与质量的思考与随笔
 qingbob.com,2014-10-14,移动开发的那些事（上）：深入概念
+qingbob.com,2023-01-05,人肉智能#002：为人性服务
+qingbob.com,2022-10-18,测试覆盖率治不好你的精神内耗
 qingbob.com,2017-06-08,使用fetch接口post数据时记得指定 Content-Type
 qingbob.com,2013-05-12,谈javascript变量声明
 qingbob.com,2017-07-05,面试系列之二：你真的了解React吗（上）如何设计组件以及重要的生命周期
@@ -1179,6 +1289,7 @@ qingbob.com,2011-04-09,jQuery动画高级用法（上）——详解animation中
 qingbob.com,2019-01-12,不如自己写一个 schema 类库吧
 qingbob.com,2018-10-12,【译文】给构建大型 redux 应用的五个建议
 qingbob.com,2013-05-18,答寒冬的面试题
+qingbob.com,2022-09-06,昂贵的质量
 qingbob.com,2021-06-08,开源社区的暗面
 qingbob.com,2013-05-04,Javascript - 从prototype漫谈到继承(1)
 qingbob.com,2019-12-28,如果 Angular 组件无法更新，这篇文章能帮到你
@@ -1199,12 +1310,15 @@ qingbob.com,2018-11-14,用 100 行代码提升 10 倍的性能
 qingbob.com,2022-01-11,去年做 Tech Leader 犯过最大的错
 qingbob.com,2018-01-03,React + Redux 性能优化（一）：理论篇
 qingbob.com,2016-05-13,"【短篇】不知不觉,Chrome又做了一个优化"
+qingbob.com,2022-05-18,人肉智能#001：代码即权力
 qingbob.com,2016-12-27,【短篇】小心字符串中的转义字符
 qingbob.com,2013-02-27,从onload和DOMContentLoaded谈起
 qingbob.com,2020-06-30,【译文】【前端架构鉴赏 03】：Angular 与 MVP 模式
+qingbob.com,2023-01-29,NodeJS 实战系列：如何设计 try catch
 qingbob.com,2018-06-24,"不要用JWT替代session管理（上）：全面了解Token,JWT,OAuth,SAML,SSO"
 qingbob.com,2010-12-28,【原创翻译】深入理解CSS盒子模型
 qingbob.com,2018-03-21,React + Redux 性能优化（二）工具篇： Immutablejs
+qingbob.com,2022-08-23,理解流程
 qingbob.com,2019-01-15,仪表盘场景前端优化经验谈
 qingbob.com,2021-08-24,小心 Serverless
 qingbob.com,2019-05-18,深入理解 Webpack 打包分块（下）
@@ -1222,21 +1336,16 @@ qingbob.com,2013-06-24,你真的了解setTimeout和setInterval吗？
 qingbob.com,2017-02-13,"Flux与Redux背后的设计思想(一)：Command Bus, Event Bus, Service Bus"
 qingbob.com,2017-03-28,Webpack 速成
 qingbob.com,2019-09-07,微前端说明书
+qingbob.com,2022-11-21,Redux 的困扰与如何技术选型
 qingbob.com,2020-06-16,前端架构 101（六）：整洁（Clean Architecture）架构是归宿
 qingbob.com,2020-06-02,前端架构 101（二）： MVC 初探
 qingbob.com,2019-06-09,一篇来自前端同学对后端接口的吐槽
 qingbob.com,2012-02-08,【原创翻译】生动详细解释javascript的冒泡和捕获，包懂包会
+qingbob.com,2023-02-25,人肉智能#003：为什么 Instagram 曾经值得尊敬
 qingbob.com,2017-07-04,面试系列之一：关于前端面试算法的一些建议
 qingbob.com,2021-08-24,拥抱原则与面对现实
-cyril3.github.io,2018-02-21 01:12:10 +0800,说看就看的日出
-cyril3.github.io,2020-05-20 22:45:00 +0800,今非昔比的书店
-cyril3.github.io,2018-01-15 20:45:00 +0800,Linux进程间通信概览
-cyril3.github.io,2020-05-17 10:53:00 +0800,修复 Linux 中的一个噪音问题
-cyril3.github.io,2018-07-07 22:00:00 +0800,微光
-cyril3.github.io,2019-12-20 20:00:00 +0800,使用 IAR Embedded Workbench IDE 做单元测试
-cyril3.github.io,2020-05-18 11:31:00 +0800,Put my cellphone away
-cyril3.github.io,2015-02-19 02:12:10 +0800,三年牡丹
-cyril3.github.io,2020-01-02 19:50:00 +0800,2020年的新年碎碎念
+qingbob.com,2022-03-15,做一个能对标阿里云的前端APM工具（上）
+qingbob.com,2022-04-12,帮助团队成长是唯一的出路
 hijiangtao.github.io,2019-01-20,为前端工程师准备的 Flutter 入门指南
 hijiangtao.github.io,2017-11-10,\[译\] 掌握 Koa 中间件
 hijiangtao.github.io,2018-08-21,\[译\] JavaScript 引擎基础：原型优化
@@ -1254,7 +1363,10 @@ hijiangtao.github.io,2019-05-08,Google I/O 2019 - Flutter for Web
 hijiangtao.github.io,2018-01-23,\[译\] 从1.8万篇文章中脱颖而出45个最棒的 React.js 学习指南（2018版）
 hijiangtao.github.io,2020-08-01,十年前的大撤退会在 TikTok 身上重演吗
 hijiangtao.github.io,2017-04-14,用 ES2015 实现一个简单的力导向可视化图库
+hijiangtao.github.io,2022-05-29,货币制度：货币、供给与中央银行
 hijiangtao.github.io,2014-02-14,jdk安装与配置教程
+hijiangtao.github.io,2022-12-25,网络安全科普：详解 HTTPS 与 TLS
+hijiangtao.github.io,2022-11-16,网络安全科普：奇妙的 SSL/TLS 证书（进阶篇）
 hijiangtao.github.io,2018-06-17,\[译\] JavaScript 引擎基础：Shapes 和 Inline Caches
 hijiangtao.github.io,2020-02-15,组合 a 标签与 canvas 实现图片资源的安全下载
 hijiangtao.github.io,2014-02-18,Hadoop1.2.1伪分布式升级全分布式集群改装笔记
@@ -1262,6 +1374,7 @@ hijiangtao.github.io,2014-02-07,2014年美国数学建模题目及翻译
 hijiangtao.github.io,2019-08-25,JavaScript 模块化方案总结
 hijiangtao.github.io,2019-03-21,动态创建 Web Worker 实践指南
 hijiangtao.github.io,2019-02-24,从零开始学习时空数据可视化（序）
+hijiangtao.github.io,2022-05-11,香港联系汇率制度
 hijiangtao.github.io,2021-12-29,2021年终总结
 hijiangtao.github.io,2018-12-22,Let's GAN 前传：简单聊聊人脸识别
 hijiangtao.github.io,2019-01-17,让我们在2019年重新认识 Flutter
@@ -1272,12 +1385,15 @@ hijiangtao.github.io,2020-12-01,Performance 与 Web Vitals 介绍
 hijiangtao.github.io,2020-05-04,HTML Drag/Drop API 介绍
 hijiangtao.github.io,2020-12-06,2020，你能再给我写封信吗？
 hijiangtao.github.io,2017-12-23,如何以正确的姿态让@微信官方给我戴一个圣诞帽与技术实现原理剖析
+hijiangtao.github.io,2022-12-14,新型冠状病毒感染日记暨读者朋友QA发布会
 hijiangtao.github.io,2019-08-31,webpack 基础配置摘要
 hijiangtao.github.io,2017-07-31,\[译\] WebAssembly FAQ - 常见疑惑与解答
 hijiangtao.github.io,2018-08-09,谈谈 App Shell 与 Skeleton Screen 实现
+hijiangtao.github.io,2022-11-24,食物储备清单
 hijiangtao.github.io,2019-06-19,造砖指南
 hijiangtao.github.io,2020-07-01,踏入社会这两年
 hijiangtao.github.io,2019-05-28,Rust学习笔记 - 变量、数据类型与控制流
+hijiangtao.github.io,2022-11-16,网络安全科普：奇妙的 SSL/TLS 证书（基础篇）
 hijiangtao.github.io,2021-09-21,TypeScript 装饰器介绍与示例教程
 hijiangtao.github.io,2020-12-25,回复2020的信件：单调生活狂想曲
 hijiangtao.github.io,2018-12-24,感谢2018所给予的这些
@@ -1302,12 +1418,16 @@ hijiangtao.github.io,2017-08-03,如何监听页面 DOM 变动并高效响应
 hijiangtao.github.io,2019-08-31,JavaScript 考古史闲聊
 hijiangtao.github.io,2019-07-05,Diff ECMAScript 2019
 hijiangtao.github.io,2020-01-16,鼠标事件基础回顾
+hijiangtao.github.io,2022-07-07,前端开发中的流程自动化与提效实践
 hijiangtao.github.io,2016-12-31,总有那么一刻让我回忆起，不说再见这一年
 hijiangtao.github.io,2020-08-04,RxJS Subject 及其变体
 hijiangtao.github.io,2014-03-23 23:00:00,Linux环境下RHadoop配置笔记
 hijiangtao.github.io,2014-05-10 15:00:00,Spark的单机部署与测试笔记
+hijiangtao.github.io,2022-03-26,防疫日记
 hijiangtao.github.io,2021-04-13,Service Worker 实践指南
 hijiangtao.github.io,2016-04-01,时空数据可视分析与可视化读书笔记
+hijiangtao.github.io,2022-04-05,十问十答，从公募基金年报中读懂未来
+hijiangtao.github.io,2022-06-11,面向微前端，谈谈 JavaScript 隔离沙箱机制的古往今来
 hijiangtao.github.io,2016-11-07,Visual Comparison of Customer Stickiness in Retail Stores
 hijiangtao.github.io,2014-08-29 20:00,"Dark-Tech, A New Hexo Theme"
 hijiangtao.github.io,2019-09-19,Flat、Gouraud、Phong Shading 着色方法对比
@@ -1320,6 +1440,8 @@ hijiangtao.github.io,2015-01-03 12:00,你看看，这一年
 hijiangtao.github.io,2014-04-05 19:00:00,D3.js学习笔记：简单条形图制作
 hijiangtao.github.io,2018-11-16,JavaScript 基础：Babel 转译 class 过程窥探
 hijiangtao.github.io,2017-07-09,知识点整理 - 前端涉及的各种像素概念以及 viewport 汇总
+hijiangtao.github.io,2022-03-23,这段故事到这里就该结束了
+hijiangtao.github.io,2022-12-30,2022年终总结
 hijiangtao.github.io,2021-05-22,希望
 hijiangtao.github.io,2021-10-23,我和他一个月了
 hijiangtao.github.io,2021-07-24,记录一下 npx 的使用场景
@@ -1328,6 +1450,7 @@ hijiangtao.github.io,2017-05-03,"Three.js 入门与扫盲-基础结构,坐标系
 hijiangtao.github.io,2018-01-12,校招结束，谈谈我对第一份工作的认识
 hijiangtao.github.io,2020-01-13,响应式编程入门指南 - 通俗易懂 RxJS
 hijiangtao.github.io,2018-07-21,\[译\] JavaScript 打怪升级：你还可以这样用 Class 来重构项目代码
+hijiangtao.github.io,2022-10-09,TLS/ESNI/ECH/DoT/DoH/JA3 - 谈谈 HTTPS 网络下浏览体验安全性的最后缝隙
 hijiangtao.github.io,2019-04-12,社交网络配图安全指南
 hijiangtao.github.io,2016-10-01,\[译\] Vue.js 2.0 Introduction
 hijiangtao.github.io,2016-11-10,Learning in IEEE VIS 2016
@@ -1347,6 +1470,7 @@ hijiangtao.github.io,2013-12-21,还有十天，再见2013！
 hijiangtao.github.io,2019-06-04,Rust学习笔记 - 错误处理
 hijiangtao.github.io,2017-08-20,HTML5 History API 和 Location 对象剖析
 hijiangtao.github.io,2020-07-12,与 TypeScript 相关的一些记录
+hijiangtao.github.io,2021-12-19,恋爱观察日记
 hijiangtao.github.io,2020-01-17,关于 Angular NgZone 的一些介绍
 hijiangtao.github.io,2017-07-02,知识点整理 - Redux 介绍与基础
 hijiangtao.github.io,2014-02-17,Hadoop1.2.1伪分布模式安装教程
@@ -1410,6 +1534,7 @@ knightyun.github.io,2018-12-08,电脑固态硬盘接口辨析
 knightyun.github.io,2020-11-29,Redux 主要知识学习总结
 knightyun.github.io,2020-01-10,手机端（安卓）安装 Kali Linux 系统详细教程
 knightyun.github.io,2020-03-09,JavaScript与二进制数据的恩怨情仇
+knightyun.github.io,2022-07-17,SSH协议中隧道与代理的用法详解
 knightyun.github.io,2018-03-27,Markdown 简明教程
 knightyun.github.io,2020-05-23,提升开发效率的 Chrome 开发者工具快捷键参考
 knightyun.github.io,2020-04-15,Kali Linux系统设置中文语言环境
@@ -1818,16 +1943,20 @@ blog.biezhi.me,2018-10-27,不得不谈的限流算法
 blog.biezhi.me,2017-07-21,分享我常用的 Chrome 插件
 blog.biezhi.me,2018-10-25,Golang 中该使用指针类型还是值类型？
 www.cnfeat.com,2015-01-23,你想成为珠海青年空间的一员吗？
+www.cnfeat.com,2016-05-10,避免清单式写作
 www.cnfeat.com,2014-02-21,《冰雪奇缘》猜想
 www.cnfeat.com,2014-06-30 16:59:10,《小强升职记》：简单易懂可用的时间管理书（附修改建议）
 www.cnfeat.com,2014-08-30,珠海这座城（一）
 www.cnfeat.com,2017-08-25,《风格与创造力》 ：如何用认知科学重新定义设计？
 www.cnfeat.com,2014-11-02,我曾经跨过山和大海，也穿过人山人海
+www.cnfeat.com,2016-04-08,我的极简 Markdown 编辑器
 www.cnfeat.com,2017-08-16,高阶学习者的自修法之王云五
 www.cnfeat.com,2014-10-14,如果你有两个选择，就选择较难的那个
 www.cnfeat.com,2017-05-13,《摔跤吧！爸爸》：红蓝对垒，为何就是红方胜算大？
 www.cnfeat.com,2014-02-20,千字文第10天总结
+www.cnfeat.com,2017-09-01,王阳明：如何生成智者心理表征？
 www.cnfeat.com,2014-10-31,如果盐失去了咸味，还有什么可以补偿的呢？
+www.cnfeat.com,2021-07-29,无限创作空间的基本
 www.cnfeat.com,2014-09-11,写字的平常心
 www.cnfeat.com,2014-08-11,《十二道锋味》:以认真的态度吐槽你(5)「多图」
 www.cnfeat.com,2014-11-01,十月总结：时间不等你
@@ -1859,6 +1988,8 @@ www.cnfeat.com,2014-05-12 22:52:39,个人知识管理的方法
 www.cnfeat.com,2018-05-29,笨方法学习周报 23W：去时间源头并不一定让你更牛逼
 www.cnfeat.com,2014-07-10 11:45:02,蓝海！蓝海！——给人保的建议（1）
 www.cnfeat.com,2017-06-16,如何写好离职工作交接文档？
+www.cnfeat.com,2016-03-03,最不能容忍的就是自己那种心智的停滞
+www.cnfeat.com,2017-08-14,写作进阶的 4 个秘密
 www.cnfeat.com,2017-08-10,《设计认知：设计中的认知科学》：善用心智影像，激发认知创造
 www.cnfeat.com,2015-07-3,隔日追忆|极简写作训练日志（2）
 www.cnfeat.com,2014-12-23,我要设计一张我想要的传单
@@ -1867,13 +1998,17 @@ www.cnfeat.com,2014-04-11,找到适合自己的方法学英语
 www.cnfeat.com,2014-08-14,一次问答
 www.cnfeat.com,2014-08-18,经验:我是怎么找电子书的
 www.cnfeat.com,2014-09-25,实操：个人品牌的构建和改造（一）
+www.cnfeat.com,2017-01-05,边缘网站（Edge.com）年度大问题
 www.cnfeat.com,2017-09-11,卡片快速写作十原理
 www.cnfeat.com,2018-10-17,致股东信 2018
 www.cnfeat.com,2014-10-19,《拓展思维妙法》：先从改变生活空间开始
 www.cnfeat.com,2014-03-18,《把时间当作朋友》：值得反复看几遍的书
+www.cnfeat.com,2016-03-06,无限的清单
 www.cnfeat.com,2014-03-26,为什么应该好好读一读关于时间和思维的书——《暗时间》
 www.cnfeat.com,2014-02-18,《藏地白皮书》：遇见一阵穿堂风
+www.cnfeat.com,2017-08-05,创造者司马贺的简单生活
 www.cnfeat.com,2014-03-27,如何购买到性价比高的东西——我是如何选择机械键盘的
+www.cnfeat.com,2017-08-11,司马贺谈论中国的腐败现象
 www.cnfeat.com,2014-04-02,北京印象（一）
 www.cnfeat.com,2018-07-01,笨方法学习周报 26W：优秀的教育应鼓励学生投入大量时间去创造
 www.cnfeat.com,2014-12-07,红星黑苏：进击的二锅头
@@ -1885,6 +2020,7 @@ www.cnfeat.com,2014-07-12 14:07:24,「家福乐购」到底是个什么东西？
 www.cnfeat.com,2017-08-26,创造力四问
 www.cnfeat.com,2014-11-16,每天起床的时候，争取变得比昨天更聪明一点
 www.cnfeat.com,2018-10-22,笨方法学习周报 40W：写《致股东信 2018》有感
+www.cnfeat.com,2022-11-22,自我生产力对谈：阅读篇
 www.cnfeat.com,2014-06-06 09:31:26,经验之谈：我是如何做到每天写一千字的（3）
 www.cnfeat.com,2014-07-23 21:21:58,胡说八道
 www.cnfeat.com,2018-10-08,笨方法学习周报 39W：用功不求太猛，但求有恒
@@ -1898,7 +2034,9 @@ www.cnfeat.com,2019-07-06,学习周报的基本
 www.cnfeat.com,2014-12-27,写在2015之前
 www.cnfeat.com,2014-06-03,「每天一千字改变自己」微信群规则及相关指引（更新至2014年6月9日）
 www.cnfeat.com,2014-08-10,《十二道锋味》:以认真的态度吐槽你(4)「多图」
+www.cnfeat.com,2021-07-08,我是一名写作者
 www.cnfeat.com,2017-12-13,卡尔维诺：未来文学应该保存哪 6 种价值观？
+www.cnfeat.com,2022-09-26,养育的基本 2022版
 www.cnfeat.com,2014-08-26,《悉达多》：爱赌博的人为什么那么小气？
 www.cnfeat.com,2014-10-10,老白小黑固态硬盘升级记
 www.cnfeat.com,2017-10-18,我的写作教练阳志平
@@ -1914,39 +2052,54 @@ www.cnfeat.com,2018-01-19,笨方法读书原则 23 条，送给想写好读书�
 www.cnfeat.com,2015-11-11,女友比自己小四岁是怎样的体验?
 www.cnfeat.com,2014-02-10,千字文的开始
 www.cnfeat.com,2018-03-14,埃隆·马斯克的跨学科实践：设计特斯拉
+www.cnfeat.com,2016-04-09,苹果客服告诉我的 Mac 提速技巧
 www.cnfeat.com,2014-11-04,机械键盘入手记
 www.cnfeat.com,2014-03-17,一座城市的记忆
 www.cnfeat.com,2018-09-13,笨方法学习周报 37W：天下事，有所激有所逼者成其半
+www.cnfeat.com,2021-07-08,我是一名写作者
 www.cnfeat.com,2014-12-17,做一份30字的简历
 www.cnfeat.com,2014-08-05,奥卡姆剃刀定律，你可以去死了（下）
 www.cnfeat.com,2019-01-28,《笨方法学写作》2.0 更新完毕
 www.cnfeat.com,2014-06-15 09:38:42,真正的酸奶——酸奶的理想国（2）
+www.cnfeat.com,2017-08-02,司马贺与他的认知学徒
 www.cnfeat.com,2014-12-20,假如我是他
 www.cnfeat.com,2014-10-12,如果荒谬是有颜色的（二）
 www.cnfeat.com,2014-08-02,七月总结:我不愿原地踏步
 www.cnfeat.com,2018-06-16,向纳博科夫学写作:卡片创作法
+www.cnfeat.com,2016-04-20,诗与歌的相遇
 www.cnfeat.com,2015-11-09,如何用「断舍离」应对信息过载？
 www.cnfeat.com,2014-06-08 09:31:26,经验之谈：我是如何做到每天写一千字的（5）
+www.cnfeat.com,2022-11-12,《日课一卡工具箱》发布，免费领取
 www.cnfeat.com,2019-01-22,多数年轻人都做五休二，而他做到了做二休五，然而我并不羡慕
 www.cnfeat.com,2016-02-25,我为什么要开通元认知学习通讯？
+www.cnfeat.com,2021-07-11,为什么你要订一份纸媒？
 www.cnfeat.com,2014-06-01,「每天一千字改变自己」微信群规则
 www.cnfeat.com,2021-06-18,"264天成果,《笨方法文化手册1.0》发布"
 www.cnfeat.com,2015-09-01,如何正确地使用在线协作工具
+www.cnfeat.com,2017-07-30,马世芳的中文流行音乐课，免费报名开放中
 www.cnfeat.com,2019-04-03,生产力工具的基本
 www.cnfeat.com,2014-08-15,《十二道锋味》:以认真的态度吐槽你(6)「多图」
+www.cnfeat.com,2022-10-27,7年10000+张，我的第一生产力工具是纸质卡片
 www.cnfeat.com,2014-04-28,一个公园的下午
 www.cnfeat.com,2015-11-30,如何协作使用七牛云空间？
+www.cnfeat.com,2022-09-05,家的基本03：看过50+本装修书，仅推荐这10本（下）
 www.cnfeat.com,2014-02-27,《纸牌屋》：我就是想看坏人获胜
 www.cnfeat.com,2014-04-14,《How I Met Your Mother》：爱情的信念
-www.cnfeat.com,2021-12-05,小报童《笨方法小报》: 怎样办一份「报纸」？
+www.cnfeat.com,2017-03-06,论撕扇与忽悠
+www.cnfeat.com,2022-04-29,A 级玩家的秘密武器
+www.cnfeat.com,2021-12-05,《小报童》怎么办一份报纸？
 www.cnfeat.com,2014-12-28,男人到底在读什么
 www.cnfeat.com,2014-07-21 20:44:05,肠粉——儿时的早餐
 www.cnfeat.com,2014-09-27,实操：个人品牌的构建和改造（三）
 www.cnfeat.com,2014-10-21,教育者的责任
+www.cnfeat.com,2022-10-13,日课一卡训练营：每日一张卡，成长有方法
+www.cnfeat.com,2016-03-31,分享我30天阅读论文的过程
 www.cnfeat.com,2017-03-17,善用记忆生存优势效应，是写作必修课
 www.cnfeat.com,2014-05-27,如何构建自主学习环境——这仅仅是个开始
+www.cnfeat.com,2016-02-28,我的天才梦，你的天才梦
 www.cnfeat.com,2017-07-26,高阶学习者的读书法
 www.cnfeat.com,2019-03-27,自学的基本
+www.cnfeat.com,2022-02-22,历时1128天，全面升级，《笨方法学写作 3.0》发布，
 www.cnfeat.com,2014-12-16,千字文第10个月总结
 www.cnfeat.com,2014-08-28,《埃舍尔魔镜》：数学与艺术之美「上」(多图)
 www.cnfeat.com,2019-02-08,《认知尺度》：不想成为太阳，就会永远丧失自己的高光时刻
@@ -1955,7 +2108,11 @@ www.cnfeat.com,2014-06-24 14:27:23,创业就得考虑先怎么活下去
 www.cnfeat.com,2017-09-05,高阶学习者的自修法之王阳明
 www.cnfeat.com,2015-05-22,24款最值得推荐的中文字体
 www.cnfeat.com,2014-04-13,如何在Quora上学英语
+www.cnfeat.com,2012-02-14,社会资本的基本
+www.cnfeat.com,2022-03-10,6万+字，162页，《笨方法文化手册 3.0》发布
+www.cnfeat.com,2022-06-09,读完利器官网 484 篇文章，我只有 2 条心得
 www.cnfeat.com,2018-12-12,笨方法学习周报 48W：去读诗歌，在行动中寻找意义
+www.cnfeat.com,2022-06-02,赚不到钱的14个原因
 www.cnfeat.com,2020-02-28,写作的基本
 www.cnfeat.com,2018-12-01,笨方法学习周报 46W：写作是成长的刚需
 www.cnfeat.com,2017-11-12,光阴的故事
@@ -1970,12 +2127,15 @@ www.cnfeat.com,2014-11-28,烤串内测报告（二）
 www.cnfeat.com,2017-05-13,读诗的八个夜晚
 www.cnfeat.com,2014-06-27 14:27:23,不能只卖书：线下实体书店的转型生存（1）
 www.cnfeat.com,2014-05-30,饭后谈资：罗永浩的那些事
+www.cnfeat.com,2017-03-28,乔布斯的「创意剽窃」与不自觉学习
 www.cnfeat.com,2014-04-15,简书、十五言和知乎专栏的使用测评——三个写作平台的选择比较
 www.cnfeat.com,2015-02-17,小镇家庭的年货清单
 www.cnfeat.com,2014-11-13,你必须有浓厚的兴趣去弄明白正在发生的事情背后的原因
 www.cnfeat.com,2014-10-13,如果荒谬是有颜色的（三）
+www.cnfeat.com,2017-08-21,《风格与创造力》的群山学习法
 www.cnfeat.com,2014-10-20,《乡土中国》：费孝通的冰山一角
 www.cnfeat.com,2017-06-04,卡片创作谈：读书卡片写得越多，反而不会读书了？
+www.cnfeat.com,2016-02-22,元认知技能：塑造无限个自我（2）
 www.cnfeat.com,2014-04-29,一个头像的诞生
 www.cnfeat.com,2015-05-25,关于早教的一些迷思和解答
 www.cnfeat.com,2017-08-02,《架设人与计算机的桥梁》：西蒙的符号系统与思维模型
@@ -1985,14 +2145,19 @@ www.cnfeat.com,2015-02-15,说下未来十几天的更新安排
 www.cnfeat.com,2018-08-13,《工作进化论》 01-04
 www.cnfeat.com,2019-02-13,锯木、下厨、读书写作
 www.cnfeat.com,2018-08-12,笨方法学习周报 32W：文字就是愉快时光曾经存在过的证明
+www.cnfeat.com,2022-06-09,读完利器官网 484 篇文章，我只有 2 条心得
 www.cnfeat.com,2018-07-31,笨方法学习周报 30W：建立一份自我持续学习的驱动文本
+www.cnfeat.com,2016-02-29,重拾中文之美
+www.cnfeat.com,2016-03-04,我关心的是维护健康的问题
 www.cnfeat.com,2020-02-13,不要去做知识管理，要去种知识树
+www.cnfeat.com,2017-10-11,重读王小波《我的师承》的 3 个写作认知
 www.cnfeat.com,2017-11-02,如何阅读论文？——「三十天读论文计划」践行心得
 www.cnfeat.com,2014-10-08,德鲁克：管理自己（下）
 www.cnfeat.com,2017-08-25,创造力法则 10 条
 www.cnfeat.com,2014-05-19,提问的智慧（2）
 www.cnfeat.com,2019-05-11,通鉴注我02：群山式读《通鉴》
 www.cnfeat.com,2017-06-13,习惯 VS 目标，哪个会在大时间周期内胜出？
+www.cnfeat.com,2017-07-31,练习写作的最小分析单位
 www.cnfeat.com,2018-01-04,坚毅：笨方法学习的第一步
 www.cnfeat.com,2014-03-06,抽烟喝酒这件事
 www.cnfeat.com,2014-12-03,那么问题来了#「每周5写500字」002期总结
@@ -2001,12 +2166,15 @@ www.cnfeat.com,2019-05-14,通鉴注我03：爽快《小通鉴》
 www.cnfeat.com,2015-05-07,一张图看懂可供性
 www.cnfeat.com,2014-02-25,徒步观音山
 www.cnfeat.com,；2019-11-12,学写作，要学多久才有效？
+www.cnfeat.com,2016-06-06,西蒙学习的秘密武器
 www.cnfeat.com,2019-09-10,通鉴注我12：读《通鉴》，最烦人的是什么？
 www.cnfeat.com,2014-07-02 21:34:28,网易云阅读自媒体已瞄准简书
 www.cnfeat.com,2014-07-13 17:19:33,虽不完满，但也请尽量丰富
+www.cnfeat.com,2022-09-08,家的基本04：为什么我想学木工？
 www.cnfeat.com,2016-12-01,靠谱的人生指南：万花筒策略
 www.cnfeat.com,2017-06-03,一个没有做出过突出贡献的人对这个社会有什么价值？
 www.cnfeat.com,2014-03-02,《恐怖直播》：好故事的样子
+www.cnfeat.com,2022-06-27,产品面试问题清单 1.0
 www.cnfeat.com,2014-05-30,如何构建自主学习环境——个人学习部落
 www.cnfeat.com,2017-11-03,《孙子兵法》的核心：善用失败思维，发现成功真相
 www.cnfeat.com,2014-03-16,「最好金龟换酒」到底是什么意思？
@@ -2021,6 +2189,7 @@ www.cnfeat.com,2019-09-03,为什么还要写博客？
 www.cnfeat.com,2019-01-29,如何欣赏一张专辑？
 www.cnfeat.com,2014-03-07,在简书书写的可能性
 www.cnfeat.com,2019-03-11,所有风物变幻，都穿透日常存在
+www.cnfeat.com,2022-07-08,写作真相 6 条+写作常识 3 条
 www.cnfeat.com,2014-06-04 11:56:14,经验之谈：我是如何做到每天写一千字的（1）
 www.cnfeat.com,2014-12-31,2014年终总结：美好的事情早已发生
 www.cnfeat.com,2014-06-01 10:43:14,重头再来——五月总结
@@ -2029,6 +2198,7 @@ www.cnfeat.com,2014-07-24 23:09:54,设计的力量|环保产品、志愿者技�
 www.cnfeat.com,2015-01-05,明信片的秘密（二）
 www.cnfeat.com,2014-08-25,《十二道锋味》:以认真的态度吐槽你(12)「多图」
 www.cnfeat.com,2014-11-10,你要寻找的是标错赔率的赌局
+www.cnfeat.com,2016-02-27,元认知的「三角」关系：鳞次节比
 www.cnfeat.com,2014-05-06,三华李
 www.cnfeat.com,2014-02-15,三种生活
 www.cnfeat.com,2014-10-06,怎么在大公司展示自己
@@ -2045,9 +2215,11 @@ www.cnfeat.com,2014-06-22 14:27:23,创业时需要面对哪些问题？
 www.cnfeat.com,2019-09-17,通鉴注我13：怎样读《通鉴》不孤独？
 www.cnfeat.com,2017-11-01,如何持续做一件事？——「三十天读论文计划」日志
 www.cnfeat.com,2017-08-11,《管理决策新科学》：拥抱新技术的管理实践
+www.cnfeat.com,2021-07-26,不解难题的基本
 www.cnfeat.com,2017-09-20,《认知科学揭秘》 ：为寻找人工智能造一支手电筒
 www.cnfeat.com,2014-10-11,如果荒谬是有颜色的（一）
 www.cnfeat.com,2014-12-05,你的灯亮着吗？
+www.cnfeat.com,2016-02-18,为什么写邮件通讯？
 www.cnfeat.com,2014-02-16,阿十的故事
 www.cnfeat.com,2016-04-05,故事花生米
 www.cnfeat.com,2014-12-26,黄盖烤串内测报告（四）
@@ -2055,10 +2227,13 @@ www.cnfeat.com,2017-04-26,Darius Foroux：提升创新思维的 4 个技巧
 www.cnfeat.com,2017-06-20,《基于实践的微观经济学》：窥见西蒙跨学科学习的践行路线
 www.cnfeat.com,2014-09-22,我们都必须经历死亡
 www.cnfeat.com,2014-06-18 11:13:53,断舍离：想清楚你想要的是什么？
+www.cnfeat.com,2022-07-28,写作进阶的 4 个秘密
+www.cnfeat.com,2016-05-24,故事花生米（三）
 www.cnfeat.com,2014-06-19 15:56:59,散文诗七首
 www.cnfeat.com,2014-08-24,《十二道锋味》:以认真的态度吐槽你(11)「多图」
 www.cnfeat.com,2015-01-21,这样的广告我们不做
 www.cnfeat.com,2014-07-29,雕爷之雕爷牛腩篇 | 微博观察
+www.cnfeat.com,2022-07-08,我是一名写作者
 www.cnfeat.com,2015-02-20,静淌新年
 www.cnfeat.com,2014-11-24,获得智慧是一种道德责任
 www.cnfeat.com,2015-12-05,做赛亚人妻子是什么一种体验？(三)
@@ -2073,6 +2248,7 @@ www.cnfeat.com,2014-06-26 14:27:23,什么是“奢侈品”？（品牌就是讲
 www.cnfeat.com,2016-07-18,Macbook Pro 2015 SSD 选购及扩容解决方案：OWC Aura SSD
 www.cnfeat.com,2014-02-14,情人节的礼物
 www.cnfeat.com,2014-10-24,而所谓「孝」
+www.cnfeat.com,2016-04-03,好·播客清单
 www.cnfeat.com,2019-03-25,聪明的阅读者：用脑科学武装阅读
 www.cnfeat.com,2015-12-04,做赛亚人妻子是什么一种体验？(二)
 www.cnfeat.com,2014-04-26,鸡和星星的故事——如果你不懂艺术（2）
@@ -2080,9 +2256,12 @@ www.cnfeat.com,2019-04-14,996 与自由、选择、经验和激励
 www.cnfeat.com,2014-11-22,如何参加「每周5写500字」活动？
 www.cnfeat.com,2018-05-21,《风格感觉》精读指南
 www.cnfeat.com,2018-12-22,普鲁斯特问卷 2018
+www.cnfeat.com,2017-08-10,经典会自动引领你在知识之路前行
 www.cnfeat.com,2014-12-02,PPT：我的读书记录卡
 www.cnfeat.com,2018-01-09,怎样读瑞·达利欧的《原则》？
+www.cnfeat.com,2016-06-09,半个世纪过去，西蒙留下的小锦囊依然管用
 www.cnfeat.com,2015-02-09,关于写作和学习，那些朋友教给我的事
+www.cnfeat.com,2016-05-29,故事花生米（五）
 www.cnfeat.com,2017-02-16,你好哇，情感
 www.cnfeat.com,2019-04-23,哪个瞬间让你后悔没有养成读书的习惯？
 www.cnfeat.com,2018-03-28,创造，实际是知识的输出实践
@@ -2128,6 +2307,7 @@ www.cnfeat.com,2014-07-31,雕爷之商业思考篇 | 微博观察
 www.cnfeat.com,2015-12-02,预告|做赛亚人妻子是什么一种体验？
 www.cnfeat.com,2019-09-19,如何主题阅读马奇？| 资源索引
 www.cnfeat.com,2014-10-25,学习的本来含义
+www.cnfeat.com,2022-10-20,我的器物观8条
 www.cnfeat.com,2015-11-30,如何为七牛云生成索引目录？
 www.cnfeat.com,2019-03-05,如何主题阅读曾国藩——普通人如何逆袭：从寒门书生到位极人臣
 www.cnfeat.com,2014-12-25,每天一千字，我写了十个月
@@ -2138,10 +2318,12 @@ www.cnfeat.com,2015-01-15,什么是文气之《文心书话》阅读笔记
 www.cnfeat.com,2014-07-16 21:24:55,好排版的样子
 www.cnfeat.com,2017-08-01,抵达人迹罕至之地：我研读司马贺的 7 个月
 www.cnfeat.com,2018-08-27,笨方法学习周报 34W：关心好内容的人始终能找到好内容
+www.cnfeat.com,2016-04-07,写作的秘诀是什么？
 www.cnfeat.com,2015-01-10,我们到底需要一个怎样的社群？
 www.cnfeat.com,2014-04-25,艺术中的战斗鸡——如果你不懂艺术（1）
 www.cnfeat.com,2014-04-10,初到东莞者简要指南
 www.cnfeat.com,2014-10-16,贫富分化的实质
+www.cnfeat.com,2022-08-02,再读连岳
 www.cnfeat.com,2014-02-26,试错法
 www.cnfeat.com,2018-08-20,笨方法学习周报 33W：创作的乐趣，难为外人道，只能部分道，部分不道
 www.cnfeat.com,2017-07-12,为什么每个人该写一封致股东信？
@@ -2153,15 +2335,19 @@ www.cnfeat.com,2014-07-24 23:09:54,设计的力量|大合唱、创意工作室�
 www.cnfeat.com,2014-08-22,《十二道锋味》:以认真的态度吐槽你(9)「多图」
 www.cnfeat.com,2017-12-27,2017 年读书总结：笨拙的人往往有奇迹
 www.cnfeat.com,2017-08-09,卡片创作法之梅棹忠夫
+www.cnfeat.com,2022-11-07,不要准时
 www.cnfeat.com,2015-09-05,玩转 Issue（未完成的译稿）
 www.cnfeat.com,2014-09-04,分享：在客运站被强制购买乘客保险该怎么办？（上）
 www.cnfeat.com,2014-09-01,八月总结：总要想一想为自己创造需求
 www.cnfeat.com,2014-07-19 14:35:42,想开始的话，啥时候都可以——半年总结
 www.cnfeat.com,2019-06-23,通鉴注我05：两千多年，只有少数人会用的神奇句子
 www.cnfeat.com,2014-04-19,每天写一千字能写多久？
+www.cnfeat.com,2017-07-29,「跨界」从来就是伪概念
 www.cnfeat.com,2014-11-21,为那些超越我的短暂生命的价值观念服务
 www.cnfeat.com,2019-10-07,致股东信 2019
 www.cnfeat.com,2015-06-12,一张图看懂个人发展OKR流程图
+www.cnfeat.com,2017-08-03,写作的艺术与技术
+www.cnfeat.com,2016-04-11,你的文体风格是什么？
 www.cnfeat.com,2014-06-09 09:31:26,经验之谈：我是如何做到每天写一千字的（6）
 www.cnfeat.com,2017-06-08,如何成为一名优秀新手？
 www.cnfeat.com,2017-07-22,《管理行为》：像堂吉诃德一样重建管理概念
@@ -2170,14 +2356,18 @@ www.cnfeat.com,2017-06-06,这份黑客马拉松活动贴士，适用所有学习
 www.cnfeat.com,2019-12-31,《笨方法学写作》电子书免费下载
 www.cnfeat.com,2015-12-06,做赛亚人妻子是什么一种体验？(四)
 www.cnfeat.com,2014-08-13,商业思考:应该在英德蝴蝶谷开一间怎样的家庭旅馆？
+www.cnfeat.com,2022-06-17,限时特惠，售完即止 笨方法学写作特训2期开启
 www.cnfeat.com,2014-07-07 16:59:10,六个高度：我的未来
 www.cnfeat.com,2014-04-17,给自己「清零」
 www.cnfeat.com,2019-11-23,所有学习的起点都应只有一个：好奇
 www.cnfeat.com,2014-08-06,创作挑战|如果你也得到这么一本漫画练习本(多图)
 www.cnfeat.com,2019-08-31,哪些思维方式是你刻意训练过的？
 www.cnfeat.com,2018-12-16,笨方法学习周报 49W：某样东西之所以重要，是因为我们选择让它重要
+www.cnfeat.com,2022-06-23,我在英德生活 8 年，说说这座小城
 www.cnfeat.com,2017-08-31,写作的八种定义
 www.cnfeat.com,2014-05-02,我的博客时代
+www.cnfeat.com,2017-06-20,如何成为别人想帮的人？
+www.cnfeat.com,2016-03-05,一去二三里，烟村四五家
 www.cnfeat.com,2015-12-07,做赛亚人妻子是什么一种体验？(五)
 www.cnfeat.com,2014-12-09,普鲁斯特问卷：时光的回答
 www.cnfeat.com,2014-02-27,书写是为了更好地思考
@@ -2185,6 +2375,7 @@ www.cnfeat.com,2014-04-22,我不喜欢说走就走的旅行
 www.cnfeat.com,2014-02-19,起步者12问
 www.cnfeat.com,2015-02-21,年初二，小憩
 www.cnfeat.com,2014-10-22,简书珠海活动：缘起、建议及八卦
+www.cnfeat.com,2016-02-26,客观对应物：写作之旗
 www.cnfeat.com,2015-01-06,在咖啡的世界里我找到了自由
 www.cnfeat.com,2014-11-17,1994，我们一起去走走
 www.cnfeat.com,2015-12-08,做赛亚人妻子是什么一种体验？(终)
@@ -2193,11 +2384,14 @@ www.cnfeat.com,2014-09-13,《重来》：工作狂是另一种失败者
 www.cnfeat.com,2014-10-09,PPT预览：脑缝求生术——知识管理
 www.cnfeat.com,2014-06-26 14:27:23,创业者应具备的哪些基本能力？（附彩蛋）
 www.cnfeat.com,2017-08-08,卡片创作法之王云五
+www.cnfeat.com,2016-05-19,故事花生米（二）
 www.cnfeat.com,2018-10-23,笨方法学习周报 41W：三代家庭教育成就曾国藩
 www.cnfeat.com,2018-04-26,科学养育：新手父母最容易进入的 32 个误区
 www.cnfeat.com,2017-09-22,笨方法学写作之如何练习写作
+www.cnfeat.com,2021-08-16,一个人的基建
 www.cnfeat.com,2017-12-31,书写的力量——《笨方法学写作》序
 www.cnfeat.com,2014-04-03,北京印象（二）
+www.cnfeat.com,2016-03-01,成语与神奇数字四
 www.cnfeat.com,2020-04-16,《笨方法学写作》微信群五问
 www.cnfeat.com,2015-01-29,请允许我这样了解你之CnFeat的乌托卷
 www.cnfeat.com,2014-03-19,《MacTalk人生元编程》：程序员写的书
@@ -2212,10 +2406,12 @@ www.cnfeat.com,2014-11-30,烤串内测报告（三）
 www.cnfeat.com,2014-11-15,我深深地怀念那种饥饿感
 www.cnfeat.com,2014-05-25,提问的智慧
 www.cnfeat.com,2014-07-08 11:34:35,请允许我也走走神
+www.cnfeat.com,2022-07-21,如何实践「置身事内」？
 www.cnfeat.com,2017-07-31,卡片创作谈：日常使用卡片 4 问
 www.cnfeat.com,2019-08-04,通鉴注我09：读《资治通鉴》半年给我带来的收获
 www.cnfeat.com,2017-11-13,1994，我们一起去走走
 www.cnfeat.com,2021-08-23,内容升级，定时更新，欢迎订阅 newsletter
+www.cnfeat.com,2021-11-01,newsletter 的基本：给理想身份投票
 www.cnfeat.com,2015-01-02,二十人的乌托邦
 www.cnfeat.com,2016-06-25,我的 iPhone App 桌面图标设置
 www.cnfeat.com,2015-02-13,经验总结|如何做好一场罗辑思维霸王餐
@@ -2223,20 +2419,27 @@ www.cnfeat.com,2014-08-17,《十二道锋味》:以认真的态度吐槽你(8)�
 www.cnfeat.com,2014-05-04,何为高段位的学习者？——《怎样成为高段位的学习者？》的求知索引
 www.cnfeat.com,2014-03-08,27岁，明白了这些
 www.cnfeat.com,2019-05-08,通鉴注我01：什么是历史感？
+www.cnfeat.com,2022-11-24,如何「有所逼有所激」驱动创作？
 www.cnfeat.com,2014-03-09,爱哭的女孩子
 www.cnfeat.com,2019-02-24,明知道这样做会更好，就必须坚持去做
 www.cnfeat.com,2016-12-13,西蒙一生研究学习的秘密武器
 www.cnfeat.com,2014-06-25 14:27:23,为什么要选择别人看不懂的战略？
 www.cnfeat.com,2017-08-09,《二战全史》观影指南及分集梗概
+www.cnfeat.com,2023-01-09,我的 2023 年度关键词：科学
 www.cnfeat.com,2014-03-12,我学习思维导图的过程（4）
 www.cnfeat.com,2014-07-19 14:35:42,粥和面——儿时的早餐
 www.cnfeat.com,2014-06-11 09:31:26,经验之谈：我是如何做到每天写一千字的（8）
+www.cnfeat.com,2022-06-06,得不到幸福的14个原因
 www.cnfeat.com,2018-08-14,Paul Graham 的失败思维与极路由的「创业维艰」
 www.cnfeat.com,2018-11-03,笨方法学习周报 43W：如何主题阅读曾国藩？
+www.cnfeat.com,2022-11-28,不要追求平衡
+www.cnfeat.com,2017-08-01,如何利用有限理性榨干你的付费知识？
 www.cnfeat.com,2014-12-28,漫·慢说
 www.cnfeat.com,2014-11-09,技能：如何下载喜马拉雅、虾米、优酷等网站的音频视频
 www.cnfeat.com,2014-06-21 14:27:23,为什么初次创业目标应设定为1000万？
+www.cnfeat.com,2017-08-19,你不能靠看电视机逆推出电视的工作原理
 www.cnfeat.com,2014-11-08,蠢到死也是不可接受的
+www.cnfeat.com,2016-12-22,如何用认知科学解释可供性
 www.cnfeat.com,2014-05-07,日记摘抄——2004年至2005年
 www.cnfeat.com,2014-12-21,「每天写1000字」专题的故事
 www.cnfeat.com,2015-01-09,你的核心竞争力是什么？
@@ -2246,13 +2449,18 @@ www.cnfeat.com,2016-01-29,RSS 的生命力：分享100个订阅源
 www.cnfeat.com,2017-07-07,《现代决策理论的基石》：西蒙全部重要理论的核心都在这里
 www.cnfeat.com,2014-03-24,如何让自己做正确的事情？
 www.cnfeat.com,2016-11-20,卡片创作法之纳博科夫
+www.cnfeat.com,2017-08-14,司马贺：理性的最高层次
 www.cnfeat.com,2015-02-08,给大家交待六件事情
+www.cnfeat.com,2022-12-05,如何日课一卡写小故事？（2）
 www.cnfeat.com,2017-04-26,史蒂芬·平克：小孩生来就不是一张白纸
+www.cnfeat.com,2016-12-03,如何优雅地布置 iPhone 桌面？
+www.cnfeat.com,2016-04-06,干货吃得多，不妨试试湿货
 www.cnfeat.com,2017-01-05,司马贺的知识树
 www.cnfeat.com,2014-07-15 21:21:58,内心的对话
 www.cnfeat.com,2014-05-22,提问的智慧（5）
 www.cnfeat.com,2014-10-07,德鲁克：管理自己（上）
 www.cnfeat.com,2014-05-24,诗十首
+www.cnfeat.com,2022-07-11,写情书10+年，写过100+封，分享10条经验
 www.cnfeat.com,2015-01-25,如果我没有更新朋友圈，那么我就是在写千字文
 www.cnfeat.com,2014-06-07 09:31:26,经验之谈：我是如何做到每天写一千字的（4）
 www.cnfeat.com,2014-05-09,加油站的产品观
@@ -2260,21 +2468,30 @@ www.cnfeat.com,2014-07-11 13:45:02,终局判断——给人保的建议（2）
 www.cnfeat.com,2017-04-26,Julie Zhuo：停留学习区
 www.cnfeat.com,2020-04-11,通鉴注我16：朝廷之福是什么？
 www.cnfeat.com,2019-09-23,笨方法学简笔画
+www.cnfeat.com,2017-08-04,知识的消费与生产
 www.cnfeat.com,2014-12-04,芒格：人类误判心理学（下）
+www.cnfeat.com,2017-08-31,如何练习写作之青年王阳明
+www.cnfeat.com,2016-02-25,元认知体验：念念不忘，必有回响
 www.cnfeat.com,2014-03-30,《重说中国近代史》：我只是鄙视假的东西
+www.cnfeat.com,2017-03-28,《设计中的设计》的可供性
 www.cnfeat.com,2018-08-15,如何向大互联网公司学习设计？以 Tencent ISUX Design 为例 | 自学设计的三种方法，附资源索引
 www.cnfeat.com,2014-08-08,《十二道锋味》：以认真的态度吐槽你(2)「多图」
 www.cnfeat.com,2014-08-12,我吃过的肠粉逐个数「多图」
 www.cnfeat.com,2014-05-10,为什么练习在学习中那么重要？——《怎样成为高段位的学习者？》的求知索引
 www.cnfeat.com,2014-09-28,实操：个人品牌的构建和改造（四）
+www.cnfeat.com,2016-03-17,信息的源头？
+www.cnfeat.com,2022-02-15,进入 Web3 第一步，从拥有第一张 NFT 开始
 www.cnfeat.com,2018-12-09,笨方法学习周报 47W：无甚高论，六经注我
 www.cnfeat.com,2014-04-21,基础只靠一样东西：练——浅谈学习和写作
 www.cnfeat.com,2014-07-14 10:43:21,你为什么要开个只关注一个人的微博
 www.cnfeat.com,2019-07-05,通鉴注我07：小小的历史责任感
 www.cnfeat.com,2019-06-04,通鉴注我04：为何读史？读史读什么？
+www.cnfeat.com,2021-07-22,彼此都是内在驱动写作
 www.cnfeat.com,2014-09-06,京东的USB无线网卡比线下还贵三块钱
 www.cnfeat.com,2018-12-21,2018 年读书总结：赐我理由，再披甲上阵
+www.cnfeat.com,2022-01-06,笨方法问卷 2022
 www.cnfeat.com,2020-06-17,用笨方法，十年学会写作
+www.cnfeat.com,2017-08-06,西蒙或司马贺，该用哪个？
 www.cnfeat.com,2014-02-21,自己做决定
 www.cnfeat.com,2014-07-16 21:37:05,千字文•微信群•朋友圈•投稿•排版
 www.cnfeat.com,2014-08-09,《十二道锋味》:以认真的态度吐槽你(3)「多图」
@@ -2284,6 +2501,7 @@ www.cnfeat.com,2014-11-18,要将准确、勤奋和客观当成你笃信的意识
 www.cnfeat.com,2017-12-20,《从 0 到 1》：想成为独特的人，就要做别人从未想过要做的重要事情
 www.cnfeat.com,2016-10-12,4 大原则助你解决信息阅读难题
 www.cnfeat.com,2015-03-02,how-to-write
+www.cnfeat.com,2021-10-21,清单的基本：相信一切将会改变
 www.cnfeat.com,2019-03-19,成为凿壁偷光者
 www.cnfeat.com,2019-09-20,何谓写作的力量？
 www.cnfeat.com,2019-01-22,为何要培养听专辑的习惯与能力？
@@ -2291,16 +2509,23 @@ www.cnfeat.com,2018-09-24,笨方法学习周报 38W：养成写作习惯根本�
 www.cnfeat.com,2014-05-05,什么是知识的结构与解码？——《怎样成为高段位的学习者？》的求知索引
 www.cnfeat.com,2020-02-21,日常生活中的反抗
 www.cnfeat.com,2015-09-02,《如何正确地使用在线协作工具》之待补增清单
+www.cnfeat.com,2022-10-24,7年经验，13万字，《个人生产力系统指南》新版发布
 www.cnfeat.com,2014-06-07 09:31:26,经验之谈：我是如何做到每天写一千字的（7）
+www.cnfeat.com,2022-08-29,家的基本 01：努力与妥协
 www.cnfeat.com,2019-04-14,《知的资本论》：书店是未来生活方式的提案所
+www.cnfeat.com,2016-02-20,元认知是什么？
+www.cnfeat.com,2016-05-12,使用 Markdown Here 进行优雅排版
 www.cnfeat.com,2015-09-13,我的 Mac App 清单与使用习惯
 www.cnfeat.com,2019-08-31,通鉴注我10：诸葛亮是千古忠臣吗？
 www.cnfeat.com,2015-01-22,写作状态的改变
 www.cnfeat.com,2014-08-21,重要的不是开始(原来)怎样，而是以后要怎样
 www.cnfeat.com,2014-02-23,每天千字文并不是那么容易的
 www.cnfeat.com,2014-04-07,餐饮服务应该这么做（一）
+www.cnfeat.com,2017-09-03,读书学习的工具理性与价值理性
+www.cnfeat.com,2016-03-08,对谈的魅力
 www.cnfeat.com,2014-10-28,《鱼丽之宴》：木心的利钝成败
 www.cnfeat.com,2014-03-03,在成长的，不止我一个人
+www.cnfeat.com,2022-11-20,如何日课一卡写小故事？
 www.cnfeat.com,2016-12-05,博尔赫斯、西蒙与西部世界的迷宫隐喻
 www.cnfeat.com,2019-09-02,聪明人该怎么说真心话？
 www.cnfeat.com,2015-01-15,「你最喜欢的电台节目」之珠海慢点书友会报名
@@ -2308,11 +2533,13 @@ www.cnfeat.com,2017-05-24,掌握这 10 条人性规律，你也有可能做出�
 www.cnfeat.com,2019-09-07,如何主题阅读司马贺？| 资源索引
 www.cnfeat.com,2014-08-31,珠海这座城（二）
 www.cnfeat.com,2015-02-10,如何将微博制作成电子书
+www.cnfeat.com,2016-04-02,认知呈现最佳方式：卡片
 www.cnfeat.com,2015-01-11,法国的空心菜为什么那么贵？
 www.cnfeat.com,2014-05-21,提问的智慧（4）
 www.cnfeat.com,2015-12-25,七龙珠哪些画面让你永生难忘？
 www.cnfeat.com,2014-11-07,如何选择正确的合伙人？
 www.cnfeat.com,2014-07-22 23:09:54,设计的力量|农夫公社、设计与地域、食物理想国和本地缝制
+www.cnfeat.com,2017-07-06,想知道什么是认知科学？不妨看看这个解释
 www.cnfeat.com,2017-03-07,我的作品观
 www.cnfeat.com,2015-01-28,好文字的样子之《文心书话》阅读笔记
 www.cnfeat.com,2014-05-23,商贩与工匠 ——国产手机的气质
@@ -2323,25 +2550,32 @@ www.cnfeat.com,2015-1-31,2015年1月总结：开个好头
 www.cnfeat.com,2014-05-13,如何画出一张属于你的脑图——我学习思维导图的过程
 www.cnfeat.com,2015-01-24,当没有人开始做一件事情的时候，如果你来做这件事，你可以决定它的走向
 www.cnfeat.com,2014-09-03,说真话，首先是对自己负责，其次是对别人负责
+www.cnfeat.com,2022-04-04,高效能卡片创作的 7 个习惯
 www.cnfeat.com,2014-03-15,别人不喜欢你怎么办？
 www.cnfeat.com,2014-04-23,把说话练好，是最划算的事
 www.cnfeat.com,2017-07-06,《领导梯队》：普通人学习管理的第一本书
+www.cnfeat.com,2021-07-14,99%的努力是会白费的
 www.cnfeat.com,2017-04-26,硅谷钢铁侠 Elon Musk 练就超强学习能力的秘密
 www.cnfeat.com,2014-08-12,你到底值多少钱？
 www.cnfeat.com,2018-06-04,笨方法学习周报 24W：知识服务始终绕不过的问题
 www.cnfeat.com,2019-03-05,写作课程真的能把学生们训练成作家吗？
 www.cnfeat.com,2014-03-05,《了不起的盖茨比》：绿光
 www.cnfeat.com,2015-02-22,求知的源头
+www.cnfeat.com,2016-02-21,元认知技能：塑造无限个自我（1）
 www.cnfeat.com,2014-11-26,芒格：人类误判心理学（上）
 www.cnfeat.com,2014-03-22,野味蕨菜炼成记
+www.cnfeat.com,2017-03-20,写作中的写作
+www.cnfeat.com,2016-03-10,提高写作者的品味
 www.cnfeat.com,2014-05-03,为什么你要写博客？
 www.cnfeat.com,2014-02-17,当我们谈恋爱的时候我们究竟在想些什么？
 www.cnfeat.com,2014-03-15,千字文写作的阶段总结
 www.cnfeat.com,2014-03-20,如果你没有料，那你就什么都写不了
 www.cnfeat.com,2015-02-14,在自由中生长的爱，才是爱
 www.cnfeat.com,2014-12-21,「什么值得买」清单推荐
+www.cnfeat.com,2022-09-01,家的基本02：看过50+本装修书，仅推荐这10本（上）
 www.cnfeat.com,2019-03-06,写出短小精悍好卡片的5个小技巧
 www.cnfeat.com,2019-09-07,如果诸葛亮当了皇帝而刘备当宰相，三国历史会有变化吗？
+www.cnfeat.com,2022-02-24,写作永远学不会
 www.cnfeat.com,2015-09-05,如何才能做有价值的事情？
 www.cnfeat.com,2014-08-07,《十二道锋味》:以认真的态度吐槽你(1)
 www.cnfeat.com,2014-11-06,写作这点事
@@ -2352,26 +2586,37 @@ www.cnfeat.com,2014-06-29 14:27:23,互联网社交的力量：线下实体书店
 www.cnfeat.com,2015-01-02,明信片的秘密（一）
 www.cnfeat.com,2017-03-28,写作风格思考 15 条
 www.cnfeat.com,2014-10-15,其实你不是需要一份工作
+www.cnfeat.com,2017-07-19,理智与情感，哪个更能激发你的灵感与动机？
+www.cnfeat.com,2017-05-14,建议大家买一份《哈佛商业评论》
+www.cnfeat.com,2016-05-17,故事花生米（一）
 www.cnfeat.com,2015-09-14,跟着互联网公司们学用色
 www.cnfeat.com,2018-07-24,所有人都应该学习一点中文字体知识
 www.cnfeat.com,2014-06-17 21:36:05,如何提问，并获得高回复率——提问的智慧（精缩版）
+www.cnfeat.com,2021-08-26,自由创作者 V.S. 组织创作者
 www.cnfeat.com,2014-08-16,《十二道锋味》:以认真的态度吐槽你(7)「多图」
 www.cnfeat.com,2017-03-03,给过去自己的一封信
+www.cnfeat.com,2016-03-02,读库的诚意
 www.cnfeat.com,2014-12-29,黄盖烤串内测报告（六）
 www.cnfeat.com,2016-03-06,有胆总应该会遇见
 www.cnfeat.com,2014-12-18,雕爷说的小米精神鸦片到底是什么？
+www.cnfeat.com,2022-11-03,不做时间管理 2.0
 www.cnfeat.com,2017-08-16,卡片创作法之梁文道
 www.cnfeat.com,2014-11-04,散步散远了
 www.cnfeat.com,2018-06-24,笨方法学习周报 25W：做营销与做产品都是同一件事
 www.cnfeat.com,2019-04-22,消费的基本
+www.cnfeat.com,2022-07-08,大脑词语批处理脚本
+www.cnfeat.com,2017-08-08,艾柯的远距联想与无限清单
 www.cnfeat.com,2015-11-30,如何使用七牛云做为图床？
 www.cnfeat.com,2014-09-10,处理错误的最好方法是什么？
 www.cnfeat.com,2015-01-07,发封邮件真有那么难么？
 www.cnfeat.com,2014-03-25,你的不可替代性和核心竞争力是什么？
 www.cnfeat.com,2014-09-22,动手：如何制作一张适合自己的读书记录卡
 www.cnfeat.com,2020-02-19,你必须穿过前门，和堵住你出路的敌人较量一番
+www.cnfeat.com,2021-07-18,勇敢的基本
 www.cnfeat.com,2015-07-02,文学的理由|写作训练日志（1）
+www.cnfeat.com,2017-08-19,艾柯与司马贺的学习符号学
 www.cnfeat.com,2015-02-02,话说前几天我入了一个shadowsocks账号，没想到……
+www.cnfeat.com,2022-06-23,怎么应对好奇引发的既定航线偏离？
 www.cnfeat.com,2019-01-08,如何写学习周报倒逼自己成长
 www.cnfeat.com,2017-07-08,每个人都应该读一读贝索斯的致股东信 1997-2017
 www.cnfeat.com,2014-09-13,《人人都是产品经理》：将自己当作一件产品
@@ -2392,31 +2637,45 @@ www.cnfeat.com,2017-03-24,索引卡简史：从这里窥见互联网信息革命
 www.cnfeat.com,2019-09-01,通鉴注我11：历史之光
 www.cnfeat.com,2017-04-24,管理学大师马奇：为何领导者需要有堂吉诃德精神？
 www.cnfeat.com,2019-06-24,通鉴注我06：我如何写《资治通鉴》的读书卡片？
+www.cnfeat.com,2022-11-01,卡片为何是我的第一生产力工具？
 www.cnfeat.com,2014-03-24,反正遇上了春分
 www.cnfeat.com,2018-07-17,笨方法学习周报 28W：为你的产品和你自己创建接口
+www.cnfeat.com,2022-06-03,重读《暗时间》：如何写「更健康更长久」的文字
 www.cnfeat.com,2014-12-22,除了《格言》你还读什么
 www.cnfeat.com,2014-09-26,实操：个人品牌的构建和改造（二）
+www.cnfeat.com,2022-07-18,粤北小城静态管理日记（2）
 www.cnfeat.com,；2019-07-28,因为春秋有大梦
 www.cnfeat.com,2018-09-04,笨方法学习周报 35W：如何选择靠谱的知识付费课程？
+www.cnfeat.com,2016-07-20,为你的大脑安装心智 App
 www.cnfeat.com,2018-07-22,笨方法学习周报 29W：超越绝大多数人的方法其实很简单，就是想办法活在未来
 www.cnfeat.com,2015-01-13,二十人的乌托邦群规1.0
+www.cnfeat.com,2016-02-23,元认知技能：塑造无限个自我（3）
 www.cnfeat.com,2017-05-09,卡片创作法之奥斯卡编剧 Dustin Lance Black
 www.cnfeat.com,2014-11-11,那些仍在更新的好博客
 www.cnfeat.com,2014-06-05 11:56:14,经验之谈：我是如何做到每天写一千字的（2）
 www.cnfeat.com,2014-03-01,整理书单
 www.cnfeat.com,2014-05-01,知道自己在做什么，是对自己负责——四月总结
+www.cnfeat.com,2016-05-25,故事花生米（四）
 www.cnfeat.com,2014-04-24,如何旅行：21条不一样的建议
+www.cnfeat.com,2016-02-24,元认知知识：更迭如潮
 www.cnfeat.com,2015-01-01,我在跨年夜派传单
 www.cnfeat.com,2014-06-13 11:31:39,如何构建自主学习环境——搭建个人学习部落
 www.cnfeat.com,2014-06-23 14:27:23,赢利是创业的基础选择
+www.cnfeat.com,2022-09-19,"免费领取新版《笨方法文化手册》,10万+字250页,更有额外福利……"
 www.cnfeat.com,2015-04-13,博客、写作与阅读|近况
 www.cnfeat.com,2014-10-27,答我心中问——《乡土中国》杂记与思考
 www.cnfeat.com,2015-12-19,把时间当作朋友，七年后你会如何？
 www.cnfeat.com,2014-09-22,菜市场见闻录（3）之寻找菜市场
+www.cnfeat.com,2017-08-16,学习《万历十五年》简洁写作风格
+www.cnfeat.com,2017-07-29,卡片花园 · 序
+www.cnfeat.com,2016-02-19,如果你想成为一个好作者
+www.cnfeat.com,2016-04-04,如果你的邮箱密码泄漏了
+www.cnfeat.com,2022-12-12,2022年度关键词总结：好奇
 www.cnfeat.com,2014-07-03,如何定位：做一间深夜食堂的可能性（1）
 www.cnfeat.com,2014-12-29,黄盖烤串内测报告（五）
 www.cnfeat.com,2014-12-19,小米这熊孩子是不是太任性了？
 www.cnfeat.com,2015-01-14,给大家推荐一个学习写作的网站
+www.cnfeat.com,2017-07-19,为什么说逆推芒格的心理表征的行为注定是徒劳？
 www.cnfeat.com,2014-09-15,说说我手上的电子阅读器
 www.cnfeat.com,2014-05-29,如何构建自主学习环境——实操指南
 www.cnfeat.com,2019-07-27,通鉴注我08：普通人如何读《史记》，比较容易入手？
@@ -2431,11 +2690,13 @@ www.cnfeat.com,2021-11-10,《卡片创作工具指南》正式发布
 www.cnfeat.com,2014-07-04,如何定位：做一间深夜食堂的可能性（2）
 www.cnfeat.com,2015-01-05,图说2014：十二个月，十二张图片
 www.cnfeat.com,2014-12-10,每天都有新问题
+www.cnfeat.com,2016-03-07,才刚刚喜欢上用 Email
 www.cnfeat.com,2014-08-02,雕爷之生活态度篇 | 微博观察
 www.cnfeat.com,2014-02-11,我的一万小时
 www.cnfeat.com,2020-03-05,通鉴注我15：用过去的寻常来理解当今的荒谬
 www.cnfeat.com,2014-04-01,女大当行
 www.cnfeat.com,2015-11-21,如何正确地使用执行意图?
+www.cnfeat.com,2022-11-17,「日课一卡训练营」有什么？
 www.cnfeat.com,2019-09-20,财富认知升级 10 条｜读《如何不靠运气致富》有感
 www.cnfeat.com,2018-10-23,笨方法学习周报 42W：尽量聚焦在更加根基性的东西上
 www.barretlee.com,2013-06-03 11:55:00,3D遥控坦克大战
@@ -2858,16 +3119,20 @@ blog.forecho.com,2020-01-02T18:48:00+08:00,Octopress 迁移到 Hugo
 blog.forecho.com,2019-11-24T22:48:00+08:00,第九站：武功山两天反穿徒步
 blog.forecho.com,2017-03-22T22:33:00+08:00,第一次当播客主持人是一种什么体验？
 blog.forecho.com,2021-01-20T11:42:00+08:00,聊聊网上买菜
+blog.forecho.com,2022-04-05T09:16:00+08:00,深圳封城记录
 blog.forecho.com,2019-11-24T19:48:00+08:00,第八站：佛山自驾游
 blog.forecho.com,2018-02-08T19:29:00+08:00,【深度理财01】管理你的财富
 blog.forecho.com,2013-05-05T23:30:00+08:00,老罗和他的锤子
 blog.forecho.com,2018-01-02T19:29:00+08:00,【深度阅读010】《另外8小时》
+blog.forecho.com,2022-02-28T09:09:00+08:00,【深度理财 35】财报季稳赚策略
 blog.forecho.com,2014-04-22T23:44:00+08:00,最近我有话要说
 blog.forecho.com,2016-05-22T11:17:00+08:00,项目 Beta 版上线总结
 blog.forecho.com,2012-07-06T15:32:00+08:00,yii学习笔记（一）-yii初使用
 blog.forecho.com,2018-02-16T13:09:00+08:00,2017年终总结
+blog.forecho.com,2022-12-31T22:14:00+08:00,2022 年年终总结投资篇
 blog.forecho.com,2013-09-04T12:07:00+08:00,一切都来得及，就怕你不做
 blog.forecho.com,2021-04-09T16:09:00+08:00,【深度理财25】随机买股票实验
+blog.forecho.com,2023-01-14T08:47:00+08:00,像专业人士一样交易期权之如何使用 Optionstrat
 blog.forecho.com,2012-10-16T13:46:00+08:00,PHP 最简单的方法调用 kindeditor 编辑器
 blog.forecho.com,2020-07-16T11:09:00+08:00,【深度理财11】美股打新经验分享
 blog.forecho.com,2012-11-05T12:04:00+08:00,只要你愿意，任何时候都不算晚
@@ -2909,14 +3174,16 @@ blog.forecho.com,2020-12-09T12:09:00+08:00,【深度理财15】又谈美股开�
 blog.forecho.com,2021-06-14T18:03:00+08:00,浮生一日：深圳非典型程序员的真实一天
 blog.forecho.com,2017-04-12T21:33:00+08:00,谈谈我第一个公众号背后的故事
 blog.forecho.com,2012-11-16T16:03:00+08:00,写个工作四个多月的总结
-blog.forecho.com,2021-01-14T10:09:00+08:00,【深度理财21】2021 年上海办理香港卡渠道
+blog.forecho.com,2021-01-14T10:09:00+08:00,【深度理财 21】2021 年上海办理香港卡渠道
 blog.forecho.com,2016-09-22T23:48:00+08:00,26岁生日
 blog.forecho.com,2018-01-16T19:29:00+08:00,币圈一个月，我总结出了这些
+blog.forecho.com,2022-10-02T14:58:00+08:00,结构性理财投资经验
 blog.forecho.com,2013-07-30T09:44:00+08:00,Yii中CDetailView中的HTML转义问题
 blog.forecho.com,2013-04-26T23:36:00+08:00,Django初使用
 blog.forecho.com,2014-01-23T16:20:00+08:00,jQuery Ajax 点击修改
+blog.forecho.com,2022-07-31T22:48:00+08:00,健身半年我来聊聊我的经验
 blog.forecho.com,2011-10-09T22:16:00+08:00,国内比较优秀的UED团队汇总
-blog.forecho.com,2017-01-30T20:33:00+08:00,2016年我读了哪些书？
+blog.forecho.com,2017-01-30T20:33:00+08:00,2016 年我读了哪些书？
 blog.forecho.com,2014-02-10T11:37:00+08:00,Sublime Text 3配置
 blog.forecho.com,2017-11-07T16:01:00+08:00,使用 GitLab
 blog.forecho.com,2017-10-29T11:51:00+08:00,【也聊电影】《天才枪手》
@@ -2925,6 +3192,7 @@ blog.forecho.com,2020-09-04T14:09:00+08:00,CashWarden 一款开源的资产管�
 blog.forecho.com,2017-09-25T15:12:00+08:00,如何培养读书习惯？
 blog.forecho.com,2021-07-08T10:59:00+08:00,【深度理财 30】如何办一张汇丰香港卡
 blog.forecho.com,2018-06-06T07:43:00+08:00,我在听的播客节目之2018年篇
+blog.forecho.com,2022-08-21T22:39:00+08:00,关于利率你应该知道的事情
 blog.forecho.com,2016-08-24T22:19:00+08:00,谈谈 VPS 的备份方案
 blog.forecho.com,2011-11-17T10:20:00+08:00,PHP 获取当前 URL 的相关参数
 blog.forecho.com,2018-06-30T13:09:00+08:00,【深度理财04】新手炒股可能容易犯这些错误
@@ -2933,10 +3201,10 @@ blog.forecho.com,2015-03-02T22:03:00+08:00,2014年终总结
 blog.forecho.com,2015-03-22T20:25:00+08:00,Yii2 如何实现 RESTful？
 blog.forecho.com,2017-09-28T14:01:00+08:00,【深度阅读005】《历史深处的忧虑》
 blog.forecho.com,2011-11-06T11:21:00+08:00,一个星期又过去了
-blog.forecho.com,2020-08-31T22:09:00+08:00,【深度理财14】聊聊最近的美股打新
+blog.forecho.com,2020-08-31T22:09:00+08:00,【深度理财 14】聊聊最近的美股打新
 blog.forecho.com,2014-02-06T22:52:00+08:00,2013年给自己的一个胶带
 blog.forecho.com,2013-11-23T18:00:00+08:00,「Getting Real - 37signals」读书笔记
-blog.forecho.com,2013-07-09T10:39:00+08:00,Vim编辑器使用（二）——一般模式
+blog.forecho.com,2013-07-09T10:39:00+08:00,Vim 编辑器使用（二）——一般模式
 blog.forecho.com,2016-01-29T16:36:00+08:00,关于 PhpStorm 的小技巧
 blog.forecho.com,2011-11-23T09:54:00+08:00,CI 框架学习（二）——分页类
 blog.forecho.com,2021-01-11T18:09:00+08:00,【深度理财 20】如何办理一张多次往返境外的签证？
@@ -2944,6 +3212,7 @@ blog.forecho.com,2011-11-26T15:57:00+08:00,CI框架学习之上传文件
 blog.forecho.com,2018-05-06T21:03:00+08:00,【深度一点】不只需要 B 计划，你还需要 Z 计划
 blog.forecho.com,2019-10-23T22:48:00+08:00,最终我还是买了 Nintendo Switch
 blog.forecho.com,2013-08-02T21:15:00+08:00,PHP Yii 获取数据库所有表名
+blog.forecho.com,2022-12-26T21:15:00+08:00,记一次被微信封号的经历
 blog.forecho.com,2015-03-01T22:02:00+08:00,Windows 开发利器
 blog.forecho.com,2016-06-12T23:17:00+08:00,谈谈时间管理
 blog.forecho.com,2015-11-08T21:52:00+08:00,PHP 中的动态属性和 StdClass
@@ -2958,25 +3227,28 @@ blog.forecho.com,2013-10-17T09:26:00+08:00,CakePHP 命名规则
 blog.forecho.com,2021-10-20T10:59:00+08:00,使用 Linear 来管理你的项目
 blog.forecho.com,2016-06-28T23:19:00+08:00,谈谈考驾照的事情
 blog.forecho.com,2019-11-01T21:03:00+08:00,【深度阅读 第二季 01】金融其实很简单
+blog.forecho.com,2023-01-01T23:00:00+08:00,2022 年终总结
 blog.forecho.com,2013-11-24T09:47:00+08:00,《乔布斯：遗失的访谈》中英文译稿_V1.2 精校版
 blog.forecho.com,2011-12-08T14:48:00+08:00,01、jQuery 双色表格
-blog.forecho.com,2013-07-26T15:58:00+08:00,Ubuntu安装PHP Mongo扩展
+blog.forecho.com,2013-07-26T15:58:00+08:00,Ubuntu 安装 PHP Mongo 扩展
 blog.forecho.com,2018-02-06T19:29:00+08:00,【深度阅读011】改变人生的子弹笔记
 blog.forecho.com,2022-01-03T12:09:00+08:00,【深度理财 34】2021 年年终总结投资篇
 blog.forecho.com,2017-02-01T22:53:00+08:00,2016年终总结
 blog.forecho.com,2012-12-10T14:02:00+08:00,一个很简单的jquery图片自动切换
 blog.forecho.com,2013-01-10T15:03:00+08:00,初次接触Python
-blog.forecho.com,2021-03-23T16:09:00+08:00,【深度理财24】期权交易基本策略
+blog.forecho.com,2021-03-23T16:09:00+08:00,【深度理财 24】期权交易基本策略
 blog.forecho.com,2021-06-24T18:09:00+08:00,薅京东羊毛
 blog.forecho.com,2013-04-09T17:21:00+08:00,PHP 最高效的去判断数组最后一个或第一个元素
 blog.forecho.com,2019-09-30T22:48:00+08:00,聊聊 9 月份的一些『节点』
 blog.forecho.com,2017-05-13T16:40:00+08:00,【深度阅读001】《送你一颗子弹》
+blog.forecho.com,2022-08-30T09:09:00+08:00,使用 Railway 和 Supabase 部署 Laravel 应用
 blog.forecho.com,2013-07-09T10:27:00+08:00,Mac OS X PHP环境下新增虚拟主机
 blog.forecho.com,2017-06-04T14:05:00+08:00,2017年姗姗来迟的五月份总结
 blog.forecho.com,2016-01-22T12:44:00+08:00,去宝安图书馆借书
 blog.forecho.com,2012-07-10T15:44:00+08:00,yii学习笔记（四）-用户登录
 blog.forecho.com,2020-07-09T11:09:00+08:00,【深度理财10】富途港股打新全知道
 blog.forecho.com,2018-11-30T21:03:00+08:00,使用 NAS
+blog.forecho.com,2022-05-22T23:49:00+08:00,短线交易策略 VS 长线交易策略
 blog.forecho.com,2021-11-25T18:12:00+08:00,在深圳领取失业保险金
 blog.forecho.com,2014-11-19T22:00:00+08:00,CakePHP 使用小技巧
 blog.forecho.com,2018-11-27T21:03:00+08:00,使用 Laradock
@@ -3010,7 +3282,7 @@ blog.forecho.com,2021-10-31T21:03:00+08:00,软件开发的工作流
 blog.forecho.com,2020-02-29T12:56:53+08:00,记录这不平凡的一个月
 blog.forecho.com,2017-01-22T12:41:00+08:00,2016年我的年度应用
 blog.forecho.com,2015-07-27T20:25:00+08:00,Yii2 搭建最基础的 RESTful
-blog.forecho.com,2020-01-21T10:03:00+08:00,2019年终总结
+blog.forecho.com,2020-01-21T10:03:00+08:00,2019 年终总结
 blog.forecho.com,2021-09-09T09:50:00+08:00,讨薪维权之路
 blog.forecho.com,2015-12-15T21:56:00+08:00,处理 Git 忘记切分支修改代码的情况
 blog.forecho.com,2017-04-24T21:53:00+08:00,说说罗振宇采访罗永浩的《长谈》
@@ -3024,7 +3296,9 @@ blog.forecho.com,2014-04-22T10:39:00+08:00,MySQL 查询今日的数据数量
 blog.forecho.com,2017-06-24T16:50:00+08:00,我刚开始编程时犯过的错误
 blog.forecho.com,2015-09-13T17:17:00+08:00,25岁之后
 blog.forecho.com,2018-08-28T13:09:00+08:00,三立三：我们尝试帮你追踪 kindle 电子书 和 App 降价的信息
+blog.forecho.com,2023-01-17T15:09:00+08:00,SetApp 使用经验分享
 blog.forecho.com,2013-12-08T19:11:00+08:00,怎样把本地项目上传到 GitHub 上去？
+blog.forecho.com,2022-10-31T09:00:00+08:00,使用 OpenClash
 blog.forecho.com,2013-07-30T09:42:00+08:00,Yii Ajax 表单验证
 blog.forecho.com,2019-02-10T21:58:00+08:00,第七站：神农架滑雪
 blog.forecho.com,2015-01-08T22:02:00+08:00,Mac Sublime Text 实现 Chrome 快速预览
@@ -3044,6 +3318,7 @@ blog.forecho.com,2013-08-09T10:38:00+08:00,Yii中CLinkPager结合Bootstrap的样
 blog.forecho.com,2020-04-08T20:00:06+08:00,来，一起搞点副业💰💰
 blog.forecho.com,2013-12-05T16:36:00+08:00,PHP 一次写入上万条数据到数据库
 blog.forecho.com,2021-09-06T11:08:00+08:00,31 岁生日，还没有而立
+blog.forecho.com,2022-05-08T15:12:00+08:00,日本蜡烛图简介
 blog.forecho.com,2016-09-22T22:38:00+08:00,博客5岁生日快乐
 blog.forecho.com,2013-10-21T22:40:00+08:00,代码不值钱
 blog.forecho.com,2012-11-06T15:51:00+08:00,yii自定义下拉菜单
@@ -3055,28 +3330,32 @@ blog.forecho.com,2011-12-08T09:44:00+08:00,辞职的一个星期
 blog.forecho.com,2021-10-18T18:09:00+08:00,GitHub 组织项目免费使用 Vercel
 blog.forecho.com,2017-02-28T22:53:00+08:00,我在学英语
 blog.forecho.com,2014-01-13T16:48:00+08:00,Yii扩展自带的时间选择器插件CJuiDatePicker
-blog.forecho.com,2013-02-17T15:51:00+08:00,面向对象编程思想(二)
+blog.forecho.com,2013-02-17T15:51:00+08:00,面向对象编程思想 (二)
 blog.forecho.com,2014-09-05T21:42:00+08:00,CakePHP 使用插件导出 CSV 文件
 blog.forecho.com,2019-12-26T21:48:00+08:00,Mac 利器 Hammerspoon 使用指南
 blog.forecho.com,2017-03-15T23:33:00+08:00,我在听的播客节目
+blog.forecho.com,2022-10-02T09:00:00+08:00,使用 Obsidian
 blog.forecho.com,2020-10-30T21:12:00+08:00,第十站：重游成都
 blog.forecho.com,2016-01-30T15:28:00+08:00,我为什么离职？
 blog.forecho.com,2016-12-19T12:09:00+08:00,用辅助函数来取代复杂的表达式
 blog.forecho.com,2018-01-07T07:29:00+08:00,创业半年回顾
+blog.forecho.com,2022-07-10T23:49:00+08:00,做空
 blog.forecho.com,2019-07-30T22:58:00+08:00,GetYii 是如何防止垃圾内容
+blog.forecho.com,2022-01-17T20:59:00+08:00,Netflix 的创业史和创新历程
 blog.forecho.com,2016-01-09T15:40:00+08:00,使用 Kindle 阅读
 blog.forecho.com,2013-05-28T20:48:00+08:00,解决 Yii 1.12 中 Session 丢失的问题
 blog.forecho.com,2020-02-24T18:25:46+08:00,美股入金不用愁
-blog.forecho.com,2014-10-19T16:10:00+08:00,MacBook 升级 Yosemite 之后 PHP 环境修复
 blog.forecho.com,2012-11-27T16:37:00+08:00,CI使用PHP-ExcelReader类
 blog.forecho.com,2019-12-16T22:48:00+08:00,在家健身有 Switch 就够了
 blog.forecho.com,2019-03-06T21:58:00+08:00,Octopress 显示 `{{}}` 
 blog.forecho.com,2013-12-12T11:18:00+08:00,PHP jQuery JSON 二级联动
 blog.forecho.com,2013-10-08T23:20:00+08:00,整理一下我经历的PHP面试题
+blog.forecho.com,2022-09-18T20:59:00+08:00,使用剪贴板
 blog.forecho.com,2017-12-29T19:29:00+08:00,总结2017年理财效益
 blog.forecho.com,2012-12-26T10:10:00+08:00,今年我在影院看的那些电影
+blog.forecho.com,2022-05-29T22:39:00+08:00,股票暴跌亏损了怎么办？
 blog.forecho.com,2011-11-07T14:54:00+08:00,CI 框架学习笔记（一）
-blog.forecho.com,2014-01-24T14:02:00+08:00,表单多radio jQuery 不为空验证
+blog.forecho.com,2014-01-24T14:02:00+08:00,表单多 radio jQuery 不为空验证
 blog.forecho.com,2017-08-03T15:59:00+08:00,我是如何学习 Angular
 blog.forecho.com,2017-05-24T23:33:00+08:00,我是怎么投资美股的
 blog.forecho.com,2014-01-26T00:40:00+08:00,成为一流的人才
@@ -3097,10 +3376,12 @@ blog.forecho.com,2012-12-28T17:19:00+08:00,我的音乐让我说
 blog.forecho.com,2021-06-27T10:59:00+08:00,【深度理财 29】美股分析网站介绍
 blog.forecho.com,2021-12-24T15:28:00+08:00,Laravel 使用远程 API 作为认证
 blog.forecho.com,2020-07-03T11:09:00+08:00,【深度理财09】2020最新老虎证券大陆卡入金指南
+blog.forecho.com,2022-09-18T20:59:00+08:00,炒股的幻想和现实
 blog.forecho.com,2018-08-20T21:03:00+08:00,【深度阅读018】十四堂人生课
 blog.forecho.com,2019-08-29T21:48:00+08:00,函数式编程初探
 blog.forecho.com,2013-12-09T09:54:00+08:00,简单介绍 Rails 默认文件结构
 blog.forecho.com,2020-05-15T20:20:26+08:00,使用 Windows WSL2
+blog.forecho.com,2022-07-25T20:58:00+08:00,我的第一辆电动自行车
 blog.forecho.com,2012-12-29T12:13:00+08:00,让自己变的更靠谱
 blog.forecho.com,2011-10-11T10:59:00+08:00,PHP 语句在 MySQL 插入 HTML 语句
 blog.forecho.com,2012-02-27T20:19:00+08:00,我开始使用的一些网站和软件（不定时更新）
@@ -3136,7 +3417,7 @@ blog.forecho.com,2021-02-08T10:03:00+08:00,2020年终总结之阅读篇
 blog.forecho.com,2017-03-05T21:23:00+08:00,初步了解微服务架构
 blog.forecho.com,2017-12-15T19:29:00+08:00,【深度阅读009】《软技能》
 blog.forecho.com,2013-07-30T09:30:00+08:00,PHP MySQL Yii更新数据库时 字段值自增
-blog.forecho.com,2013-08-30T12:11:00+08:00,Code School 学习 Objective-C第一课笔记
+blog.forecho.com,2013-08-30T12:11:00+08:00,Code School 学习 Objective-C 第一课笔记
 blog.forecho.com,2020-12-31T12:09:00+08:00,【深度理财18】这个证券平台 2021 年港股现金打新全年 0 佣金
 blog.forecho.com,2018-12-11T21:03:00+08:00,转正总结
 blog.forecho.com,2013-04-24T23:12:00+08:00,Mac OS 上安装MySQLdb一系列问题
@@ -3163,11 +3444,14 @@ blog.forecho.com,2012-12-16T13:48:00+08:00,工作不仅仅是生活的一小部�
 blog.forecho.com,2012-12-27T12:47:00+08:00,推荐一些iPhone App（持续更新...）
 blog.forecho.com,2011-11-23T17:11:00+08:00,PHP 获取编辑器里面的第一张图片做为缩略图
 blog.forecho.com,2014-03-01T14:34:00+08:00,Mac 安装 PHP5.4 的 Mcrypt 扩展
+blog.forecho.com,2022-02-27T20:20:26+08:00,使用 YouTube Premium，年费不到 30 元
 blog.forecho.com,2021-05-29T10:59:00+08:00,【深度理财 28】如何在股市动荡期使用期权赚钱
+blog.forecho.com,2022-04-16T21:30:00+08:00,创建了一个知识星球
 blog.forecho.com,2016-12-12T12:09:00+08:00,我的知识管理工作流
 blog.forecho.com,2011-11-14T17:30:00+08:00,去掉 CodeIgniter URL 中的 index.php
 blog.forecho.com,2017-11-16T16:01:00+08:00,分享我经常看的 YouTube 的频道
 blog.forecho.com,2016-01-10T10:51:00+08:00,2015年我读了哪些书？
+blog.forecho.com,2022-06-26T11:59:00+08:00,毕业十年
 blog.forecho.com,2013-08-30T18:42:00+08:00,PyCharm 的 SyntaxError：invalid syntax 错误处理
 blog.forecho.com,2021-10-23T14:40:58+08:00,【深度阅读 第四季 03】Netflix 的自由与责任工作法
 blog.forecho.com,2012-07-12T15:47:00+08:00,yii学习笔记（五）-修改新建Create页面
@@ -3177,32 +3461,40 @@ blog.forecho.com,2021-08-29T14:59:00+08:00,期权组合之 Vertical Spread
 blog.forecho.com,2013-04-18T21:49:00+08:00,读孟非的《随遇而安》
 blog.forecho.com,2018-06-13T21:03:00+08:00,【深度阅读016】互联网下一个时代是由运营驱动的
 blog.forecho.com,2020-06-24T13:09:00+08:00,【深度理财07】基金曲线投资美股
-blog.forecho.com,2020-12-24T12:09:00+08:00,【深度理财17】关于 ARK
+blog.forecho.com,2022-12-22T12:35:00+08:00,读懂期权大单
+blog.forecho.com,2022-12-01T18:03:00+08:00,科学上网 2.0 时代
+blog.forecho.com,2020-12-24T12:09:00+08:00,【深度理财 17】关于 ARK
 blog.forecho.com,2012-12-05T17:35:00+08:00,yii怎样修改自动跳转到登录页面？
 blog.forecho.com,2017-11-04T14:01:00+08:00,【深度阅读006】《德鲁克领导力·图解版》
 blog.forecho.com,2018-02-03T15:29:00+08:00,用 PHP 了解区块链基本原型
 blog.forecho.com,2012-11-30T16:53:00+08:00,Mac输入法神器-鼠须管？
 blog.forecho.com,2013-07-16T17:47:00+08:00,PHP对象转成数组的函数
 blog.forecho.com,2021-03-19T19:09:00+08:00,【深度理财23】什么是期权
+blog.forecho.com,2022-03-28T17:30:00+08:00,Laravel Passport OAuth2 实践
 blog.forecho.com,2013-06-25T09:39:00+08:00,把项目移植到Ubuntu上遇到的一些坑 - PHP5.4降级到PHP5.3
 blog.forecho.com,2021-04-06T12:33:00+08:00,Hugo 极简主题 Echo
 blog.forecho.com,2013-02-19T15:35:00+08:00,PHP 知识点笔记
-blog.forecho.com,2012-12-12T11:58:00+08:00,Yii—accessRules用法
+blog.forecho.com,2012-12-12T11:58:00+08:00,Yii—accessRules 用法
+blog.forecho.com,2023-02-15T18:29:00+08:00,使用 OpenIn 为你的链接设置专属浏览器
 blog.forecho.com,2013-08-03T14:20:00+08:00,Yii 多表使用一个Model文件
 blog.forecho.com,2017-04-11T21:33:00+08:00,读《你要如何衡量你的人生》
-blog.forecho.com,2013-01-04T10:05:00+08:00,对内的2012年总结
+blog.forecho.com,2022-04-29T17:12:26+08:00,使用 Xdebug
+blog.forecho.com,2022-11-25T15:58:00+08:00,我是如何减少我的鼠标使用的？
+blog.forecho.com,2013-01-04T10:05:00+08:00,对内的 2012 年总结
 blog.forecho.com,2016-11-23T22:45:00+08:00,读《少有人走的路1：心智成熟的旅程》
 blog.forecho.com,2020-02-10T12:44:00+08:00,去香港办招行香港一卡通
 blog.forecho.com,2013-06-05T10:31:00+08:00,jQuery Ajax this的问题
 blog.forecho.com,2015-07-26T22:55:00+08:00,Mac 安装 Docker
+blog.forecho.com,2022-05-15T15:12:00+08:00,找寻自己的投资策略
 blog.forecho.com,2018-02-11T10:23:00+08:00,【深度阅读012】如何完成比难更难的事
 blog.forecho.com,2013-07-22T17:50:00+08:00,用jQuery实现当前页面给菜单导航一个特定样式
 blog.forecho.com,2018-03-23T13:09:00+08:00,【深度理财03】我所了解的基金
+blog.forecho.com,2022-02-06T22:30:00+08:00,2021 年终总结
 blog.forecho.com,2014-10-19T22:06:00+08:00,Mac 升级 Yosemite 之后 PHP 环境修复
 blog.forecho.com,2012-07-10T11:28:00+08:00,yii学习笔记（三）-gii的使用以及模块的使用
 blog.forecho.com,2016-01-26T15:28:00+08:00,2015年终总结
 blog.forecho.com,2018-02-26T13:09:00+08:00,再谈美股开户:富途 VS 雪盈
-blog.forecho.com,2021-04-26T17:09:00+08:00,【深度理财27】交易期权容易犯的错
+blog.forecho.com,2021-04-26T17:09:00+08:00,【深度理财 27】交易期权容易犯的错
 blog.forecho.com,2015-12-17T19:50:00+08:00,为什么要开源
 blog.forecho.com,2012-02-18T00:08:00+08:00,2012年，生活还得继续
 blog.forecho.com,2020-08-26T22:09:00+08:00,【深度理财13】投资 投机 赌博
@@ -3211,6 +3503,7 @@ blog.forecho.com,2017-06-25T15:12:00+08:00,【深度阅读002】《暗时间》
 blog.forecho.com,2012-11-01T13:59:00+08:00,"substr(),mb_substr() 及 mb_strcut 的区别和用法"
 blog.forecho.com,2016-10-27T20:58:00+08:00,手把手教你不依赖任何环境使用 Hexo
 blog.forecho.com,2012-11-06T10:47:00+08:00,yii隐藏index.php而不隐藏admin.php的方法
+blog.forecho.com,2022-12-02T15:58:00+08:00,美团信用卡测评
 blog.forecho.com,2020-03-18T19:36:14+08:00,自动化部署
 blog.forecho.com,2012-11-05T16:20:00+08:00,yii自定义URL
 blog.forecho.com,2015-12-27T22:37:00+08:00,塑造成功框架的哲学
@@ -3220,13 +3513,17 @@ blog.forecho.com,2019-04-18T21:58:00+08:00,租 Switch 玩
 blog.forecho.com,2018-03-19T19:23:00+08:00,【深度阅读013】懂了这些之后，才知道如何去赚钱
 blog.forecho.com,2020-05-12T22:16:26+08:00,Mac 维修记
 blog.forecho.com,2018-03-06T13:09:00+08:00,【深度理财02】炒美股一年学到的经验教训
-blog.forecho.com,2014-11-17T12:51:00+08:00,使用Yii的 CMenu
+blog.forecho.com,2014-11-17T12:51:00+08:00,使用 Yii 的 CMenu
 blog.forecho.com,2021-02-09T10:03:00+08:00,2020 年终总结
 blog.forecho.com,2020-09-29T17:33:00+08:00,HTTP Location
 blog.forecho.com,2016-10-07T07:58:00+08:00,第六站：涠洲岛之旅
 blog.forecho.com,2013-11-02T12:38:00+08:00,程序员的《权利法案》
 blog.forecho.com,2013-11-26T00:05:00+08:00,《不许联想》读书笔记
+blog.forecho.com,2022-06-12T22:39:00+08:00,股市亏钱四大致命伤
+blog.forecho.com,2022-03-15T09:09:00+08:00,【深度理财 36】股市大跌如何做对冲？
 blog.forecho.com,2021-04-23T16:09:00+08:00,【深度理财26】随机买股票实验结局
+blog.forecho.com,2022-06-19T09:09:00+08:00,巴菲特的投资哲学
+blog.forecho.com,2023-02-17T14:10:00+08:00,来香港办香港银行卡
 blog.forecho.com,2019-06-26T22:58:00+08:00,Bose QC30 VS AirPods
 blog.forecho.com,2020-07-25T11:09:00+08:00,【深度理财12】现在投资什么最好？
 blog.forecho.com,2012-10-15T10:46:00+08:00,第一站，成都
@@ -3234,7 +3531,8 @@ blog.forecho.com,2017-08-02T15:12:00+08:00,【深度阅读003】《清醒思考�
 blog.forecho.com,2020-07-16T10:08:00+08:00,GitHub Action 和 Travis CI 对比
 blog.forecho.com,2013-07-23T17:27:00+08:00,解决Nginx无法识别PHP问题
 blog.forecho.com,2012-10-16T13:52:00+08:00,使用表单验证插件 Validform
-blog.forecho.com,2013-07-09T10:39:00+08:00,Vim编辑器使用（一）
+blog.forecho.com,2023-01-29T18:44:00+08:00,再次学英语
+blog.forecho.com,2013-07-09T10:39:00+08:00,Vim 编辑器使用（一）
 blog.forecho.com,2017-10-15T11:51:00+08:00,双生日
 blog.forecho.com,2014-05-14T11:06:00+08:00,截取以xx结尾的词
 blog.forecho.com,2017-06-18T22:05:00+08:00,推荐几本非技术编程类书
@@ -3248,6 +3546,7 @@ blog.forecho.com,2020-12-11T12:09:00+08:00,【深度理财16】打新真的赚�
 blog.forecho.com,2021-11-17T13:12:00+08:00,使用 PHP CS Fixer 规范代码
 blog.forecho.com,2020-03-19T20:57:28+08:00,电子书繁体竖排转换简体横排
 blog.forecho.com,2017-11-25T16:01:00+08:00,【深度阅读007】如何点亮你的人生技能树 - 《斜杠青年》读书笔记
+blog.forecho.com,2022-11-12T21:18:00+08:00,使用 Telegram
 blog.forecho.com,2021-03-09T19:09:00+08:00,【深度理财22】股票投资的框架
 blog.forecho.com,2021-08-16T10:59:00+08:00,我是如何用 Golang 做接口测试的
 blog.forecho.com,2015-07-21T17:25:00+08:00,Octopress 结合 github 和 travis-ci 实现自动更新博客
