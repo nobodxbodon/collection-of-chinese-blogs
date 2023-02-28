@@ -2,6 +2,7 @@ using csv
 
 路径  = "/Users/xuanwu/work/聚聚/源数据/博客聚合/"
 
+// TODO: jalenchuh md路径更换，与默认 hugo 不同；cyril3 仅有html
 路径表 = {
     // 特殊
     "barretlee": "blog/src/_posts",
