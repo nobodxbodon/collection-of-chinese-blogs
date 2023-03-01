@@ -2,14 +2,14 @@ using csv
 
 路径  = "/Users/xuanwu/work/聚聚/源数据/博客聚合/"
 
-// TODO: jalenchuh md路径更换，与默认 hugo 不同；cyril3 仅有html
+// TODO: cyril3 仅有html
 路径表 = {
     // 特殊
     "barretlee": "blog/src/_posts",
     // 下面为通用格式
     "hexo": "source/_posts",
     "gridsome": "content/posts",
-    "hugo": "content",
+    "hugo": "content",   // 多数置于 posts下，但少数有自定义路径如 jalenchuh
     "": "_posts"  // Jekyll 默认
 }
 
