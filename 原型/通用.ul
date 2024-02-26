@@ -1,6 +1,7 @@
 using csv
 
-路径  = "/Users/xuanwu/work/聚聚/源数据/博客聚合/"
+// TODO：应改为相对路径，但改后，os.chdir 有问题
+路径  = "/media/wwww/share/study/聚聚/源数据/博客聚合/"
 
 // TODO: cyril3 仅有html
 路径表 = {
