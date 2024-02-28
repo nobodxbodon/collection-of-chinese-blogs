@@ -36,7 +36,7 @@ $ 木兰 原型/git同步.ul
 - 仓库同步
   - 报告: 哪个博客新加几篇内容等
 - [x] 网页中显示本地图片, 如: 《Three.js 入门与扫盲-基础结构,坐标系与几何类型介绍》
-- 支持指定仓库分支，如 [qingbob.com](https://github.com/hh54188/jekyll-blog) 使用 gh-pages 分支
+- 支持指定仓库分支，如 [qingbob.com](https://github.com/hh54188/jekyll-blog) 使用 gh-pages 分支；jaredtao.gitee.io 的 md 在分支 tao
 - 搜索
   - 按关键词
   - 按特征, 如带图片的, 更新时间范围等
@@ -53,10 +53,9 @@ $ 木兰 原型/git同步.ul
   - 删除头部 --- 部分, 添加题目/在线博客等信息
   - 格式有误: www.barretlee.com/让音乐响起来.html
 
-### 无 md 文件的仓库
+### 主分支无 md 文件的仓库
 
 是否在其他git分支待确定
 
-jaredtao.gitee.io
 cyril3.github.io
 ngzhio.github.io

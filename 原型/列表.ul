@@ -67,6 +67,6 @@ for 简报 in 完整简报 {
 try 模板文件=open('原型/索引模板.html') {
   模板 = Template(模板文件.read())
 }
-try 索引=open('html/索引.html', 'w') {
+try 索引=open('html/index.html', 'w') {
   索引.write(模板.render({'所有博文': 所有链接}))
 }
