@@ -55,7 +55,4 @@ $ 木兰 原型/git同步.ul
 
 ### 主分支无 md 文件的仓库
 
-是否在其他git分支待确定
-
-cyril3.github.io
-ngzhio.github.io
+cyril3.github.io 无其他分支

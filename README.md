@@ -50,7 +50,6 @@
 | [Bingwhispers](https://cyril3.github.io) | [github](https://github.com/cyril3/cyril3.github.io) | md Jekyll | 编程; 生活
 | [Luyu Huang's Tech Blog](https://luyuhuang.tech/) | [github](https://github.com/luyuhuang/luyuhuang.github.io) | md Jekyll | 编程
 | [以梦为马](https://lhymwm.github.io) | [github](https://github.com/lhymwm/lhymwm.github.io) | html | 学习; 生活; 断想
-| [Ngzhio's Blog](https://ngzhio.github.io/) | [github](https://github.com/ngzhio/ngzhio.github.io) | md Jekyll | 编程; 生活; 文学; 数学; 物理; 笔记
 | [阿掖山：一个博客](https://mountaye.github.io/blog/) | [github](https://github.com/MountAye/blog) | html | 物理; 生物; 编程; 摄影
 | [AmbroseRen](https://ambroseren.github.io/test/) | [github](https://github.com/ambroseren/ambroseren.github.io) | html | 综合数据库笔记; 博客
 | [张小凯的博客](https://jasonkayzk.github.io/) | [github](https://github.com/jasonkayzk/jasonkayzk.github.io) | md | 编程; 后端; 生活; 分享
