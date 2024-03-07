@@ -48,7 +48,7 @@ for 仓库地址 in 仓库表 {
         简报['网页'] = os.path.join(目标目录, 网页文件)
         简报['域名'] = 目标目录
         // println(简报) if !os.path.exists(网页路径)
-        // TODO: 如果 md 题目未改而内容修改, 仍需更新网页内容
+
         生成网页(简报, 网页路径, 目标目录) if 重新生成 or !os.path.exists(网页路径)
     }
 

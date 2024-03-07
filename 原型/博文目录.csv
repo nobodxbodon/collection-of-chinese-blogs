@@ -255,6 +255,43 @@ vivaxyblog.github.io,2020-01-05,How Babel Is Built
 vivaxyblog.github.io,2020-04-29,VSCode Conventional Commits Extension
 vivaxyblog.github.io,2020-04-30,VSCode Conventional Commits 插件
 vivaxyblog.github.io,2021-03-07,SameSite Cookies 解读
+jaredtao.gitee.io,2019-05-17 20:37:33,玩转Qml(5)-Qml与C++交互
+jaredtao.gitee.io,2020-11-30 12:44:23,QQuickWidget中文输入法问题的正确解法
+jaredtao.gitee.io,2019-04-29 20:44:23,涛哥博客杂谈
+jaredtao.gitee.io,2019-05-09 23:44:23,玩转Qml(1)-从按钮开始
+jaredtao.gitee.io,2019-06-01 12:44:23,玩转Qml(10)-自定义Quick模块
+jaredtao.gitee.io,2019-6-2 18:44:23,玩转Qml(11)-更强的拖动组件
+jaredtao.gitee.io,2019-06-03 01:44:23,玩转Qml(12)-再谈动态国际化
+jaredtao.gitee.io,2019-06-08 12:44:23,玩转Qml(13)-动画特效-飞入
+jaredtao.gitee.io,2019-06-09 09:44:23,玩转Qml(14)-动画特效-梯度
+jaredtao.gitee.io,2019-06-22 13:44:23,玩转Qml(15)-着色器效果ShaderEffect
+jaredtao.gitee.io,2019-07-04 13:44:23,玩转Qml(16)-移植ShaderToy
+jaredtao.gitee.io,2020-06-15 23:44:23,玩转Qml(17)-树组件的定制
+jaredtao.gitee.io,2020-11-10 13:44:23,玩转Qml(18)-用户向导
+jaredtao.gitee.io,2019-05-11 12:22:33,玩转Qml(2)-可以拖动的组件
+jaredtao.gitee.io,2019-05-12 12:44:23,玩转Qml(3)-换皮肤
+jaredtao.gitee.io,2019-05-12 23:44:23,玩转Qml(4)-I18n动态国际化
+jaredtao.gitee.io,2019-05-18 12:44:23,玩转Qml(6)-进度条定制
+jaredtao.gitee.io,2019-05-19 12:33:44,玩转Qml(7)-自绘组件
+jaredtao.gitee.io,2019-05-22 19:44:23,玩转Qml(8)-Qml属性
+jaredtao.gitee.io,2019-05-24 18:44:23,玩转Qml(9)-Model和View
+jaredtao.gitee.io,2019-04-29 23:44:23,玩转Qt(1)-输出彩色log
+jaredtao.gitee.io,2019-11-19 12:44:23,玩转Qt(10)-github-Actions自动化编译
+jaredtao.gitee.io,2019-12-3 12:44:23,玩转Qt(11)-github-Actions自动化发行
+jaredtao.gitee.io,2019-12-4 12:44:23,玩转Qt(12)-github-Actions缓存优化
+jaredtao.gitee.io,2019-12-8 00:44:23,玩转Qt(13)-安卓5.12.4环境搭建
+jaredtao.gitee.io,2020-03-04 19:44:23,玩转Qt(14)-Qt与Web混合开发
+jaredtao.gitee.io,2020-03-12 19:44:23,玩转Qt(15)-操控Web小车案例
+jaredtao.gitee.io,2019-04-30 23:44:23,玩转Qt(2)-自制简易好看的日志系统
+jaredtao.gitee.io,2019-05-18 18:44:23,玩转Qt(3)-用好QtCreator
+jaredtao.gitee.io,2019-05-29 18:44:23,玩转Qt(4)-用好qmake
+jaredtao.gitee.io,2019-07-06 18:44:23,玩转Qt(5)-理解事件循环
+jaredtao.gitee.io,2019-07-23 18:44:23,玩转Qt(6)-认清信号槽的本质
+jaredtao.gitee.io,2019-08-30 18:44:23,玩转Qt(7)-窥探信号槽的实现细节
+jaredtao.gitee.io,2019-09-02 12:44:23,玩转Qt(8)-掌握信号槽使用细节
+jaredtao.gitee.io,2019-09-12 18:44:23,玩转Qt(9)-程序发布指南
+jaredtao.gitee.io,2021-01-20 13:44:23,玩转QtQuick(1)-SceneGraph场景图简介
+jaredtao.gitee.io,2021-01-21 13:44:23,玩转QtQuick(2)-默认渲染器
 claude-ray.github.io,2017-06-18 22:09:28,Hexo搭建过程
 claude-ray.github.io,2020-04-29 21:13:15,分享一个 npm dist-tag 的冷知识
 claude-ray.github.io,2019-09-13 11:55:57,如何解决 Debian 系 Elastic apm-server 7.x 启动失败
@@ -1696,186 +1733,186 @@ shrekshao.github.io,2019-01-10,Magic poser Webapp Lite
 alxddh.github.io,2019-10-09 16:59:33 +0800,基于贝叶斯平均对豆瓣图书的搜索结果进行排序
 alxddh.github.io,2019-11-12 17:31:47 +0800,How to Implement a Tag Archive Page in Jekyll
 alxddh.github.io,2019-11-15 17:32:09 +0800,UGF 源码阅读笔记：（1）安装
-objcoding.github.io,2017-05-01,"hello, blog"
-objcoding.github.io,2017-05-03,SpringBoot构建web项目
-objcoding.github.io,2017-05-07,SpringCloud微服务架构之服务注册与发现
-objcoding.github.io,2017-05-10,SpringCloud微服务架构之服务消费者
-objcoding.github.io,2017-05-15,SpringCloud微服务架构之断路器
-objcoding.github.io,2017-05-20,SpringCloud微服务架构之服务网关
-objcoding.github.io,2017-05-23,SpringCloud微服务架构之feign客户端
-objcoding.github.io,2017-05-27,Shiro身份认证与授权
-objcoding.github.io,2017-05-30,Shiro密码加密与校验
-objcoding.github.io,2017-06-03,AngularJS的基本用法
-objcoding.github.io,2017-06-07,Workbook导出Excel文件的思路
-objcoding.github.io,2017-06-08,使用Apache的Fileupload工具实现文件上传
-objcoding.github.io,2017-06-14,SpringMVC初始化过程
-objcoding.github.io,2017-06-15,SpringMVC处理请求过程
-objcoding.github.io,2017-06-19,ApplicationContextAware的作用
-objcoding.github.io,2017-06-26,使用Collection的Stream拼装数据
-objcoding.github.io,2017-07-01,分析new和反射机制创建对象的区别
-objcoding.github.io,2017-07-03,JDBC获取连接对象源码分析
-objcoding.github.io,2017-07-04,浅谈多线程中的synchronized和volatile关键字
-objcoding.github.io,2017-07-07,多线程在项目中的运用
-objcoding.github.io,2017-07-10,字符串创建与存储机制
-objcoding.github.io,2017-07-12,Java8新特性之Lambda表达式
-objcoding.github.io,2017-07-18,JavaScript原型链
-objcoding.github.io,2017-08-12,Git的一些常用命令
-objcoding.github.io,2017-08-16,Java动态代理原理分析
-objcoding.github.io,2017-08-25,Spring面向切面编程
-objcoding.github.io,2017-09-05,解决fastJson循环引用的问题
-objcoding.github.io,2017-09-11,用Redis实现一个简易的MQ
-objcoding.github.io,2017-09-20,用Redis实现积分排行榜
-objcoding.github.io,2017-10-31,最全的SSH连接远程终端教程
-objcoding.github.io,2017-11-28,使用Gitalk搭建博客评论模块
-objcoding.github.io,2017-12-01,Docker实战（一）
-objcoding.github.io,2017-12-07,Docker实战（二）
-objcoding.github.io,2017-12-14,Eureka的高可用与用户验证
-objcoding.github.io,2017-12-18,Go的环境配置与应用编译
-objcoding.github.io,2017-06-12,Tomcat结构及处理请求过程
-objcoding.github.io,2017-07-21,Maven打包依赖项目到本地库
-objcoding.github.io,2017-12-27,Go函数作为值与类型
-objcoding.github.io,2018-07-18,用GitHub搭建个人Maven仓库
-objcoding.github.io,2019-01-17,搭建Redis主从+哨兵模式
-objcoding.github.io,2019-03-20,从源码的角度解析Mybatis的会话机制
-objcoding.github.io,2019-07-27,RocketMQ为什么要保证订阅关系的一致性？
-objcoding.github.io,2019-10-31,图解 Kafka 水印备份机制
-objcoding.github.io,2020-03-12,记一次 Kafka 重启失败问题排查
-objcoding.github.io,2020-07-05,Kafka 消费线程模型在中通消息服务运维平台的应用
-objcoding.github.io,2020-12-15,"Mybatis+Spring整合,没有考虑Interceptor线程安全,却只在debug时诱发bug"
-objcoding.github.io,2021-05-05,这五天，人潮汹涌。
-objcoding.github.io,2018-01-15,「红包」的设计与实现
-objcoding.github.io,2018-01-22,Go的new和make
-objcoding.github.io,2018-01-27,对用户输入的url进行包装处理
-objcoding.github.io,2018-01-30,SpringBoot自动化配置源码分析
-objcoding.github.io,2018-02-02,实战|如何自定义SpringBoot Starter？
-objcoding.github.io,2018-02-06,Docker实战（三）
-objcoding.github.io,2018-02-07,Java 后端自学之路
-objcoding.github.io,2018-03-15,Docker实战（四）
-objcoding.github.io,2018-03-22,阿里社招电话一面总结
-objcoding.github.io,2018-04-09,Payoneer 支付流程
-objcoding.github.io,2018-05-25,微信H5支付遇到的坑
-objcoding.github.io,2018-06-01,Mybatis源码分析之Mapper注册与绑定
-objcoding.github.io,2018-06-12,Mybatis-spring源码分析之注册Mapper Bean
-objcoding.github.io,2018-08-12,Docker实战之搭建Swarm集群
-objcoding.github.io,2018-08-19,Docker网络模型
-objcoding.github.io,2018-08-23,验证Docker Swarm集群的负载均衡
-objcoding.github.io,2018-09-03,Docker Stack多服务编排
-objcoding.github.io,2018-09-13,Go Modules详解
-objcoding.github.io,2018-09-14,go test单元测试
-objcoding.github.io,2018-09-28,令人惊叹的ZGC
-objcoding.github.io,2018-10-10,腾讯云重启后登录不了解决办法
-objcoding.github.io,2018-10-16,RabbitMQ的一些基本概念
-objcoding.github.io,2018-10-19,RabbitMQ集群原理与部署
-objcoding.github.io,2018-10-20,SpringBoot整合RabbitMQ
-objcoding.github.io,2018-11-29,Java并发之CAS原理分析
-objcoding.github.io,2018-12-07,老哥，我这里有两本内功修炼宝典，你需要吗？
-objcoding.github.io,2019-01-18,搭建RocketMQ集群
-objcoding.github.io,2019-01-20,Dubbo服务暴露之注册地址和端口
-objcoding.github.io,2019-01-22,RocketMQ的消费模式
-objcoding.github.io,2019-01-23,使用Docker搭建ELK日志系统
-objcoding.github.io,2019-01-24,Dubbo全链路追踪日志的实现
-objcoding.github.io,2019-01-31,Docker容器的日志处理
-objcoding.github.io,2019-02-16,基于Jenkins Pipeline自动化部署
-objcoding.github.io,2019-02-21,Docker Overlay网络的一些总结
-objcoding.github.io,2019-03-04,关于Java Lambda表达式看这一篇就够了
-objcoding.github.io,2019-03-11,RocketMQ源码分析之路由中心
-objcoding.github.io,2019-03-14,创建Docker Swarm集群步骤
-objcoding.github.io,2019-03-15,Docker Swarm 集群部署笔记
-objcoding.github.io,2019-03-17,mybatis-plus源码分析之sql注入器
-objcoding.github.io,2019-03-31,深度解析RocketMQ Topic的创建机制
-objcoding.github.io,2019-04-02,关于RocketMQ Topic的创建机制，我还有一些细节上的思考
-objcoding.github.io,2019-04-06,RocketMQ消息发送的高可用设计
-objcoding.github.io,2019-04-11,你都理解创建线程池的参数吗？
-objcoding.github.io,2019-04-14,关于线程池你不得不知道的一些设置
-objcoding.github.io,2019-04-25,从源码的角度解析线程池运行原理
-objcoding.github.io,2019-05-05,Java并发之AQS源码分析（一）
-objcoding.github.io,2019-05-08,Java并发之AQS源码分析（二）
-objcoding.github.io,2019-05-16,由for update引发的血案
-objcoding.github.io,2019-05-30,聊聊Tomcat的架构设计
-objcoding.github.io,2019-06-04,我对支付平台架构设计的一些思考
-objcoding.github.io,2019-06-21,日期用这种方式来存储可能更加优雅
-objcoding.github.io,2019-07-11,分布式事务中间件Seata的设计原理
-objcoding.github.io,2019-09-13,Kafka分区副本与RocketMQ队列的区别
-objcoding.github.io,2019-09-14,沪漂
-objcoding.github.io,2019-09-18,RocketMQ Broker启动流程梳理
-objcoding.github.io,2019-09-20,Kafka发送消息时提示请求数据过大是怎么回事？
-objcoding.github.io,2019-09-21,RocketMQ主从同步源码分析
-objcoding.github.io,2019-09-22,RocketMQ主从读写分离机制
-objcoding.github.io,2019-09-23,RocketMQ主从如何同步消息消费进度？
-objcoding.github.io,2019-09-24,Kafka消息体大小设置的一些细节
-objcoding.github.io,2019-09-28,Kafka重平衡机制
-objcoding.github.io,2019-10-10,一个小小的里程碑
-objcoding.github.io,2019-10-11,关于RocketMQ消息消费与重平衡的一些问题
-objcoding.github.io,2019-10-26,记一次Kafka集群线上扩容
-objcoding.github.io,2019-10-28,Kafka 分区重分配源码分析
-objcoding.github.io,2019-11-03,RocketMQ 同步复制 SLAVE_NOT_AVAILABLE 异常源码分析
-objcoding.github.io,2019-11-04,RocketMQ 位移提交源码分析
-objcoding.github.io,2019-11-05,Kafka ISR 副本同步机制
-objcoding.github.io,2019-11-10,Kafka 删除主题流程分析
-objcoding.github.io,2019-11-12,你就是我要找的人
-objcoding.github.io,2019-11-18,关于 Kafka 的一些面试题目
-objcoding.github.io,2019-11-27,Seata AT 模式启动源码分析
-objcoding.github.io,2019-11-28,Seata 客户端需要同时启动 RM 和 TM 吗？
-objcoding.github.io,2019-12-12,Seata 配置中心实现原理
-objcoding.github.io,2019-12-15,Seata 动态配置订阅与降级实现原理
-objcoding.github.io,2020-01-05,一次 kafka 消息堆积问题排查
-objcoding.github.io,2020-01-15,彻底解决 GitHub 拉取代码网速慢的问题
-objcoding.github.io,2020-02-28,回来了
-objcoding.github.io,2020-03-14,从源码和日志文件结构中分析 Kafka 重启失败事件
-objcoding.github.io,2020-03-15,Kafka 常用运维脚本
-objcoding.github.io,2020-03-16,当 Kafka 分区不可用且 leader 副本被损坏时，如何尽量减少数据的丢失？
-objcoding.github.io,2020-03-25,在使用 SpringMVC 时，Spring 容器是如何与 Servlet 容器进行交互的？
-objcoding.github.io,2020-04-08,我参与 Seata 开源项目的一些感悟
-objcoding.github.io,2020-04-22,保证严格的消息顺序消费究竟有多难？
-objcoding.github.io,2020-04-23,盘点 Kafka 不能保证严格消费顺序的各种情况
-objcoding.github.io,2020-04-26,Kafka/RocketMQ 多线程消费时如何保证消费顺序？
-objcoding.github.io,2020-05-01,深度剖析 Kafka/RocketMQ 顺序消息的一些坑
-objcoding.github.io,2020-05-18,彻底搞懂 Kafka 消息大小相关参数设置的规则
-objcoding.github.io,2020-05-30,Spring 异步实现原理与实战分享
-objcoding.github.io,2020-07-01,记一次关于位移提交的问题回答
-objcoding.github.io,2020-07-13,Seata RPC 模块的重构之路
-objcoding.github.io,2020-08-16,探讨缓存行与伪共享
-objcoding.github.io,2020-08-24,图解 K8s 核心概念和术语
-objcoding.github.io,2020-08-25,我的6封情书通过中通快递送达给你
-objcoding.github.io,2020-08-26,使用 K8s 进行作业调度实战分享
-objcoding.github.io,2020-09-06,图解 DataX 核心设计原理
-objcoding.github.io,2020-09-07,有一次小明传数据给我，把我弄哭了
-objcoding.github.io,2020-09-12,Kafka Producer 异步发送消息居然也会阻塞？
-objcoding.github.io,2020-09-13,深度剖析 Kafka Producer 的缓冲池机制【图解 + 源码分析】
-objcoding.github.io,2020-09-18,记一次 Kafka Producer 性能调优实战
-objcoding.github.io,2020-09-19,Kafka 独立消费者
-objcoding.github.io,2020-11-19,中通消息平台 Kafka 顺序消费线程模型的实践与优化
-objcoding.github.io,2020-12-13,使用 Hexo + Gitee 快速搭建属于自己的博客
-objcoding.github.io,2020-12-16,使用 PicGo + Gitee 搭建免费图床
-objcoding.github.io,2020-12-29,Kafka 消息存储设计
-objcoding.github.io,2021-01-09,Kafka 消息格式的演进
-objcoding.github.io,2021-01-17,Apache Calcite 框架 50 倍性能优化实践
-objcoding.github.io,2021-01-19,花了一年多的时间，写了 30 篇关于 Kafka 的文章
-objcoding.github.io,2021-01-27,日均千亿消息量的 Kafka 集群频繁发生 ISR 变化，原因竟是...
-objcoding.github.io,2021-03-03,中通消息平台集群突破百万主题的技术探索
-objcoding.github.io,2021-03-11,中通缓存服务平台基于 Kubernetes Operator 的服务化实践
-objcoding.github.io,2021-04-01,这可能是一年中进蚂蚁最好的时机了
-objcoding.github.io,2021-04-05,四年磨一剑：我是如何拿到蚂蚁offer的？
-objcoding.github.io,2021-04-12,有关 RocketMQ 的文章都在这里了，请查阅！
-objcoding.github.io,2021-04-19,图解 Raft 共识算法：如何选举领导者？
-objcoding.github.io,2021-04-20,穷且益坚，不坠青云之志！
-objcoding.github.io,2021-04-23,Seata 分布式事务 XA 与 AT 全面解析
-objcoding.github.io,2021-05-09,你的 IDEA 该升级了！
-objcoding.github.io,2021-05-13,聊聊“频繁跳槽”这件事
-objcoding.github.io,2021-05-17,硬核！一份来自美女读者的年中总结！
-objcoding.github.io,2021-05-19,面试官问我：如何设计一个秒杀场景？
-objcoding.github.io,2021-05-22,代码即格式：你用过这些高效工具吗？
-objcoding.github.io,2021-06-01,图解 Raft 共识算法：如何复制日志？
-objcoding.github.io,2021-07-27,阿里经典面试题：消息队列的消费幂等性如何保证？
-objcoding.github.io,2021-08-23,Seata 分布式事务之 TCC 理论及设计实现
-objcoding.github.io,2021-08-25,TCC 适用模型与适用场景分析
-objcoding.github.io,2021-11-28,Redis击穿、穿透、雪崩产生原因以及解决思路
-objcoding.github.io,2021-11-29,一个 JDK 线程池 BUG 引发的 GC 机制思考
-objcoding.github.io,2021-12-01,浅谈互联网分布式架构的演进
-objcoding.github.io,2021-12-27,详解 Seata AT 模式事务隔离级别与全局锁设计
-objcoding.github.io,2021-12-4,Raft: 寻找一种易于理解的一致性算法（扩展版）
-objcoding.github.io,2022-01-17,深度剖析 Seata TCC 模式【图解 + 源码分析】
-objcoding.github.io,2023-5-8,深度剖析分布式事务，轻松掌握实现原理与应用技巧！
+objcoding.com,2017-05-01,"hello, blog"
+objcoding.com,2017-05-03,SpringBoot构建web项目
+objcoding.com,2017-05-07,SpringCloud微服务架构之服务注册与发现
+objcoding.com,2017-05-10,SpringCloud微服务架构之服务消费者
+objcoding.com,2017-05-15,SpringCloud微服务架构之断路器
+objcoding.com,2017-05-20,SpringCloud微服务架构之服务网关
+objcoding.com,2017-05-23,SpringCloud微服务架构之feign客户端
+objcoding.com,2017-05-27,Shiro身份认证与授权
+objcoding.com,2017-05-30,Shiro密码加密与校验
+objcoding.com,2017-06-03,AngularJS的基本用法
+objcoding.com,2017-06-07,Workbook导出Excel文件的思路
+objcoding.com,2017-06-08,使用Apache的Fileupload工具实现文件上传
+objcoding.com,2017-06-14,SpringMVC初始化过程
+objcoding.com,2017-06-15,SpringMVC处理请求过程
+objcoding.com,2017-06-19,ApplicationContextAware的作用
+objcoding.com,2017-06-26,使用Collection的Stream拼装数据
+objcoding.com,2017-07-01,分析new和反射机制创建对象的区别
+objcoding.com,2017-07-03,JDBC获取连接对象源码分析
+objcoding.com,2017-07-04,浅谈多线程中的synchronized和volatile关键字
+objcoding.com,2017-07-07,多线程在项目中的运用
+objcoding.com,2017-07-10,字符串创建与存储机制
+objcoding.com,2017-07-12,Java8新特性之Lambda表达式
+objcoding.com,2017-07-18,JavaScript原型链
+objcoding.com,2017-08-12,Git的一些常用命令
+objcoding.com,2017-08-16,Java动态代理原理分析
+objcoding.com,2017-08-25,Spring面向切面编程
+objcoding.com,2017-09-05,解决fastJson循环引用的问题
+objcoding.com,2017-09-11,用Redis实现一个简易的MQ
+objcoding.com,2017-09-20,用Redis实现积分排行榜
+objcoding.com,2017-10-31,最全的SSH连接远程终端教程
+objcoding.com,2017-11-28,使用Gitalk搭建博客评论模块
+objcoding.com,2017-12-01,Docker实战（一）
+objcoding.com,2017-12-07,Docker实战（二）
+objcoding.com,2017-12-14,Eureka的高可用与用户验证
+objcoding.com,2017-12-18,Go的环境配置与应用编译
+objcoding.com,2017-06-12,Tomcat结构及处理请求过程
+objcoding.com,2017-07-21,Maven打包依赖项目到本地库
+objcoding.com,2017-12-27,Go函数作为值与类型
+objcoding.com,2018-07-18,用GitHub搭建个人Maven仓库
+objcoding.com,2019-01-17,搭建Redis主从+哨兵模式
+objcoding.com,2019-03-20,从源码的角度解析Mybatis的会话机制
+objcoding.com,2019-07-27,RocketMQ为什么要保证订阅关系的一致性？
+objcoding.com,2019-10-31,图解 Kafka 水印备份机制
+objcoding.com,2020-03-12,记一次 Kafka 重启失败问题排查
+objcoding.com,2020-07-05,Kafka 消费线程模型在中通消息服务运维平台的应用
+objcoding.com,2020-12-15,"Mybatis+Spring整合,没有考虑Interceptor线程安全,却只在debug时诱发bug"
+objcoding.com,2021-05-05,这五天，人潮汹涌。
+objcoding.com,2018-01-15,「红包」的设计与实现
+objcoding.com,2018-01-22,Go的new和make
+objcoding.com,2018-01-27,对用户输入的url进行包装处理
+objcoding.com,2018-01-30,SpringBoot自动化配置源码分析
+objcoding.com,2018-02-02,实战|如何自定义SpringBoot Starter？
+objcoding.com,2018-02-06,Docker实战（三）
+objcoding.com,2018-02-07,Java 后端自学之路
+objcoding.com,2018-03-15,Docker实战（四）
+objcoding.com,2018-03-22,阿里社招电话一面总结
+objcoding.com,2018-04-09,Payoneer 支付流程
+objcoding.com,2018-05-25,微信H5支付遇到的坑
+objcoding.com,2018-06-01,Mybatis源码分析之Mapper注册与绑定
+objcoding.com,2018-06-12,Mybatis-spring源码分析之注册Mapper Bean
+objcoding.com,2018-08-12,Docker实战之搭建Swarm集群
+objcoding.com,2018-08-19,Docker网络模型
+objcoding.com,2018-08-23,验证Docker Swarm集群的负载均衡
+objcoding.com,2018-09-03,Docker Stack多服务编排
+objcoding.com,2018-09-13,Go Modules详解
+objcoding.com,2018-09-14,go test单元测试
+objcoding.com,2018-09-28,令人惊叹的ZGC
+objcoding.com,2018-10-10,腾讯云重启后登录不了解决办法
+objcoding.com,2018-10-16,RabbitMQ的一些基本概念
+objcoding.com,2018-10-19,RabbitMQ集群原理与部署
+objcoding.com,2018-10-20,SpringBoot整合RabbitMQ
+objcoding.com,2018-11-29,Java并发之CAS原理分析
+objcoding.com,2018-12-07,老哥，我这里有两本内功修炼宝典，你需要吗？
+objcoding.com,2019-01-18,搭建RocketMQ集群
+objcoding.com,2019-01-20,Dubbo服务暴露之注册地址和端口
+objcoding.com,2019-01-22,RocketMQ的消费模式
+objcoding.com,2019-01-23,使用Docker搭建ELK日志系统
+objcoding.com,2019-01-24,Dubbo全链路追踪日志的实现
+objcoding.com,2019-01-31,Docker容器的日志处理
+objcoding.com,2019-02-16,基于Jenkins Pipeline自动化部署
+objcoding.com,2019-02-21,Docker Overlay网络的一些总结
+objcoding.com,2019-03-04,关于Java Lambda表达式看这一篇就够了
+objcoding.com,2019-03-11,RocketMQ源码分析之路由中心
+objcoding.com,2019-03-14,创建Docker Swarm集群步骤
+objcoding.com,2019-03-15,Docker Swarm 集群部署笔记
+objcoding.com,2019-03-17,mybatis-plus源码分析之sql注入器
+objcoding.com,2019-03-31,深度解析RocketMQ Topic的创建机制
+objcoding.com,2019-04-02,关于RocketMQ Topic的创建机制，我还有一些细节上的思考
+objcoding.com,2019-04-06,RocketMQ消息发送的高可用设计
+objcoding.com,2019-04-11,你都理解创建线程池的参数吗？
+objcoding.com,2019-04-14,关于线程池你不得不知道的一些设置
+objcoding.com,2019-04-25,从源码的角度解析线程池运行原理
+objcoding.com,2019-05-05,Java并发之AQS源码分析（一）
+objcoding.com,2019-05-08,Java并发之AQS源码分析（二）
+objcoding.com,2019-05-16,由for update引发的血案
+objcoding.com,2019-05-30,聊聊Tomcat的架构设计
+objcoding.com,2019-06-04,我对支付平台架构设计的一些思考
+objcoding.com,2019-06-21,日期用这种方式来存储可能更加优雅
+objcoding.com,2019-07-11,分布式事务中间件Seata的设计原理
+objcoding.com,2019-09-13,Kafka分区副本与RocketMQ队列的区别
+objcoding.com,2019-09-14,沪漂
+objcoding.com,2019-09-18,RocketMQ Broker启动流程梳理
+objcoding.com,2019-09-20,Kafka发送消息时提示请求数据过大是怎么回事？
+objcoding.com,2019-09-21,RocketMQ主从同步源码分析
+objcoding.com,2019-09-22,RocketMQ主从读写分离机制
+objcoding.com,2019-09-23,RocketMQ主从如何同步消息消费进度？
+objcoding.com,2019-09-24,Kafka消息体大小设置的一些细节
+objcoding.com,2019-09-28,Kafka重平衡机制
+objcoding.com,2019-10-10,一个小小的里程碑
+objcoding.com,2019-10-11,关于RocketMQ消息消费与重平衡的一些问题
+objcoding.com,2019-10-26,记一次Kafka集群线上扩容
+objcoding.com,2019-10-28,Kafka 分区重分配源码分析
+objcoding.com,2019-11-03,RocketMQ 同步复制 SLAVE_NOT_AVAILABLE 异常源码分析
+objcoding.com,2019-11-04,RocketMQ 位移提交源码分析
+objcoding.com,2019-11-05,Kafka ISR 副本同步机制
+objcoding.com,2019-11-10,Kafka 删除主题流程分析
+objcoding.com,2019-11-12,你就是我要找的人
+objcoding.com,2019-11-18,关于 Kafka 的一些面试题目
+objcoding.com,2019-11-27,Seata AT 模式启动源码分析
+objcoding.com,2019-11-28,Seata 客户端需要同时启动 RM 和 TM 吗？
+objcoding.com,2019-12-12,Seata 配置中心实现原理
+objcoding.com,2019-12-15,Seata 动态配置订阅与降级实现原理
+objcoding.com,2020-01-05,一次 kafka 消息堆积问题排查
+objcoding.com,2020-01-15,彻底解决 GitHub 拉取代码网速慢的问题
+objcoding.com,2020-02-28,回来了
+objcoding.com,2020-03-14,从源码和日志文件结构中分析 Kafka 重启失败事件
+objcoding.com,2020-03-15,Kafka 常用运维脚本
+objcoding.com,2020-03-16,当 Kafka 分区不可用且 leader 副本被损坏时，如何尽量减少数据的丢失？
+objcoding.com,2020-03-25,在使用 SpringMVC 时，Spring 容器是如何与 Servlet 容器进行交互的？
+objcoding.com,2020-04-08,我参与 Seata 开源项目的一些感悟
+objcoding.com,2020-04-22,保证严格的消息顺序消费究竟有多难？
+objcoding.com,2020-04-23,盘点 Kafka 不能保证严格消费顺序的各种情况
+objcoding.com,2020-04-26,Kafka/RocketMQ 多线程消费时如何保证消费顺序？
+objcoding.com,2020-05-01,深度剖析 Kafka/RocketMQ 顺序消息的一些坑
+objcoding.com,2020-05-18,彻底搞懂 Kafka 消息大小相关参数设置的规则
+objcoding.com,2020-05-30,Spring 异步实现原理与实战分享
+objcoding.com,2020-07-01,记一次关于位移提交的问题回答
+objcoding.com,2020-07-13,Seata RPC 模块的重构之路
+objcoding.com,2020-08-16,探讨缓存行与伪共享
+objcoding.com,2020-08-24,图解 K8s 核心概念和术语
+objcoding.com,2020-08-25,我的6封情书通过中通快递送达给你
+objcoding.com,2020-08-26,使用 K8s 进行作业调度实战分享
+objcoding.com,2020-09-06,图解 DataX 核心设计原理
+objcoding.com,2020-09-07,有一次小明传数据给我，把我弄哭了
+objcoding.com,2020-09-12,Kafka Producer 异步发送消息居然也会阻塞？
+objcoding.com,2020-09-13,深度剖析 Kafka Producer 的缓冲池机制【图解 + 源码分析】
+objcoding.com,2020-09-18,记一次 Kafka Producer 性能调优实战
+objcoding.com,2020-09-19,Kafka 独立消费者
+objcoding.com,2020-11-19,中通消息平台 Kafka 顺序消费线程模型的实践与优化
+objcoding.com,2020-12-13,使用 Hexo + Gitee 快速搭建属于自己的博客
+objcoding.com,2020-12-16,使用 PicGo + Gitee 搭建免费图床
+objcoding.com,2020-12-29,Kafka 消息存储设计
+objcoding.com,2021-01-09,Kafka 消息格式的演进
+objcoding.com,2021-01-17,Apache Calcite 框架 50 倍性能优化实践
+objcoding.com,2021-01-19,花了一年多的时间，写了 30 篇关于 Kafka 的文章
+objcoding.com,2021-01-27,日均千亿消息量的 Kafka 集群频繁发生 ISR 变化，原因竟是...
+objcoding.com,2021-03-03,中通消息平台集群突破百万主题的技术探索
+objcoding.com,2021-03-11,中通缓存服务平台基于 Kubernetes Operator 的服务化实践
+objcoding.com,2021-04-01,这可能是一年中进蚂蚁最好的时机了
+objcoding.com,2021-04-05,四年磨一剑：我是如何拿到蚂蚁offer的？
+objcoding.com,2021-04-12,有关 RocketMQ 的文章都在这里了，请查阅！
+objcoding.com,2021-04-19,图解 Raft 共识算法：如何选举领导者？
+objcoding.com,2021-04-20,穷且益坚，不坠青云之志！
+objcoding.com,2021-04-23,Seata 分布式事务 XA 与 AT 全面解析
+objcoding.com,2021-05-09,你的 IDEA 该升级了！
+objcoding.com,2021-05-13,聊聊“频繁跳槽”这件事
+objcoding.com,2021-05-17,硬核！一份来自美女读者的年中总结！
+objcoding.com,2021-05-19,面试官问我：如何设计一个秒杀场景？
+objcoding.com,2021-05-22,代码即格式：你用过这些高效工具吗？
+objcoding.com,2021-06-01,图解 Raft 共识算法：如何复制日志？
+objcoding.com,2021-07-27,阿里经典面试题：消息队列的消费幂等性如何保证？
+objcoding.com,2021-08-23,Seata 分布式事务之 TCC 理论及设计实现
+objcoding.com,2021-08-25,TCC 适用模型与适用场景分析
+objcoding.com,2021-11-28,Redis击穿、穿透、雪崩产生原因以及解决思路
+objcoding.com,2021-11-29,一个 JDK 线程池 BUG 引发的 GC 机制思考
+objcoding.com,2021-12-01,浅谈互联网分布式架构的演进
+objcoding.com,2021-12-27,详解 Seata AT 模式事务隔离级别与全局锁设计
+objcoding.com,2021-12-4,Raft: 寻找一种易于理解的一致性算法（扩展版）
+objcoding.com,2022-01-17,深度剖析 Seata TCC 模式【图解 + 源码分析】
+objcoding.com,2023-5-8,深度剖析分布式事务，轻松掌握实现原理与应用技巧！
 lineuman_blog,2015-06-15 19:25:00 +0800,repeat-practice
 lineuman_blog,2015-07-04 22:35:00 +0800,thanks-people-trust-you
 lineuman_blog,2015-08-15 15:14:00 +0800,regular-regex
@@ -3882,10 +3919,19 @@ codeinchinese.com,2019-03-30 00:00:00 -0700,命令式
 codeinchinese.com,2019-04-02 00:00:00 -0700,Java实现文本编辑时基于拼音输入的补全原型
 codeinchinese.com,2019-04-08 00:00:00 -0700,为Jekyll+GitHub Pages添加全文搜索功能
 codeinchinese.com,2019-04-23 00:00:00 -0700,中文命名之Hibernate 4 + MySQL演示
-codeinchinese.com,2019-04-28 00:00:00 -0700,"\""用中文编程\""微信公众号和今日头条开通, 其他各交流渠道小结"
+codeinchinese.com,2019-04-26,【公众号“用中文编程”】中文编程相关推广的回顾以及本号定位
+codeinchinese.com,2019-04-27,第二篇头条文章，数据跟踪
 codeinchinese.com,2019-04-28 12:00:00 -0700,谁说API必须用英文？中文API的Java库可以有！
+codeinchinese.com,2019-04-28,推广日记
+codeinchinese.com,2019-04-29,推广小记
+codeinchinese.com,2019-04-30,2019年4_30-5_1 推广小记
 codeinchinese.com,2019-05-01 00:00:00 -0700,中文方便就用中文编程！Python图形界面开发实例
+codeinchinese.com,2019-05-02,5_2-5_3 推广小记
+codeinchinese.com,2019-05-04,5_4-5_5 推广小记
+codeinchinese.com,2019-05-05,5_5-5_7 中文编程推广小记
+codeinchinese.com,2019-05-08,5_8-5_15 中文编程推广小记
 codeinchinese.com,2019-05-11,
+codeinchinese.com,2019-05-22,头条“爆文”一篇：5_15-5_22 推广小记
 codeinchinese.com,2019-07-01 00:00:00 -0700,从立创EDA，Gratipay看中文编程开发环境和推广运营的一个趋势
 codeinchinese.com,2019-05-14 00:00:00 -0700,中文代码之Django官方入门：建立模型
 codeinchinese.com,2019-07-31 00:00:00 -0700,用JS Search实现客户端JSON内容索引和搜索
@@ -4011,7 +4057,9 @@ codeinchinese.com,2022-03-01,从小学一年级数学看知识积累过程中的
 codeinchinese.com,2022-03-02,从小学一年级数学看知识积累过程中的纷扰（三）
 codeinchinese.com,2022-03-09,从小学数学课本看知识积累过程的纷扰（四）
 codeinchinese.com,2022-03-16,基于共享商业数据的广告盈利模式
+codeinchinese.com,2022-08-26,是否可以设计一种标记语言，用于表示汉字的生僻字
 codeinchinese.com,2022-09-04,为什么全世界至今未出现有影响力的中文编程语言
+codeinchinese.com,2019-04-28 00:00:00 -0700,"\""用中文编程\""微信公众号和今日头条开通, 其他各交流渠道小结"
 codeinchinese.com,2019-05-14 00:00:00 -0700,中文命名之Hibernate 5演示 - 使用注解(annotation)而非xml定义映射
 codeinchinese.com,2019-10-11 00:00:00 -0700,(多图)火热出炉的大疆机甲大师教育机器人开箱组装小记
 codeinchinese.com,2019-10-25 00:00:00 -0700,大疆机甲大师Python API之七：做个闹钟
@@ -4046,3 +4094,113 @@ codeinchinese.com,2024-02-12,小学数学到底有多难？
 codeinchinese.com,2024-02-27,Rust口碑不错，为何学的人却很少？
 codeinchinese.com,2024-03-01,在国产化编译器的发展过程中遇到过哪些挑战？
 codeinchinese.com,2024-03-01,语法解析器例程编写中遇到的常见报错与解决
+f2h2h1.github.io,,
+f2h2h1.github.io,,
+f2h2h1.github.io,,
+f2h2h1.github.io,,
+f2h2h1.github.io,,
+f2h2h1.github.io,,
+f2h2h1.github.io,,
+f2h2h1.github.io,,
+f2h2h1.github.io,,
+f2h2h1.github.io,,
+f2h2h1.github.io,,
+f2h2h1.github.io,,
+f2h2h1.github.io,,
+f2h2h1.github.io,,
+f2h2h1.github.io,,
+f2h2h1.github.io,,
+f2h2h1.github.io,,
+f2h2h1.github.io,,
+f2h2h1.github.io,,
+f2h2h1.github.io,,
+f2h2h1.github.io,,
+f2h2h1.github.io,,
+f2h2h1.github.io,,
+f2h2h1.github.io,,
+f2h2h1.github.io,,
+f2h2h1.github.io,,
+f2h2h1.github.io,,
+f2h2h1.github.io,,
+f2h2h1.github.io,,
+f2h2h1.github.io,,
+f2h2h1.github.io,,
+f2h2h1.github.io,,
+f2h2h1.github.io,,
+f2h2h1.github.io,,
+f2h2h1.github.io,,
+f2h2h1.github.io,,
+f2h2h1.github.io,,
+f2h2h1.github.io,,
+f2h2h1.github.io,,
+f2h2h1.github.io,,
+f2h2h1.github.io,,
+f2h2h1.github.io,,
+f2h2h1.github.io,,
+f2h2h1.github.io,,
+f2h2h1.github.io,,
+f2h2h1.github.io,,
+f2h2h1.github.io,,
+f2h2h1.github.io,,
+f2h2h1.github.io,,
+f2h2h1.github.io,,
+aemoncao.github.io,2021-06-20 14:44:31,A puzzle a day
+aemoncao.github.io,2017-06-10 14:19:44,关于招聘，求职，面试。
+aemoncao.github.io,2020-04-18 18:22:47,抽象工厂模式（Abstract Factory Pattern）
+aemoncao.github.io,2017-07-06 08:55:52,将博客从阿里云迁移到老薛主机
+aemoncao.github.io,2018-09-20 17:26:59,ASF（ArchiSteamFarm） 挂卡指南-入门篇
+aemoncao.github.io,2017-05-25 11:10:28,《编码：隐匿在计算机软硬件背后的语言》
+aemoncao.github.io,2020-03-26 22:10:27,设计模式
+aemoncao.github.io,2021-06-30 17:23:19,emoji 背后的故事
+aemoncao.github.io,2017-05-24 10:43:50,世界，您好！
+aemoncao.github.io,2017-07-11 15:40:12,hexakosioihexekontahexaphobia
+aemoncao.github.io,2017-06-28 10:34:28,如何删除数组中的 NaN 值
+aemoncao.github.io,2021-08-03 19:33:42,如何「黑入」你的特斯拉
+aemoncao.github.io,2017-07-07 13:44:41,在树莓派3上使用 ASF（ArchiSteamFarm） 挂卡
+aemoncao.github.io,2017-09-23 10:58:54,在树莓派上安装 Chrome（Chromium） 浏览器
+aemoncao.github.io,2021-06-17 11:47:14,nvm use 命令不生效问题以及解决方法
+aemoncao.github.io,2021-03-16 15:09:47,Premiere Pro 学习笔记
+aemoncao.github.io,2020-03-08 16:26:56,在 Visual Studio Code 中远程开发
+aemoncao.github.io,2020-12-14 15:21:48,RESTful API 设计：13 个让你用户开心的最佳实践
+aemoncao.github.io,2020-03-29 20:27:46,简单工厂模式（Simple Factory Pattern）
+aemoncao.github.io,2020-03-29 20:25:58,单例模式（Singleton Pattern）
+aemoncao.github.io,2020-04-25 20:21:04,Symbol 是什么？
+aemoncao.github.io,2017-06-15 15:09:19,两种方法显示节点的层次结构
+aemoncao.github.io,2017-09-15 19:37:09,依赖注入那些事儿
+aemoncao.github.io,2018-12-07 14:39:46,使用枚举和按位运算来控制用户权限
+aemoncao.github.io,2018-07-19 22:56:39,使用 raspberry 配合 frp 来进行远程开机
+aemoncao.github.io,2019-01-03 16:55:19,Green 和 Lime
+aemoncao.github.io,2017-08-16 20:26:46,微信小程序——RushA
+aemoncao.github.io,2021-04-22 16:41:59,What is this thing 10
+aemoncao.github.io,2020-03-31 22:55:39,工厂方法模式（Factory Method Pattern）
+aemoncao.github.io,2020-03-11 19:52:38,Linux 学习记录
+aemoncao.github.io,2021-05-22 10:28:18,What is this thing 11
+aemoncao.github.io,2021-06-22 10:08:46,What is this thing 12
+aemoncao.github.io,2021-07-22 13:18:55,What is this thing 13
+aemoncao.github.io,2021-08-21 13:33:31,What is this thing 14
+aemoncao.github.io,2021-09-22 11:00:20,What is this thing 15
+aemoncao.github.io,2020-09-16 12:12:21,What is this thing 2
+aemoncao.github.io,2020-09-17 09:33:54,What is this thing 3
+aemoncao.github.io,2020-12-25 11:06:13,What is this thing 4
+aemoncao.github.io,2020-12-25 15:29:13,What is this thing 5
+aemoncao.github.io,2020-12-26 14:56:40,What is this thing 6
+aemoncao.github.io,2021-01-22 09:42:13,What is this thing 7
+aemoncao.github.io,2021-02-19 11:15:35,What is this thing 8
+aemoncao.github.io,2021-03-22 12:18:00,What is this thing 9
+aemoncao.github.io,2020-09-15 19:38:35,What is this thing
+aemoncao.github.io,2019-03-22 15:59:27,《齐玛蓝》——阿拉斯泰尔·雷诺兹
+aemoncao.github.io,2020-03-13 21:13:31,在微信中使用 ToDoList
+aemoncao.github.io,2020-04-10 21:57:42,如何在 Spotify 听没有版权的歌
+aemoncao.github.io,2020-03-16 21:50:55,将hexo博客部署到Github Pages
+aemoncao.github.io,2021-05-18 09:19:41,微波炉简易使用指南
+aemoncao.github.io,2019-12-10 14:46:17,《悲惨世界》
+aemoncao.github.io,2019-07-19 15:48:44,《月亮与六便士》
+aemoncao.github.io,2022-08-08 15:14:00,榨干这台 NAS 第 000 话-目录结构
+aemoncao.github.io,2022-08-08 16:08:44,榨干这台 NAS 第 001 话-文件浏览器（File Browser）
+aemoncao.github.io,2022-08-09 22:03:32,榨干这台 NAS 第 002 话-下载工具
+aemoncao.github.io,2022-08-24 11:56:26,榨干这台 NAS 第 003 话-硬链接
+aemoncao.github.io,2022-11-21 11:18:17,榨干这台 NAS 第 004 话-刮削
+aemoncao.github.io,2021-09-29 10:40:29,煎蛋保险小课堂
+aemoncao.github.io,2020-12-28 16:38:15,程序员常用单词
+aemoncao.github.io,2020-05-19 14:46:17,《罗生门》
+aemoncao.github.io,2021-04-9 00:50:40,青旅
