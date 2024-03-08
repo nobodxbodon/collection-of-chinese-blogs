@@ -1,4 +1,3 @@
-using os
 using * in 原型.git功用
 
 无法合并 = "fatal: refusing to merge unrelated histories\n"
@@ -7,7 +6,7 @@ using * in 原型.git功用
 未变的库 = []
 for 仓库地址 in 仓库表 {
     目标目录 = 仓库表[仓库地址]
-    仓库本地路径 = 路径 + 目标目录
+    仓库本地路径 = 源数据路径 + 目标目录
 
     已下载 = os.path.exists(仓库本地路径) and os.path.isdir(仓库本地路径)
     if 已下载 {
@@ -16,7 +15,7 @@ for 仓库地址 in 仓库表 {
         if 报错 == 无法合并 {
             println("无法合并: `仓库地址`")
             os.rename(仓库本地路径, 仓库本地路径 + "_bak")
-            下载仓库(路径, 仓库地址, 目标目录)
+            下载仓库(源数据路径, 仓库地址, 目标目录)
         } else {
             if 输出[0:6] == 无新内容 {
                 println("`仓库地址`无更新")
@@ -25,6 +24,6 @@ for 仓库地址 in 仓库表 {
             else { println("`仓库地址`\n`输出`")}
         }
     }
-    else { 下载仓库(路径, 仓库地址, 目标目录) }
+    else { 下载仓库(源数据路径, 仓库地址, 目标目录) }
 }
 println(str(len(仓库表) - len(未变的库)) + "个库有新内容")

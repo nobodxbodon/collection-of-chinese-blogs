@@ -71,7 +71,7 @@ func 补全资源路径(原网页内容, 博客子目录) {
 
   for 图片 in 所有图片 {
     if !图片['src'].startswith('http') {
-      图片['src'] = 路径 + 博客子目录 + 图片['src']
+      图片['src'] = 源数据路径 + 博客子目录 + 图片['src']
     }
   }
   return str(页面)
