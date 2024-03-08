@@ -69,6 +69,20 @@ for 简报 in 完整简报 {
 try 模板文件=open('原型/索引模板.html') {
   模板 = Template(模板文件.read())
 }
+
+文章数, 仓库数 = 0, 0
+try 统计数据=open("原型/统计数据.csv") {
+  for 行 in csv.reader(统计数据, delimiter=',') {
+    仓库数 += 1
+    文章数 += int(行[1])
+  }
+}
+
 try 索引=open('html/index.html', 'w') {
-  索引.write(模板.render({'所有博文': 所有链接}))
+  索引.write(模板.render(
+    {
+      '所有博文': 所有链接,
+      '仓库数': 仓库数,
+      '文章数': 文章数
+    }))
 }
