@@ -1,6 +1,5 @@
 using os
 using * in 原型.git功用
-using * in 原型.通用
 
 无法合并 = "fatal: refusing to merge unrelated histories\n"
 无新内容 = "已经是最新的" // git 新版本为 Already up to date. 老版本为 Already up-to-date.

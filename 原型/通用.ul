@@ -1,4 +1,5 @@
 using csv
+using time
 
 // TODO：应改为相对路径，但改后，os.chdir 有问题
 路径  = "/media/wwww/share/study/聚聚/源数据/博客聚合/"
@@ -28,4 +29,10 @@ func 写入csv文件(文件名, 内容) {
         写入.writerow(行)
     }
   }
+}
+
+// Tue Jan 16 13:16:29 2024 +0800 => 2024-01-16
+func 转换git时间格式(git时间戳) {
+  时间点 = time.strptime(git时间戳, "%a %b %d %H:%M:%S %Y %z")
+  return time.strftime("%Y-%m-%d", 时间点)
 }

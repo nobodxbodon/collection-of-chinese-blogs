@@ -1,5 +1,6 @@
 using os
 using subprocess
+using * in 原型.通用
 
 同步 = "git pull"
 
@@ -23,3 +24,17 @@ func 下载仓库(路径, 仓库地址, 目标目录) {
 
 // 万一存在本地修改，直接 git checkout . 吗？
 func 同步仓库 { return 运行(同步) }
+
+func 取文件最初提交时间(仓库路径, 文件路径) {
+  // 取时间戳需切换当前目录，先保存再恢复
+  当前路径 = os.getcwd()
+  os.chdir(仓库路径)
+  原文字输出 = 运行("git log `文件路径`")['输出']
+  os.chdir(当前路径)
+
+  所有时间点 = list(
+    map(行 -> 行[6:].strip(),
+      filter(行 -> 行.startswith("Date:"),
+              原文字输出.split("\n"))))
+  return 转换git时间格式(所有时间点[-1])
+}
