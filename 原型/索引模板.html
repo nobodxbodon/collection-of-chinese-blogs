@@ -8,9 +8,9 @@
     <a href="https://gitee.com/zhishi/collection-of-chinese-blogs/tree/master/%E5%8E%9F%E5%9E%8B">在此</a>
 
     <ol>
-        {% for 博文 in 所有博文 %}
-        <li><a href={{博文.链接}}>{{博文.题目}}</a></li>
-        {% endfor %}
+{% for 博文 in 所有博文 %}
+<li><a href={{博文.链接}}>{{博文.题目}}</a></li>
+{% endfor %}
     </ol>
 </body>
 </html>
