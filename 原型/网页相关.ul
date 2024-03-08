@@ -34,6 +34,9 @@ func 生成原文链接(简报, 文件名) {
     return "http://" + 域名 + "/" + 链接化
   } elif 域名 == "luyuhuang.tech" or 域名 == "blog.forecho.com" {
     return "https://" + 域名 + "/" + 链接化 + ".html"
+  } // 以下无单独域名，直接链接到原仓库文件
+  elif 域名 == "gitee.com/MulanRevive/bounty" {
+    return "https://`域名`/blob/master/`路径表['MulanRevive']`/`文件名`"
   }
   return "https://" + 域名 + "/" + 链接化
 }

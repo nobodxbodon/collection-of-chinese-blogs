@@ -30,8 +30,8 @@ func 文件名提取时间戳(文件名) {
 
 // 2021-02-28-二月看展嘮叨.md
 func 文件名提取题目(文件名) {
-  分段 = re.search("(\d+-\d+-\d+)-(.+)\.md", 文件名)
-  return 分段 ? 分段.group(2) : re.search("(.+)\.md", 文件名).group(1)
+  分段 = re.search("(\d+-\d+-\d+)-(.+)\.(md|markdown)$", 文件名)
+  return 分段 ? 分段.group(2) : re.search("(.+)\.(md|markdown)$", 文件名).group(1)
 }
 
 func 剔除引号(文本) {

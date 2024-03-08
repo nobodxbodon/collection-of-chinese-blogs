@@ -6,9 +6,10 @@ using time
 
 // TODO: cyril3 仅有html
 路径表 = {
-    // 特殊
+    // 待做：自定义的改为用域名作键值
     "barretlee": "blog/src/_posts",
     "f2h2h1": "article",
+    "MulanRevive": "进展小结",
     // 下面为通用格式
     "hexo": "source/_posts",
     "gridsome": "content/posts",

@@ -41,7 +41,7 @@ for 仓库地址 in 仓库表 {
         // 将所有 md 文件转为 html，置于一个目录中
         子目录 = os.path.join("html", 目标目录)
         if !os.path.exists(子目录) {
-          os.mkdir(子目录)
+          os.makedirs(子目录)
         }
 
         网页文件 = 题目.replace("/", "_") + ".html"
