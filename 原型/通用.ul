@@ -37,3 +37,22 @@ func 转换git时间格式(git时间戳) {
   时间点 = time.strptime(git时间戳, "%a %b %d %H:%M:%S %Y %z")
   return time.strftime("%Y-%m-%d", 时间点)
 }
+
+func 取所占空间(目录) {
+    空间 = 0
+    for 当前路径, 目录名, 所有文件 in os.walk(目录) {
+        for 文件 in 所有文件 {
+            文件路径 = os.path.join(当前路径, 文件)
+
+            continue if os.path.islink(文件路径)
+            try {
+                文件大小 = os.path.getsize(文件路径)
+            } catch e {
+                print("取不了大小：`文件路径`")
+            }
+
+            空间 += 文件大小
+        }
+    }
+    return 空间/1000000
+}

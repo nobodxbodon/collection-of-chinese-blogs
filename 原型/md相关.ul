@@ -1,5 +1,5 @@
+using os
 using re
-using 取文件最初提交时间 in 原型.git功用
 
 /* 将 md 头部两个 --- 之间的部分提取到字典 */
 func 提取简报(文件名) {
@@ -20,6 +20,23 @@ func 提取简报(文件名) {
     }
     return 简报表
   }
+}
+
+func 根据路径提取所有简报(仓库本地路径) {
+  所有简报 = []
+  for 当前路径, 目录名, 所有文件 in os.walk(仓库本地路径) {
+    for 文件 in 所有文件 {
+      文件路径 = os.path.join(当前路径, 文件)
+      if 文件路径.endswith(".md") or 文件路径.endswith(".markdown") {
+        简报 = 提取简报(文件路径)
+        简报['仓库路径'] = 仓库本地路径
+        简报['文件名'] = 文件
+        简报['路径'] = 文件路径
+        所有简报.append(简报)
+      }
+    }
+  }
+  return 所有简报
 }
 
 // 2020-04-30-vscode-conventional-commits-extension-cn.md
@@ -48,7 +65,7 @@ func 取时间戳(简报) {
   } elif 简报.__contains__('modified') {
     return 简报['modified']
   } else {
-    return 文件名提取时间戳(简报['文件名']) or 取文件最初提交时间(简报['仓库路径'], 简报['路径'])
+    return 文件名提取时间戳(简报['文件名'])
   }
 }
 
