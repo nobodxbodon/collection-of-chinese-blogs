@@ -69,6 +69,17 @@ func 取时间戳(简报) {
   }
 }
 
+func 取分类(简报) {
+  if 简报.__contains__('categories') {
+    数据 = 简报['categories'].lower()
+    多类 = re.search("^\[(.+)\]$", 数据)
+    if 多类 {
+      return list(map(类别 -> 类别.strip(), 多类.group(1).split(',')))
+    }
+    return [数据]
+  }
+}
+
 func 取题目(简报) {
   if 简报.__contains__('title') {
     题目 = 简报['title']
