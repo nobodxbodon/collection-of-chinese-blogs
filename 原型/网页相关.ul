@@ -56,7 +56,7 @@ func 生成网页(简报, 网页路径, 博客子目录) {
   // 如果表格内容行开头无 | 则不渲染为表格
   网页 = mistune.markdown(原内容)
   try 文件=open(网页路径, 'w') {
-      文件.write(补全资源路径(网页, 博客子目录))
+      文件.write(补全资源路径(网页, 简报))
   }
 }
 
@@ -64,14 +64,22 @@ func 生成网页(简报, 网页路径, 博客子目录) {
  /assets/in-post/2017-05-03-Three-js-Introduction-Study-Note-1.png  =>
  /Users/xuanwu/git/聚聚/博客聚合/hijiangtao.github.io/assets/in-post/2017-05-03-Three-js-Introduction-Study-Note-4.jpg
 */
-func 补全资源路径(原网页内容, 博客子目录) {
+func 补全资源路径(原网页内容, 简报) {
   页面 = BeautifulSoup(原网页内容, 'html.parser')
 
   所有图片 = 页面.find_all('img')
 
+  博客子目录 = 简报['域名']
+  仓库源地址 = 简报['仓库源地址']
+  目标目录 = 仓库表[仓库源地址]
+  格式 = 格式表[仓库源地址]
+  相对路径 = (格式 == "自定义" ? 路径表[目标目录] : 路径表[格式])
+
   for 图片 in 所有图片 {
     if !图片['src'].startswith('http') {
-      图片['src'] = 源数据路径 + 博客子目录 + 图片['src']
+
+      // 待做：如图片['src']前带 ‘/’，会被当做根目录而不加前三项，如：![npm 请求路径](/image/optimize-verdaccio-proxy/verdaccio-fetch-path.png)
+      图片['src'] = os.path.join(源数据路径, 博客子目录, 相对路径, 图片['src'])
     }
   }
   return str(页面)
