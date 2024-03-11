@@ -77,9 +77,15 @@ func 补全资源路径(原网页内容, 简报) {
 
   for 图片 in 所有图片 {
     if !图片['src'].startswith('http') {
-
+      图片相对路径 = 图片['src']
+      if re.compile("^\/.*").match(图片['src']) {
+        if 格式 == "hexo" {
+          相对路径 = "source"
+          图片相对路径 = 图片相对路径[1:]
+        }
+      }
       // 待做：如图片['src']前带 ‘/’，会被当做根目录而不加前三项，如：![npm 请求路径](/image/optimize-verdaccio-proxy/verdaccio-fetch-path.png)
-      图片['src'] = os.path.join(源数据路径, 博客子目录, 相对路径, 图片['src'])
+      图片['src'] = os.path.join(源数据路径, 博客子目录, 相对路径, 图片相对路径)
     }
   }
   return str(页面)
