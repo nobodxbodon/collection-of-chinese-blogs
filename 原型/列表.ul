@@ -5,7 +5,11 @@ using * in 原型.网页相关
 using * in 原型.通用
 using 取文件最初提交时间 in 原型.git功用
 
-重新生成 = true
+// 所有基本测试
+
+using 原型.md相关测试
+
+重新生成 = false
 
 所有博文 = []
 完整简报 = []
