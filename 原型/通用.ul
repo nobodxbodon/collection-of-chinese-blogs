@@ -9,6 +9,7 @@ using time
     // 自定义的改为用域名作键值
     "www.barretlee.com": "blog/src/_posts",
     "f2h2h1.github.io": "article",
+    "xieguanglei.github.io": "source",
     "gitee.com/MulanRevive/bounty": "进展小结",
     // 下面为通用格式
     "hexo": "source/_posts",
