@@ -1,0 +1,5 @@
+using * in 原型.网页相关
+
+确认相等(os.path.join(源数据路径, "dianjiaogit.github.io/assets/images/todo-plus-syntax.png"),
+  生成本地图片路径("/assets/images/todo-plus-syntax.png", "", "dianjiaogit.github.io", "_posts"),
+  "dianjiaogit")

@@ -78,17 +78,26 @@ func 补全资源路径(原网页内容, 简报) {
   相对路径 = (格式 == "自定义" ? 路径表[目标目录] : 路径表[格式])
 
   for 图片 in 所有图片 {
-    if !图片['src'].startswith('http') {
-      图片相对路径 = 图片['src']
-      if re.compile("^\/.*").match(图片['src']) {
-        if 格式 == "hexo" {
-          相对路径 = "source"
-          图片相对路径 = 图片相对路径[1:]
-        }
-      }
-      // 待做：如图片['src']前带 ‘/’，会被当做根目录而不加前三项，如：![npm 请求路径](/image/optimize-verdaccio-proxy/verdaccio-fetch-path.png)
-      图片['src'] = os.path.join(源数据路径, 博客子目录, 相对路径, 图片相对路径)
-    }
+    图片['src'] = 生成本地图片路径(图片['src'], 格式, 博客子目录, 相对路径)
   }
   return str(页面)
+}
+
+func 生成本地图片路径(图片原始路径, 格式, 博客子目录, 仓库相对路径) {
+    图片子目录 = 仓库相对路径
+    相对路径 = 图片原始路径
+    if !图片原始路径.startswith('http') {
+      if re.compile("^\/.*").match(图片原始路径) {
+        if 格式 == "hexo" {
+          图片子目录 = "source"
+          相对路径 = 相对路径[1:]
+        } // 如为 jekyll, 开头 / 表示仓库根目录
+        elif 格式 == "" {
+          相对路径 = 相对路径[1:]
+          图片子目录 = ""
+        }
+      }
+      return os.path.join(源数据路径, 博客子目录, 图片子目录, 相对路径)
+    }
+    return 图片原始路径
 }

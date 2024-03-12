@@ -2,12 +2,12 @@ using Template in jinja2
 using urllib.parse
 using * in 原型.md相关
 using * in 原型.网页相关
-using * in 原型.通用
 using 取文件最初提交时间 in 原型.git功用
 
 // 所有基本测试
 
 using 原型.md相关测试
+using 原型.网页相关测试
 
 重新生成 = false
 
