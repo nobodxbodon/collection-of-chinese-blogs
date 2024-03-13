@@ -58,7 +58,12 @@ for 仓库地址 in 仓库表 {
 所有链接 = []
 完整简报.sort(key=x -> x['时间'], reverse=true)
 for 简报 in 完整简报 {
-  所有链接.append({'题目': 简报['时间'] + ' ' + 简报['题目'], '链接': urllib.parse.quote(简报['网页'])})
+  主题 = 简报['题目']
+
+  if 简报['域名'] == "xieguanglei.github.io" {
+    主题 = 取首行题目(简报) or 主题
+  }
+  所有链接.append({'题目': 简报['时间'] + ' ' + 主题, '链接': urllib.parse.quote(简报['网页'])})
 }
 try 模板文件=open('原型/索引模板.html') {
   模板 = Template(模板文件.read())

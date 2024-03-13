@@ -93,6 +93,14 @@ func 取题目(简报) {
   return 剔除引号(题目)
 }
 
+func 取首行题目(简报) {
+  try 文件=open(简报['路径'], 'r') {
+    for 行 in 文件 {
+      return 行[1:].strip() if 行[0] == '#'
+    }
+  }
+  return ''
+}
 /*
 文件名 = "原型/测试/test1.md"
 print(提取简报(文件名))
