@@ -61,9 +61,9 @@ func 剔除引号(文本) {
 func 取时间戳(简报) {
   // TODO: 加入格式表
   if 简报.__contains__('date') {
-    return 简报['date']
+    return 剔除引号(简报['date'])
   } elif 简报.__contains__('modified') {
-    return 简报['modified']
+    return 剔除引号(简报['modified'])
   } else {
     return 文件名提取时间戳(简报['文件名'])
   }
