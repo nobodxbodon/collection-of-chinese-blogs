@@ -5,7 +5,10 @@ using * in 原型.通用
 
 func 运行(命令) {
     // println(命令)
-    进程 = subprocess.run(命令.split(" "), stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+    进程 = subprocess.run(命令.split(" "),
+      stdout=subprocess.PIPE,
+      stderr=subprocess.PIPE,
+      timeout=10)
     try {
       输出 = 进程.stdout.decode('utf-8')
       错误 = 进程.stderr.decode('utf-8')
