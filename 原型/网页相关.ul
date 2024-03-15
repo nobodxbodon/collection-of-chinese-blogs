@@ -1,4 +1,5 @@
 using re
+using shutil
 
 using mistune
 using BeautifulSoup in bs4
@@ -50,7 +51,13 @@ func 生成原文链接(简报, 文件名) {
 
 // TODO:
 // - 避免重名
-func 生成网页(简报, 网页路径, 博客子目录) {
+func 生成网页(简报, 网页路径) {
+  if 简报['文件名'].endswith(".html") {
+    shutil.copy2(简报['路径'], 网页路径)
+    // 待做: 添加原文链接
+    return
+  }
+
   md文件 = 简报['路径']
   try 文件=open(md文件) {
       原内容=文件.read()
