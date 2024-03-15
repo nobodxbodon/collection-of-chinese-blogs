@@ -38,6 +38,7 @@ for 仓库地址 in 仓库表 {
           os.makedirs(子目录)
         }
 
+        // 待做: 下面为md格式专用, 应清理
         网页文件 = 题目.replace("/", "_") + ".html"
         网页路径 = os.path.join(子目录, 网页文件)
         简报['网页'] = os.path.join(目标目录, 网页文件)
