@@ -11,6 +11,7 @@ using time
     "f2h2h1.github.io": "article",
     "xieguanglei.github.io": "source",
     "gitee.com/MulanRevive/bounty": "进展小结",
+    "cyril3.github.io": "",
     // 下面为通用格式
     "hexo": "source/_posts",
     "gridsome": "content/posts",
@@ -55,7 +56,7 @@ func 取所占空间(目录) {
             空间 += 文件大小
         }
     }
-    return 空间/1000000
+    return 空间/1000
 }
 
 /* 下为测试工具 */
