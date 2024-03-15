@@ -32,6 +32,9 @@ func 生成原文链接(简报, 文件名) {
     链接化 = "article/" + 链接化
   } elif 域名 == "dianjiaogit.github.io" {
     链接化 = '/'.join(简报['分类']) + "/" + 链接化.replace(' ', '-')
+  } // 待做: 如果 简报['分类'] 通用于其他博客, 可简化此两个特殊情况
+  elif 域名 == "shiina18.github.io" {
+    链接化 = '/'.join(简报['分类']) + "/" + 链接化 if 简报['分类']
   } elif 域名 == "codeinchinese.com" {
     return "http://" + 域名 + "/" + 链接化
   } elif 域名 == "luyuhuang.tech" or 域名 == "blog.forecho.com" {

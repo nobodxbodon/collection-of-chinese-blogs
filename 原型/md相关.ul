@@ -78,6 +78,7 @@ func 取分类(简报) {
     }
     return [数据]
   }
+  return []
 }
 
 func 取题目(简报) {
