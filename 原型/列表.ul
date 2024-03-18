@@ -28,6 +28,8 @@ for 仓库地址 in 仓库表 {
 
         简报['本地相对路径'] = 目标目录
 
+        // 待做：在简报记录文件格式，为rst等作准备
+        // 有些是 html 内容但是有md头部，如 conge.livingwithfcs.org/freesurfer-2013-course-videos-and-ppts.html
         if 简报['本地相对路径'] == "cyril3.github.io" {
           简报['题目'] = 取网页题目(简报)
         } else {
