@@ -725,6 +725,7 @@ mabbs.github.io,2024-01-01,年终总结
 mabbs.github.io,2024-01-20,如何在macOS上玩基于Ren'Py的视觉小说
 mabbs.github.io,2024-02-03,如何离线安装1Panel
 mabbs.github.io,2024-02-24,Luckfox Pico Plus使用体验
+mabbs.github.io,2024-03-16,如何用requests库验证证书
 thewanderingpotato.github.io,2020-03-03,博客開張了
 thewanderingpotato.github.io,2020-03-07,被神化了的攝影師
 thewanderingpotato.github.io,2020-03-08,記憶長存
@@ -3367,6 +3368,7 @@ blog.forecho.com,2013-01-04T10:05:00+08:00,对内的 2012 年总结
 blog.forecho.com,2015-11-08T21:52:00+08:00,PHP 中的动态属性和 StdClass
 blog.forecho.com,2020-03-19T20:57:28+08:00,电子书繁体竖排转换简体横排
 blog.forecho.com,2016-10-27T20:58:00+08:00,手把手教你不依赖任何环境使用 Hexo
+blog.forecho.com,2023-09-11T19:01:00+08:00,假突破
 blog.forecho.com,2013-01-22T17:25:00+08:00,分享大量的Kindle Book 电子书
 blog.forecho.com,2018-02-08T19:29:00+08:00,【深度理财01】管理你的财富
 blog.forecho.com,2018-03-06T13:09:00+08:00,【深度理财02】炒美股一年学到的经验教训
@@ -3626,6 +3628,7 @@ blog.forecho.com,2012-03-02T15:25:00+08:00,谈谈登陆页面Div上下左右居�
 blog.forecho.com,2022-06-26T11:59:00+08:00,毕业十年
 blog.forecho.com,2022-01-17T20:59:00+08:00,Netflix 的创业史和创新历程
 blog.forecho.com,2022-12-26T21:15:00+08:00,记一次被微信封号的经历
+blog.forecho.com,2024-03-17T00:01:00+08:00,家人被诈骗了
 blog.forecho.com,2022-09-18T20:59:00+08:00,炒股的幻想和现实
 blog.forecho.com,2017-03-22T22:33:00+08:00,第一次当播客主持人是一种什么体验？
 blog.forecho.com,2018-05-12T07:43:00+08:00,第一次创业告一段落
@@ -3997,6 +4000,7 @@ codeinchinese.com,2020-02-21 00:00:00 -0700,对于...中的
 codeinchinese.com,2020-02-22 00:05:00 -0700,木兰编程语言入门教程之四——模块
 codeinchinese.com,2020-02-28 00:00:00 -0700,从微盟事件看商业数据公开化的必然趋势
 codeinchinese.com,2020-02-28 12:00:00 -0700,用怎样的平台支持商业数据的公开化？如何盈利？
+codeinchinese.com,2020-03-16,那些忍了很久的话——人工智能盲目跟风该休了
 codeinchinese.com,2020-04-01,为什么我不再支持中文编程
 codeinchinese.com,2020-04-04,创建 Node.js 模块
 codeinchinese.com,2020-04-06,在 npm 发布中文 API 初体验——中国历代纪元
@@ -4084,6 +4088,8 @@ codeinchinese.com,2020-11-30,用中文 API 让正则表达式更易读写？
 codeinchinese.com,2021-09-17,解析中文编程语法诸如“删除钟表表”的一次粗糙尝试（上）
 codeinchinese.com,2021-12-05,为何很多技术大佬都鄙视易语言？
 codeinchinese.com,2022-10-26,你支持语文退出主课地位么
+codeinchinese.com,2023-04-30,如何评价王垠《聊聊 DSL》？
+codeinchinese.com,2024-01-21,昨天我们这里一个十三岁的女孩跳楼了，为什么现在的年轻人心理承受能力如此差？
 codeinchinese.com,2022-10-27,为什么选 RISC-V 做国产芯片
 codeinchinese.com,2022-10-27,英美语系的人编程写代码有先天优势吗？为什么我们没有什么牛逼的系统
 codeinchinese.com,2023-03-04,在国外中小学进行中文体验的可能形式
@@ -4097,12 +4103,28 @@ codeinchinese.com,2023-03-21,国外低年级小学生体验中文之组句、写
 codeinchinese.com,2023-03-22,国外低年级小学生体验中文之菜单找字、牛木
 codeinchinese.com,2023-03-28,国外低年级小学生体验中文之写字、木水雨
 codeinchinese.com,2023-03-31,国外低年级小学生体验中文之组词、小
-codeinchinese.com,2023-04-30,如何评价王垠《聊聊 DSL》？
+codeinchinese.com,2023-06-17,如何看待初中学生大面积补课的现状？
 codeinchinese.com,2023-12-01,MoonBit国产编程语言提供中文关键字的可能性？
+codeinchinese.com,2023-12-05,如何制造一个高级的阳谋？
 codeinchinese.com,2023-12-07,中国式教育的不足之处在哪？
+codeinchinese.com,2023-12-07,为什么越来越恶心路飞？
+codeinchinese.com,2023-12-16,商务部认定「台湾地区对大陆贸易限制措施构成贸易壁垒」，这意味着什么？还有哪些信息值得关注？
+codeinchinese.com,2023-12-18,有哪些东西，某个外国人拿在手上的时候，所有中国人都要给面子？
+codeinchinese.com,2023-12-21,国务院关税税则委员会发布通知，部分原产于台湾的产品中止关税减让，以应对台湾歧视性措施，如何解读？
+codeinchinese.com,2023-12-25,鸡兔同笼问题与现实严重脱节，为何还要一直延用？
+codeinchinese.com,2024-01-02,能否使用或发明一个汉字表示“小于等于”？
+codeinchinese.com,2024-01-18,操作系统是工业上的明珠吗？
+codeinchinese.com,2024-01-18,语言（非编程语言）和数据科学的结合有哪些体现与实际应用？
+codeinchinese.com,2024-01-22,rust为什么使用reqwest库名称，而不是request库名称？
+codeinchinese.com,2024-01-25,出国留学人员数量下跌，这是为什么呢了？你会选择出国留学吗？
+codeinchinese.com,2024-01-26,院士称中国 90% 的大模型该被淘汰，建议中国应考虑建立一个国家级的大模型，如何看待这一观点？
+codeinchinese.com,2024-01-30,如何看待七部委发文要求加快突破GPU芯片等技术?
+codeinchinese.com,2024-01-31,如何看待 2024 年 1 月 31 日A股市场情况？
 codeinchinese.com,2024-01-31,开源软件依托自身特性优势的商业模式
+codeinchinese.com,2024-02-07,如何看待德国媒体称「中国正想尽一切办法，利用市场经济原则把自己的产品输入欧洲」？
 codeinchinese.com,2024-02-12,中文命名代码示例之 C# 入门
 codeinchinese.com,2024-02-12,小学数学到底有多难？
+codeinchinese.com,2024-02-25,为何“台湾海巡署追缉大陆渔船导致翻船”事件，七天了还没有公布调查结果？
 codeinchinese.com,2024-02-27,Rust口碑不错，为何学的人却很少？
 codeinchinese.com,2024-03-01,在国产化编译器的发展过程中遇到过哪些挑战？
 codeinchinese.com,2024-03-01,语法解析器例程编写中遇到的常见报错与解决
