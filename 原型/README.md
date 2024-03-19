@@ -8,7 +8,10 @@
 
 #### 预先准备
 
-依赖库：jinja2，mistune，bs4
+依赖库：
+- bs4
+- jinja2
+- mistune
 
 创建两个空目录：
 - 源数据/博客聚合
