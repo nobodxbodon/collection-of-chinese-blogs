@@ -99,7 +99,7 @@ func 补全资源路径(原网页内容, 简报) {
 }
 
 func 取网页题目(简报) {
-  try 文件=open(简报['路径']) {
+  try 文件=open(简报.路径) {
     网页内容=文件.read()
   }
   页面 = BeautifulSoup(网页内容, 'html.parser')

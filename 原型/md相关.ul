@@ -84,12 +84,12 @@ func 剔除引号(文本) {
 
 func 取时间戳(简报) {
   // TODO: 加入格式表
-  if 简报.__contains__('date') {
-    return 剔除引号(简报['date'])
-  } elif 简报.__contains__('modified') {
-    return 剔除引号(简报['modified'])
+  if 简报.头部信息.__contains__('date') {
+    return 剔除引号(简报.头部信息['date'])
+  } elif 简报.头部信息.__contains__('modified') {
+    return 剔除引号(简报.头部信息['modified'])
   } else {
-    return 文件名提取时间戳(简报['文件名'])
+    return 文件名提取时间戳(简报.文件名)
   }
 }
 
@@ -116,20 +116,20 @@ func 取分类(简报) {
 }
 
 func 取题目(简报) {
-  if 简报.__contains__('title') {
-    题目 = 简报['title']
+  if 简报.头部信息.__contains__('title') {
+    题目 = 简报.头部信息['title']
   } else {
-    if 简报['本地相对路径'] == "xieguanglei.github.io" {
-      题目 = 简报['路径'][#简报['仓库本地路径']+1 : -#"index.md"-1]
+    if 简报.本地相对路径 == "xieguanglei.github.io" {
+      题目 = 简报.路径[#简报.仓库本地路径 + 1 : -#"index.md" - 1]
     } else {
-      题目 = 文件名提取题目(简报['文件名'])
+      题目 = 文件名提取题目(简报.文件名)
     }
   }
   return 剔除引号(题目)
 }
 
 func 取首行题目(简报) {
-  try 文件=open(简报['路径'], 'r') {
+  try 文件=open(简报.路径, 'r') {
     for 行 in 文件 {
       return 行[1:].strip() if 行[0] == '#'
     }
