@@ -2,9 +2,10 @@ using os
 using re
 
 using * in 原型.通用
+using * in 原型.简报定义
 
 /* 将 md 头部两个 --- 之间的部分提取到字典 */
-func 提取简报(文件名) {
+func 提取简报(文件名) : 简报结构 {
   try 文件=open(文件名, 'r') {
     // println(文件名)
     return 解析头部信息(文件.read())
@@ -12,9 +13,10 @@ func 提取简报(文件名) {
 }
 
 func 解析头部信息(文件内容) {
-    简报表 = {:}
+    简报 = 简报结构()
+    简报表 = 简报.头部信息
     找头部 = re.search("---\n([\s\S]*?)\n---", 文件内容)
-    return 简报表 if !找头部
+    return 简报 if !找头部
 
     原始头部 = 找头部.group(1).split("\n")
     头部内容 = list(filter(行内容 -> 行内容, map(行 -> 行.strip(), 原始头部)))
@@ -32,7 +34,7 @@ func 解析头部信息(文件内容) {
         简报表[上个属性名] += " `行`" if 上个属性名
       }
     }
-    return 简报表
+    return 简报
 }
 
 func 根据路径提取所有简报(仓库本地路径) {
@@ -40,23 +42,25 @@ func 根据路径提取所有简报(仓库本地路径) {
   for 当前路径, 目录名, 所有文件 in os.walk(仓库本地路径) {
     for 文件 in 所有文件 {
       文件路径 = os.path.join(当前路径, 文件)
-      简报 = {:}
       // 待做: 避免重复代码
+      简报 = nil
       if 文件路径.endswith(".md") or 文件路径.endswith(".markdown") {
         简报 = 提取简报(文件路径)
-        简报['仓库本地路径'] = 仓库本地路径
-        简报['文件名'] = 文件
-        简报['路径'] = 文件路径
+        简报.仓库本地路径 = 仓库本地路径
+        简报.文件名 = 文件
+        简报.路径 = 文件路径
       } elif 文件路径.endswith(".html") {
         // 待做：需重构，太多字符串
         if 仓库本地路径.endswith("conge.livingwithfcs.org/_posts") {
           简报 = 提取简报(文件路径)
+        } else {
+          简报 = 简报结构()
         }
-        简报['仓库本地路径'] = 仓库本地路径
-        简报['文件名'] = 文件
-        简报['路径'] = 文件路径
+        简报.仓库本地路径 = 仓库本地路径
+        简报.文件名 = 文件
+        简报.路径 = 文件路径
       }
-      所有简报.append(简报) if #简报
+      所有简报.append(简报) if 简报
     }
   }
   return 所有简报
@@ -84,18 +88,18 @@ func 剔除引号(文本) {
 
 func 取时间戳(简报) {
   // TODO: 加入格式表
-  if 简报.__contains__('date') {
-    return 剔除引号(简报['date'])
-  } elif 简报.__contains__('modified') {
-    return 剔除引号(简报['modified'])
+  if 简报.头部信息.__contains__('date') {
+    return 剔除引号(简报.头部信息['date'])
+  } elif 简报.头部信息.__contains__('modified') {
+    return 剔除引号(简报.头部信息['modified'])
   } else {
-    return 文件名提取时间戳(简报['文件名'])
+    return 文件名提取时间戳(简报.文件名)
   }
 }
 
 func 取分类(简报) {
-  if 简报.__contains__('categories') {
-    数据 = 简报['categories'].lower()
+  if 简报.头部信息.__contains__('categories') {
+    数据 = 简报.头部信息['categories'].lower()
     多类 = re.search("^\[(.+)\]$", 数据)
     if 多类 {
       return list(map(类别 -> 类别.strip(), 多类.group(1).split(',')))
@@ -116,20 +120,20 @@ func 取分类(简报) {
 }
 
 func 取题目(简报) {
-  if 简报.__contains__('title') {
-    题目 = 简报['title']
+  if 简报.头部信息.__contains__('title') {
+    题目 = 简报.头部信息['title']
   } else {
-    if 简报['本地相对路径'] == "xieguanglei.github.io" {
-      题目 = 简报['路径'][#简报['仓库本地路径']+1 : -#"index.md"-1]
+    if 简报.本地相对路径 == "xieguanglei.github.io" {
+      题目 = 简报.路径[#简报.仓库本地路径 + 1 : -#"index.md" - 1]
     } else {
-      题目 = 文件名提取题目(简报['文件名'])
+      题目 = 文件名提取题目(简报.文件名)
     }
   }
   return 剔除引号(题目)
 }
 
 func 取首行题目(简报) {
-  try 文件=open(简报['路径'], 'r') {
+  try 文件=open(简报.路径, 'r') {
     for 行 in 文件 {
       return 行[1:].strip() if 行[0] == '#'
     }
