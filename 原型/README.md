@@ -2,7 +2,7 @@
 
 35 个博客、6368 篇博文, 占用空间 10.068 GB
 
-原型演示 [在此](http://nobodxbodon.github.io/)。
+更近的统计 [请见原型演示](http://nobodxbodon.github.io/)。
 
 ### 使用
 
