@@ -16,8 +16,16 @@ type 简报结构 {
   }
 
   func $显示 {
-    println($头部信息)
-    // 待做：其他
+    println("头部信息：" + str($头部信息))
+    println("仓库本地路径：" + $仓库本地路径)
+    println("文件名：" + $文件名)
+    println("路径：" + $路径)
+    println("本地相对路径：" + $本地相对路径)
+    println("仓库源地址：" + $仓库源地址)
+    println("时间：" + $时间)
+    println("题目：" + $题目)
+    println("网页：" + $网页)
+    println("分类：" + str($分类))
   }
 
   func 由表转换(所有简报表) {
