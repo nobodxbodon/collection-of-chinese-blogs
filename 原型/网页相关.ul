@@ -5,14 +5,20 @@ using mistune
 using BeautifulSoup in bs4
 
 using * in 原型.通用
+using * in 原型.简报定义
 
 // 一般文件名的前缀为时间戳
+// 待做：不需 文件名，用 简报.文件名？
 func 生成原文链接(简报, 文件名) {
   域名 = 简报.本地相对路径
 
   //时间戳包含小时等，如 2020-03-26 22:10:27。现暂时仅取日期
+  // 待做：是否 hexo 格式通用？
   if 域名 == "jasonkayzk.github.io" or 域名 == "aemoncao.github.io" {
     文件名 = 简报.时间.split(' ')[0] + "-" + 文件名
+  } elif 域名 == "blog.mauve.icu" {
+    子目录 = 简报.路径[#简报.仓库本地路径 + 1 : -#文件名]
+    文件名 = 简报.时间.split(' ')[0] + "-" + 子目录 + 文件名
   } elif 域名 == "qingbob.com" {
     文件名 = re.sub('(\\d{4})-(\\d{2})-(\\d{2})-', '', 文件名)
   } elif 域名 == "objcoding.com" {

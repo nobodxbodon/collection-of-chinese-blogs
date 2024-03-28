@@ -3,3 +3,13 @@ using * in 原型.网页相关
 确认相等(os.path.join(源数据路径, "dianjiaogit.github.io/assets/images/todo-plus-syntax.png"),
   生成本地图片路径("/assets/images/todo-plus-syntax.png", "", "dianjiaogit.github.io", "_posts"),
   "dianjiaogit")
+
+mauve简报 = 简报结构.由表转换单个({
+  '仓库本地路径': '根目录/blog.mauve.icu/source/_posts',
+  '文件名': 'CodeforcesRound922.md',
+  '路径': '根目录/blog.mauve.icu/source/_posts/acm/codeforces/CodeforcesRound922.md',
+  '本地相对路径': 'blog.mauve.icu'
+})
+mauve简报.时间 = '2024-03-24 15:35:50'
+确认相等('https://blog.mauve.icu/2024/03/24/acm/codeforces/CodeforcesRound922',
+生成原文链接(mauve简报, 'CodeforcesRound922.md'))
