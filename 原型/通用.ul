@@ -16,6 +16,7 @@ using time
     "hexo": "source/_posts",
     "gridsome": "content/posts",
     "hugo": "content",   // 多数置于 posts下，但少数有自定义路径如 jalenchuh
+    "astro": "src/posts"
     "": "_posts"  // Jekyll 默认
 }
 
