@@ -4,7 +4,6 @@ using time
 
 源数据路径  = os.path.join(os.getcwd(), "源数据/博客聚合/")
 
-// TODO: cyril3 仅有html
 路径表 = {
     // 自定义的改为用域名作键值
     "www.barretlee.com": "blog/src/_posts",
@@ -12,6 +11,7 @@ using time
     "xieguanglei.github.io": "source",
     "gitee.com/MulanRevive/bounty": "进展小结",
     "cyril3.github.io": "",
+    "lihan3238.github.io": "content/post",
     // 下面为通用格式
     "hexo": "source/_posts",
     "gridsome": "content/posts",
