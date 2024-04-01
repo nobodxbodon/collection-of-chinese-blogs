@@ -1457,6 +1457,7 @@ qingbob.com,2023-09-28,巩固系统韧性三个基础策略
 qingbob.com,2023-11-26,Tech Lead 要学会戴着镣铐跳舞
 qingbob.com,2024-01-08,Copilot 结对编程指南
 qingbob.com,2024-02-18,全世界都想让程序员专心写业务代码
+qingbob.com,2024-03-31,学习 Tensorflow 的困境与解药
 cyril3.github.io,2018-07-09,Bingwhispers | Hi there!
 cyril3.github.io,2022-01-25,Bingwhispers | Hi there!
 cyril3.github.io,2022-01-25,难以捉摸是人心 | Bingwhispers
@@ -4162,6 +4163,7 @@ codeinchinese.com,2024-02-27,Rust口碑不错，为何学的人却很少？
 codeinchinese.com,2024-03-01,在国产化编译器的发展过程中遇到过哪些挑战？
 codeinchinese.com,2024-03-01,语法解析器例程编写中遇到的常见报错与解决
 codeinchinese.com,2024-03-24,客户关系管理平台（CRM）初试之Monday
+codeinchinese.com,2024-03-30,新手搭建博客求助？
 gitee.com/MulanRevive/bounty,2020-03-03,请 @谷溪 给大家演示一下，怎样把”整套 Python 打包”成「木兰」？
 gitee.com/MulanRevive/bounty,2020-03-05,2020-03-05「木兰」复现项目首月小结
 gitee.com/MulanRevive/bounty,2020-03-15,木兰逆向工程中的 bug（一）
@@ -4236,6 +4238,7 @@ gitee.com/MulanRevive/bounty,2022-01-17,木兰编程语言两岁了
 gitee.com/MulanRevive/bounty,2022-09-30,木兰编程语言重现项目进展_2022年十一月
 gitee.com/MulanRevive/bounty,2022-12-18,木兰语言 0.1.0 展示今年悬赏任务成果
 gitee.com/MulanRevive/bounty,2023-01-25,木兰设计与实现中的各种巧思
+gitee.com/MulanRevive/bounty,2024-03-29,木兰编程语言重现发布 0.1.6——支持到py3.11与其他
 gitee.com/MulanRevive/bounty,2023-02-02,README
 f2h2h1.github.io,2019-02-21,一些关于Linux的笔记
 f2h2h1.github.io,2024-01-04,ACME的使用经验
@@ -6442,6 +6445,7 @@ blog.mauve.icu,2024-03-16 01:16:39,Codeforces Round 919 (Div. 2)
 blog.mauve.icu,2024-03-19 09:19:27,Codeforces Round 920 (Div. 3)
 blog.mauve.icu,2024-03-23 20:18:29,Codeforces Round 921 (Div. 2)
 blog.mauve.icu,2024-03-24 15:35:50,Codeforces Round 922 (Div. 2)
+blog.mauve.icu,2024-03-31 20:27:55,Codeforces Round 923 (Div. 3)
 blog.mauve.icu,2023-09-23 00:33:36,Codeforces Round 897 (Div. 2)
 blog.mauve.icu,2023-08-06 13:02:41,Educational Codeforces Round#152 (Div. 2)
 blog.mauve.icu,2023-08-20 00:02:09,Educational Codeforces Round#153 (Div. 2)
@@ -6573,3 +6577,736 @@ young-lord.github.io,2024-01-12,Inconventional Commits
 young-lord.github.io,2022-07-31,Deepin 安装与配置记录
 young-lord.github.io,2022-11-19,Windows 远程桌面的探索
 young-lord.github.io,2023-08-05,买前生产力，买后…gal？——小米平板 5 Pro 的“生产力”体验
+sakurawald.github.io,2022-04-30 10:53:00,[Database] Relational Query Language
+sakurawald.github.io,2022-04-12 21:15:00,[Algorithm] Back-Tracking & IDDFS
+sakurawald.github.io,2022-04-17 11:03:00,[Branch-Bound] Circle Permutation
+sakurawald.github.io,2022-03-25 19:27:00,[Algorithm] Majority Problem
+sakurawald.github.io,2022-04-19 07:53:00,[Algorithm] Multiple-Knapsack Problem & Pebble Merge Problem
+sakurawald.github.io,2022-04-27 06:16:00,[Algorithm] Oiling Car & Optimal Merge
+sakurawald.github.io,2022-03-27 03:01:00,[Algorithm] Set Partition Problem
+sakurawald.github.io,2024-03-05 11:55:04,apple magic touch pad review
+sakurawald.github.io,2021-02-06 13:53:00,use c language standard library to solve problems!
+sakurawald.github.io,2023-11-26 22:14:19,clean-unused-chunks-in-minecraft
+sakurawald.github.io,2022-04-05 22:22:32,[CodeSnippet] - A Simple Judger for Java
+sakurawald.github.io,2022-04-29 21:35:00,[Database] Advanced SQL
+sakurawald.github.io,2023-01-22 21:01:39,[Database] Design
+sakurawald.github.io,2022-04-28 19:55:00,[Database] Elementary SQL
+sakurawald.github.io,2022-04-29 16:39:00,[Database] Intermediate SQL
+sakurawald.github.io,2021-09-13 08:53:00,Expression Evaluation
+sakurawald.github.io,2023-12-07 15:22:03,guide-to-install-qubes-on-qemu
+sakurawald.github.io,2022-06-13 11:00:00,[JSP] Servlet & JSP Short-Hand
+sakurawald.github.io,2022-06-09 17:41:00,play on anbox
+sakurawald.github.io,2023-02-22 06:38:07,play on android emulator
+sakurawald.github.io,2023-02-27 05:46:02,play on google pixel
+sakurawald.github.io,2023-01-25 13:11:58,play on hexo
+sakurawald.github.io,2023-04-26 22:04:88,play on kde
+sakurawald.github.io,2023-05-01 05:04:88,play on minecraft server configuration
+sakurawald.github.io,2023-02-08 08:35:54,play on stable-diffusion
+sakurawald.github.io,2022-04-18 22:44:00,play on stl
+sakurawald.github.io,2023-02-24 06:10:35,play on vim
+sakurawald.github.io,2023-04-15 09:51:57,play on wallpaper
+sakurawald.github.io,2020-10-05 17:48:00,play-on-wordpress
+sakurawald.github.io,2024-03-14 04:08:14,rescue - system corrupted after forced shutdown during system upgrade
+sakurawald.github.io,2024-01-01 05:48:47,text auto highlighter configuration
+sakurawald.github.io,2023-11-26 22:16:53,trick-to-fake-the-github-board
+jerkwin.github.io,2015-04-28,【转】中国人最爱起什么名字
+jerkwin.github.io,2014-06-01,html测试
+jerkwin.github.io,2014-06-02,markdown测试
+jerkwin.github.io,2015-12-08,使用AmberTools+ACPYPE+Gaussian创建小分子GAFF力场的拓扑文件
+jerkwin.github.io,2016-03-27,【转】阅读层次与思维的深广
+jerkwin.github.io,0000-01-01,标签排序
+jerkwin.github.io,2009-01-01,Linux Bash AWK知识汇集
+jerkwin.github.io,2009-09-01,2009年9月
+jerkwin.github.io,2009-10-01,2009年10月
+jerkwin.github.io,2009-11-01,2009年11月
+jerkwin.github.io,2009-12-01,2009年12月
+jerkwin.github.io,2010-01-01,2010年1月
+jerkwin.github.io,2010-02-01,2010年2月
+jerkwin.github.io,2010-03-01,2010年3月
+jerkwin.github.io,2010-04-01,2010年4月
+jerkwin.github.io,2010-06-01,2010年6月
+jerkwin.github.io,2010-07-01,2010年7月
+jerkwin.github.io,2012-02-01,2012年2月
+jerkwin.github.io,2012-07-21,科学网博客HTML代码发布不完全解决方案
+jerkwin.github.io,2012-07-22,伟大的公式
+jerkwin.github.io,2012-07-24,Paul的教导
+jerkwin.github.io,2012-07-24,二维三次卷积插值算法及Fortran代码
+jerkwin.github.io,2012-07-25,我的博客文本编辑器——EmEditor
+jerkwin.github.io,2012-07-26,【转】Fortran数组学习
+jerkwin.github.io,2012-07-26,【转】Fortran的奇淫技巧
+jerkwin.github.io,2012-10-30,一元三次方程求根公式及其Fortran代码
+jerkwin.github.io,2012-11-17,GnuPlot：简单数据统计处理及取整函数int/floor的问题
+jerkwin.github.io,2013-01-20,二十世纪最伟大的十大算法
+jerkwin.github.io,2013-01-20,梦老了
+jerkwin.github.io,2013-02-24,国家自然科学基金申请书模板的问题
+jerkwin.github.io,2013-02-24,思想震动的三个时候
+jerkwin.github.io,2013-03-17,【转而不按】纪录片《出路》中的“贫穷”
+jerkwin.github.io,2013-03-18,空间中两随机向量间夹角的概率密度分布
+jerkwin.github.io,2013-04-18,利用PyMOL制作反应势能面示意动画
+jerkwin.github.io,2013-06-13,【转】那些小女孩的故事
+jerkwin.github.io,2013-06-24,Jmol的select命令
+jerkwin.github.io,2013-07-11,命令行语法格式及特殊字符
+jerkwin.github.io,2013-07-23,坐标轴刻度范围及刻度值的设定
+jerkwin.github.io,2013-08-04,方差算法
+jerkwin.github.io,2013-08-10,球谐函数及Legendre多项式
+jerkwin.github.io,2013-08-13,取整截断函数及其在PBC中的使用
+jerkwin.github.io,2013-08-16,八面体与截角八面体团簇的构建及代码实现
+jerkwin.github.io,2013-08-20,分子匹配叠合及两种冰的结构异同
+jerkwin.github.io,2013-09-01,晶格常数与晶格矢量的转换
+jerkwin.github.io,2013-09-04,微通道板出射电子云团的弹道模型
+jerkwin.github.io,2013-11-09,飞秒泵浦-探测实验动力学数据处理
+jerkwin.github.io,2013-11-17,【译文】任意精度运算的使用原因及方法
+jerkwin.github.io,2013-11-20,卷积与自由能
+jerkwin.github.io,2013-12-01,常见冰的晶体结构及其cif文件
+jerkwin.github.io,2013-12-14,Bash脚本实现批量作业并行化
+jerkwin.github.io,2013-12-24,Drude振子的相互作用能
+jerkwin.github.io,2014-01-19,Bash游戏编程：俄罗斯方块
+jerkwin.github.io,2014-01-19,C语言的数据读取
+jerkwin.github.io,2014-01-23,bash命名管道
+jerkwin.github.io,2014-01-30,命令行参数的手动处理
+jerkwin.github.io,2014-02-02,转战Markdown
+jerkwin.github.io,2014-02-06,蒙
+jerkwin.github.io,2010-05-01,2010年5月
+jerkwin.github.io,2013-02-05,单程之旅的英雄
+jerkwin.github.io,2013-08-22,电导弛豫法测材料的氧表面交换系数和体相扩散系数
+jerkwin.github.io,2014-02-11,样条函数插值拟合
+jerkwin.github.io,2014-05-13,空间分布函数SDF的计算及三维图示
+jerkwin.github.io,2014-08-02,jdx光谱数据格式整理脚本
+jerkwin.github.io,2014-08-13,【转】程序员阿士顿的故事
+jerkwin.github.io,2014-08-23,【转】科研中的“混混”
+jerkwin.github.io,2014-09-24,"GROMACS表面张力单位,计算及其长程校正"
+jerkwin.github.io,2014-12-24,石墨烯在线创建工具
+jerkwin.github.io,2015-02-13,记事本Notepad2汉化版
+jerkwin.github.io,2015-03-26,【转】小白兔的故事：任何东西只要够深都是一把刀
+jerkwin.github.io,2014-02-21,gnuplot直接数据作图
+jerkwin.github.io,2014-02-23,GAMESS2013编译使用简记
+jerkwin.github.io,2014-02-23,图片与文本共舞：gnuplot的svg终端
+jerkwin.github.io,2014-03-17,PBS提交作业
+jerkwin.github.io,2014-03-18,16进制显示方法
+jerkwin.github.io,2014-03-19,Origin相关
+jerkwin.github.io,2014-03-21,Bash脚本中使用颜色
+jerkwin.github.io,2014-03-28,利用sort与uniq过滤文件
+jerkwin.github.io,2014-04-01,Javascript版本的Markdown
+jerkwin.github.io,2014-04-03,正则表达式基础知识
+jerkwin.github.io,2014-04-06,gnuplot颜色设置
+jerkwin.github.io,2014-04-17,材料弹性模量各向异性的三维图示方法
+jerkwin.github.io,2014-04-19,希腊字母与拉丁字母的对应
+jerkwin.github.io,2014-05-09,"石墨烯：建模, 几何性质及力场模拟"
+jerkwin.github.io,2014-05-19,VASP.5.2.12编译：Intel Fortran+MPI+MKL
+jerkwin.github.io,2014-05-21,VASP使用
+jerkwin.github.io,2014-05-23,90年代五年制小学语文课本
+jerkwin.github.io,2014-06-04,你好-世界
+jerkwin.github.io,2014-06-06,转战GitHub
+jerkwin.github.io,2014-06-10,GNU Parallel
+jerkwin.github.io,2014-06-12,NICS计算及其图示
+jerkwin.github.io,2014-06-15,中国学术界要求最高
+jerkwin.github.io,2014-06-19,【转并按】苏维埃新贵们是如何生活的
+jerkwin.github.io,2014-07-01,Jmol的扩展xyz文件格式
+jerkwin.github.io,2014-07-01,野麦子
+jerkwin.github.io,2014-07-02,markdown幻灯片
+jerkwin.github.io,2014-07-03,UTF-8符号
+jerkwin.github.io,2014-07-17,合流超几何函数解H原子Schrödinger方程
+jerkwin.github.io,2014-08-02,【转】Arnold：数学科学与天体力学300年
+jerkwin.github.io,2014-08-02,【转】Griffiths：二十一世纪科学和数学的趋势
+jerkwin.github.io,2014-08-02,排列组合算法的实现代码
+jerkwin.github.io,2014-08-06,用于保存电子书籍的简单脚本
+jerkwin.github.io,2014-08-08,【转】Arnold论数学教育
+jerkwin.github.io,2014-08-11,【转】亨利·奥古斯特·罗兰：为纯科学呼吁
+jerkwin.github.io,2014-08-11,【转】关于编程语言的经典名言
+jerkwin.github.io,2014-08-11,【转】吴家睿：“生命之书”的解读
+jerkwin.github.io,2014-08-11,【转】吴家睿：抽象的价值——数学与当代生命科学
+jerkwin.github.io,2014-08-11,【转】吴家睿：生命的复杂性和复杂的生命科学
+jerkwin.github.io,2014-08-12,【转】Communix操作系统发展简史
+jerkwin.github.io,2014-08-12,【转】九阴真经
+jerkwin.github.io,2014-08-12,【转】武大一毕业学子的感言
+jerkwin.github.io,2014-08-13,"【转】ZIP,一个没落天才的故事"
+jerkwin.github.io,2014-08-13,【转】长铗：屠龙之技
+jerkwin.github.io,2014-08-15,3DPDF文件
+jerkwin.github.io,2014-08-15,Fortran可变输出格式
+jerkwin.github.io,2014-08-15,markdown在计算化学领域的扩展应用
+jerkwin.github.io,2014-08-15,基于Three的JS动画
+jerkwin.github.io,2014-08-19,"【转】选瓶子,测性格"
+jerkwin.github.io,2014-08-19,关于数值计算的讨论
+jerkwin.github.io,2014-08-20,"像素,分辨率,屏幕大小,实际大小,打印大小之间的关系"
+jerkwin.github.io,2014-08-21,【转】芥川龙之介·侏儒的话
+jerkwin.github.io,2014-08-21,名言摘抄
+jerkwin.github.io,2014-08-22,【转】newforest：新纪元
+jerkwin.github.io,2014-08-22,【转】周国平：法兰西玫瑰
+jerkwin.github.io,2014-08-22,【转】李硕：周灭商与华夏新生
+jerkwin.github.io,2014-08-23,【转】华盛顿教授：千万别成为科学家
+jerkwin.github.io,2014-08-23,【转】金唢呐：国内学术现状
+jerkwin.github.io,2014-08-24,【转】田松：民间科学爱好者的行为及心理分析
+jerkwin.github.io,2014-08-24,【转】纪实小说描写感染埃博拉病毒会怎么样
+jerkwin.github.io,2014-08-27,【转】世界上最牛的逻辑
+jerkwin.github.io,2014-08-27,【转】钱学森最后一次系统谈话：大学要有创新精神
+jerkwin.github.io,2014-09-04,标签式文件管理
+jerkwin.github.io,2014-09-07,三维光谱数据绘图
+jerkwin.github.io,2014-09-08,【转】沂蒙老乡
+jerkwin.github.io,2014-09-08,【转】焦波：俺爹俺娘
+jerkwin.github.io,2014-09-15,【转】李自健：消失的村庄
+jerkwin.github.io,2014-09-15,【转】西藏阿哥
+jerkwin.github.io,2014-09-16,【转】7名留守儿童的新年心愿
+jerkwin.github.io,2014-09-16,【转】中国各阶层年轻人在想什么
+jerkwin.github.io,2014-09-23,液滴接触角的计算
+jerkwin.github.io,2014-10-03,剪切模量各向异性
+jerkwin.github.io,2014-10-07,Taggie：基于标签的桌面搜索工具
+jerkwin.github.io,2014-10-14,1927索尔维会议(SolvayConference)合影
+jerkwin.github.io,2014-10-23,【转】对话九名乡村教师：只有改变自己才能让学生走出山村！
+jerkwin.github.io,2014-10-23,【转】梁鹤年：大国盛衰的逻辑
+jerkwin.github.io,2014-11-18,Hamaker方程
+jerkwin.github.io,2014-11-20,数据展示：请选择好的颜色映射方案
+jerkwin.github.io,2014-12-07,Linux服务器映射为本地硬盘
+jerkwin.github.io,2014-12-08,从光谱到颜色
+jerkwin.github.io,2014-12-11,物理化学中的标准态符号
+jerkwin.github.io,2014-12-15,八面体与截角八面体团簇在线创建工具
+jerkwin.github.io,2014-12-16,动态网页数据的简单获取方法
+jerkwin.github.io,2014-12-21,eCard
+jerkwin.github.io,2014-12-21,网页祝福卡
+jerkwin.github.io,2014-12-25,让Markdown支持ASCII流程图和JavaScript流程图
+jerkwin.github.io,2014-12-26,Windows下的命令别名工具doskey
+jerkwin.github.io,2014-12-26,硅油滴落与弹簧下落
+jerkwin.github.io,2014-12-31,【转】奇妙的流体力学动态之美
+jerkwin.github.io,2015-01-01,【转】各种各样的主义
+jerkwin.github.io,2015-01-04,gnuplot作图时插入LaTex公式
+jerkwin.github.io,2015-01-06,【转】马伯庸：小篆战争
+jerkwin.github.io,2015-01-07,【转】关于科技中文的讨论
+jerkwin.github.io,2015-01-07,复兴中文
+jerkwin.github.io,2015-01-08,【转】统一文字是保障主权防止分裂的千秋大计
+jerkwin.github.io,2015-01-09,gnuplot拟合参数的误差及相关系数
+jerkwin.github.io,2015-01-13,我使用的markdown工具
+jerkwin.github.io,2015-01-18,gnuplot动画
+jerkwin.github.io,2015-02-02,轨道查看器OribitalViewer汉化版
+jerkwin.github.io,2015-02-17,【转】原理动画
+jerkwin.github.io,2015-02-19,【转】著名科学家的私人LOGO
+jerkwin.github.io,2015-02-22,Origin7.5SR7中文版
+jerkwin.github.io,2015-02-25,【转】世界上最难的语言
+jerkwin.github.io,2015-03-08,【转】56个民族全家福照片
+jerkwin.github.io,2015-03-09,网络在线文档的下载
+jerkwin.github.io,2015-03-10,材料弹性性质计算程序ELAM
+jerkwin.github.io,2015-03-12,【转】孩子们被抢了棒棒糖之后的表情
+jerkwin.github.io,2015-03-17,【译】More Is Different 多即不同
+jerkwin.github.io,2015-03-20,【译】光学：超级透视
+jerkwin.github.io,2015-03-21,【书】硅谷百年史——伟大的科技创新与创业历程(1900-2013)
+jerkwin.github.io,2015-03-24,【转】孩子们睡在哪里
+jerkwin.github.io,2015-03-25,【转】我怎样毁了我的一生
+jerkwin.github.io,2015-03-25,【转】曹丞相，真难为你了！
+jerkwin.github.io,2015-03-27,老的连环画
+jerkwin.github.io,2015-03-29,【转】不可低估的命运---意志的崛起---阿道夫希特勒之1920
+jerkwin.github.io,2015-03-29,【转】梁文道：一个普通人离杀人有多远
+jerkwin.github.io,2015-04-01,【转】社科院美国所前所长资中筠：文化要用母语讲
+jerkwin.github.io,2015-04-03,一句英文格言
+jerkwin.github.io,2015-04-03,哈佛大学350周年校庆讲话与清华大学100周年校庆讲话
+jerkwin.github.io,2015-04-03,经典的十首情诗
+jerkwin.github.io,2015-04-09,性格测试
+jerkwin.github.io,2015-04-13,碳纳米管的构建方法
+jerkwin.github.io,2015-04-14,使用Notepad2查看编辑GROMACS文件
+jerkwin.github.io,2015-04-15,Google Book破解下载方法
+jerkwin.github.io,2015-04-27,【转】世界各地的教室
+jerkwin.github.io,2015-04-27,【转】中国教育的罪与罚
+jerkwin.github.io,2015-04-27,【转】图像格式详解
+jerkwin.github.io,2015-04-28,中国意识形态数据分析
+jerkwin.github.io,2015-04-30,纯属巧合？两篇关于最优停止的论文
+jerkwin.github.io,2015-05-08,MatLab中英文字体设置
+jerkwin.github.io,2015-05-08,【转】动物“僵尸”
+jerkwin.github.io,2015-05-09,【转】黄庆军摄影作品：家当
+jerkwin.github.io,2015-05-18,博客的邮件订阅功能
+jerkwin.github.io,2015-05-22,【转】一辈子一定要有个女儿
+jerkwin.github.io,2015-05-22,【转】感人绘本：有一天
+jerkwin.github.io,2015-05-26,有关储安平
+jerkwin.github.io,2015-06-03,学术转商业的牛人：D.E.Shaw和Simons
+jerkwin.github.io,2015-06-05,PDB文件格式说明
+jerkwin.github.io,2015-06-07,四个参数的大象与傅立叶变换
+jerkwin.github.io,2015-06-11,KineticJS教程1：基本结构与示例
+jerkwin.github.io,2015-06-11,KineticJS教程2：图形对象与图形样式
+jerkwin.github.io,2015-06-11,KineticJS教程4：图形变换与动画
+jerkwin.github.io,2015-06-11,KineticJS教程5：选择器
+jerkwin.github.io,2015-06-11,KineticJS教程6：对象的移动及其上下层关系
+jerkwin.github.io,2015-06-11,KineticJS教程7：舞台
+jerkwin.github.io,2015-06-13,在PPT中动态展示分子三维结构的三种方法
+jerkwin.github.io,2015-06-14,【转】自古英雄出少年
+jerkwin.github.io,2015-06-24,Office和EndNote的小技巧
+jerkwin.github.io,2015-07-05,一维谐振子薛定谔方程的数值解
+jerkwin.github.io,2015-07-15,绘制反应机理势能面的小工具
+jerkwin.github.io,2015-07-20,GROMACS中的相关函数拟合
+jerkwin.github.io,2015-07-22,【转】余光中：现代汉语的西化
+jerkwin.github.io,2015-07-22,【转】指天椒：恶性西化的中文，荼毒近代作家和写手
+jerkwin.github.io,2015-08-01,高斯禁售名单中的中国机构
+jerkwin.github.io,2015-08-03,"网页特效：回到顶部, 目录跟随定位, 翻书效果"
+jerkwin.github.io,2015-08-18,【转】疯狂化学实验动态图
+jerkwin.github.io,2015-08-26,【转】天才与锻炼_华罗庚
+jerkwin.github.io,2015-08-27,MBTI科学测试：哪种类型的异性适合你
+jerkwin.github.io,2015-10-12,GROMACS质心牵引的几点说明
+jerkwin.github.io,2015-11-01,【转】二十世纪最“反直觉”的伟大生物学发现：化学渗透（chemiosmosis）
+jerkwin.github.io,2015-11-08,构建特殊构型的GROMACS脚本
+jerkwin.github.io,2015-11-20,【转】美国悲伤的孤独：欧洲穆斯林化和西方的衰落
+jerkwin.github.io,2015-11-20,统计蛋白质空腔或通道内的水分子数目
+jerkwin.github.io,2015-11-27,【转】政治正确与文明
+jerkwin.github.io,2015-11-29,【转】高清图解人类胎儿发育过程
+jerkwin.github.io,2015-12-01,PyMOL的体数据渲染
+jerkwin.github.io,2015-12-06,Windows下的AmberTools+RESP+ACPYPE
+jerkwin.github.io,2015-12-09,力场与拓扑之一：力场的概念分类及发展方法
+jerkwin.github.io,2015-12-10,力场与拓扑之二：如何选择力场
+jerkwin.github.io,2015-12-11,力场与拓扑之三：GROMACS力场及拓扑文件说明
+jerkwin.github.io,2015-12-12,力场与拓扑之四：GROMACS力场拓扑文件的创建
+jerkwin.github.io,2015-12-13,TPPMKTOP：OPLS-AA全原子力场的GROMACS拓扑文件生成器
+jerkwin.github.io,2015-12-20,【转】男鹿和雄：宫崎骏动漫里的唯美夏天，原来都是他画的
+jerkwin.github.io,2015-12-22,【转】机械动态图
+jerkwin.github.io,2015-12-22,【转】物理实验动态图
+jerkwin.github.io,2015-12-23,【转】空间的尺度：从10亿光年到0.1飞米
+jerkwin.github.io,2015-12-28,屏幕录制软件
+jerkwin.github.io,2015-12-29,【转】全球排名前50的照片
+jerkwin.github.io,2016-01-10,单层螺线管周围的磁场
+jerkwin.github.io,2016-01-11,GaussView使用cube文件作图时的成键问题
+jerkwin.github.io,2016-01-26,【转】童话里都是骗人的？！
+jerkwin.github.io,2016-02-15,博客改版简记
+jerkwin.github.io,2016-02-21,构建表面修饰长链分子的纳米颗粒模型
+jerkwin.github.io,2016-02-22,X射线安检仪图像的颜色映射
+jerkwin.github.io,2016-03-01,【转】无机晶体结构数据查询软件ICSD：使用篇
+jerkwin.github.io,2016-03-01,无机晶体结构数据查询软件ICSD：安装篇
+jerkwin.github.io,2016-03-11,GROMACS分析教程：使用g_select计算平均滞留时间
+jerkwin.github.io,2016-03-17,旅行推销商问题TSP的动态规划解法
+jerkwin.github.io,2016-03-31,使用GROMACS和VMD绘制空间分布函数SDF的步骤
+jerkwin.github.io,2016-04-06,推荐《乡村里的中国》
+jerkwin.github.io,2016-05-31,GROMACS轨迹周期性边界条件的处理
+jerkwin.github.io,2016-06-02,使用GitHub的issue存储数据
+jerkwin.github.io,2016-06-08,【译】蛋白质折叠问题50年的历程
+jerkwin.github.io,2016-06-24,分子尺寸大小的计算
+jerkwin.github.io,2016-06-29,GROMACS电场的使用
+jerkwin.github.io,2016-08-05,Packmol程序资料整理
+jerkwin.github.io,2016-08-09,太阳能电池效率的计算
+jerkwin.github.io,2016-08-23,Windows下的bash环境及path环境变量设置
+jerkwin.github.io,2016-08-31,Martini粗粒化力场使用手册：2　常见问题
+jerkwin.github.io,2016-08-31,Martini粗粒化力场使用手册：1　Martini简介
+jerkwin.github.io,2016-09-02,几种颜色映射方案的解析式
+jerkwin.github.io,2016-09-19,GROMACS如何做之膜模拟
+jerkwin.github.io,2016-09-21,自动更新谷歌host文件的简单程序
+jerkwin.github.io,2016-09-23,分子片段分析
+jerkwin.github.io,2016-09-28,Martini粗粒化力场使用手册：4　实例教程
+jerkwin.github.io,2016-09-30,Martini实例教程：使用VMD可视化Martini体系
+jerkwin.github.io,2016-10-05,使用bash编辑二进制文件：创建Origin调色板文件
+jerkwin.github.io,2016-10-11,Martini实例教程：蛋白质
+jerkwin.github.io,2016-10-21,VMD加载GROMACS轨迹的速度信息与时间信息
+jerkwin.github.io,2016-10-28,TCL培训教程
+jerkwin.github.io,2016-10-31,远程服务器映射软件ExpanDrive中文版
+jerkwin.github.io,2016-11-03,Martini实例教程：脂质
+jerkwin.github.io,2016-11-07,单位换算器
+jerkwin.github.io,2016-12-28,GROMACS术语：爆破(Blowing_Up)
+jerkwin.github.io,2016-12-30,Martini实例教程：聚合物
+jerkwin.github.io,2016-12-31,GROMACS和VMD中的氢键判定标准
+jerkwin.github.io,2017-01-09,GROMACS分析教程：氢键分析
+jerkwin.github.io,2017-01-11,我使用的VMD初始化脚本
+jerkwin.github.io,2017-01-30,GROMACS QM/MM教程1：QM/MM方法的实现
+jerkwin.github.io,2017-02-02,GROMACS QM/MM教程2：编译设置及简单运行
+jerkwin.github.io,2017-02-13,GROMACS QM/MM教程3：使用DFTB3进行QM/MM模拟
+jerkwin.github.io,2017-02-14,GROMACS QM/MM教程4：使用连接原子
+jerkwin.github.io,2017-02-22,GROMACS QM/MM教程5：胸腺嘧啶二聚体的修复
+jerkwin.github.io,2017-02-23,OriginPro 2017中文版
+jerkwin.github.io,2017-02-25,pdf文件标签管理工具Taggie
+jerkwin.github.io,2017-03-02,弱酸和配合物分布曲线绘制工具
+jerkwin.github.io,2017-03-12,【整理】APBS教程
+jerkwin.github.io,2017-03-29,统计轨迹中分子速度大小沿某一方向的分布
+jerkwin.github.io,2017-03-31,糖及其GLYCAM力场中的命名约定
+jerkwin.github.io,2017-04-03,Amber构建寡糖的方法
+jerkwin.github.io,2017-04-05,Amber构建脂分子的方法
+jerkwin.github.io,2017-04-06,Amber构建糖蛋白的方法
+jerkwin.github.io,2017-04-10,GROMACS多糖模拟简单示例
+jerkwin.github.io,2017-05-05,随机抽样一致性算法matlab示例代码
+jerkwin.github.io,2017-05-10,xvg曲线中心移动平均平滑脚本
+jerkwin.github.io,2017-05-24,四种计算自由能方法的原理示例教程
+jerkwin.github.io,2017-06-01,【转载】[在人间]第48期：一所山村小学的日常
+jerkwin.github.io,2017-06-22,使用GROMACS计算径向分布函数
+jerkwin.github.io,2017-06-29,GMXTOP：OPLSAA力场的GROMACS拓扑文件生成器
+jerkwin.github.io,2017-08-16,【整理】使用分子动力学模拟红外光谱
+jerkwin.github.io,2017-08-20,使用GROMACS计算红外光谱
+jerkwin.github.io,2017-08-27,拼接分子的简单脚本
+jerkwin.github.io,2017-09-14,GROMACS非标准残基教程1：修改力场与增加残基
+jerkwin.github.io,2017-09-20,GROMACS非标准残基教程2：芋螺毒素小肽实例
+jerkwin.github.io,2017-09-26,新版VASP轨迹文件转换为GROMACS格式
+jerkwin.github.io,2017-10-20,GROMACS分子动力学模拟教程：多肽-蛋白相互作用
+jerkwin.github.io,2017-11-21,下载整理中国哲学电子书的脚本
+jerkwin.github.io,2017-12-06,曲线的变形
+jerkwin.github.io,2017-12-09,GMXTOP：集成MKTOP的原子类型判定代码
+jerkwin.github.io,2017-12-14,计算蛋白自由能形貌图的简单示例
+jerkwin.github.io,2017-12-21,Blender分子渲染习作
+jerkwin.github.io,2017-12-22,点集的几种几何外形参数
+jerkwin.github.io,2017-12-26,Amber 2017 参考手册 第一部分 介绍和安装
+jerkwin.github.io,2017-12-26,AMBER资料整理
+jerkwin.github.io,2017-12-28,Windows下AmberTools17的编译
+jerkwin.github.io,2018-01-03,Amber基础教程B4：使用antechamber和GAFF模拟药物分子
+jerkwin.github.io,2018-01-07,Amber基础教程B5：模拟绿色荧光蛋白及构建修饰的氨基酸残基
+jerkwin.github.io,2018-01-14,GROMACS计算距离的方法及注意点
+jerkwin.github.io,2018-01-25,分子中原子编号的匹配
+jerkwin.github.io,2018-01-28,AMBER高级教程A3：MM-PBSA
+jerkwin.github.io,2018-01-31,AMBER高级教程A1(旧版)：模拟含有非标准残基的溶剂化蛋白(简单版本)
+jerkwin.github.io,2018-02-06,AMBER高级教程A16：Amber脂分子教程：Lipid14力场版本
+jerkwin.github.io,2018-02-25,GROMACS的耗散粒子动力学DPD模拟
+jerkwin.github.io,2018-03-08,使用GROMACS计算粘度
+jerkwin.github.io,2018-03-15,AMBER CPPTRAJ教程C1：RMSD分析
+jerkwin.github.io,2018-03-16,canvas二维光照效果
+jerkwin.github.io,2018-03-19,嘶哑的春天
+jerkwin.github.io,2018-03-20,AMBER高级教程A1：建小分子与DNA体系(包括基本电荷计算)
+jerkwin.github.io,2018-03-26,AMBER高级教程A24：使用FEW(Free Energy Workflow)工具计算自由能
+jerkwin.github.io,2018-04-02,gnuplot伪三维瀑布图
+jerkwin.github.io,2018-04-04,AMBER教程C3：CPPTRAJ中的主成分分析
+jerkwin.github.io,2018-04-09,实时改变GROMACS拓扑的分段模拟方法
+jerkwin.github.io,2018-04-18,AMBER高级教程A12：使用Amber11处理聚脯氨酸
+jerkwin.github.io,2018-04-19,Amber教程：涉及非标准残基的模拟
+jerkwin.github.io,2018-04-21,自动下载喜马拉雅音频文件
+jerkwin.github.io,2018-04-25,GROMACS自由能计算中软核势的使用
+jerkwin.github.io,2018-04-26,AMBER高级教程A17：伞形采样实例--计算丙氨酸二肽Phi/Psi旋转过程的平均力势PMF
+jerkwin.github.io,2018-05-09,xpm文件处理脚本
+jerkwin.github.io,2018-05-16,AMBER基础教程B3：案例研究--稳定蛋白折叠色氨酸肽笼的全原子结构预测和折叠模拟
+jerkwin.github.io,2018-06-03,高亮折叠命名列表格式的输入文件
+jerkwin.github.io,2018-06-07,构建纤维素(多糖)及其衍生物的GLYCAM力场拓扑文件
+jerkwin.github.io,2018-06-14,matlab稳健回归函数文档
+jerkwin.github.io,2018-06-24,AMBER高级教程A8：HIV-1整合酶核心结构域的环区动力学
+jerkwin.github.io,2018-06-28,AMBER高级教程A15：室温离子液体
+jerkwin.github.io,2018-07-08,GROMACS轨迹分析框架(gmx2018.2)
+jerkwin.github.io,2018-07-09,GROMACS编写轨迹分析工具的示例代码(gmx2018.2)
+jerkwin.github.io,2018-07-11,GROMACS团簇分析代码
+jerkwin.github.io,2018-07-19,MSD算扩散系数的几种方法
+jerkwin.github.io,2018-07-22,绝望之于失望正与希望同
+jerkwin.github.io,2018-08-06,origin自动载入xvg数据作图
+jerkwin.github.io,2018-08-06,鹰与箭
+jerkwin.github.io,2018-08-20,科技绘图的调色板
+jerkwin.github.io,2018-08-29,Pi-Pi堆积距离和堆积角度的计算
+jerkwin.github.io,2018-09-16,模拟命令行操作的svg动画
+jerkwin.github.io,2018-09-27,gnuplot显示优化过程
+jerkwin.github.io,2018-10-07,三维空间随机旋转
+jerkwin.github.io,2018-10-14,AMBER 2015伦敦研讨会 - 组合聚类分析示例
+jerkwin.github.io,2018-11-15,计算机辅助翻译软件OmegaT
+jerkwin.github.io,2018-11-24,Barnett GROMACS教程
+jerkwin.github.io,2019-01-13,残梦录
+jerkwin.github.io,2019-01-29,VMD的RMSD计算器简单使用
+jerkwin.github.io,2019-01-31,谷歌的改版
+jerkwin.github.io,2019-02-08,gnuplot分段拟合颜色映射表达式
+jerkwin.github.io,2019-02-12,GROMACS的蛋白构象聚类分析
+jerkwin.github.io,2019-03-19,黑暗中的土豆
+jerkwin.github.io,2019-04-01,外国物理学家的故事
+jerkwin.github.io,2019-04-21,GROMACS分析教程：水分子序参数的计算
+jerkwin.github.io,2019-05-13,复杂误差传播的计算
+jerkwin.github.io,2019-06-22,"野马, 草原, 我"
+jerkwin.github.io,2019-07-02,我的.bashrc设置
+jerkwin.github.io,2019-07-14,许楠：使用GAFF力场参数化小分子的自动化工具
+jerkwin.github.io,2015-06-11,KineticJS教程3：事件响应与拖曳
+jerkwin.github.io,2015-08-02,2015年中科院院士增选初步候选人名单的一点注记
+jerkwin.github.io,2015-12-08,使用AmberTools+ACPYPE+Gaussian创建小分子GAFF力场的拓扑文件
+jerkwin.github.io,2016-01-26,【转】当童话故事被篡改后，结局就杯具了
+jerkwin.github.io,2016-06-20,Matlab插值曲面及其曲率的计算
+jerkwin.github.io,2016-10-10,Martini实例教程：新分子的参数化
+jerkwin.github.io,2017-02-11,自动调整VMD窗口的位置和大小
+jerkwin.github.io,2017-05-02,扩散模式的分类以及扩散系数的计算
+jerkwin.github.io,2017-11-11,使用GROMACS进行团簇分析
+jerkwin.github.io,2018-01-17,AMBER基础教程B0：AMBER分子动力学模拟入门
+jerkwin.github.io,2018-04-03,AMBER高级教程A2：耦合势的QM/MM(量子力学/分子动力学)模拟
+jerkwin.github.io,2018-06-25,gnuplot绘制RMSD的统计直方图
+jerkwin.github.io,2018-10-25,GROMACS输入文件模板
+jerkwin.github.io,2019-07-31,gmx_mmpbsa使用说明
+jerkwin.github.io,2020-01-25,分子模拟周刊：第 3 期
+jerkwin.github.io,2020-04-11,分子模拟周刊：第 14 期
+jerkwin.github.io,2020-07-04,分子模拟周刊：第 26 期
+jerkwin.github.io,2020-12-15,"CASP14：谷歌DeepMind的AlphaFold 2到底取得了什么成就? 它对蛋白质折叠, 生物学和生物信息学意味着什么?"
+jerkwin.github.io,2021-10-21,Eigenmath函数说明
+jerkwin.github.io,2022-04-30,使用gnuplot绘制山体阴影图
+jerkwin.github.io,2019-08-05,吴伟：auto-martini的安装和使用简介
+jerkwin.github.io,2019-08-28,物美价廉：GROMACS 2018在GPU节点上的使用
+jerkwin.github.io,2019-09-03,猜想的终结
+jerkwin.github.io,2019-09-06,使用GROMACS计算分子间相互作用
+jerkwin.github.io,2019-09-18,PyMOL绘制坐标轴以及盒子
+jerkwin.github.io,2019-10-27,逆旅北方
+jerkwin.github.io,2019-11-03,五周年寄语
+jerkwin.github.io,2019-11-13,GROMACS简介和基准测试
+jerkwin.github.io,2019-11-18,GROMACS恒pH模拟
+jerkwin.github.io,2019-11-19,在线计算兼单位换算器
+jerkwin.github.io,2019-11-27,GROMACS副本交换分子动力学
+jerkwin.github.io,2020-01-04,分子模拟周刊：第 0 期
+jerkwin.github.io,2020-01-10,分子模拟周刊：第 1 期
+jerkwin.github.io,2020-01-18,分子模拟周刊：第 2 期
+jerkwin.github.io,2020-01-30,武汉新型冠状病毒2019-nCoV：来自结构生物信息学的启示
+jerkwin.github.io,2020-02-01,分子模拟周刊：第 4 期
+jerkwin.github.io,2020-02-08,分子模拟周刊：第 5 期
+jerkwin.github.io,2020-02-15,分子模拟周刊：第 6 期
+jerkwin.github.io,2020-02-22,分子模拟周刊：第 7 期
+jerkwin.github.io,2020-02-29,分子模拟周刊：第 8 期
+jerkwin.github.io,2020-03-07,分子模拟周刊：第 9 期
+jerkwin.github.io,2020-03-14,分子模拟周刊：第 10 期
+jerkwin.github.io,2020-03-21,分子模拟周刊：第 11 期
+jerkwin.github.io,2020-03-23,VMD的向量与矩阵操作
+jerkwin.github.io,2020-03-25,VMD建模示例
+jerkwin.github.io,2020-03-28,分子模拟周刊：第 12 期
+jerkwin.github.io,2020-04-04,分子模拟周刊：第 13 期
+jerkwin.github.io,2020-04-05,氧化石墨烯的结构与建模
+jerkwin.github.io,2020-04-18,分子模拟周刊：第 15 期
+jerkwin.github.io,2020-04-20,开源版和试用版pymol的安装
+jerkwin.github.io,2020-04-24,分子模拟周刊：第 16 期
+jerkwin.github.io,2020-05-02,分子模拟周刊：第 17 期
+jerkwin.github.io,2020-05-09,分子模拟周刊：第 18 期
+jerkwin.github.io,2020-05-16,分子模拟周刊：第 19 期
+jerkwin.github.io,2020-05-23,分子模拟周刊：第 20 期
+jerkwin.github.io,2020-05-30,分子模拟周刊：第 21 期
+jerkwin.github.io,2020-06-03,石墨烯平面的卷曲与扭曲
+jerkwin.github.io,2020-06-06,分子模拟周刊：第 22 期
+jerkwin.github.io,2020-06-13,分子模拟周刊：第 23 期
+jerkwin.github.io,2020-06-20,分子模拟周刊：第 24 期
+jerkwin.github.io,2020-06-27,分子模拟周刊：第 25 期
+jerkwin.github.io,2020-07-10,使用xpm2all脚本计算蛋白二级结构演化及含量
+jerkwin.github.io,2020-08-20,2020美国理论化学会议摘要
+jerkwin.github.io,2020-08-23,使用gnuplot绘制xpm文件对应的数据
+jerkwin.github.io,2020-08-31,Win7-x64版本的VMD
+jerkwin.github.io,2020-09-08,VMD渲染相关的几个问题
+jerkwin.github.io,2020-09-13,螺旋纳米管的建模
+jerkwin.github.io,2020-09-24,偶遇archive电子书库
+jerkwin.github.io,2020-10-23,使用GROMACS msd模块的几个注意事项
+jerkwin.github.io,2020-10-24,MD模拟中施加外磁场
+jerkwin.github.io,2020-11-01,更高效的GROMACS分段模拟方法：直接修改tpr文件
+jerkwin.github.io,2020-11-07,简单调研多维插值方法
+jerkwin.github.io,2020-11-18,matlab和mathmatica的在线版
+jerkwin.github.io,2020-11-26,拉曼光谱的计算
+jerkwin.github.io,2021-03-16,gmx_mmpbsa脚本更新：屏蔽效应与熵贡献
+jerkwin.github.io,2021-03-30,"xpm2all更新：二级结构绘制, 颜色方案"
+jerkwin.github.io,2021-04-03,"软件流水账：苹果设备资料传输, 电子邮件自动发送"
+jerkwin.github.io,2021-04-10,"gnuplot：科技期刊调色板, 高级热图"
+jerkwin.github.io,2021-04-19,软件流水账：数学公式OCR识别
+jerkwin.github.io,2021-04-21,gnuplot：绘制蛋白拉氏图
+jerkwin.github.io,2021-05-26,gnuplot：绘制热度图上的等高线
+jerkwin.github.io,2021-06-13,VMD氢键插件及其应用
+jerkwin.github.io,2021-06-19,GROMACS氢键分析工具hbond的使用及扩展
+jerkwin.github.io,2021-06-26,使用gnuplot评估蛋白二级结构
+jerkwin.github.io,2021-09-08,方鲁迅：论公知的倒掉
+jerkwin.github.io,2021-09-10,谷歌的turbo颜色映射方案
+jerkwin.github.io,2021-09-30,副本交换动力学T-REMD模拟的温度分布计算器
+jerkwin.github.io,2021-11-05,环puckering坐标分析工具：gmx_puckering
+jerkwin.github.io,2021-11-06,gmx_puckering使用示例
+jerkwin.github.io,2021-11-13,卌惑记
+jerkwin.github.io,2021-11-26,gmx_mmpbsa脚本更新：清理整理输出
+jerkwin.github.io,2021-12-18,类似gnuplot的在线绘图工具
+jerkwin.github.io,2021-12-23,使用gnuplot绘制地图
+jerkwin.github.io,2022-01-06,自写脚本创建非标准残基蛋白的GROMACS拓扑
+jerkwin.github.io,2022-01-23,刘亮程：寒风吹彻
+jerkwin.github.io,2022-02-09,"gmx_mmpbsa更新：修正原子半径bug, 改用AMBRR PB4, 丙氨酸扫描CAS"
+jerkwin.github.io,2022-02-22,RING程序中关于多元环Puckering坐标的说明
+jerkwin.github.io,2022-02-27,《大学物理》文章目录及随思
+jerkwin.github.io,2022-03-23,圆球堆积接触数的估算
+jerkwin.github.io,2022-04-15,力场拟合工具xff开发杂记
+jerkwin.github.io,2022-05-20,颜色空间与颜色混合
+jerkwin.github.io,2022-05-21,热图绘制中使用非均匀调色板
+jerkwin.github.io,2022-05-23,使用gnuplot绘制氢键数据的平行轴图
+jerkwin.github.io,2022-06-14,曾经的海
+jerkwin.github.io,2022-07-27,使用gnuplot进行光谱展宽和拟合
+jerkwin.github.io,2022-08-20,VMD的图形矩阵及其应用
+jerkwin.github.io,2022-09-02,水溶液体系成笼分析程序cagen
+jerkwin.github.io,2022-09-19,关于分子动力学模拟的可重复性
+jerkwin.github.io,2022-09-23,秋天的告别
+jerkwin.github.io,2022-09-24,GROMACS使用amber19sb力场
+jerkwin.github.io,2022-11-19,gmx_MMPBSA脚本更新：处理不连续索引
+jerkwin.github.io,2022-11-24,使用GaussView绘制cube文件的切面
+jerkwin.github.io,2022-12-16,gmx_ir脚本更新：精简临时文件提升速度
+jerkwin.github.io,2023-03-07,二维红外谱图的模拟计算及gmx_ir脚本更新
+jerkwin.github.io,2023-06-02,分子结构匹配程序matchmol
+jerkwin.github.io,2023-07-22,gnuplot绘图的坐标系统
+jerkwin.github.io,2023-08-16,使用gnuplot绘制散点密度图
+jerkwin.github.io,2024-01-14,dssp数据绘图脚本dssp2gp
+jerkwin.github.io,9998-01-01,分子模拟之道公益讲座
+jerkwin.github.io,9998-01-02,GROMACS培训
+jerkwin.github.io,9999-08-01,Martini粗粒化力场使用手册
+jerkwin.github.io,9999-09-31,GROMACS文件类型
+jerkwin.github.io,9999-10-31,GROMACS中文教程
+jerkwin.github.io,9999-11-01,GROMACS程序编译
+jerkwin.github.io,9999-11-31,GROMACS程序文档
+jerkwin.github.io,9999-12-31,GROMACS中文手册
+kexizeroing.github.io,2022-12-09,Algorithm Basics
+kexizeroing.github.io,2022-10-14,Bitwise operations
+kexizeroing.github.io,2023-01-12,Container queries and :has selector
+kexizeroing.github.io,2022-11-06,Create a video player
+kexizeroing.github.io,2022-12-05,CSS effects collection
+kexizeroing.github.io,2022-10-25,Debugging CSS
+kexizeroing.github.io,2023-03-12,A Dockerfile for a NodeJS application
+kexizeroing.github.io,2022-10-14,The end of localhost
+kexizeroing.github.io,2023-07-23,An example of compiling C code to Wasm
+kexizeroing.github.io,2023-08-25,Explore interactive blog cells
+kexizeroing.github.io,2022-11-18,Fetch API requests and CORS
+kexizeroing.github.io,2023-08-06,Form validation with React Hook Form and Zod
+kexizeroing.github.io,2022-11-10,Functional programming jargon
+kexizeroing.github.io,2022-12-09,Frontend interview questions
+kexizeroing.github.io,2022-09-11,Git knowledge that not clear to me
+kexizeroing.github.io,2023-04-08,A guide to Prompt Engineering
+kexizeroing.github.io,2023-07-27,How does browser load videos
+kexizeroing.github.io,2022-11-20,"HTTP connection, caching and HTTP/2"
+kexizeroing.github.io,2024-03-02,HTTP cookies explained and security policy
+kexizeroing.github.io,2022-12-01,Add watermark to images
+kexizeroing.github.io,2022-10-16,Inspirations
+kexizeroing.github.io,2022-11-28,Intro to Authorization and Authentication
+kexizeroing.github.io,2024-01-22,Intro to Bun
+kexizeroing.github.io,2023-09-09,Rice course - intro to database
+kexizeroing.github.io,2022-11-07,Intro to GraphQL
+kexizeroing.github.io,2022-10-19,Intro to TypeScript
+kexizeroing.github.io,2022-11-13,JavaScript basics you should know
+kexizeroing.github.io,2024-03-02,JavaScript prototype chain and class
+kexizeroing.github.io,2022-11-14,"JavaScript String, Array and Object"
+kexizeroing.github.io,2023-05-27,Learn 1-Line Layouts from Una
+kexizeroing.github.io,2023-03-05,Learn the new frontend build tool Vite
+kexizeroing.github.io,2022-09-18,Curated link collection
+kexizeroing.github.io,2022-09-18,Mac terminal
+kexizeroing.github.io,2022-10-15,Module bundler clone
+kexizeroing.github.io,2023-06-22,My early career notes (in Chinese)
+kexizeroing.github.io,2022-11-23,Node-Sass troubleshooting
+kexizeroing.github.io,2023-03-25,Notes on domain-specific ChatGPT
+kexizeroing.github.io,2022-11-06,PDF custom rendering
+kexizeroing.github.io,2022-10-19,"Pixel, resolution and fps"
+kexizeroing.github.io,2023-12-31,A quick way to serve HTTPS localhost
+kexizeroing.github.io,2023-11-05,React 18 Suspense and startTransition
+kexizeroing.github.io,2022-10-14,React hooks clone
+kexizeroing.github.io,2023-07-08,React Server Side Rendering and Server Components
+kexizeroing.github.io,2023-08-07,Rice clear turn-in
+kexizeroing.github.io,2022-10-14,Screen and webcam recording
+kexizeroing.github.io,2024-03-10,Server-sent events with examples
+kexizeroing.github.io,2022-11-15,Simple frontend router
+kexizeroing.github.io,2022-11-08,Some network knowledge (in Chinese)
+kexizeroing.github.io,2022-10-13,Start a Javascript stack project
+kexizeroing.github.io,2024-03-03,Setup a new mac
+kexizeroing.github.io,2022-10-15,State management clone
+kexizeroing.github.io,2024-03-25,String Matching – What’s behind Ctrl+F
+kexizeroing.github.io,2023-10-25,"SWR, SWC, and MSW"
+kexizeroing.github.io,2022-09-18,TIL
+kexizeroing.github.io,2023-05-31,A tiny functional event emitter
+kexizeroing.github.io,2022-10-26,Understand the event loop
+kexizeroing.github.io,2022-12-14,Understand npm concepts
+kexizeroing.github.io,2022-11-18,Using Blob in JavaScript
+kexizeroing.github.io,2022-10-30,Using ES modules
+kexizeroing.github.io,2022-10-23,Using images in web
+kexizeroing.github.io,2023-06-18,Vue reactivity clone
+kexizeroing.github.io,2022-11-03,What is Nginx
+kexizeroing.github.io,2022-10-14,Notes on work projects (in Chinese)
+kexizeroing.github.io,2023-05-03,Get started with LangChain
+kexizeroing.github.io,2022-12-27,Learn from Advent of Vue 2022
+kexizeroing.github.io,2022-10-19,Rendering performance
+xnum.github.io,2017-02-21 22:26:01 +0800,找工作心得記錄 - 事前準備
+xnum.github.io,2017-02-22 19:38:01 +0800,找工作心得記錄 - 目標選擇
+xnum.github.io,2017-03-11 20:11:31 +0800,找工作心得記錄 - 就業博覽會
+xnum.github.io,2017-03-15 17:49:01 +0800,交大研究所的兩年心得
+xnum.github.io,2017-04-16 13:28:06 +0800,postfix mail forward到gmail
+xnum.github.io,2017-04-17 20:21:06 +0800,jekyll 增加 category 頁面
+xnum.github.io,2017-04-23,電影&電視劇觀後心得錄
+xnum.github.io,2017-04-24,postfix 二度修改設定紀錄
+xnum.github.io,2017-05-09,找工作心得記錄 - 面試
+xnum.github.io,2017-05-16,雜談0516
+xnum.github.io,2017-05-19,C# Timer 與 BackgroundWorker
+xnum.github.io,2017-05-27,BeanfunLogin 1.9.4 改版閒聊
+xnum.github.io,2017-07-03,laravelconf2017心得
+xnum.github.io,2017-07-15,bash shell script 高精度時間測量範例
+xnum.github.io,2017-07-17,inotify監控檔案實作動態更新
+xnum.github.io,2017-07-21,Solaris的Select Bug
+xnum.github.io,2017-07-26,C 結構成員使用的小陷阱
+xnum.github.io,2017-08-22,Linux上的檔案IO效能優化
+xnum.github.io,2017-09-09,win上的docker執行laravel專案
+xnum.github.io,2017-09-11,windows服務與 session 0
+xnum.github.io,2017-09-13,Windows Events API 使用
+xnum.github.io,2017-09-20,Solaris Useful Commands
+xnum.github.io,2017-09-20,Windows Named Pipe
+xnum.github.io,2017-09-20,是誰殺死了以nohup執行的程式
+xnum.github.io,2017-09-26,ksh shell functions以及它的隱藏陷阱
+xnum.github.io,2017-10-21,BATS 使用方式 & 心得
+xnum.github.io,2017-10-26,分散式事務系統架構設計與心得
+xnum.github.io,2017-11-13,libuv 1.16.0 連線關閉處理
+xnum.github.io,2017-11-16,stream buffering in C (fmemopen)
+xnum.github.io,2017-11-16,libuv 1.16.0 Build on Solaris 10 (SunOS 5.10)
+xnum.github.io,2017-11-21,Cross compile libuv 1.16.0 with mingw-w64 on Linux
+xnum.github.io,2017-11-21,使用libuv裡的Queue儲存資料
+xnum.github.io,2017-11-24,Perforce共享原始碼設定方法
+xnum.github.io,2017-12-26,putty遠端列印Big5中文文字
+xnum.github.io,2018-01-05,交易系統更新與跨越
+xnum.github.io,2018-01-06,從分散式鎖服務到master-slave架構
+xnum.github.io,2018-01-19,Ubuntu架設corosync+pacemaker達成自訂服務切換
+xnum.github.io,2018-01-26,Linux開啟coredump設定
+xnum.github.io,2018-01-29,libuv的uv_fs_poll和uv_fs_event比較
+xnum.github.io,2018-01-30,神秘的bash -c選項
+xnum.github.io,2018-02-01,MQTT與AMQP對比xdmq的差異
+xnum.github.io,2018-03-07,記一次ssh server連線異常
+xnum.github.io,2018-03-26,script控制gdb自動執行指令
+xnum.github.io,2018-03-30,記一次libuv採坑除錯記
+xnum.github.io,2018-03-31,使用pahole進行c struct優化
+xnum.github.io,2018-04-09,gdb自動化 - 中斷點自動執行命令
+xnum.github.io,2018-04-12,VPS [GCP -> linode] 搬家記
+xnum.github.io,2018-05-02,xdmq和redis cluster的特性比較
+xnum.github.io,2018-05-04 12:21 +0800,anova舒肥機購買紀錄
+xnum.github.io,2018-06-06,cache penetration and bloom filter
+xnum.github.io,2018-06-29 21:27 +0800,golang context
+xnum.github.io,2018-09-01 10:29 +0800,golang interface advanced
+xnum.github.io,2018-09-09 16:05 +0800,gophercon2018 心得整理
+xnum.github.io,2018-11-06 22:56 +0800,.net應用程式的CI/CD心得
+xnum.github.io,2017-07-12,C Standard & Feature
+xnum.github.io,2017-10-23,c++自定class適用於foreach的寫法
+xnum.github.io,2018-01-30,Interactive shell和login shell的分別
+xnum.github.io,2018-11-06 22:13 +0800,sync.Map的LoadOrStore用途
+xnum.github.io,2020-03-07 01:45 +0800,C++ 的 gmock 小技巧
+xnum.github.io,2021-07-23 00:00 +0800,執行Golang的官方原始碼benchmark
+xnum.github.io,2022-07-07,go httputil.ReverseProxy 踩坑
+xnum.github.io,2023-11-02,文摘 - 一個Engineering Manager的一週時間分配
+xnum.github.io,2018-11-08 23:58 +0800,web架構下cache和expire機制的思路整理
+xnum.github.io,2018-12-04 22:32 +0800,distributed lock
+xnum.github.io,2019-06-19 17:07 +0800,日本沖繩遊記
+xnum.github.io,2019-08-12 23:25 +0800,2019找工作面試紀錄
+xnum.github.io,2019-08-12 15:39 +0800,boost fiber library 特性筆記
+xnum.github.io,2019-08-24 11:16 +0800,c++11 promise和future
+xnum.github.io,2019-08-27 18:07 +0800,gentoo install gitlab-runner
+xnum.github.io,2019-09-11 22:50 +0800,C# com
+xnum.github.io,2019-10-02 17:47 +0800,BOM的不可視字元
+xnum.github.io,2019-12-16 16:26 +0800,gcov lcov + cmake
+xnum.github.io,2019-12-17 00:00 +0800,c++裡的bind和lambda，為什麼沒辦法變成c-style function pointer
+xnum.github.io,2019-12-25 00:53 +0800,mysql dead lock排除記
+xnum.github.io,2020-01-02 20:24 +0800,std thread 造成異常退出
+xnum.github.io,2020-01-14 18:58 +0800,libmysqlclient crash debug
+xnum.github.io,2020-03-27 13:57 +0800,prometheus mysqld exporter 配置實驗記錄
+xnum.github.io,2020-06-09 10:48 +0800,golang pprof
+xnum.github.io,2020-07-31 21:05 +0800,docker-compose networking alias的坑
+xnum.github.io,2020-10-17 11:11 +0800,GraphQL api performance tuning紀錄
+xnum.github.io,2020-10-21 15:36 +0800,在沒有 clang 的環境使用 clang-tidy
+xnum.github.io,2020-12-31 20:01 +0800,Gentoo 上安裝 kubernetes
+xnum.github.io,2021-01-05 18:31 +0800,Gentoo k8s calico 安裝
+xnum.github.io,2021-01-05 20:36 +0800,k8s nfs install
+xnum.github.io,2021-01-05 18:54 +0800,k8s nginx ingress install
+xnum.github.io,2021-01-07 10:47 +0800,k8s 設定 ldap 登入
+xnum.github.io,2021-01-07 18:15 +0800,nginx reverse proxy 的 TLS 版本限制問題
+xnum.github.io,2021-03-24 21:28 +0800,vlan 筆記
+xnum.github.io,2021-07-06 12:00 +0800,prometheus operator scrape external target for HAProxy
+xnum.github.io,2021-09-28 00:00 +0800,Intel RDT支援試玩
+xnum.github.io,2021-10-07 00:00 +0800,node exporter的時間同步檢查機制
+xnum.github.io,2021-11-16 00:00 +0800,influxdb 資料數值重複踩坑
+xnum.github.io,2022-01-27 00:00 +0800,kubernetes 升級 (1.20 -> 1.23) on gentoo
+xnum.github.io,2022-02-27 00:01 +0800,openwrt gateway設定
+xnum.github.io,2022-02-27 00:02 +0800,窮人版x86 L2 switch
+xnum.github.io,2022-02-27 00:00 +0800,proxmox ve change node ip in an existing cluster
+xnum.github.io,2022-03-02 00:00 +0800,calico bgp mode on kubernetes
+xnum.github.io,2022-03-04 00:00 +0800,proxmox ve 使用 OVS 搭建異地 overlay network
+xnum.github.io,2022-03-17 00:00 +0800,go generic 版本實作的 migrate 方式
+xnum.github.io,2022-04-04,container registry 異地備援設計
+xnum.github.io,2022-04-11,nginx ingress 的 root domain 設定
+xnum.github.io,2022-06-25,智慧家庭 - 總心得
+xnum.github.io,2022-08-17,解決在gerrit上的ssh rsa key不能使用的問題
+xnum.github.io,2023-01-27,2023年維護雜記
+xnum.github.io,2023-01-29,k8s v1.25 移除 podSecurityPolicy 造成 helm charts 無法升級
+xnum.github.io,2023-01-31,遠端重灌伺服器，安裝成PVE
+xnum.github.io,2023-06-09,gorm 使用 postgresql driver 遇到 cached plan must not change result type 錯誤
+xnum.github.io,2023-06-22,OpenWRT 新增 WireGuard 用戶端操作方式
+xnum.github.io,2023-08-07,gorm的FirstOrCreate陷阱
+xnum.github.io,2023-09-09,golang.org/x/sync/singleflight 用法
+xnum.github.io,2023-10-16,ngrok personal plan  的 OAuth user 上限
+xnum.github.io,2023-10-24,打造知識庫 - 自架RSS Feed和書籤管理系統
+xnum.github.io,2023-10-26,我的shaarli 文章管理邏輯
+xnum.github.io,2023-10-30,論程式的可觀測性和自動化監控
+xnum.github.io,2023-10-31,使用1Password管理我的SSH金鑰
+xnum.github.io,2023-11-02,在Golang實作架構層的映射策略(mapping strategy)
+xnum.github.io,2023-11-02,文摘 - Rob Pike的五條程式設計規則
+xnum.github.io,2023-11-04,暢網先鋒版i3-N305 自組5bay全固態NAS 開箱與安裝紀錄
+xnum.github.io,2023-11-05,Google Search Console 驗證網站擁有者 使用網域驗證 踩坑
+xnum.github.io,2023-11-06,文摘 - 軟體工程師的公開演講技巧指南
+xnum.github.io,2023-11-06,文摘 - 什麼是staff engineer
+xnum.github.io,2023-11-09,SSH金鑰使用1Password管理超過6把會登入失敗的問題
+xnum.github.io,2023-11-09,天鋇R1 N100開箱 迷你NAS
+xnum.github.io,2023-11-17,應用Jump Table加速function跳轉
+xnum.github.io,2023-11-18,今年撰寫的軟體工程師入職指南
+xnum.github.io,2023-11-28,Tagged Pointer原理及其應用
+xnum.github.io,2023-11-29,Go在後端開發的不足之處
+xnum.github.io,2024-02-13,資訊的載體正在改變
+xnum.github.io,2024-02-19,健康的堅果種類選擇
+xnum.github.io,2022-04-04,template page
