@@ -3,9 +3,14 @@ using * in 原型.通用
 
 同步 = "git pull"
 
+// 待做：如有片段包含空格，如路径，会导致拆分出错
 func 运行(命令) {
+  运行所有(命令.split(" "))
+}
+
+func 运行所有(命令片段) {
     // println(命令)
-    进程 = subprocess.run(命令.split(" "),
+    进程 = subprocess.run(命令片段,
       stdout=subprocess.PIPE,
       stderr=subprocess.PIPE)
     try {
@@ -30,7 +35,7 @@ func 取文件最初提交时间(仓库路径, 文件路径) {
   // 取时间戳需切换当前目录，先保存再恢复
   当前路径 = os.getcwd()
   os.chdir(仓库路径)
-  原文字输出 = 运行("git log `文件路径`")['输出']
+  原文字输出 = 运行所有(['git', 'log', 文件路径])['输出']
   os.chdir(当前路径)
 
   所有时间点 = list(

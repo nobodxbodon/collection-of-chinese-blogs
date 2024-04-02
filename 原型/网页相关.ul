@@ -53,6 +53,8 @@ func 生成原文链接(简报, 文件名) {
   } // 以下无单独域名，直接链接到原仓库文件
   elif 域名 == "gitee.com/MulanRevive/bounty" {
     return "https://`域名`/blob/master/`路径表[域名]`/`文件名`"
+  } elif 域名 == "gitee.com/Kenneth-Lee-2012/MySummary" {
+    return "https://`域名`/blob/master/`简报.路径[#简报.仓库本地路径 : ]`"
   }
   return "https://" + 域名 + "/" + 链接化
 }
