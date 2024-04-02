@@ -59,6 +59,11 @@ func 根据路径提取所有简报(仓库本地路径) {
         简报.仓库本地路径 = 仓库本地路径
         简报.文件名 = 文件
         简报.路径 = 文件路径
+      } elif 文件路径.endswith(".rst") {
+        简报 = 简报结构()
+        简报.仓库本地路径 = 仓库本地路径
+        简报.文件名 = 文件
+        简报.路径 = 文件路径
       }
       所有简报.append(简报) if 简报
     }
@@ -73,10 +78,10 @@ func 文件名提取时间戳(文件名) {
 }
 
 // 2021-02-28-二月看展嘮叨.md
-// 待做: 已支持 html, 不应置于此库
+// 待做: 已支持 html/rst, 不应置于此库
 func 文件名提取题目(文件名) {
-  分段 = re.search("(\d+-\d+-\d+)-(.+)\.(md|markdown|html)$", 文件名)
-  return 分段 ? 分段.group(2) : re.search("(.+)\.(md|markdown|html)$", 文件名).group(1)
+  分段 = re.search("(\d+-\d+-\d+)-(.+)\.(md|markdown|html|rst)$", 文件名)
+  return 分段 ? 分段.group(2) : re.search("(.+)\.(md|markdown|html|rst)$", 文件名).group(1)
 }
 
 func 剔除引号(文本) {
