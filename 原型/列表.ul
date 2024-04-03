@@ -26,7 +26,6 @@ for 仓库地址 in 仓库表 {
 
         简报.本地相对路径 = 目标目录
 
-        // 待做：在简报记录文件格式，为rst等作准备
         // 有些是 html 内容但是有md头部，如 conge.livingwithfcs.org/freesurfer-2013-course-videos-and-ppts.html
         if 简报.本地相对路径 == "cyril3.github.io" {
           简报.题目 = 取网页题目(简报)
@@ -44,7 +43,7 @@ for 仓库地址 in 仓库表 {
         // 待做: 下面为md格式专用, 应清理
         网页文件 = 简报.题目.replace("/", "_") + ".html"
       // 待做：需重命名，避免各种特殊字符无法编译jekyll（需本地构建？）
-        if 简报.文件名.endswith(".html") {
+        if 简报.的格式 == 简报定义.格式.html {
           网页文件 = 网页文件.replace(':', '')
         }
 
