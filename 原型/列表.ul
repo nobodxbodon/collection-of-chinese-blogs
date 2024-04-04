@@ -1,7 +1,6 @@
 using Template in jinja2
 using urllib.parse
-using * in 原型.md相关
-using * in 原型.网页相关
+using * in 原型.简报处理
 using 取文件最初提交时间 in 原型.git功用
 
 // 所有基本测试
@@ -22,14 +21,8 @@ for 仓库地址 in 仓库表 {
         简报.仓库源地址 = 仓库地址
         简报.时间 = 取时间戳(简报) or 取文件最初提交时间(简报.仓库本地路径, 简报.路径)
 
-        简报.本地相对路径 = 目标目录
+        简报.题目 = 取多种博文题目(简报)
 
-        // 有些是 html 内容但是有md头部，如 conge.livingwithfcs.org/freesurfer-2013-course-videos-and-ppts.html
-        if 简报.本地相对路径 == "cyril3.github.io" {
-          简报.题目 = 取网页题目(简报)
-        } else {
-          简报.题目 = 取题目(简报)
-        }
         所有博文.append(tuple(目标目录, 简报.时间, 简报.题目))
 
         // 将所有 md 文件转为 html，置于一个目录中

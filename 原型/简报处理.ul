@@ -1,0 +1,10 @@
+using * in 原型.md相关
+using * in 原型.网页相关
+
+func 取多种博文题目(简报) {
+  if 简报.本地相对路径 == "cyril3.github.io" {
+    return 取网页题目(简报)
+  } else {
+    return 取题目(简报)
+  }
+}
