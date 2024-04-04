@@ -1,3 +1,14 @@
+using Enum in enum
+
+type 格式 : Enum {
+  {
+    md = 1
+    html = 2
+    rst = 3
+    其他 = 4
+  }
+}
+
 type 简报结构 {
   func $简报结构 {
     // 统计、列表共用
@@ -52,5 +63,13 @@ type 简报结构 {
         }
       }
       return 此简报
+  }
+
+  attr $的格式 {
+    return 格式.html if $文件名.endswith(".html")
+    return 格式.md if $文件名.endswith(".md") or $文件名.endswith(".markdown")
+    return 格式.rst if $文件名.endswith(".rst")
+
+    return 格式.其他
   }
 }

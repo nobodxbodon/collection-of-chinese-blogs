@@ -12,11 +12,11 @@ mauve简报 = 简报结构.由表转换单个({
 })
 mauve简报.时间 = '2024-03-24 15:35:50'
 确认相等('https://blog.mauve.icu/2024/03/24/acm/codeforces/CodeforcesRound922',
-生成原文链接(mauve简报, 'CodeforcesRound922.md'))
+生成原文链接(mauve简报))
 
 young简报 = 简报结构.由表转换单个({
   'slug': 'inconventional-commits',
   '本地相对路径': 'young-lord.github.io'
 })
 确认相等('https://young-lord.github.io/posts/inconventional-commits',
-生成原文链接(young简报, ''))
+生成原文链接(young简报))
