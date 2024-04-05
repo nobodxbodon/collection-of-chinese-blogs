@@ -33,7 +33,7 @@ func 生成原文链接(简报) {
 
   if 域名 == "iphyer.github.io" or 域名 == "www.barretlee.com" {
     链接化 = "blog/" + 链接化
-  } elif 域名 == "jalenz.cn" {
+  } elif 域名 == "jalenz.cn" or 域名 == "babyno.top" {
     链接化 = "posts/" + 链接化
   } elif 域名 == "f2h2h1.github.io" {
     链接化 = "article/" + 链接化
