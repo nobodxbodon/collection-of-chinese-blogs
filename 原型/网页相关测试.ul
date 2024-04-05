@@ -20,3 +20,10 @@ young简报 = 简报结构.由表转换单个({
 })
 确认相等('https://young-lord.github.io/posts/inconventional-commits',
 生成原文链接(young简报))
+
+zhangwenli简报 = 简报结构.由表转换单个({
+  '文件名': '2020-03-04-测试.md',
+  '本地相对路径': 'zhangwenli.com'
+})
+确认相等('http://zhangwenli.com/blog/2020/03/04/测试',
+  生成原文链接(zhangwenli简报))

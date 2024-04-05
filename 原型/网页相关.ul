@@ -44,6 +44,8 @@ func 生成原文链接(简报) {
     链接化 = 类别生成部分url(简报) + "/" + 链接化 if 简报.分类
   } elif 域名 == "codeinchinese.com" {
     return "http://" + 域名 + "/" + 链接化
+  } elif 域名 == "zhangwenli.com" {
+    return "http://" + 域名 + "/blog/" + 链接化
   } elif 域名 == "luyuhuang.tech" or 域名 == "blog.forecho.com" {
     return "https://" + 域名 + "/" + 链接化 + ".html"
   } elif 域名 == "xieguanglei.github.io" {
