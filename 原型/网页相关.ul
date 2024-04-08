@@ -29,7 +29,7 @@ func 生成原文链接(简报) {
   }
 
   // 2024-02-24- 替换为 2024/02/24/，去掉末尾扩展
-  链接化 = re.sub('(\\d{4})-(\\d{2})-(\\d{2})-', '\\1/\\2/\\3/', 文件名).replace('.md', '')
+  链接化 = re.sub('(\\d{4})-(\\d{2})-(\\d{2})-', '\\1/\\2/\\3/', 文件名).replace('.md', '').strip().replace(' ', '-')
 
   if 域名 == "iphyer.github.io" or 域名 == "www.barretlee.com" {
     链接化 = "blog/" + 链接化
@@ -38,7 +38,7 @@ func 生成原文链接(简报) {
   } elif 域名 == "f2h2h1.github.io" {
     链接化 = "article/" + 链接化
   } elif 域名 == "dianjiaogit.github.io" {
-    链接化 = 类别生成部分url(简报) + "/" + 链接化.replace(' ', '-')
+    链接化 = 类别生成部分url(简报) + "/" + 链接化
   } // 待做: 如果 类别生成 url 通用于其他博客, 可简化此两个特殊情况
   elif 域名 == "shiina18.github.io" {
     链接化 = 类别生成部分url(简报) + "/" + 链接化 if 简报.分类
