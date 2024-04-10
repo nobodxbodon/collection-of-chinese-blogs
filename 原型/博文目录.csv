@@ -726,6 +726,7 @@ mabbs.github.io,2024-01-20,如何在macOS上玩基于Ren'Py的视觉小说
 mabbs.github.io,2024-02-03,如何离线安装1Panel
 mabbs.github.io,2024-02-24,Luckfox Pico Plus使用体验
 mabbs.github.io,2024-03-16,如何用requests库验证证书
+mabbs.github.io,2024-04-06,关于旧电脑的使用探索
 thewanderingpotato.github.io,2020-03-03,博客開張了
 thewanderingpotato.github.io,2020-03-07,被神化了的攝影師
 thewanderingpotato.github.io,2020-03-08,記憶長存
@@ -6450,6 +6451,7 @@ blog.mauve.icu,2024-03-23 20:18:29,Codeforces Round 921 (Div. 2)
 blog.mauve.icu,2024-03-24 15:35:50,Codeforces Round 922 (Div. 2)
 blog.mauve.icu,2024-03-31 20:27:55,Codeforces Round 923 (Div. 3)
 blog.mauve.icu,2024-04-05 21:01:16,Codeforces Round 924 (Div. 2)
+blog.mauve.icu,2024-04-06 14:44:35,Codeforces Round 925 (Div. 3)
 blog.mauve.icu,2023-09-23 00:33:36,Codeforces Round 897 (Div. 2)
 blog.mauve.icu,2023-08-06 13:02:41,Educational Codeforces Round#152 (Div. 2)
 blog.mauve.icu,2023-08-20 00:02:09,Educational Codeforces Round#153 (Div. 2)
@@ -6597,8 +6599,11 @@ sakurawald.github.io,2023-01-22 21:01:39,[Database] Design
 sakurawald.github.io,2022-04-28 19:55:00,[Database] Elementary SQL
 sakurawald.github.io,2022-04-29 16:39:00,[Database] Intermediate SQL
 sakurawald.github.io,2021-09-13 08:53:00,Expression Evaluation
+sakurawald.github.io,2024-04-08 14:57:18,good application set
 sakurawald.github.io,2023-12-07 15:22:03,guide-to-install-qubes-on-qemu
 sakurawald.github.io,2022-06-13 11:00:00,[JSP] Servlet & JSP Short-Hand
+sakurawald.github.io,2024-04-07 04:28:32,launch tor browser without tor network
+sakurawald.github.io,2024-04-09 19:19:12,pin refresh rate of an android phone
 sakurawald.github.io,2022-06-09 17:41:00,play on anbox
 sakurawald.github.io,2023-02-22 06:38:07,play on android emulator
 sakurawald.github.io,2023-02-27 05:46:02,play on google pixel
@@ -7012,6 +7017,7 @@ jerkwin.github.io,2020-07-04,分子模拟周刊：第 26 期
 jerkwin.github.io,2020-12-15,"CASP14：谷歌DeepMind的AlphaFold 2到底取得了什么成就? 它对蛋白质折叠, 生物学和生物信息学意味着什么?"
 jerkwin.github.io,2021-10-21,Eigenmath函数说明
 jerkwin.github.io,2022-04-30,使用gnuplot绘制山体阴影图
+jerkwin.github.io,2023-06-02,分子结构匹配程序matchmol
 jerkwin.github.io,2019-08-05,吴伟：auto-martini的安装和使用简介
 jerkwin.github.io,2019-08-28,物美价廉：GROMACS 2018在GPU节点上的使用
 jerkwin.github.io,2019-09-03,猜想的终结
@@ -7106,12 +7112,12 @@ jerkwin.github.io,2022-11-19,gmx_MMPBSA脚本更新：处理不连续索引
 jerkwin.github.io,2022-11-24,使用GaussView绘制cube文件的切面
 jerkwin.github.io,2022-12-16,gmx_ir脚本更新：精简临时文件提升速度
 jerkwin.github.io,2023-03-07,二维红外谱图的模拟计算及gmx_ir脚本更新
-jerkwin.github.io,2023-06-02,分子结构匹配程序matchmol
 jerkwin.github.io,2023-07-22,gnuplot绘图的坐标系统
 jerkwin.github.io,2023-08-16,使用gnuplot绘制散点密度图
 jerkwin.github.io,2024-01-14,dssp数据绘图脚本dssp2gp
 jerkwin.github.io,2024-04-02,反应途径的测地插值算法
 jerkwin.github.io,2024-04-03,使用Blender渲染分子模型动画
+jerkwin.github.io,2024-04-08,trr轨迹转换程序trr2all
 jerkwin.github.io,9998-01-01,分子模拟之道公益讲座
 jerkwin.github.io,9998-01-02,GROMACS培训
 jerkwin.github.io,9999-08-01,Martini粗粒化力场使用手册
@@ -7385,6 +7391,8 @@ gitee.com/Kenneth-Lee-2012/MySummary,2023-04-18,6.2
 gitee.com/Kenneth-Lee-2012/MySummary,2023-08-08,6.3
 gitee.com/Kenneth-Lee-2012/MySummary,2023-10-24,6.4
 gitee.com/Kenneth-Lee-2012/MySummary,2023-10-24,6.5
+gitee.com/Kenneth-Lee-2012/MySummary,2024-04-09,6.6
+gitee.com/Kenneth-Lee-2012/MySummary,2024-04-08,6.7
 gitee.com/Kenneth-Lee-2012/MySummary,2021-11-25,free_page_table_pages
 gitee.com/Kenneth-Lee-2012/MySummary,2021-04-11,lvc21
 gitee.com/Kenneth-Lee-2012/MySummary,2021-05-28,mac_air_m1_vm_config
@@ -7575,6 +7583,7 @@ gitee.com/Kenneth-Lee-2012/MySummary,2021-12-25,关于敏捷项目的一些逻�
 gitee.com/Kenneth-Lee-2012/MySummary,2021-01-14,关于概念空间，接口的一些具体讨论
 gitee.com/Kenneth-Lee-2012/MySummary,2020-10-12,关于自然语言编程的方向问题
 gitee.com/Kenneth-Lee-2012/MySummary,2020-10-12,关于设计方案中的逻辑链问题
+gitee.com/Kenneth-Lee-2012/MySummary,2024-04-08,关于语义的辨识
 gitee.com/Kenneth-Lee-2012/MySummary,2020-10-12,再谈“守弱”
 gitee.com/Kenneth-Lee-2012/MySummary,2020-10-12,再谈“法自然”的设计思路
 gitee.com/Kenneth-Lee-2012/MySummary,2020-10-11,再谈《弟子规》问题
