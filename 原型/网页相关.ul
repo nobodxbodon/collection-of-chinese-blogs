@@ -3,6 +3,7 @@ using shutil
 
 using mistune
 using BeautifulSoup in bs4
+using urllib.parse
 
 using * in 原型.通用
 using * in 原型.简报定义
@@ -77,6 +78,13 @@ func 生成网页(简报, 网页路径) {
 
   链接 = 生成原文链接(简报)
   原内容 = "## 原文：[" + 简报.题目 + "](" + 链接 + ")\n" + 原内容
+
+  评论区 = ""
+  if 简报.评论 {
+    评论链接 = urllib.parse.quote(os.path.join(os.getcwd(), 'html', 简报.评论[0].网页))
+    评论区 = "## 评论：[`简报.评论[0].题目`](`评论链接`)\n"
+  }
+  原内容 = 评论区 + 原内容
 
   // 如果表格内容行开头无 | 则不渲染为表格
   网页 = mistune.markdown(原内容)
