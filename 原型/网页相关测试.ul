@@ -27,3 +27,11 @@ zhangwenli简报 = 简报结构.由表转换单个({
 })
 确认相等('http://zhangwenli.com/blog/2020/03/04/测试',
   生成原文链接(zhangwenli简报))
+
+木兰简报 = 简报结构.由表转换单个({
+  '仓库源地址': 'https://gitee.com/MulanRevive/bounty',
+  '路径': '/media/wwww/share/study/聚聚/源数据/博客聚合/gitee.com/MulanRevive/bounty/进展小结/test.md',
+  '本地相对路径': 'gitee.com/MulanRevive/bounty'
+})
+确认相等('https://gitee.com/MulanRevive/bounty/blob/master/进展小结/test.md',
+  生成仓库链接(木兰简报))
