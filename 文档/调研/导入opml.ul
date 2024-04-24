@@ -1,0 +1,31 @@
+using csv
+
+头部 = '<opml version="1.0" xmlns:fz="urn:forumzilla:">\n  <head>\n    <title>Thunderbird OPML Export - 聚聚</title>\n    <dateCreated>Wed, 24 Apr 2024 17:20:25 GMT</dateCreated>\n  </head>\n  <body>\n'
+尾部 = "\n  </body>\n</opml>"
+
+读入数 = 100
+行号 = 0
+xml内容 = []
+try 仓库数据=open("blogs-original.csv") {
+  for 行 in csv.reader(仓库数据, delimiter=',') {
+    行号 += 1
+    continue if 行号==1
+    break if 读入数 == 0
+    仓库 = {'介绍': 行[0], '网址': 行[1].strip(), 'feed': 行[2].strip()}
+    xml内容.append(仓库)
+    println(仓库)
+    读入数 -= 1
+  }
+}
+
+
+文件 = open('雷鸟.opml', 'w', encoding='utf-8')
+文件.write(头部)
+for 仓库 in xml内容 {
+  介绍 = 仓库['介绍']
+  网址 = 仓库['网址']
+  feed = 仓库['feed']
+  文件.write('    <outline title="`介绍`">\n      <outline type="rss" title="`介绍`" text="`介绍`" version="RSS" fz:quickMode="false" fz:options="{&quot;version&quot;:2,&quot;updates&quot;:{&quot;enabled&quot;:true,&quot;updateMinutes&quot;:1440,&quot;updateUnits&quot;:&quot;d&quot;,&quot;lastUpdateTime&quot;:1713978984110,&quot;lastDownloadTime&quot;:null,&quot;updatePeriod&quot;:&quot;&quot;,&quot;updateFrequency&quot;:&quot;&quot;,&quot;updateBase&quot;:&quot;&quot;},&quot;category&quot;:{&quot;enabled&quot;:false,&quot;prefixEnabled&quot;:false,&quot;prefix&quot;:&quot;&quot;}}" xmlUrl="`feed`" htmlUrl="`网址`"/></outline>\n')
+}
+文件.write(尾部)
+文件.close()
