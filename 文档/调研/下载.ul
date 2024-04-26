@@ -28,7 +28,8 @@ func 下载文件(url, 路径) {
   }
   if (response.headers.__contains__('content-disposition')) {
     content_disposition = response.headers['content-disposition']
-    文件名 = content_disposition.split('filename=')[1]
+    按文件名分段 = content_disposition.split('filename=')
+    文件名 = #按文件名分段>1 ? 按文件名分段[1] : '默认.xml'
   } else {
     文件名 = url.split('/')[(-1)]
   }
@@ -57,7 +58,7 @@ try 仓库数据=open("/media/wwww/share/git/chinese-independent-blogs/blogs-ori
 
 
 for 仓库 in 所有仓库 {
-  介绍 = 仓库['介绍']
+  介绍 = 仓库['介绍'].replace('/', '_')
   网址 = 仓库['网址']
   feed = 仓库['feed']
   子目录 = "feed/`介绍`"
