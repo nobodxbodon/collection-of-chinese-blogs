@@ -13,6 +13,7 @@ using time
     "gitee.com/Kenneth-Lee-2012/MySummary": "",
     "cyril3.github.io": "",
     "lihan3238.github.io": "content/post",
+    "lutaonan.com": "src/pages/blog",
     // 下面为通用格式
     "hexo": "source/_posts",
     "gridsome": "content/posts",
