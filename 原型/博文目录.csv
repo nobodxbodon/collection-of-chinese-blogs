@@ -6236,6 +6236,7 @@ conge.livingwithfcs.org,2024-04-11 22:37:35,新爸五年计划 - 355 巧合
 conge.livingwithfcs.org,2024-04-10 19:36:28,折返点 2414 - 2024 隧道马训练第 9 周 ？
 conge.livingwithfcs.org,2024-04-16 11:45:40,折返点 2415 - 2024 隧道马训练第 10 周 耕耘
 conge.livingwithfcs.org,2024-04-17 09:37:35,新爸五年计划 - 356 抓生蚝
+conge.livingwithfcs.org,2024-04-23 16:01:35,新爸五年计划 - 357 不在场
 shiina18.github.io,2019-03-07,用 SVD 进行图像压缩
 shiina18.github.io,2019-06-15,"从提升树到 XGBoost, 原理简介"
 shiina18.github.io,2019-09-06,一次阅读马拉松经历
@@ -6468,6 +6469,7 @@ blog.mauve.icu,2024-04-13 00:39:50,Codeforces Round 926 (Div. 2)
 blog.mauve.icu,2024-04-14 19:55:07,Codeforces Round 927 (Div. 3)
 blog.mauve.icu,2024-04-20 13:00:44,Codeforces Round 928 (Div. 4)
 blog.mauve.icu,2024-04-21 16:39:26,Codeforces Round 939 (Div. 2)
+blog.mauve.icu,2024-04-27 21:39:12,Codeforces Round 940 (Div. 2) and CodeCraft-23
 blog.mauve.icu,2023-09-23 00:33:36,Codeforces Round 897 (Div. 2)
 blog.mauve.icu,2023-08-06 13:02:41,Educational Codeforces Round#152 (Div. 2)
 blog.mauve.icu,2023-08-20 00:02:09,Educational Codeforces Round#153 (Div. 2)
@@ -6542,6 +6544,7 @@ blog.mauve.icu,2020-12-24 14:56:00,test
 blog.mauve.icu,2022-08-30 00:10:06,Java Script 的 null 和 undefined 随想
 blog.mauve.icu,2023-12-18 08:38:05,关于 LRU map 的一些灵感
 blog.mauve.icu,2023-11-07 08:27:24,个人网络 + NAS 折腾日记-1
+blog.mauve.icu,2024-04-23 23:56:42,日本旅游杂记-东京篇
 young-lord.github.io,2021-06-05,解包 Arcaea_NS
 young-lord.github.io,2021-07-25,Arcaea 的一些破解记录
 young-lord.github.io,2021-07-30,风暴条掉血研究
@@ -8066,8 +8069,8 @@ tifa-233.com,2021-04-25 22:07:03,题解 - [CodeForces 1139 D] Steps to One (杜�
 tifa-233.com,2020-05-07 00:07:49,题解 - Codeforces Round #639 Div. 2 (A-D)
 tifa-233.com,2020-06-02 23:20:27,题解 - Codeforces Round #641 Div. 2 (A-E)
 tifa-233.com,2020-05-10 01:03:23,题解 - Codeforces Round #640 Div. 4
+tifa-233.com,2020-05-27 15:12:06,题解 - Codeforces Round #645 Div. 2 (A-D)
 tifa-233.com,2020-08-18 14:51:12,题解 - [Codeforces Global Round 10](A - D & F)
-tifa-233.com,2022-03-02 10:02:42,题解 - [CodeForces 1637 F] Towers
 tifa-233.com,2022-05-18 20:08:38,题解 - Codeforces Round #791 Div. 2 (A-D)
 tifa-233.com,2022-05-23 14:24:10,题解 - Codeforces Round #793 (Div. 2) (A-D)
 tifa-233.com,2022-05-27 14:24:10,比赛记录 - Codeforces Round #794 (Div. 2) (A-D)
@@ -8077,7 +8080,7 @@ tifa-233.com,2022-12-28 20:11:31,比赛记录 - Codeforces Round #841 (Div. 2) a
 tifa-233.com,2022-10-27 01:11:30,题解 - Codeforces Round #830 (Div. 2)
 tifa-233.com,2022-10-30 20:10:31,比赛记录 - Codeforces Round #831 (Div. 1 + Div. 2)
 tifa-233.com,2022-10-24 01:11:30,题解 - Codeforces Round #829 (Div. 2)
-tifa-233.com,2023-01-06 20:11:31,比赛记录 - Codeforces Round #842 (Div. 2)
+tifa-233.com,2022-11-21 02:10:31,比赛记录 - Pinely Round 1 (Div. 1 + Div. 2)
 tifa-233.com,2023-01-04 02:10:31,比赛记录 - Hello 2023
 tifa-233.com,2020-11-15 00:21:06,题解 - [CodeForces 501 D] Misha and Permutations Summation
 tifa-233.com,2020-07-25 00:48:00,题解 - [CodeForces 696 A] Lorenzo Von Matterhorn
@@ -8104,17 +8107,17 @@ tifa-233.com,2021-01-26 18:31:47,随笔 - C++ 中的 std::transform 用法 (C++1
 tifa-233.com,2021-04-12 19:24:47,"随笔 - MATLAB 练习: 直方图, 归一化和概率分布拟合"
 tifa-233.com,2021-04-12 19:56:47,随笔 - MATLAB 练习: 频谱分析之寻找峰值
 tifa-233.com,2021-05-07 14:05:47,随笔 - 一些数学公式
-tifa-233.com,2020-05-27 15:12:06,题解 - Codeforces Round #645 Div. 2 (A-D)
-tifa-233.com,2022-11-21 02:10:31,比赛记录 - Pinely Round 1 (Div. 1 + Div. 2)
+tifa-233.com,2022-03-02 10:02:42,题解 - [CodeForces 1637 F] Towers
+tifa-233.com,2023-01-06 20:11:31,比赛记录 - Codeforces Round #842 (Div. 2)
 tifa-233.com,2022-10-31 22:18:28,笔记 - Dilworth 定理 & Mirsky 定理
 tifa-233.com,2021-04-26 00:20:47,随笔 - Arithmetico-geometric Progression (AGP)
 tifa-233.com,2021-12-21 21:21:01,模板 - string 转 uint 的一种快速算法
 tifa-233.com,2021-04-27 22:52:08,题解 - [LOJ 6053] 简单的函数
 tifa-233.com,2018-04-06 21:02:28,题解 - [Luogu P2413] yyy loves physics IV
-tifa-233.com,2021-11-11 23:03:58,题解 - [Luogu P3878] [TJOI2010] 分金币
+tifa-233.com,2021-11-17 13:38:14,题解 - [Luogu P3923] 大学数学题
 tifa-233.com,2021-06-02 13:25:23,题解 - [Luogu P5221] Product
 tifa-233.com,2021-10-26 22:44:15,模板 - 自动取模的整数类 (mod_int)
-tifa-233.com,2022-04-09 16:00:56,Namomo Spring Camp 2022 Div1 每日一题记录 (Week 7)
+tifa-233.com,2022-04-16 16:00:56,Namomo Spring Camp 2022 Div1 每日一题记录 (Week 8)
 tifa-233.com,2020-07-25 22:14:38,题解 - [POJ 1141] [ZOJ 1463] [UVa 1626] [Ural 1183] Brackets Sequence
 tifa-233.com,2022-05-11 12:07:50,模板 - ST 表
 tifa-233.com,2021-09-23 00:08:45,随笔 - Laplace算子的旋转不变性
@@ -8198,7 +8201,7 @@ tifa-233.com,2020-08-03 14:23:09,题解 - [Luogu P3599] Koishi Loves Constructio
 tifa-233.com,2021-06-02 13:24:59,题解 - [Luogu P3704] [SDOI2017] 数字表格
 tifa-233.com,2021-11-08 18:38:23,题解 - [Luogu P3768] 简单的数学题
 tifa-233.com,2022-08-24 18:38:23,题解 - [SDOI2017] 龙与地下城
-tifa-233.com,2021-11-17 13:38:14,题解 - [Luogu P3923] 大学数学题
+tifa-233.com,2021-11-11 23:03:58,题解 - [Luogu P3878] [TJOI2010] 分金币
 tifa-233.com,2020-10-04 12:27:01,题解 - [Luogu P3951] 小凯的疑惑 / [蓝桥杯2013省] 买不到的数目
 tifa-233.com,2022-10-31 21:38:14,题解 - [Luogu P3973] [TJOI2015] 线性代数
 tifa-233.com,2022-10-31 21:39:14,题解 - [Luogu P3974] [TJOI2015] 组合数学
@@ -8237,7 +8240,7 @@ tifa-233.com,2022-03-12 23:59:56,Namomo Spring Camp 2022 Div1 每日一题记录
 tifa-233.com,2022-03-19 16:00:56,Namomo Spring Camp 2022 Div1 每日一题记录 (Week 4)
 tifa-233.com,2022-03-26 16:00:57,Namomo Spring Camp 2022 Div1 每日一题记录 (Week 5)
 tifa-233.com,2022-04-02 16:00:56,Namomo Spring Camp 2022 Div1 每日一题记录 (Week 6)
-tifa-233.com,2022-04-16 16:00:56,Namomo Spring Camp 2022 Div1 每日一题记录 (Week 8)
+tifa-233.com,2022-04-09 16:00:56,Namomo Spring Camp 2022 Div1 每日一题记录 (Week 7)
 tifa-233.com,2022-04-23 16:00:56,Namomo Spring Camp 2022 Div1 每日一题记录 (Week 9)
 tifa-233.com,2022-08-28 21:28:15,模板 - Newton 插值
 tifa-233.com,2020-10-04 01:14:43,"笔记 - 整除, 素数, gcd & lcm, 同余, 逆元, CRT, exCRT"
@@ -8286,3 +8289,79 @@ tifa-233.com,2018-08-08 13:05:56,「线段树的扩展之浅谈zkw线段树」�
 tifa-233.com,2020-02-10 02:04:18,「线段树的扩展之浅谈zkw线段树」一文的测试代码与结果更新
 tifa-233.com,2018-08-06 19:22:55,【洛谷日报#35】线段树的扩展之浅谈zkw线段树
 tifa-233.com,2020-07-31 20:59:25,题解 - [ZOJ 3638] Fruit Ninja
+lutaonan.com,2014-12-31,2014 年终总结
+lutaonan.com,2016-12-28,2016 年终总结
+lutaonan.com,2018-01-03,2017 年终总结
+lutaonan.com,2018-12-19,2018 香港流行音乐推介
+lutaonan.com,2019-01-07,2018 年终总结
+lutaonan.com,2020-01-01,2019 年终总结：慢慢变成别人眼中「食古不化」的「怪人」
+lutaonan.com,2021-01-10,2020 年终总结
+lutaonan.com,2023-01-09,2022 年终总结
+lutaonan.com,2023-12-22,2023 年终总结: 和自己对话
+lutaonan.com,2016-06-09,中山纪念中学游记
+lutaonan.com,2023-07-03,在清迈冥想学习 7 天后，我不再「追求」幸福
+lutaonan.com,2019-06-12,为你写的一首诗
+lutaonan.com,2020-03-07,国内自建图床指南
+lutaonan.com,2018-08-13,Serlina: 渐进式的 React 服务器渲染框架
+lutaonan.com,2021-01-27,做这个世界的生产者
+lutaonan.com,2019-07-18,未来属于声明式编程
+lutaonan.com,2016-11-26,我看牙医的经历
+lutaonan.com,2017-03-14 # cover https://gbstatic.djyde.com/cover/kobu-agency-67L18R4tW_w-unsplash.jpg?x-oss-process=style/cover,做技术要自信
+lutaonan.com,2024-04-22,在 Electron 中使用 SQLite 的最好方式
+lutaonan.com,2022-09-19,每个人都能用点正则表达式
+lutaonan.com,2019-04-03,人生是不断取舍的过程
+lutaonan.com,2016-06-12,从博客搬迁到创造的乐趣
+lutaonan.com,2017-04-20,搭建自己的 Gitlab CI Runner
+lutaonan.com,2023-05-13,我的笔记管理法
+lutaonan.com,2021-04-11,Svelte 的异步更新实现原理
+lutaonan.com,2019-12-15,录翻唱需要哪些设备
+lutaonan.com,2020-12-25,用 Code Snippet 提高开发效率
+lutaonan.com,2019-04-06,11 寸 iPad Pro 体验
+lutaonan.com,2016-09-29,静态类型在 JavaScript 中是一种负担吗？
+lutaonan.com,2020-05-17,离开阿里巴巴
+lutaonan.com,2019-11-05,来自 2014 年给未来的我的一封信
+lutaonan.com,2019-09-21,回顾了一些读者来信
+lutaonan.com,2017-05-12,我的编程经历
+lutaonan.com,2023-07-30,开发一个浏览器插件在第三天卖出 1000 元
+lutaonan.com,2021-05-12,我给自己设立了每月 $20 的开源捐赠预算
+lutaonan.com,2017-08-25,我的地下刊物
+lutaonan.com,2016-03-14,我学五笔的经历
+lutaonan.com,2019-06-11,博客近期的变化
+lutaonan.com,2019-09-16 # cover https://gbstatic.djyde.com/cover/AAAABT4QF9hCG8i7wl7n9jxl95Zzz76F74AC0qRHECq5tVPy9EnjydEPgXZh6P5t8hppG5wd5_T51MjzuIhqVm4_eyCRVxdGNRw3bw.jpg,爱情是愿意为你放弃寻新鲜
+lutaonan.com,2019-12-25,为了你爱的人，读一读《非暴力沟通》
+lutaonan.com,2015-07-01,写给即将学习编程的大学新生
+lutaonan.com,2016-09-08,离开大学这一年
+lutaonan.com,2019-01-14 # cover https://s2.ax1x.com/2019/05/07/EsOH9s.jpg,健身一年
+lutaonan.com,2017-01-01,从 React 谈 Web UI 开发
+lutaonan.com,2020-03-01,好产品帮助用户变得更好 - 读 Badass: Making Users Awesome
+lutaonan.com,2022-08-20,读《九宫格写作法》
+lutaonan.com,2024-01-04,读 React 18 文档有感
+lutaonan.com,2021-03-14,读《蒂姆·库克传》
+lutaonan.com,2019-11-05,为什么无法坚持写博客
+lutaonan.com,2022-05-01,遗憾最小化框架 —— 如何做决定
+lutaonan.com,2023-06-10,复读和命运
+lutaonan.com,2016-03-25,21 岁我想说的
+lutaonan.com,2023-03-25,28 岁，我还想生猛下去
+lutaonan.com,2019-11-09,1989 年的 CD 机 - SONY Discman D-9
+lutaonan.com,2021-03-09,我对 Svelte 的看法
+lutaonan.com,2017-07-11,群晖 DS216j 半年体验报告
+lutaonan.com,2021-10-20,再谈辍学
+lutaonan.com,2020-06-22,中国制造 Tesla Model 3 长续航体验
+lutaonan.com,2021-06-16,Next.js 应用开发实践
+lutaonan.com,2022-09-20,做了 6 年程序员，我学到的 10 条经验
+lutaonan.com,2018-10-04,我在学校学到的东西
+lutaonan.com,2018-07-16,多研究些问题，少谈些框架
+lutaonan.com,2020-01-07,从「后端现在已经看不懂前端了」说起
+lutaonan.com,2019-06-17 # cover https://gbstatic.djyde.com/cover/bady-qb-c4XoMGxfsVU-unsplash.jpg?x-oss-process=style/cover,井底之蛙的一片天空
+lutaonan.com,2016-08-06,我常用的 macOS 应用
+lutaonan.com,2018-09-14,一个阅读源代码的技巧
+lutaonan.com,2021-07-20,开着特斯拉从广州到苏州的小记
+lutaonan.com,2019-06-13,我想得到它，因为它是好的
+lutaonan.com,2019-09-27,我在 UC 做的前端工程化探索
+lutaonan.com,2019-11-12,博客改版及 Tailwind CSS 实践
+lutaonan.com,2021-06-16,Xbox Series S 一个月使用感受
+lutaonan.com,2024-01-05,读《岩田先生：任天堂传奇社长如是说》
+lutaonan.com,2016-11-06 # cover https://gbstatic.djyde.com/cover/ad-studio-bZ_RkRKE0Po-unsplash.jpg?x-oss-process=style/cover,你根本用不着退学
+lutaonan.com,2017-08-20,养猫随想
+lutaonan.com,2016-06-16,《烂泥》李峻一
+lutaonan.com,2020-05-13,说说 React 和 Vue

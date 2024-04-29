@@ -1,0 +1,73 @@
+using csv
+using os
+using re
+using requests
+
+// 6分钟 300个左右
+
+func 除去引号(网址) {
+  匹配 = re.search("[\"']([-\w\.]+)[\"']", 网址)
+  return 匹配 ? 匹配.group(1) : 网址
+}
+
+func 下载文件(url, 路径) {
+  try {
+    response = requests.get(url, timeout=10)
+  } catch e : requests.exceptions.Timeout {
+    println("超时：`路径`")
+    return ""
+  } catch e : requests.exceptions.ConnectionError {
+    println("连接问题：`路径`")
+    return ""
+  } catch e : requests.exceptions.MissingSchema {
+    println("MissingSchema：`路径`")
+    return ""
+  } catch e : requests.exceptions.ChunkedEncodingError {
+    println("requests.exceptions.ChunkedEncodingError：`路径`")
+    return ""
+  }
+  if (response.headers.__contains__('content-disposition')) {
+    content_disposition = response.headers['content-disposition']
+    按文件名分段 = content_disposition.split('filename=')
+    文件名 = #按文件名分段>1 ? 按文件名分段[1] : '默认.xml'
+  } else {
+    文件名 = url.split('/')[(-1)]
+  }
+  文件名 = 除去引号(文件名)
+  文件名 = '默认.xml' if !文件名
+  相对路径 = "`路径`/`文件名`"
+  try 文件=open(相对路径, "wb") {
+    文件.write(response.content)
+  }
+  return 相对路径
+}
+
+读入数 = 2000
+行号 = 0
+所有仓库 = []
+try 仓库数据=open("/media/wwww/share/git/chinese-independent-blogs/blogs-original.csv") {
+  for 行 in csv.reader(仓库数据, delimiter=',') {
+    行号 += 1
+    continue if 行号==1
+    break if 读入数 == 0
+    仓库 = {'介绍': 行[0], '网址': 行[1].strip(), 'feed': 行[2].strip()}
+    所有仓库.append(仓库)
+    读入数 -= 1
+  }
+}
+
+
+for 仓库 in 所有仓库 {
+  介绍 = 仓库['介绍'].replace('/', '_')
+  网址 = 仓库['网址']
+  feed = 仓库['feed']
+  子目录 = "feed/`介绍`"
+
+  已下载 = os.path.exists(子目录) and os.path.isdir(子目录)
+  continue if 已下载
+
+  os.mkdir(子目录)
+  文件路径 = 下载文件(feed, 子目录)
+  println(文件路径) if 文件路径
+}
+
