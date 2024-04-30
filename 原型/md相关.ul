@@ -7,6 +7,9 @@ func 添加头部信息(文件名, 简报) : 简报结构 {
   try 文件=open(文件名, 'r') {
     简报.头部信息 = 解析头部信息(文件.read())
     return 简报
+  } catch e : UnicodeDecodeError {
+    println('编码不同：`文件名`')
+    return 简报
   }
 }
 
