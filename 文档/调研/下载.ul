@@ -3,7 +3,22 @@ using os
 using re
 using requests
 
+using feedparser
+
 // 6分钟 300个左右
+
+func 取新博文(当前内容, 之前内容) {
+  新博文 = []
+  当前博文 = feedparser.parse(当前内容).entries
+  之前博文题目 = list(map(博文 -> 博文.title, feedparser.parse(之前内容).entries))
+  for 博文 in 当前博文 {
+    if !之前博文题目.__contains__(博文.title) {
+      新博文.append(博文)
+      println('新添:`博文.title`')
+    }
+  }
+  return 新博文
+}
 
 func 除去引号(网址) {
   匹配 = re.search("[\"']([-\w\.]+)[\"']", 网址)
@@ -14,16 +29,16 @@ func 下载文件(url, 路径) {
   try {
     response = requests.get(url, timeout=10)
   } catch e : requests.exceptions.Timeout {
-    println("超时：`路径`")
+    // println("超时：`路径`")
     return ""
   } catch e : requests.exceptions.ConnectionError {
-    println("连接问题：`路径`")
+    // println("连接问题：`路径`")
     return ""
   } catch e : requests.exceptions.MissingSchema {
-    println("MissingSchema：`路径`")
+    // println("MissingSchema：`路径`")
     return ""
   } catch e : requests.exceptions.ChunkedEncodingError {
-    println("requests.exceptions.ChunkedEncodingError：`路径`")
+    // println("requests.exceptions.ChunkedEncodingError：`路径`")
     return ""
   }
   if (response.headers.__contains__('content-disposition')) {
@@ -37,23 +52,21 @@ func 下载文件(url, 路径) {
   文件名 = '默认.xml' if !文件名
   相对路径 = "`路径`/`文件名`"
 
-  内容有更新 = true
+  更新内容 = []
   if os.path.exists(相对路径) {
 
     try 文件=open(相对路径, "rb") {
       之前内容 = 文件.read()
-      if response.content == 之前内容 {
-        内容有更新 = false
-        println("无更新:" + 相对路径)
-      }
+      更新内容 = 取新博文(response.content, 之前内容)
     }
   }
   // 待做：追加而不是覆盖
-  if 内容有更新 {
+  // 仅列出更新的内容而非xml中所有博文
+  if 更新内容 {
+    println(相对路径)
     try 文件=open(相对路径, "wb") {
       文件.write(response.content)
     }
-    println(相对路径)
   }
   return 相对路径
 }
