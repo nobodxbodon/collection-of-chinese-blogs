@@ -4,6 +4,7 @@ using re
 using requests
 
 using feedparser
+using Template in jinja2
 
 // 6分钟 300个左右
 
@@ -13,9 +14,22 @@ func 取新博文(当前内容, 之前内容) {
   之前博文题目 = list(map(博文 -> 博文.title, feedparser.parse(之前内容).entries))
   for 博文 in 当前博文 {
     if !之前博文题目.__contains__(博文.title) {
-      新博文.append(博文)
-      println('新添:`博文.title`')
+      简介 = {'题目': 博文.title, '链接': 博文.link}
+      新博文.append(简介)
+      println('新添:`简介`')
     }
+  }
+  return 新博文
+}
+
+// 待做：与上合并
+func 取博文(当前内容) {
+  新博文 = []
+  当前博文 = feedparser.parse(当前内容).entries
+  for 博文 in 当前博文 {
+    简介 = {'题目': 博文.title, '链接': 博文.link}
+    新博文.append(简介)
+    println('新添:`简介`')
   }
   return 新博文
 }
@@ -59,6 +73,8 @@ func 下载文件(url, 路径) {
       之前内容 = 文件.read()
       更新内容 = 取新博文(response.content, 之前内容)
     }
+  } else {
+    更新内容 = 取博文(response.content)
   }
   // 待做：追加而不是覆盖
   // 仅列出更新的内容而非xml中所有博文
@@ -68,7 +84,7 @@ func 下载文件(url, 路径) {
       文件.write(response.content)
     }
   }
-  return 相对路径
+  return 更新内容
 }
 
 读入数 = 2000
@@ -85,6 +101,8 @@ try 仓库数据=open("/media/wwww/share/git/chinese-independent-blogs/blogs-ori
   }
 }
 
+总博客数 = 0
+所有博文 = []
 
 for 仓库 in 所有仓库 {
   介绍 = 仓库['介绍'].replace('/', '_')
@@ -95,6 +113,22 @@ for 仓库 in 所有仓库 {
   已下载 = os.path.exists(子目录) and os.path.isdir(子目录)
   os.mkdir(子目录) if !已下载
 
-  文件路径 = 下载文件(feed, 子目录)
+  更新内容 = 下载文件(feed, 子目录)
+  if 更新内容 {
+    总博客数 += 1
+    所有博文 += 更新内容
+  }
 }
 
+try 模板文件=open('../../原型/索引模板.html') {
+  模板 = Template(模板文件.read())
+}
+
+try 索引=open('../../临时/rss记录/rss更新.html', 'w') {
+  索引.write(模板.render(
+    {
+      '所有博文': 所有博文,
+      '仓库数': 总博客数,
+      '文章数': #所有博文
+    }))
+}
