@@ -3,6 +3,7 @@ using os
 using re
 using requests
 
+using date in datetime
 using feedparser
 using Template in jinja2
 
@@ -87,10 +88,15 @@ func 下载文件(url, 路径) {
   return 更新内容
 }
 
+中文博客列表 = "/media/wwww/share/git/chinese-independent-blogs/blogs-original.csv"
+其他博客列表 = '/media/wwww/share/git/chinese-independent-blogs/blogs-around.csv'
+
+func 获取仓库更新(仓库列表) {
+
 读入数 = 2000
 行号 = 0
 所有仓库 = []
-try 仓库数据=open("/media/wwww/share/git/chinese-independent-blogs/blogs-original.csv") {
+try 仓库数据=open(仓库列表) {
   for 行 in csv.reader(仓库数据, delimiter=',') {
     行号 += 1
     continue if 行号==1
@@ -124,7 +130,7 @@ try 模板文件=open('../../原型/索引模板.html') {
   模板 = Template(模板文件.read())
 }
 
-try 索引=open('../../临时/rss记录/rss更新.html', 'w') {
+try 索引=open('../../临时/rss记录/rss更新`date.today()`' + (仓库列表 == 中文博客列表 ? '_zh' : '_other') + '.html', 'w') {
   索引.write(模板.render(
     {
       '所有博文': 所有博文,
@@ -132,3 +138,7 @@ try 索引=open('../../临时/rss记录/rss更新.html', 'w') {
       '文章数': #所有博文
     }))
 }
+
+}
+
+获取仓库更新(其他博客列表)
