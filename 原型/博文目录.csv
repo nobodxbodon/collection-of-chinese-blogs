@@ -3417,20 +3417,20 @@ blog.forecho.com,2021-01-11T18:09:00+08:00,【深度理财 20】如何办理一�
 blog.forecho.com,2021-01-14T10:09:00+08:00,【深度理财 21】2021 年上海办理香港卡渠道
 blog.forecho.com,2021-03-09T19:09:00+08:00,【深度理财22】股票投资的框架
 blog.forecho.com,2021-03-19T19:09:00+08:00,【深度理财23】什么是期权
+blog.forecho.com,2021-03-23T16:09:00+08:00,【深度理财 24】期权交易基本策略
 blog.forecho.com,2017-01-20T22:41:00+08:00,一个里程碑
 blog.forecho.com,2020-11-09T11:12:00+08:00,使用 Apple Watch
 blog.forecho.com,2013-10-17T09:26:00+08:00,CakePHP 命名规则
 blog.forecho.com,2015-11-30T17:40:00+08:00,如何让团队里的工程师对工作不厌烦
 blog.forecho.com,2017-10-15T11:51:00+08:00,双生日
 blog.forecho.com,2020-06-24T13:09:00+08:00,【深度理财 07】基金曲线投资美股
-blog.forecho.com,2021-03-23T16:09:00+08:00,【深度理财 24】期权交易基本策略
+blog.forecho.com,2021-04-09T16:09:00+08:00,【深度理财25】随机买股票实验
 blog.forecho.com,2019-04-17T21:58:00+08:00,为了 Yii 的长远发展
 blog.forecho.com,2012-05-25T09:36:00+08:00,关于实习报告
 blog.forecho.com,2021-11-17T13:12:00+08:00,使用 PHP CS Fixer 规范代码
 blog.forecho.com,2017-03-15T23:33:00+08:00,我在听的播客节目
 blog.forecho.com,2014-01-23T16:20:00+08:00,jQuery Ajax 点击修改
 blog.forecho.com,2017-03-05T23:33:00+08:00,记人生第一次徒步 30 公里
-blog.forecho.com,2021-04-09T16:09:00+08:00,【深度理财25】随机买股票实验
 blog.forecho.com,2021-04-23T16:09:00+08:00,【深度理财26】随机买股票实验结局
 blog.forecho.com,2021-04-26T17:09:00+08:00,【深度理财 27】交易期权容易犯的错
 blog.forecho.com,2021-05-29T10:59:00+08:00,【深度理财 28】如何在股市动荡期使用期权赚钱
@@ -4173,6 +4173,7 @@ codeinchinese.com,2024-03-01,语法解析器例程编写中遇到的常见报错
 codeinchinese.com,2024-03-24,客户关系管理平台（CRM）初试之Monday
 codeinchinese.com,2024-03-30,新手搭建博客求助？
 codeinchinese.com,2024-04-15,博客聚合工具进展——评论支持等
+codeinchinese.com,2024-05-03,国内到底该不该一棒子打死发达国家的快乐教育？
 gitee.com/MulanRevive/bounty,2020-03-03,请 @谷溪 给大家演示一下，怎样把”整套 Python 打包”成「木兰」？
 gitee.com/MulanRevive/bounty,2020-03-05,2020-03-05「木兰」复现项目首月小结
 gitee.com/MulanRevive/bounty,2020-03-15,木兰逆向工程中的 bug（一）
@@ -6201,6 +6202,7 @@ conge.livingwithfcs.org,2023-12-28 14:10:37,折返点 2351 - 坚持每天跑步�
 conge.livingwithfcs.org,2023-12-31 11:12:10,新爸五年计划 - 341 bye 2023 育儿回顾
 conge.livingwithfcs.org,2023-12-31 14:10:37,折返点 2352 - 2023年 跑步总结
 conge.livingwithfcs.org,2024-02-06 16:53:28,新爸五年计划 - 346 逛商场
+conge.livingwithfcs.org,2024-03-21 14:24:12,新爸五年计划 - 352 合唱与冰球
 conge.livingwithfcs.org,2024-01-05 11:08:50,2023 十二月读语言学，觉醒，职场，极简，小说…14本
 conge.livingwithfcs.org,2024-01-09 10:52:49,新爸五年计划 - 342 迟到问题的解决方案
 conge.livingwithfcs.org,2024-01-09 10:23:34,折返点 2401 - 触地时间 
@@ -6226,7 +6228,6 @@ conge.livingwithfcs.org,2024-03-05 08:07:50,2024 二月读数学，论语，心�
 conge.livingwithfcs.org,2024-03-08 17:37:01,新爸五年计划 - 351 学琴 8 星期了
 conge.livingwithfcs.org,2024-03-11 23:21:44,折返点 2410 - 2024 隧道马训练第 5 周 野心膨胀到了要破三
 conge.livingwithfcs.org,2024-03-20 14:35:18,折返点 2411 - 2024 隧道马训练第 6 周 野心膨胀就要付出代价
-conge.livingwithfcs.org,2024-03-21 14:24:12,新爸五年计划 - 352 合唱与冰球
 conge.livingwithfcs.org,2024-03-25 14:17:12,新爸五年计划 - 353 喉咙的启示
 conge.livingwithfcs.org,2024-03-25 12:31:28,折返点 2412 - 2024 隧道马训练第 7 周 进入未知
 conge.livingwithfcs.org,2024-04-01 10:59:36,新爸五年计划 - 354 湿疹
@@ -6237,6 +6238,11 @@ conge.livingwithfcs.org,2024-04-10 19:36:28,折返点 2414 - 2024 隧道马训�
 conge.livingwithfcs.org,2024-04-16 11:45:40,折返点 2415 - 2024 隧道马训练第 10 周 耕耘
 conge.livingwithfcs.org,2024-04-17 09:37:35,新爸五年计划 - 356 抓生蚝
 conge.livingwithfcs.org,2024-04-23 16:01:35,新爸五年计划 - 357 不在场
+conge.livingwithfcs.org,2024-04-30 23:27:02,折返点 2416 - 2024 隧道马训练第 11 周 强度到顶
+conge.livingwithfcs.org,2024-05-01 16:01:35,新爸五年计划 - 358 儿时的玩伴
+conge.livingwithfcs.org,2024-05-01 11:25:56,折返点 2417 - 2024 隧道马训练第 12 周 心想事成
+conge.livingwithfcs.org,2024-05-06 18:07:56,折返点 2418 - 2024 隧道马训练第 13 周 病了
+conge.livingwithfcs.org,2024-05-07 16:01:35,新爸五年计划 - 359 两场生日会
 shiina18.github.io,2019-03-07,用 SVD 进行图像压缩
 shiina18.github.io,2019-06-15,"从提升树到 XGBoost, 原理简介"
 shiina18.github.io,2019-09-06,一次阅读马拉松经历
@@ -6470,6 +6476,8 @@ blog.mauve.icu,2024-04-14 19:55:07,Codeforces Round 927 (Div. 3)
 blog.mauve.icu,2024-04-20 13:00:44,Codeforces Round 928 (Div. 4)
 blog.mauve.icu,2024-04-21 16:39:26,Codeforces Round 939 (Div. 2)
 blog.mauve.icu,2024-04-27 21:39:12,Codeforces Round 940 (Div. 2) and CodeCraft-23
+blog.mauve.icu,2024-05-03 23:47:21,Codeforces Round 941 (Div. 2)
+blog.mauve.icu,2024-05-05 00:39:10,Codeforces Round 942 (Div. 2)
 blog.mauve.icu,2023-09-23 00:33:36,Codeforces Round 897 (Div. 2)
 blog.mauve.icu,2023-08-06 13:02:41,Educational Codeforces Round#152 (Div. 2)
 blog.mauve.icu,2023-08-20 00:02:09,Educational Codeforces Round#153 (Div. 2)
@@ -6553,7 +6561,6 @@ young-lord.github.io,2021-11-06,从零开始写一个 Arcaea 的爬梯脚本
 young-lord.github.io,2021-11-06,解包 Arcaea_NS（二）
 young-lord.github.io,2021-11-20,一劳永逸解决 check_hostname requires server_hostname
 young-lord.github.io,2022-01-30,使用 BlackDex 脱壳梆梆加固
-young-lord.github.io,2022-04-15,某核酸二维码数据解析
 young-lord.github.io,2022-04-30,解包《雨宿公车站》与《黄昏的叙事诗》
 young-lord.github.io,2022-07-02,一个小解密
 young-lord.github.io,2022-07-14,一劳永逸解决 apt 的触发器
@@ -6599,6 +6606,7 @@ young-lord.github.io,2023-12-23,从 MT 管理器提取安卓签名密钥
 young-lord.github.io,2024-01-06,逆向 COM dll
 young-lord.github.io,2024-01-11,我都拿服务器跑些啥
 young-lord.github.io,2024-01-12,Inconventional Commits
+young-lord.github.io,2024-05-01,qq-win-db-key 一周年啦！
 young-lord.github.io,2022-07-31,Deepin 安装与配置记录
 young-lord.github.io,2022-11-19,Windows 远程桌面的探索
 young-lord.github.io,2023-08-05,买前生产力，买后…gal？——小米平板 5 Pro 的“生产力”体验
@@ -7139,6 +7147,9 @@ jerkwin.github.io,2024-04-02,反应途径的测地插值算法
 jerkwin.github.io,2024-04-03,使用Blender渲染分子模型动画
 jerkwin.github.io,2024-04-08,trr轨迹转换程序trr2all
 jerkwin.github.io,2024-04-16,远程服务器映射程序SiriKali
+jerkwin.github.io,2024-05-07,公众号文章编辑数理公式
+jerkwin.github.io,2024-05-13,主轴分析与主成分分析的愚见
+jerkwin.github.io,2024-05-14,晶胞正方化
 jerkwin.github.io,9998-01-01,分子模拟之道公益讲座
 jerkwin.github.io,9998-01-02,GROMACS培训
 jerkwin.github.io,9999-08-01,Martini粗粒化力场使用手册
@@ -7162,7 +7173,7 @@ kexizeroing.github.io,2023-08-06,Form validation with React Hook Form and Zod
 kexizeroing.github.io,2022-11-10,Functional programming jargon
 kexizeroing.github.io,2022-12-09,Frontend interview questions
 kexizeroing.github.io,2023-05-03,Get started with LangChain
-kexizeroing.github.io,2023-04-08,A guide to Prompt Engineering
+kexizeroing.github.io,2022-09-11,Git knowledge that not clear to me
 kexizeroing.github.io,2023-07-27,How does browser load videos
 kexizeroing.github.io,2022-11-20,"HTTP connection, caching and HTTP/2"
 kexizeroing.github.io,2024-03-02,HTTP cookies explained and security policy
@@ -7174,10 +7185,11 @@ kexizeroing.github.io,2023-09-09,Rice course - intro to database
 kexizeroing.github.io,2022-11-07,Intro to GraphQL
 kexizeroing.github.io,2022-10-19,Intro to TypeScript
 kexizeroing.github.io,2022-11-13,JavaScript basics you should know
+kexizeroing.github.io,2024-05-09,JavaScript Observer APIs
 kexizeroing.github.io,2024-04-02,"JavaScript prototype chain, Class and Proxy"
 kexizeroing.github.io,2022-11-14,"JavaScript String, Array and Object"
 kexizeroing.github.io,2022-12-27,Learn from Advent of Vue 2022
-kexizeroing.github.io,2023-03-05,Learn the new frontend build tool Vite
+kexizeroing.github.io,2023-05-27,Learn 1-Line Layouts from Una
 kexizeroing.github.io,2022-09-18,Curated link collection
 kexizeroing.github.io,2022-09-18,Mac terminal
 kexizeroing.github.io,2022-10-15,Module bundler clone
@@ -7211,8 +7223,8 @@ kexizeroing.github.io,2022-10-23,Using images in web
 kexizeroing.github.io,2023-06-18,Vue reactivity clone
 kexizeroing.github.io,2022-11-03,What is Nginx
 kexizeroing.github.io,2022-10-14,Notes on work projects (in Chinese)
-kexizeroing.github.io,2022-09-11,Git knowledge that not clear to me
-kexizeroing.github.io,2023-05-27,Learn 1-Line Layouts from Una
+kexizeroing.github.io,2023-04-08,A guide to Prompt Engineering
+kexizeroing.github.io,2023-03-05,Learn the new frontend build tool Vite
 kexizeroing.github.io,2023-08-07,Rice clear turn-in
 lihan3238.github.io,2023-10-15 22:29:00+0800,gitpush失败问题
 lihan3238.github.io,2023-09-22 00:31:00+0800,2023网络安全作业chap0x01
@@ -7367,7 +7379,6 @@ xnum.github.io,2023-08-07,gorm的FirstOrCreate陷阱
 xnum.github.io,2023-09-09,golang.org/x/sync/singleflight 用法
 xnum.github.io,2023-10-16,ngrok personal plan  的 OAuth user 上限
 xnum.github.io,2023-10-24,打造知識庫 - 自架RSS Feed和書籤管理系統
-xnum.github.io,2023-10-26,我的shaarli 文章管理邏輯
 xnum.github.io,2023-10-30,論程式的可觀測性和自動化監控
 xnum.github.io,2023-10-31,使用1Password管理我的SSH金鑰
 xnum.github.io,2023-11-02,在Golang實作架構層的映射策略(mapping strategy)
@@ -7385,6 +7396,7 @@ xnum.github.io,2023-11-29,Go在後端開發的不足之處
 xnum.github.io,2024-02-13,資訊的載體正在改變
 xnum.github.io,2024-02-19,健康的堅果種類選擇
 xnum.github.io,2024-04-21,AI Singing Voice Conversion (SVC) 的試玩心得
+xnum.github.io,2024-05-08,ultrahuman ring air 台灣購買兼使用心得
 xnum.github.io,2022-04-04,template page
 gitee.com/Kenneth-Lee-2012/MySummary,2023-08-26,index
 gitee.com/Kenneth-Lee-2012/MySummary,2023-10-03,README
@@ -7638,6 +7650,7 @@ gitee.com/Kenneth-Lee-2012/MySummary,2020-10-21,在概念空间选择方案
 gitee.com/Kenneth-Lee-2012/MySummary,2022-09-27,在语义上评价逻辑
 gitee.com/Kenneth-Lee-2012/MySummary,2020-10-12,地址空间的故事
 gitee.com/Kenneth-Lee-2012/MySummary,2020-10-12,基于“语义”编程
+gitee.com/Kenneth-Lee-2012/MySummary,2024-05-08,基于状态机的行为定义
 gitee.com/Kenneth-Lee-2012/MySummary,2020-10-06,基于逻辑链建立约束
 gitee.com/Kenneth-Lee-2012/MySummary,2020-10-11,多核MMU和ASID管理逻辑
 gitee.com/Kenneth-Lee-2012/MySummary,2020-10-12,大型软件架构设计
@@ -8301,6 +8314,7 @@ lutaonan.com,2023-12-22,2023 年终总结: 和自己对话
 lutaonan.com,2016-06-09,中山纪念中学游记
 lutaonan.com,2023-07-03,在清迈冥想学习 7 天后，我不再「追求」幸福
 lutaonan.com,2019-06-12,为你写的一首诗
+lutaonan.com,2024-05-14,不上班的第一年
 lutaonan.com,2020-03-07,国内自建图床指南
 lutaonan.com,2018-08-13,Serlina: 渐进式的 React 服务器渲染框架
 lutaonan.com,2021-01-27,做这个世界的生产者
@@ -8365,205 +8379,104 @@ lutaonan.com,2016-11-06 # cover https://gbstatic.djyde.com/cover/ad-studio-bZ_Rk
 lutaonan.com,2017-08-20,养猫随想
 lutaonan.com,2016-06-16,《烂泥》李峻一
 lutaonan.com,2020-05-13,说说 React 和 Vue
-youerning.top,2017-12-13,README
-youerning.top,2019-05-25,README
-youerning.top,2019-05-25,tf_gpu
-youerning.top,2022-08-31,README
-youerning.top,2022-10-01,README
-youerning.top,2018-08-17,README
-youerning.top,2019-08-03,README
-youerning.top,2023-01-17,README
-youerning.top,2019-03-17,README
-youerning.top,2023-05-20,README
-youerning.top,2022-09-10,README
-youerning.top,2022-11-19,README
-youerning.top,2018-07-30,README
-youerning.top,2018-08-24,README
-youerning.top,2020-03-21,README
-youerning.top,2020-03-22,index
-youerning.top,2022-03-25,README
-youerning.top,2022-03-25,README
-youerning.top,2018-04-13,README
-youerning.top,2023-02-22,README
-youerning.top,2023-05-08T14:11:56+08:00,My First Post
-youerning.top,{{ .Date }},"{{ replace .Name ""-"" "" "" | title }}"
-youerning.top,2022-01-25T14:00:00.000Z,About
-youerning.top,2022-01-24T14:00:00.000Z,Customization
-youerning.top,2022-01-24T14:00:00.000Z,Frequently asked questions (FAQ)
-youerning.top,2022-01-24T14:00:00.000Z,Getting started
-youerning.top,2023-05-08,Documentation
-youerning.top,2023-05-08T19:46:45+08:00,My First Post
-youerning.top,2023-05-08,CHANGELOG
-youerning.top,2023-05-08,LICENSE
-youerning.top,2023-05-08,README
-youerning.top,{{ .Date }},"{{ replace .File.ContentBaseName ""-"" "" "" | title }}"
-youerning.top,2023-05-08,Contact
-youerning.top,2023-05-08,Ananke: a Hugo Theme
-youerning.top,2023-05-08,About
-youerning.top,2017-04-09T10:58:08-04:00,Chapter I: The Grand Hall
-youerning.top,2017-04-10T11:00:59-04:00,Chapter II: Pierre Gringoire
-youerning.top,2017-04-11T11:13:32-04:00,Chapter III: Monsieur the Cardinal
-youerning.top,2017-04-12T11:14:48-04:00,Chapter IV: Master Jacques Coppenole
-youerning.top,2017-04-13T11:15:58-04:00,Chapter V: Quasimodo
-youerning.top,2017-04-14T11:25:05-04:00,Chapter VI: Esmeralda
-youerning.top,2017-03-02T12:00:00-05:00,Articles
-youerning.top,2023-05-08,Contact
-youerning.top,2023-05-08,Ananke: Un thème pour Hugo
-youerning.top,2017-04-09T10:58:08-04:00,Chapitre I: La grande halle
-youerning.top,2017-03-02T12:00:00-05:00,Articles
-youerning.top,2023-05-08,404
-youerning.top,2023-05-08,index
-youerning.top,2023-05-08,single
-youerning.top,2023-05-08,commento
-youerning.top,2023-05-08,head-additions
-youerning.top,2023-05-08,i18nlist
-youerning.top,2023-05-08,menu-contextual
-youerning.top,2023-05-08,new-window-icon
-youerning.top,2023-05-08,page-header
-youerning.top,2023-05-08,site-favicon
-youerning.top,2023-05-08,site-footer
-youerning.top,2023-05-08,site-header
-youerning.top,2023-05-08,site-navigation
-youerning.top,2023-05-08,site-scripts
-youerning.top,2023-05-08,site-style
-youerning.top,2023-05-08,social-follow
-youerning.top,2023-05-08,social-share
-youerning.top,2023-05-08,summary-with-image
-youerning.top,2023-05-08,summary
-youerning.top,2023-05-08,tags
-youerning.top,2023-05-08,GetFeaturedImage
-youerning.top,2023-05-08,GetLanguageDirection
-youerning.top,2023-05-08,warn
-youerning.top,2023-05-08,Get
-youerning.top,2023-05-08,GetBuiltInServicesDefaults
-youerning.top,2023-05-08,GetRegisteredServices
-youerning.top,2023-05-08,GetServiceData
-youerning.top,2023-05-08,GetServiceIcon
-youerning.top,2023-05-08,GetMainCSS
-youerning.top,2023-05-08,GetResource
-youerning.top,2023-05-08,list
-youerning.top,2023-05-08,summary
-youerning.top,2023-05-08,form-contact
-youerning.top,2023-05-08,baseof
-youerning.top,2023-05-08,by
-youerning.top,2023-05-08,list
-youerning.top,2023-05-08,single
-youerning.top,2023-05-08,summary-with-image
-youerning.top,2023-05-08,summary
-youerning.top,2023-05-08,taxonomy
-youerning.top,2023-05-08,terms
-youerning.top,2023-05-08,CONTRIBUTING
-youerning.top,2023-05-08,LICENSE
-youerning.top,2017-08-21,Example article title
-youerning.top,{{ .Date }},{{ replace .TranslationBaseName '-' ' ' | title }}
-youerning.top,2022-01-25T14:00:00.000Z,About
-youerning.top,2022-01-24T14:00:00.000Z,Customization
-youerning.top,2022-01-24T14:00:00.000Z,Frequently asked questions (FAQ)
-youerning.top,2022-01-24T14:00:00.000Z,Getting started
-youerning.top,2023-05-08,Documentation
-youerning.top,2018-04-16,Basic HTML Elements
-youerning.top,2014-04-02,Getting Started with Hugo
-youerning.top,2014-04-02,(Hu)go Template Primer
-youerning.top,2023-05-08,404
-youerning.top,2023-05-08,index
-youerning.top,2023-05-08,authorbox
-youerning.top,2023-05-08,comments
-youerning.top,2023-05-08,footer
-youerning.top,2023-05-08,footer_links
-youerning.top,2023-05-08,header
-youerning.top,2023-05-08,logo
-youerning.top,2023-05-08,mathjax
-youerning.top,2023-05-08,menu
-youerning.top,2023-05-08,pager
-youerning.top,2023-05-08,pagination
-youerning.top,2023-05-08,post_meta
-youerning.top,2023-05-08,post_tags
-youerning.top,2023-05-08,post_thumbnail
-youerning.top,2023-05-08,post_toc
-youerning.top,2023-05-08,sidebar
-youerning.top,2023-05-08,author
-youerning.top,2023-05-08,categories
-youerning.top,2023-05-08,date
-youerning.top,2023-05-08,translations
-youerning.top,2023-05-08,categories
-youerning.top,2023-05-08,ddg-search
-youerning.top,2023-05-08,languages
-youerning.top,2023-05-08,recent
-youerning.top,2023-05-08,search
-youerning.top,2023-05-08,sidemenu
-youerning.top,2023-05-08,social
-youerning.top,2023-05-08,taglist
-youerning.top,2023-05-08,baseof
-youerning.top,2023-05-08,list
-youerning.top,2023-05-08,single
-youerning.top,2023-05-08,summary
-youerning.top,2018-03-28,README
-youerning.top,2018-03-28,lines3d-flights
-youerning.top,2018-03-28,index
-youerning.top,2018-03-28,bar
-youerning.top,2018-03-28,line-online
-youerning.top,2018-03-28,line
-youerning.top,2018-03-28,test
-youerning.top,2022-07-07,README
-youerning.top,2022-05-14,kube-proxy
-youerning.top,2022-01-15,kubectl1
-youerning.top,2021-12-25,nginx-ingress-controller
-youerning.top,2021-12-25,README
-youerning.top,2018-03-22,README
-youerning.top,2018-07-17,README
-youerning.top,2022-12-03,README
-youerning.top,2019-04-06,README
-youerning.top,2019-04-06,test
-youerning.top,2019-04-06,test2
-youerning.top,2019-04-06,test3
-youerning.top,2020-02-17,README
-youerning.top,2018-03-15,README
-youerning.top,2018-08-08,README
-youerning.top,2018-08-22,README
-youerning.top,2022-07-12,README
-youerning.top,2018-03-07,python_trade
-youerning.top,2022-06-11,README
-youerning.top,2019-08-10,README
-youerning.top,2021-07-26,README
-youerning.top,2021-07-26,README
-youerning.top,2021-09-05,index
-youerning.top,2020-05-21,README
-youerning.top,2018-03-14,README
-youerning.top,2018-08-29,README
-youerning.top,2019-07-27,README
-youerning.top,2020-05-31,post1
-youerning.top,2020-05-31,post2
-youerning.top,2020-05-24,README
-youerning.top,2019-05-18,README
-youerning.top,2021-08-20,README
-youerning.top,2023-05-20,README
-youerning.top,2021-09-07,README
-youerning.top,2021-09-07,README
-youerning.top,2021-09-07,index
-youerning.top,2021-09-07,readme
-youerning.top,2021-09-07,changelog
-youerning.top,2021-09-07,readme
-youerning.top,2021-09-07,changelog
-youerning.top,2021-09-07,readme
-youerning.top,2021-09-07,changelog
-youerning.top,2021-09-07,readme
-youerning.top,2021-09-07,changelog
-youerning.top,2021-09-07,readme
-youerning.top,2021-09-07,changelog
-youerning.top,2021-09-07,readme
-youerning.top,2021-09-07,LICENSE
-youerning.top,2021-09-07,changelog
-youerning.top,2021-09-07,readme
-youerning.top,2021-09-07,changelog
-youerning.top,2021-09-07,readme
-youerning.top,2021-09-07,changelog
-youerning.top,2021-09-07,readme
-youerning.top,2021-09-07,index
-youerning.top,2023-05-20,README
-youerning.top,2019-05-18,README
-youerning.top,2019-05-18,index
-youerning.top,2023-05-20,README
-youerning.top,2020-06-11,post1
-youerning.top,2020-06-11,post2
-youerning.top,2020-06-11,post3
-youerning.top,2020-06-11,README
+yuanj.top,2024-05-15,Moments
+yuanj.top,2024-05-11,Publications
+yuanj.top,2023-12-03,README
+yuanj.top,2024-02-10T00:18:02+08:00,2024 新年快乐
+yuanj.top,2024-03-20T18:30:31+08:00,Arch 安装记录
+yuanj.top,2024-03-25T21:22:26+08:00,Arch 更换内核
+yuanj.top,2024-03-15T19:53:29+08:00,Arch 清除缓存及无用包
+yuanj.top,2024-05-03T13:33:35+08:00,ATAC-Seq 分析流程
+yuanj.top,2024-04-02T13:14:29+08:00,C++解汉诺塔递归算法
+yuanj.top,2023-11-08T16:56:08+08:00,Conda 的一些报错
+yuanj.top,2023-12-29T19:00:19+08:00,Debian 安装中文输入法
+yuanj.top,2023-12-29T18:38:45+08:00,Debian 安装常用软件
+yuanj.top,2023-12-29T18:54:30+08:00,Debian 编译安装最新版 R
+yuanj.top,2023-12-29T18:08:05+08:00,Debian 装机踩坑
+yuanj.top,2023-11-24T21:56:13+08:00,DESeq2 差异表达分析
+yuanj.top,2023-05-13 17:49:08,GO&KEGG 富集分析
+yuanj.top,2023-11-15T18:16:25+08:00,Gromacs 分子动力学模拟
+yuanj.top,2024-04-10T15:18:12+08:00,Hi-C—前沿技术带你走进 DNA 的三维空间
+yuanj.top,2023-11-23T16:59:27+08:00,Linux 下 R 使用新罗马字体
+yuanj.top,2023-07-21 17:22:17,Linux 下安装 BUSCO
+yuanj.top,2023-09-05T08:10:24+08:00,Linux 使用 inode(i 节点号）删除文件
+yuanj.top,2023-09-12T12:35:51+08:00,Python 生成随机数例子
+yuanj.top,2023-09-13T21:24:56+08:00,Python 计算等效 A 声级
+yuanj.top,2024-02-03T11:34:08+08:00,R 4.3.2 安装 Seurat 报错
+yuanj.top,2024-03-27T17:16:07+08:00,专题：RNA-Seq 上游分析学习
+yuanj.top,2024-03-30T20:29:36+08:00,RNA Seq 上游分析实践
+yuanj.top,2023-06-23 12:07:50,TBtools 制作基因表达热图详解
+yuanj.top,2024-04-27T09:21:30+08:00,点点点！TBtools 完成论文复现
+yuanj.top,2023-08-15T19:50:46+08:00,TBtools 快速完成基因功能注释
+yuanj.top,2024-03-10T13:37:59+08:00,Ubuntu 安装一系列 R 包
+yuanj.top,2023-05-20 14:05:25,Windows10 & 11 安装 WSL2
+yuanj.top,2023-08-15T20:49:31+08:00,WSL 搭建生信分析环境
+yuanj.top,2023-08-31T21:29:55+08:00,一些 Python 基础知识
+yuanj.top,2023-10-24T14:09:24+08:00,一次修改注释文件的经历
+yuanj.top,2023-10-21T14:04:36+08:00,一次失败的分子动力学模拟
+yuanj.top,2024-03-09T17:21:37+08:00,一次失败的论文复现
+yuanj.top,2024-03-05T18:40:24+08:00,与 Deseq2 斗智斗勇
+yuanj.top,2023-10-19T15:29:03+08:00,什么是大学？
+yuanj.top,2023-05-03 23:01:39,今天“调教”了一下我的手机
+yuanj.top,2023-11-30T22:00:02+08:00,今天去了四川大学
+yuanj.top,2023-04-22 10:52:22,使用 HMMER 查找基因的同源序列
+yuanj.top,2023-10-11T17:17:52+08:00,使用 HMMER 网页工具进行结构域分析
+yuanj.top,2024-03-27T18:32:44+08:00,使用 Linux 三年以来的感受
+yuanj.top,2024-03-06T15:09:41+08:00,使用 Trim Galore 替代 Trimmomatic 进行转录组数据清洗
+yuanj.top,2024-01-06T16:28:15+08:00,修复 Debian 下 wine 应用没有图标的问题
+yuanj.top,2024-03-20T22:04:23+08:00,修复 WPS 伪粗体问题与 PDF 导出错误问题
+yuanj.top,2023-10-12T13:03:15+08:00,做了一个 presentasion 后的总结
+yuanj.top,2023-10-09T14:08:11+08:00,关于博客更新的三两事
+yuanj.top,2024-03-04T20:49:31+08:00,努力是解决问题最好的办法
+yuanj.top,2023-12-15T20:47:18+08:00,十二月病情
+yuanj.top,2023-10-20T13:13:41+08:00,十月失眠
+yuanj.top,2024-04-05T21:32:33+08:00,单细胞转录组技术综述
+yuanj.top,2024-01-30T11:33:36+08:00,南方之行结束
+yuanj.top,2024-04-08T13:04:30+08:00,文献分享|在对拟南芥进行诱导转录因子 bZIP11 处理后利用 ATAC Seq 技术鉴定其全基因组可及染色质区域
+yuanj.top,2023-11-18T20:33:58+08:00,基因命名思路
+yuanj.top,2023-06-01 14:35:34,专题：基因家族鉴定
+yuanj.top,2023-06-24 22:17:51,基因进化树的制作及其美化
+yuanj.top,2023-11-30T22:42:34+08:00,奋斗还是躺平？
+yuanj.top,2023-09-20T17:12:12+08:00,如何优雅地在 sciencedirect 下载文献？
+yuanj.top,2023-10-02T08:35:27+08:00,孤独是一个人的狂欢
+yuanj.top,2023-12-17T19:44:45+08:00,富集分析原理
+yuanj.top,2023-11-08T17:16:08+08:00,对人类基因进行 GO 富集分析
+yuanj.top,2023-09-27T08:21:22+08:00,希望让你重获自由
+yuanj.top,2023-05-04 15:04:48,常见论文期刊索引分类
+yuanj.top,2024-01-02T12:59:49+08:00,当我换上了 Debian12 Linux
+yuanj.top,2023-12-31T20:10:37+08:00,我的 2023 年
+yuanj.top,2024-04-25T12:27:00+08:00,抛弃 WSL2 使用 scoop 搭建开发环境
+yuanj.top,2024-03-29T19:00:24+08:00,挖掘 TFBS 的利器——DAP-Seq
+yuanj.top,2024-03-31T08:13:15+08:00,文献分享|整合 ATAC Seq 和 RNA Seq 数据分析揭示水稻中 OsbZIP14 响应热应激的功能
+yuanj.top,2023-05-01 22:59:01,Linux 下安装 conda
+yuanj.top,2024-04-18T11:32:32+08:00,揭示生命起源之谜|为什么蛋白质都是“左撇子”？
+yuanj.top,2024-01-13T22:03:16+08:00,在宜宾与家人相见
+yuanj.top,2024-04-16T12:58:59+08:00,暴风雨夜的思考
+yuanj.top,2023-10-10T19:40:49+08:00,最新版 HMMER 查找同源基因
+yuanj.top,2023-12-02T22:46:14+08:00,月末成都散心
+yuanj.top,2023-08-18T17:59:26+08:00,植物基因组蛋白质序列的制备
+yuanj.top,2023-09-05T20:45:30+08:00,正则表达式
+yuanj.top,2024-03-06T15:21:34+08:00,比 Hisat2 更强的 bowtie2
+yuanj.top,2023-04-24 17:26:51,物种内共线性分析
+yuanj.top,2023-10-02T09:55:32+08:00,用 Python 实现水稻 ID 转换程序
+yuanj.top,2024-04-03T16:49:38+08:00,文献阅读与复现|磷酸盐饥饿反应调节受体样激酶 OsADK1 是菌根共生和磷酸盐饥饿反应所必需的
+yuanj.top,2023-10-12T13:00:23+08:00,社交媒体真的这么重要？
+yuanj.top,2024-05-15T21:39:52+08:00,突然发现博客已经一年多了
+yuanj.top,2023-08-31T21:14:48+08:00,立下大三第一学期的 flag
+yuanj.top,2024-04-10T14:41:35+08:00,文献分享|编码和非编码调控之间的相互作用驱动拟南芥种子到幼苗的转变
+yuanj.top,2023-10-23T19:27:14+08:00,胡思乱想
+yuanj.top,2023-06-22 09:37:39,蛋白互作网络美化
+yuanj.top,2023-10-02T13:44:55+08:00,蛋白质的结构组织层次
+yuanj.top,2024-03-27T20:45:00+08:00,表观遗传学之 Chip-Seq
+yuanj.top,2024-04-05T11:46:36+08:00,表观遗传学之 WGBS
+yuanj.top,2023-08-27T01:55:28+08:00,西安行
+yuanj.top,2023-08-25T20:09:48+08:00,记录我入坑生信的经历
+yuanj.top,2024-03-08T13:04:32+08:00,详解 ATAC-Seq
+yuanj.top,2023-11-27T20:22:23+08:00,谈谈一些日常
+yuanj.top,2023-09-01T11:12:16+08:00,转录组学分析基础——测序技术
+yuanj.top,2023-08-24T23:40:47+08:00,近乡情更怯
+yuanj.top,2023-11-03T22:16:34+08:00,那些年我们玩过的游戏
+yuanj.top,2023-09-23T13:05:54+08:00,重玩《世界征服者 3》
+yuanj.top,2024-05-13T12:36:10+08:00,重生之小明在 Linux 当少爷
+yuanj.top,2023-10-01T08:27:22+08:00,露从今夜白，月是故乡明
+yuanj.top,2023-03-29 15:20:56,顺式作用元件分析
