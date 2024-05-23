@@ -28,6 +28,15 @@ zhangwenli简报 = 简报结构.由表转换单个({
 确认相等('http://zhangwenli.com/blog/2020/03/04/测试',
   生成原文链接(zhangwenli简报))
 
+sund简报 = 简报结构.由表转换单个({
+  '文件名': 'Decision_to_Leave.md',
+  '路径': os.path.join(源数据路径, 'sund.site/content/posts/2024/Decision_to_Leave.md'),
+  '仓库本地路径': os.path.join(源数据路径, 'sund.site/content'),
+  '本地相对路径': 'sund.site'
+})
+确认相等('https://sund.site/posts/2024/decision_to_leave',
+  生成原文链接(sund简报))
+
 木兰简报 = 简报结构.由表转换单个({
   '仓库源地址': 'https://gitee.com/MulanRevive/bounty',
   '路径': os.path.join(源数据路径, 'gitee.com/MulanRevive/bounty/进展小结/test.md'),
