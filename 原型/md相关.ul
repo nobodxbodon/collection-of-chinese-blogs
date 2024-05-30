@@ -50,8 +50,12 @@ func 文件名提取题目(文件名) {
 }
 
 func 剔除引号(文本) {
-  分段 = re.search("\"(.*)\"", 文本)
+  分段 = re.search("^\"(.*)\"$", 文本)
   return 分段.group(1) if 分段
+
+  分段 = re.search("(.*)\"(.*)\"(.*)", 文本)
+  文本 = 分段.group(1) + "“" + 分段.group(2) + "”" + 分段.group(3) if 分段
+
   分段 = re.search("'(.*)'", 文本)
   return 分段 ? 分段.group(1) : 文本
 }
