@@ -38,10 +38,9 @@ func 写入csv文件(文件名, 内容) {
   }
 }
 
-// Tue Jan 16 13:16:29 2024 +0800 => 2024-01-16
 func 转换git时间格式(git时间戳) {
   时间点 = time.strptime(git时间戳, "%a %b %d %H:%M:%S %Y %z")
-  return time.strftime("%Y-%m-%d", 时间点)
+  return time.strftime("%Y-%m-%dT%H:%M:%S", 时间点)
 }
 
 func 取所占空间(目录) {

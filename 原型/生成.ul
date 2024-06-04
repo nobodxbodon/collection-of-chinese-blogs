@@ -7,6 +7,7 @@ using 取文件最初提交时间 in 原型.git功用
 
 // 所有基本测试
 
+using 原型.通用测试
 using 原型.md相关测试
 using 原型.网页相关测试
 
