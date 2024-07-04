@@ -341,6 +341,7 @@ iphyer.github.io,2018-12-31T21:43:14,latex中输入20个带圈字符的方法
 iphyer.github.io,2018-12-31T22:34:32,蒙特卡洛模拟的计算
 iphyer.github.io,2018-12-31T22:03:19,关于IYPT、NYPT、JSYPT的介绍
 iphyer.github.io,2019-04-24T00:44:50,Reading Notes of Grokking Deep Learning Chapter 1 to 3
+iphyer.github.io,2024-07-03 20:54,CR-V 换电池
 iphyer.github.io,2019-08-13T15:15:21,Python编程1——Python计算圆的周长和面积
 iphyer.github.io,2020-01-09 13:44,USA印象12:New Orleans游记
 iphyer.github.io,2018-12-31T22:03:19,Linux下无线驱动的安装
@@ -668,6 +669,7 @@ mabbs.github.io,2022-11-08,提高Cloudflare站点在中国的体验
 mabbs.github.io,2023-09-06,关于卫星通信的一些看法
 mabbs.github.io,2021-05-15,论如何发现一个计算机漏洞
 mabbs.github.io,2020-06-17,论备份的重要性
+mabbs.github.io,2024-07-03T13:41:02,使用Cloudflare Workers制作博客AI摘要
 mabbs.github.io,2019-06-11,Jekyll也可以加密文章啦！
 mabbs.github.io,2019-08-17,记一次悲惨的加装内存的事故
 mabbs.github.io,2022-11-29,体验小白也会使用的免费容器云
@@ -2018,6 +2020,37 @@ lineuman_blog,2018-03-30,依赖于第三方服务的场景要怎么测试
 lineuman_blog,2017-09-02T22:25:02,npm
 yk-liu.github.io,2018-12-12,Sample Post - Markdown Syntax
 yk-liu.github.io,2019-04-15T20:40:22,Build Your Blog with GitHub Pages
+Liu0330.github.io,2019-04-10,Django-安装xadmin的方法及主要配置方法
+Liu0330.github.io,2019-04-10,Django-安装xadmin的方法及主要配置方法
+Liu0330.github.io,2019-05-09T10:02:56,Django-安装xadmin的方法及主要配置方法
+Liu0330.github.io,2019-05-09T09:37:51,ＨＥＬＬＯ　ＷＯＲＬＤ！Blog-01.
+blog.biezhi.me,2018-10-26,在 Go 中使用 Viper 加载配置文件
+blog.biezhi.me,2018-11-19T18:29:47,牢记：如何成为黑客
+blog.biezhi.me,2019-03-29T17:54:22,提问的智慧 - 中文版
+blog.biezhi.me,2019-01-22T00:25:56,零拷贝 - 用户态分析
+blog.biezhi.me,2018-10-25T16:59:11,用 Golang 来编写 cli 程序吧，Happy~
+blog.biezhi.me,2018-01-12,设计和实现一款轻量级的爬虫框架
+blog.biezhi.me,2018-10-26T22:59:46,30 分钟使用 Node 实现一个命令行程序
+blog.biezhi.me,2018-10-28T21:10:21,使用 pjax 技术为博客提速
+blog.biezhi.me,2018-11-19T18:29:47,在 Ubuntu 上安装 Rocket.Chat
+blog.biezhi.me,2018-01-18,计算机为什么用二进制？
+blog.biezhi.me,2017-08-10,写代码怎能不会这些 Linux 命令？
+blog.biezhi.me,2019-01-21T20:11:57,理解和使用 Go 接口
+blog.biezhi.me,2018-11-19T18:29:47,Java 中的类型传递问题解惑
+blog.biezhi.me,2018-11-06T15:23:58,教你使用 asciinema 录制命令行操作
+blog.biezhi.me,2019-01-27T18:41:46,REST API 的安全基础
+blog.biezhi.me,2017-08-29,聊聊 TCP 中的 KeepAlive 机制
+blog.biezhi.me,2019-01-16,深入浅出 CAS
+blog.biezhi.me,2019-01-22T00:25:56,J.U.C 同步框架（AQS 框架）
+blog.biezhi.me,2018-11-21T19:09:53,打造 Mac 下高颜值好用的终端环境
+blog.biezhi.me,2019-01-20,阻塞队列的简单实现
+blog.biezhi.me,2018-10-24T15:20:19,可爱的 Netty 之开篇
+blog.biezhi.me,2019-01-20T23:41:42,反脆弱
+blog.biezhi.me,2018-11-19T18:29:47,在 Google Cloud 上安装 Gogs
+blog.biezhi.me,2017-08-07,SSH 免密登录是怎么玩儿的？
+blog.biezhi.me,2018-10-28T01:25:48,不得不谈的限流算法
+blog.biezhi.me,2017-07-21,分享我常用的 Chrome 插件
+blog.biezhi.me,2018-10-25,Golang 中该使用指针类型还是值类型？
 www.cnfeat.com,2024-02-05T11:05:41,避免清单式写作
 www.cnfeat.com,2024-02-05T11:03:23,珠海这座城（一）
 www.cnfeat.com,2017-08-25,《风格与创造力》 ：如何用认知科学重新定义设计？
@@ -4384,6 +4417,1829 @@ xieguanglei.github.io,2023-11-26T21:49:56,how-stream-video-works-on-web
 xieguanglei.github.io,2019-05-27T18:11:23,about-g3d
 xieguanglei.github.io,2023-11-26T21:49:56,web-worker
 xieguanglei.github.io,2019-05-27T18:11:23,react-tips-connect
+conge.livingwithfcs.org,2013-03-19T12:49:00.001-08:00,Candy Chang: Before I die I want to
+conge.livingwithfcs.org,2013-03-30T10:08:00.001-08:00,Slowly Growing
+conge.livingwithfcs.org,2014-03-05T09:29:00.000-09:00,[电脑网络]Octave Portable and Octave in the Cloud
+conge.livingwithfcs.org,2014-08-09T07:16:00.000-08:00,[电脑网络]Flashed Verizon Galaxy S3 to Selectel
+conge.livingwithfcs.org,2023-12-11T10:50:28,逆天神品椰子油
+conge.livingwithfcs.org,2014-12-30 12:30:30,这几天的网络事件
+conge.livingwithfcs.org,2014-02-27T07:07:00.001-09:00,[讀書筆記]死線的神奇功能——讀《拖拉一点也无妨》
+conge.livingwithfcs.org,2014-10-03T18:27:00.006-08:00,Please vote for us - 请帮忙投票 
+conge.livingwithfcs.org,2014-12-17 12:17:17,性与色情与脑（二）：成瘾还是强迫？
+conge.livingwithfcs.org,2020-09-19T11:28:36,这个星期二 是个特别的日子
+conge.livingwithfcs.org,2014-12-29 16:46:00,女性与色情与脑（三）：假正经还是真无感
+conge.livingwithfcs.org,2020-09-19T11:28:36,“日”字怎么写
+conge.livingwithfcs.org,2020-09-19T11:28:36,请不要打着知识共享的旗号去盗版
+conge.livingwithfcs.org,2020-09-19T11:28:36,续航时间
+conge.livingwithfcs.org,2020-09-19T11:28:36,说谎者的脑 Liar's Brain
+conge.livingwithfcs.org,2014-03-05T09:38:00.001-09:00,回国随笔
+conge.livingwithfcs.org,2014-01-21T09:17:00.001-09:00,Freesurfer 2013 course: Videos and PPTs
+conge.livingwithfcs.org,2014-12-13 12:13:13,性与色情与脑（一）：怡情还是伤身？
+conge.livingwithfcs.org,2020-09-19T11:28:36,“资源帝”陛下，您可能有病，而且还传染...
+conge.livingwithfcs.org,2014-06-06T08:59:00.000-08:00,Flash my Verizon Galaxy Nexus to Selectel
+conge.livingwithfcs.org,2014-08-21T11:43:00.003-08:00,[电脑网络]Add two numbers
+conge.livingwithfcs.org,2020-09-19T11:28:36,记忆术--读《右脑超常记忆术》
+conge.livingwithfcs.org,2022-05-03T09:22:28,新爸五年计划 | 242 记一次家长会
+conge.livingwithfcs.org,2023-10-25T11:39:40,冥想中的端坐、引导音频、分神和腿麻问题
+conge.livingwithfcs.org,2022-02-07T00:11:17,折返点 2205｜脚上的冻伤完全恢复了
+conge.livingwithfcs.org,2022-11-08T11:11:33,身体只是容器
+conge.livingwithfcs.org,2023-10-27T11:30:35,冥想的根本
+conge.livingwithfcs.org,2022-09-25T22:46:58,折返点 2238｜我的三次竞速赛总结
+conge.livingwithfcs.org,2022-09-25T21:26:35,折返点 2237｜FCS 5K 训练记（三）
+conge.livingwithfcs.org,2022-06-13T00:15:52,新爸五年计划 | 258 再见，Kapka
+conge.livingwithfcs.org,2022-12-11 22:14:24,折返点 2249｜ 轻伤不下火线
+conge.livingwithfcs.org,2023-10-25T11:39:40,简单冥想
+conge.livingwithfcs.org,2022-06-06 10:47:50,折返点 2222｜评价锻炼方式好坏，要看锻炼目的
+conge.livingwithfcs.org,2022-02-26 16:39:16,折返点 2208｜跑步是不是最好的运动方式？
+conge.livingwithfcs.org,2022-11-08T11:11:33,摧毁已知 重新修练
+conge.livingwithfcs.org,2022-11-08T11:11:33,不费力的努力
+conge.livingwithfcs.org,2022-01-16 10:24:53,折返点 2202｜恢复赤脚跑
+conge.livingwithfcs.org,2022-08-09T12:12:02,新爸五年计划 | 265 学汉字
+conge.livingwithfcs.org,2022-04-10T08:38:03,折返点 2214｜我每天跑步前并不热身
+conge.livingwithfcs.org,2023-10-25T11:39:40,冥想与太极
+conge.livingwithfcs.org,2022-11-08T11:11:33,对思维的有力训练
+conge.livingwithfcs.org,2022-08-08 22:50:47,折返点 2231｜记在 Durham 跑的半马
+conge.livingwithfcs.org,2022-06-18T23:15:45,折返点 2224 ｜ 初跑者，你越跑越嗨的时候，就是应该停下来的时候
+conge.livingwithfcs.org,2022-11-26T22:07:52,新爸五年计划 | 280 生病的一周
+conge.livingwithfcs.org,2022-08-02T00:40:04,新爸五年计划 | 264 爸爸不像是个爸爸啦
+conge.livingwithfcs.org,2022-04-15T11:24:56,新爸五年计划 | 249 Storm
+conge.livingwithfcs.org,2022-11-08T11:11:33,一份高影响力高生产力规程
+conge.livingwithfcs.org,2022-11-08T11:11:33,面对堆积如山的事情
+conge.livingwithfcs.org,2022-12-31 23:58:33,新爸五年计划 | 287 带孩子一起跑步看电影
+conge.livingwithfcs.org,2022-02-20T11:53:02,折返点 2207｜关于配速提高
+conge.livingwithfcs.org,2022-09-07T17:22:25,新爸五年计划 | 269 新学期 在家教育
+conge.livingwithfcs.org,2022-03-14 21:07:35,新爸五年计划 | 245 Lake Quinault Lodge
+conge.livingwithfcs.org,2022-11-08T11:11:33,重置仪式，助你回归专注
+conge.livingwithfcs.org,2023-10-25T11:39:40,冥想与逆腹式呼吸
+conge.livingwithfcs.org,2022-11-08T11:11:33,完美主义败事有余
+conge.livingwithfcs.org,2024-01-19T14:40:56,新爸五年计划 | 252 不爱练琴怎么办？
+conge.livingwithfcs.org,2022-05-08T22:55:45,新爸五年计划 | 253 彩虹桥故事版
+conge.livingwithfcs.org,2022-10-31T20:14:19,新爸五年计划 | 277 果树
+conge.livingwithfcs.org,2022-03-26T11:12:07,折返点 2212｜跑步是一项寂寞的运动吗
+conge.livingwithfcs.org,2022-07-26T15:19:25,新爸五年计划 | 263 激励
+conge.livingwithfcs.org,2022-12-05 12:17:22,折返点 2248｜ 身体支撑不了自己的运动野心
+conge.livingwithfcs.org,2022-04-19T05:51:41,新爸五年计划 | 250 Dosewillips State Park
+conge.livingwithfcs.org,2022-06-26 07:33:49,折返点 2225｜从跑步中获取快乐，还是快乐的去跑步
+conge.livingwithfcs.org,2023-10-27T11:30:35,冥想的最佳环境
+conge.livingwithfcs.org,2022-12-20 16:55:45,新爸五年计划 | 285 西游记与投影仪
+conge.livingwithfcs.org,2022-02-28 09:57:43,感恩生活中的简单事物
+conge.livingwithfcs.org,2022-03-26T20:28:31,2021 习惯总结
+conge.livingwithfcs.org,2022-06-23T15:41:37,书影音 读看听
+conge.livingwithfcs.org,2023-10-25T11:39:40,冥想，从练习坐姿开始
+conge.livingwithfcs.org,2022-08-24T15:42:11,新爸五年计划 | 267 右舍
+conge.livingwithfcs.org,2023-10-25T11:39:40,冥想可以不闭眼睛么？
+conge.livingwithfcs.org,2022-02-15T00:05:34,折返点 2206｜运动手表的数据误差
+conge.livingwithfcs.org,2024-01-05T11:24:29,2022 跑步总结
+conge.livingwithfcs.org,2022-12-23 16:55:45,启用新域名
+conge.livingwithfcs.org,2022-08-31 15:23:17,新爸五年计划 | 268 Birch Bay
+conge.livingwithfcs.org,2022-10-05T17:47:54,折返点 2239｜一副脚板十双鞋
+conge.livingwithfcs.org,2022-03-26 11:18:51,新爸五年计划 | 247 开始骑车送孩子上学
+conge.livingwithfcs.org,2022-06-01T18:52:01,折返点 2221｜今天，我就想得瑟一下
+conge.livingwithfcs.org,2022-01-22 22:52:11,新爸五年计划 | 238 改掉对孩子发火的毛病
+conge.livingwithfcs.org,2022-06-27 07:41:53,新爸五年计划 | 260 给孩子们验血
+conge.livingwithfcs.org,2022-09-22 15:25:56,成绩报告 我刷新了自己的5公里PB
+conge.livingwithfcs.org,2022-09-24T16:32:10,新爸五年计划 | 272 石头与骨头
+conge.livingwithfcs.org,2022-01-22 23:23:59,折返点 2203｜如何做到持续不间断跑步
+conge.livingwithfcs.org,2022-11-01 10:25:37,折返点 2243｜ Strava的一些增强服务
+conge.livingwithfcs.org,2022-02-23 22:33:43,论《论扯淡》
+conge.livingwithfcs.org,2022-12-13 21:40:25,新爸五年计划 | 284 灯
+conge.livingwithfcs.org,2022-04-03 09:19:24,新爸五年计划 | 248 记录一个静谧的早晨
+conge.livingwithfcs.org,2022-09-25T21:26:35,折返点 2235｜FCS 5K 训练记（一）
+conge.livingwithfcs.org,2022-04-24T08:54:14,新爸五年计划 | 251 记一个周六早上的“早茶时间”
+conge.livingwithfcs.org,2022-11-06T10:23:55,新爸五年计划 | 278 万圣节的糖
+conge.livingwithfcs.org,2022-11-08T11:11:33,随遇而安
+conge.livingwithfcs.org,2022-01-16T10:26:18,新爸五年计划 | 237 车窗被砸了
+conge.livingwithfcs.org,2022-03-06T06:01:25,折返点 2209｜ 膝盖
+conge.livingwithfcs.org,2022-05-17T11:48:10,新爸五年计划 | 254 骑车摔倒
+conge.livingwithfcs.org,2022-05-16T13:46:01,折返点 2219｜改变，要循序渐进
+conge.livingwithfcs.org,2022-12-27 14:38:18,折返点 2251｜ 新手可以天天跑，但不要嫌自己慢 
+conge.livingwithfcs.org,2024-01-19T14:40:56,新爸五年计划 | 275 西游记
+conge.livingwithfcs.org,2022-11-08T11:11:33,如何走出强迫思维
+conge.livingwithfcs.org,2022-05-28 12:57:27,悼念Mark
+conge.livingwithfcs.org,2022-11-08T11:11:33,用故事改变生活
+conge.livingwithfcs.org,2023-10-27T11:30:35,冥想过程好不好，怎么评估呢?
+conge.livingwithfcs.org,2022-11-08T11:11:33,成为你的新习惯
+conge.livingwithfcs.org,2022-05-07T18:56:12,折返点 2218｜空腹跑步，小菜一碟儿
+conge.livingwithfcs.org,2022-12-31 22:20:10,折返点 2252｜ 阳了之后怎么恢复跑步 
+conge.livingwithfcs.org,2022-10-01T06:45:15,新爸五年计划 | 273 全家一起跑步是幸福的事
+conge.livingwithfcs.org,2022-12-05 11:28:19,新爸五年计划 | 283 健康
+conge.livingwithfcs.org,2022-10-08 08:33:15,新爸五年计划 | 274 Alt
+conge.livingwithfcs.org,2022-06-07 22:32:07,新爸五年计划 | 257 生日
+conge.livingwithfcs.org,2022-04-30T12:10:22,折返点 2217｜不求猛，求恒，是我跑步的座右铭
+conge.livingwithfcs.org,2022-06-03 11:18:07,冥想是有坏处的
+conge.livingwithfcs.org,2022-04-16 17:15:43,折返点 2215｜跑步与心率
+conge.livingwithfcs.org,2022-07-04T08:12:00,折返点 2226｜每天五公里，妻子连续跑了30天
+conge.livingwithfcs.org,2022-09-25T21:26:35,折返点 2236｜FCS 5K 训练记（二）
+conge.livingwithfcs.org,2022-05-31T17:30:14,新爸五年计划 | 256 儿子的理发和女儿的跑步
+conge.livingwithfcs.org,2022-11-08T11:11:33,打开生活的全屏模式
+conge.livingwithfcs.org,2022-08-15T09:50:13,折返点 2232｜ 连续跑了999天了
+conge.livingwithfcs.org,2022-11-08T10:16:46,折返点 2244｜ 砥砺前行，终将强大
+conge.livingwithfcs.org,2022-08-13 23:50:15,新爸五年计划 | 266 左邻
+conge.livingwithfcs.org,2022-11-20 20:49:23,新爸五年计划 | 281 烧荒
+conge.livingwithfcs.org,2022-10-24T18:57:21,新爸五年计划 | 276 应对欺凌
+conge.livingwithfcs.org,2022-05-22T21:23:53,新爸五年计划 | 255 睡觉
+conge.livingwithfcs.org,2022-06-24T18:06:53,折返点 2210｜用呼吸调节跑步节奏
+conge.livingwithfcs.org,2022-03-19 18:41:45,折返点 2211｜跑步会上瘾吗？
+conge.livingwithfcs.org,2022-11-29T15:09:12,新爸五年计划 | 282 陪睡
+conge.livingwithfcs.org,2024-01-19T14:40:56,新爸五年计划 | 235 不能说西雅图雪少了
+conge.livingwithfcs.org,2022-12-18 14:38:18,折返点 2250｜跑步并不是最佳的减重运动 
+conge.livingwithfcs.org,2022-01-30 10:21:49,折返点 2204｜持续跑步的第800天
+conge.livingwithfcs.org,2022-07-28T14:26:38,新爸五年计划 | 260 游泳
+conge.livingwithfcs.org,2022-11-08T11:11:33,反思日常挣扎 审视奇思妙想
+conge.livingwithfcs.org,2022-04-22 09:24:25,冥想与呼吸
+conge.livingwithfcs.org,2023-10-25T11:39:40,折返点 2241｜ 连续冥想了999天了
+conge.livingwithfcs.org,2022-09-10 09:28:17,新爸五年计划 | 270 对门儿
+conge.livingwithfcs.org,2023-10-27T11:30:35,冥想的时候浑身不得劲
+conge.livingwithfcs.org,2022-10-22T22:22:55,折返点 2242｜ 2022年的22个半马
+conge.livingwithfcs.org,2022-11-08T11:11:33,信守对自己的承诺
+conge.livingwithfcs.org,2022-06-17 16:10:29,新爸五年计划 | 259 儿子的学期结束了
+conge.livingwithfcs.org,2022-01-30 22:34:44,新爸五年计划 | 239 谈发怒
+conge.livingwithfcs.org,2022-02-26T14:07:07,新爸五年计划 | 243 warrior kid
+conge.livingwithfcs.org,2022-11-08T11:11:33,抽出片刻 肯定自己
+conge.livingwithfcs.org,2022-08-01T19:47:52,折返点 2230｜2小时我能跑多远
+conge.livingwithfcs.org,2022-07-16 14:09:53,折返点 2228｜下单了块运动手表原因
+conge.livingwithfcs.org,2022-03-19T18:37:29,新爸五年计划 | 246 磨蹭与浪费
+conge.livingwithfcs.org,2022-01-08 22:25:00,新爸五年计划 | 236 女儿学校的要天天测Covid
+conge.livingwithfcs.org,2022-01-10 23:50:43,折返点 2201｜脚趾恢复情况
+conge.livingwithfcs.org,2022-05-23T11:29:53,折返点 2220｜减重与跑步
+conge.livingwithfcs.org,2022-08-01T09:26:00,折返点 2229 | 如何看待跑步猝死的消息屡屡上新闻
+conge.livingwithfcs.org,2022-10-10T16:48:56,折返点 2240｜ 又坏一副耳机
+conge.livingwithfcs.org,2022-02-17 22:33:43,一次极简尝试
+conge.livingwithfcs.org,2023-10-25T11:39:40,有关简单冥想练习的问答
+conge.livingwithfcs.org,2022-06-12 13:40:10,折返点 2223｜每天跑12分钟够吗？
+conge.livingwithfcs.org,2022-01-02 16:34:06,折返点 2152｜我把脚趾头冻伤了
+conge.livingwithfcs.org,2024-01-19T14:40:56,新爸五年计划 | 262 暑假流水帐
+conge.livingwithfcs.org,2022-08-22T08:08:59,折返点 2233｜义跑募捐 2022年FCS Foundation 线上跑
+conge.livingwithfcs.org,2022-09-19T23:58:07,新爸五年计划 | 271 女儿生日
+conge.livingwithfcs.org,2022-02-14 23:48:26,新爸五年计划 | 241 valentine
+conge.livingwithfcs.org,2022-02-07 00:08:37,新爸五年计划 | 240 过夜，生日，和口罩
+conge.livingwithfcs.org,2023-10-25T11:39:40,冥想与腹式呼吸
+conge.livingwithfcs.org,2022-11-20T21:31:20,折返点 2246｜ 跑步 减脂 与NEAT
+conge.livingwithfcs.org,2022-07-13T13:32:43,新爸五年计划 | 261 Cama Beach State Park 捕蟹
+conge.livingwithfcs.org,2022-11-08T11:11:33,简化生活五法
+conge.livingwithfcs.org,2022-11-08T11:11:33,快乐地放手
+conge.livingwithfcs.org,2022-11-13 15:37:41,折返点 2245｜ 跑步与吃
+conge.livingwithfcs.org,2022-03-07 20:27:27,新爸五年计划 | 244 发怒与恐惧
+conge.livingwithfcs.org,2022-07-14T22:54:21,地球调频 用耳朵环游自然界
+conge.livingwithfcs.org,2022-11-26 22:01:19,折返点 2247｜ 感冒还没好就又得了流感
+conge.livingwithfcs.org,2023-01-01T00:03:27,新爸五年计划 | 286 圣诞快乐
+conge.livingwithfcs.org,2022-04-23T22:59:50,折返点 2216｜护膝护踝并不该随意使用
+conge.livingwithfcs.org,2022-08-30 11:48:48,折返点 2234｜准备在义跑时冲击个人的最好成绩
+conge.livingwithfcs.org,2022-06-24T18:06:53,折返点 2213｜跑步与呼吸
+conge.livingwithfcs.org,2022-07-12 13:23:31,折返点 2227｜力竭
+conge.livingwithfcs.org,2024-03-05 08:07:50,2024 二月读数学，论语，心理学，直觉，小说…11 本
+conge.livingwithfcs.org,2024-04-04 14:56:08,2024 三月读逻辑学，觉醒，小王子…5 本
+conge.livingwithfcs.org,2024-03-25T14:17:09,新爸五年计划 - 352 合唱与冰球
+conge.livingwithfcs.org,2024-01-11T15:00:46,2023读书回顾 165本中选2
+conge.livingwithfcs.org,2024-06-03T16:52:59,折返点 2421 - 2024 隧道马训练第 16 周 终于去成了赛道预览
+conge.livingwithfcs.org,2024-02-02T12:12:26,2024 一月读金融，比特币，心理学，传记，小说…9本
+conge.livingwithfcs.org,2024-03-25T16:50:17,新爸五年计划 - 353 喉咙的启示
+conge.livingwithfcs.org,2024-05-13 08:07:56,折返点 2419 - 2024 隧道马训练第 14 周 本次训练中最快的半马
+conge.livingwithfcs.org,2024-01-16T14:06:44,折返点 2402 - 清华跑者 
+conge.livingwithfcs.org,2024-07-02 13:55:05,新爸五年计划 - 367 露营
+conge.livingwithfcs.org,2024-05-24T13:23:10,2024 四月读艺术史，女性传记，营养学，佛陀和觉醒……15 本
+conge.livingwithfcs.org,2024-05-21 07:03:13,你是光
+conge.livingwithfcs.org,2024-01-28T08:13:23,新爸五年计划 - 345 读诗
+conge.livingwithfcs.org,2024-04-17 09:37:35,新爸五年计划 - 356 抓生蚝
+conge.livingwithfcs.org,2024-03-25T13:36:12,折返点 2412 - 2024 隧道马训练第 7 周 进入未知
+conge.livingwithfcs.org,2024-01-05T11:46:16,2023 十二月读语言学，觉醒，职场，极简，小说…14本
+conge.livingwithfcs.org,2024-06-04T11:29:14,2024 五月读经济危机，心理学，营养学，了凡四训，诗歌，科幻……10 本
+conge.livingwithfcs.org,2024-03-05 13:26:31,新爸五年计划 - 350 动物园
+conge.livingwithfcs.org,2024-06-22 07:52:40,新爸五年计划 - 366 听鸟
+conge.livingwithfcs.org,2024-03-03 22:27:06,折返点 2409 - 2024 隧道马训练第 4 周 足底筋膜痛了，又好了
+conge.livingwithfcs.org,2024-02-28 11:33:15,新爸五年计划 - 349 元宵
+conge.livingwithfcs.org,2024-05-06T23:21:16,折返点 2418 - 2024 隧道马训练第 13 周 病了
+conge.livingwithfcs.org,2024-01-09 10:23:34,折返点 2401 - 触地时间 
+conge.livingwithfcs.org,2024-06-03T16:52:59,折返点 2422 - 2024 隧道马训练第 17 周 减量
+conge.livingwithfcs.org,2024-05-11 17:32:12,新爸五年计划 - 360 自行车和苹果派
+conge.livingwithfcs.org,2024-05-01T12:00:15,折返点 2417 - 2024 隧道马训练第 12 周 心想事成
+conge.livingwithfcs.org,2024-01-09 10:52:49,新爸五年计划 - 342 迟到问题的解决方案
+conge.livingwithfcs.org,2024-05-28 21:44:12,新爸五年计划 - 362 Girls On the Run 5K
+conge.livingwithfcs.org,2024-04-01T15:34:07,折返点 2413 - 2024 隧道马训练第 8 周 撞墙？
+conge.livingwithfcs.org,2024-04-10 19:36:28,折返点 2414 - 2024 隧道马训练第 9 周 ？
+conge.livingwithfcs.org,2024-01-12T12:22:18,2024，我的读书展望
+conge.livingwithfcs.org,2024-05-11T17:30:31,新爸五年计划 - 358 儿时的玩伴
+conge.livingwithfcs.org,2024-03-08 17:37:01,新爸五年计划 - 351 学琴 8 星期了
+conge.livingwithfcs.org,2024-01-19 12:56:09,新爸五年计划 - 344 学琴
+conge.livingwithfcs.org,2024-06-13T23:33:29,折返点 2423 - 2024 隧道马训练第 18 周 比赛周
+conge.livingwithfcs.org,2024-02-12 10:33:17,折返点 2406 - 2024隧道马训练第一周复盘
+conge.livingwithfcs.org,2024-04-11T22:38:24,新爸五年计划 - 355 巧合
+conge.livingwithfcs.org,2024-01-16 13:45:54,新爸五年计划 - 343 太空针塔
+conge.livingwithfcs.org,2024-02-06T23:11:47,新爸五年计划 - 346 逛商场
+conge.livingwithfcs.org,2024-01-29 11:05:04,折返点 2404 - Seattle United Runners 跑团
+conge.livingwithfcs.org,2024-04-01 10:59:36,新爸五年计划 - 354 湿疹
+conge.livingwithfcs.org,2024-03-11 23:21:44,折返点 2410 - 2024 隧道马训练第 5 周 野心膨胀到了要破三
+conge.livingwithfcs.org,2024-05-07 16:01:35,新爸五年计划 - 359 两场生日会
+conge.livingwithfcs.org,2024-02-20T22:12:42,折返点 2407 - 2024 隧道马训练第 2 周
+conge.livingwithfcs.org,2024-04-30T23:23:31,折返点 2416 - 2024 隧道马训练第 11 周 强度到顶
+conge.livingwithfcs.org,2024-06-13T11:43:29,2024隧道马训练笔记汇总
+conge.livingwithfcs.org,2024-02-19 22:27:10,新爸五年计划 - 348 感谢信会扔掉 但感谢不会丢
+conge.livingwithfcs.org,2024-02-27T23:37:39,折返点 2408 - 2024 隧道马训练第 3 周
+conge.livingwithfcs.org,2024-04-16 11:45:40,折返点 2415 - 2024 隧道马训练第 10 周 耕耘
+conge.livingwithfcs.org,2024-02-13 08:27:10,新爸五年计划 - 347 我家还保留了些什么春节传统
+conge.livingwithfcs.org,2024-06-28 20:48:08,折返点 2425 - 月子
+conge.livingwithfcs.org,2024-01-23T11:03:14,折返点 2403 - 清华跑团
+conge.livingwithfcs.org,2024-02-05T13:11:04,折返点 2405 - 准备人生第一场马拉松
+conge.livingwithfcs.org,2024-04-23 16:01:35,新爸五年计划 - 357 不在场
+conge.livingwithfcs.org,2024-05-24T13:21:05,新爸五年计划 - 361 两个生日
+conge.livingwithfcs.org,2024-06-18T17:24:38,折返点 2424 - 首马破三记
+conge.livingwithfcs.org,2024-05-23T21:43:22,折返点 2420 - 2024 隧道马训练第 15 周 去不成的赛道预览
+conge.livingwithfcs.org,2024-07-02T14:17:14,折返点 2426 - 月子第三周
+conge.livingwithfcs.org,2024-03-20 14:35:18,折返点 2411 - 2024 隧道马训练第 6 周 野心膨胀就要付出代价
+conge.livingwithfcs.org,2023-07-28T10:26:47,《从“天下”国家到民族国家》读后感
+conge.livingwithfcs.org,2023-03-04 14:19:17,新爸五年计划 | 296 妈妈上班第一天：写信与巴西柔术
+conge.livingwithfcs.org,2023-05-15 16:37:51,折返点 2319 | 复跑第八周
+conge.livingwithfcs.org,2023-07-05T00:31:00,2023 六月读宗教史，基督教，佛道，觉醒，跑姿……14本
+conge.livingwithfcs.org,2023-07-28 05:08:13,《华夏边缘》读后感
+conge.livingwithfcs.org,2023-10-16T17:42:13,新爸五年计划 - 329 马不停蹄
+conge.livingwithfcs.org,2023-07-10T14:27:16,折返点 2327 | 田径场与沙滩跑
+conge.livingwithfcs.org,2023-04-03 12:18:18,折返点 2313 | 复跑第二周
+conge.livingwithfcs.org,2023-04-25 10:55:32,新爸五年计划 | 303 烹饪课
+conge.livingwithfcs.org,2023-01-08 14:34:10,折返点 2301 ｜ 跑步与皮肤
+conge.livingwithfcs.org,2023-12-29T10:18:31,折返点 2351 - 坚持每天跑步的我，是怎么想的
+conge.livingwithfcs.org,2023-05-28 06:48:26,新爸五年计划 | 308 家庭的觉醒
+conge.livingwithfcs.org,2023-03-01 17:05:20,月读 2023二月
+conge.livingwithfcs.org,2023-09-28T08:45:19,折返点 2338 - 义跑总结
+conge.livingwithfcs.org,2023-05-04 12:28:53,2023四月读费曼，纳瓦尔，荣格，沟通，生死……
+conge.livingwithfcs.org,2023-02-01T14:40:26,月读 202301
+conge.livingwithfcs.org,2023-11-07 13:09:55,折返点 2344 - 72 小时轻断食二周后记
+conge.livingwithfcs.org,2023-12-13 12:52:30,2023 十一月读伦理，觉醒，心理，物理，地理，小说…20 本
+conge.livingwithfcs.org,2023-06-22T12:53:11,折返点 2323 | 终于又可以跑到半马的距离了
+conge.livingwithfcs.org,2023-01-03 14:52:09,2022，我读过的书
+conge.livingwithfcs.org,2023-07-27T10:18:58,新爸五年计划 | 318 儿子得中耳炎的一周女儿得了三个第一
+conge.livingwithfcs.org,2023-03-22T14:58:42,什么是开悟？——AI模拟苏格拉底对话
+conge.livingwithfcs.org,2023-02-04 22:01:33,折返点 2305 | 疗伤第一周
+conge.livingwithfcs.org,2023-04-27T16:34:08,觉醒 01 契机 觉悟之轮
+conge.livingwithfcs.org,2023-01-10 07:03:00,新爸五年计划 | 288 参观 Burke 博物馆 看解剖
+conge.livingwithfcs.org,2023-05-15T11:05:44,折返点 2318 | 复跑第七周
+conge.livingwithfcs.org,2023-03-12T08:03:42,折返点 2309 | 疗伤第五周
+conge.livingwithfcs.org,2023-07-26T11:52:54,折返点 2328 | 前同事也跑了半年多
+conge.livingwithfcs.org,2023-01-17 16:19:00,新爸五年计划 | 289 黄金生日
+conge.livingwithfcs.org,2023-05-21T06:38:08,三谢Luka
+conge.livingwithfcs.org,2023-09-05 13:12:01,新爸五年计划 - 324 要开学了
+conge.livingwithfcs.org,2023-03-14T08:49:31,折返点 2310 | 疗伤第六周
+conge.livingwithfcs.org,2023-12-20 12:14:10,新爸五年计划 - 339 动物园的灯展和演出
+conge.livingwithfcs.org,2023-07-03T21:01:02,折返点 2326 | 跑步健康
+conge.livingwithfcs.org,2023-04-10T18:12:11,新爸五年计划 | 301 复活节
+conge.livingwithfcs.org,2023-01-23 22:12:10,折返点 2303 ｜每天跑步会影响“姨妈”吗？ 
+conge.livingwithfcs.org,2023-11-01T13:16:10,新爸五年计划 - 332 扫烟囱
+conge.livingwithfcs.org,2023-03-20T00:08:15,新爸五年计划 | 298 怀孕游戏
+conge.livingwithfcs.org,2023-06-06 20:20:33,折返点 2322 | 夜跑与睡眠
+conge.livingwithfcs.org,2023-08-28 18:02:01,新爸五年计划 - 323 在后院儿搭帐篷
+conge.livingwithfcs.org,2023-12-04 12:40:38,折返点 2348 - 女儿的五公里
+conge.livingwithfcs.org,2023-11-21 12:47:45,折返点 2346 - 路跑遇到红绿灯
+conge.livingwithfcs.org,2023-10-04T10:46:21,新爸五年计划 - 328 中秋
+conge.livingwithfcs.org,2023-01-15 21:25:10,折返点 2302 ｜ 肌肉紧张怎么破
+conge.livingwithfcs.org,2023-04-17 11:56:44,新爸五年计划 | 302 没有出行的春假
+conge.livingwithfcs.org,2024-02-27T05:14:00,折返点 2350 - 风、喘、气、息
+conge.livingwithfcs.org,2023-12-13 11:31:39,新爸五年计划 - 338 爷爷奶奶来了
+conge.livingwithfcs.org,2023-10-24 12:14:03,新爸五年计划 - 331 演出 电影 闺蜜
+conge.livingwithfcs.org,2023-05-23 17:04:26,新爸五年计划 | 307 生日
+conge.livingwithfcs.org,2023-04-06T10:29:33,新爸五年计划 | 299 女儿说不想去学校之后
+conge.livingwithfcs.org,2023-06-15T18:13:49,《基督教史》读后感
+conge.livingwithfcs.org,2023-11-13T19:20:33,新爸五年计划 - 333 万圣节与糖
+conge.livingwithfcs.org,2023-06-12 23:12:34,新爸五年计划 | 310 因为我是你的儿子呀
+conge.livingwithfcs.org,2023-08-24 10:21:24,折返点 2333 | 纽约印象 
+conge.livingwithfcs.org,2023-08-14 12:23:38,折返点 2332 | FCS 基金会 线上五公里义跑 
+conge.livingwithfcs.org,2023-11-02T10:46:06,2023 十月读建筑，觉醒，断食，经济，小说……13 本
+conge.livingwithfcs.org,2023-11-02T09:06:51,折返点 2343 - 72 小时轻断食一周后记
+conge.livingwithfcs.org,2023-04-16 23:50:53,折返点 2315 | 复跑第四周
+conge.livingwithfcs.org,2023-08-02T10:04:59,折返点 2330 | 小心受伤
+conge.livingwithfcs.org,2023-08-20 17:36:50,新爸五年计划 - 322 巴西柔术夏令营
+conge.livingwithfcs.org,2023-05-31T11:43:30,2023五月读王小波，人际关系，觉醒，育儿……16本
+conge.livingwithfcs.org,2023-04-09 08:45:18,折返点 2314 | 复跑第三周
+conge.livingwithfcs.org,2023-02-12T23:29:01,新爸五年计划 | 293 快乐周六的早茶 舞狮 公园
+conge.livingwithfcs.org,2023-04-24 23:50:53,折返点 2316 | 复跑第五周
+conge.livingwithfcs.org,2023-05-05 11:54:44,很认真的在考虑不再使用豆瓣这件事
+conge.livingwithfcs.org,2023-03-30 12:43:43,折返点 2312 | 复跑第一周
+conge.livingwithfcs.org,2023-12-01T16:48:19,新爸五年计划 - 336 低调感恩节
+conge.livingwithfcs.org,2023-11-20T20:34:17,新爸五年计划 - 335 家长会
+conge.livingwithfcs.org,2023-06-05 16:59:36,新爸五年计划 | 309 女儿开始上公校
+conge.livingwithfcs.org,2023-10-04T12:03:18,2023 九月读地理学，我是谁，文学，心经……13 本
+conge.livingwithfcs.org,2023-01-30T15:05:54,"折返点 2304 | 接下来的一个月,疗伤"
+conge.livingwithfcs.org,2023-11-13 12:54:07,折返点 2345 - 夜跑与睡眠
+conge.livingwithfcs.org,2023-10-22 18:28:39,折返点 2342 - 试试 72 小时轻断食
+conge.livingwithfcs.org,2023-05-01 18:10:15,折返点 2317 | 复跑第六周
+conge.livingwithfcs.org,2023-05-02 11:55:32,新爸五年计划 | 304 阳光灿烂的周末
+conge.livingwithfcs.org,2023-08-09T09:39:30,新爸五年计划 - 320 Kalaloch Beach campground 露营
+conge.livingwithfcs.org,2023-05-23 16:42:29,折返点 2320 | 复跑第九周
+conge.livingwithfcs.org,2023-02-27T07:52:32,折返点 2308 | 疗伤第四周
+conge.livingwithfcs.org,2023-03-13 14:18:03,新爸五年计划 | 297 女儿打地铺
+conge.livingwithfcs.org,2023-11-14 10:04:06,新爸五年计划 - 334 乌鸦续篇
+conge.livingwithfcs.org,2023-05-30T17:17:22,折返点 2321 | 疗伤复跑十七周 复盘总结
+conge.livingwithfcs.org,2023-09-14 12:11:08,折返点 2336 - 伤口处理
+conge.livingwithfcs.org,2023-08-06T20:14:59,折返点 2331 | 赤脚散步
+conge.livingwithfcs.org,2023-06-22 16:06:34,新爸五年计划 | 311 毕业
+conge.livingwithfcs.org,2023-02-24 13:32:11,新爸五年计划 | 295 开窍
+conge.livingwithfcs.org,2023-01-14T10:17:05,《传统十论》读后感
+conge.livingwithfcs.org,2024-02-27T05:14:00,折返点 2349 - 闭嘴 用鼻子呼吸
+conge.livingwithfcs.org,2023-03-21 12:43:43,折返点 2311 | 疗伤第七周
+conge.livingwithfcs.org,2023-09-20 22:03:41,新爸五年计划 - 326 女儿生日
+conge.livingwithfcs.org,2023-07-03T21:14:13,新爸五年计划 | 313 养育男孩
+conge.livingwithfcs.org,2023-10-09T18:01:52,折返点 2340 - Move-a-Thon
+conge.livingwithfcs.org,2023-12-04T17:10:40,新爸五年计划 - 337 儿子生病一星期
+conge.livingwithfcs.org,2023-11-02T17:53:14,一日十克脂肪，看我如何“苦行”? 带你体验 FCS 患者的日常生活
+conge.livingwithfcs.org,2023-09-05T10:47:55,折返点 2334 - 烟雾的一周 
+conge.livingwithfcs.org,2023-09-07T11:20:51,2023八月读党史，心理，小说，荣格，高行健，东野圭吾……13 本
+conge.livingwithfcs.org,2023-08-18T16:54:17,新爸五年计划 - 321 女儿的游泳夏令营总结
+conge.livingwithfcs.org,2023-04-04T11:54:39,2023三月读庄子 经济学 觉醒 斯多葛主义
+conge.livingwithfcs.org,2023-10-16 11:45:56,折返点 2341 - 力量从哪里来
+conge.livingwithfcs.org,2023-08-09T09:39:30,2023 七月读民族学，政治，奥斯维辛，清醒梦，写作……14 本
+conge.livingwithfcs.org,2023-08-03T14:48:31,新爸五年计划 | 319 孩子暑假参加的夏令营们
+conge.livingwithfcs.org,2023-01-21 07:40:44,新爸五年计划 | 290 辞旧岁
+conge.livingwithfcs.org,2023-02-11 07:48:59,折返点 2306 | 疗伤第二周
+conge.livingwithfcs.org,2023-12-31 11:12:10,新爸五年计划 - 341 bye 2023 育儿回顾
+conge.livingwithfcs.org,2023-12-22 11:12:10,新爸五年计划 - 340 我们如何高效给孩子选择合适其成长阶段的影视材料
+conge.livingwithfcs.org,2023-04-18 13:07:25,觉醒 02 觉悟时的三种感觉
+conge.livingwithfcs.org,2023-09-05 10:49:31,折返点 2335 - 修复跑步页面的故障
+conge.livingwithfcs.org,2023-05-15T09:33:36,新爸五年计划 | 306 禁书
+conge.livingwithfcs.org,2023-05-14T07:31:18,新爸五年计划 | 305 还是别打孩子吧
+conge.livingwithfcs.org,2023-04-10T15:36:06,新爸五年计划 | 300 Pacific Beach State Part 和 Lake Quinault Lodge
+conge.livingwithfcs.org,2023-07-26T13:53:19,新爸五年计划 | 317 游泳
+conge.livingwithfcs.org,2023-09-28 08:48:43,新爸五年计划 - 327 Wall-E
+conge.livingwithfcs.org,2023-02-07 21:49:44,新爸五年计划 | 292 儿子正在起变化
+conge.livingwithfcs.org,2023-11-02T08:22:10,72 小时勘破肉体：清阳的断食自我实验日志
+conge.livingwithfcs.org,2023-07-14T05:16:47,新爸五年计划 | 315 Teanaway campground露营
+conge.livingwithfcs.org,2023-09-08 16:57:39,新爸五年计划 - 325 开学的忧虑与期待
+conge.livingwithfcs.org,2023-02-18 09:18:11,新爸五年计划 | 294 儿子在户外学校遇到的问题
+conge.livingwithfcs.org,2023-07-26 11:47:41,折返点 2329 | 定心丸
+conge.livingwithfcs.org,2024-01-09T10:16:46,折返点 2352 - 2023年 跑步总结
+conge.livingwithfcs.org,2023-02-19T17:24:42,折返点 2307 | 疗伤第三周
+conge.livingwithfcs.org,2023-10-18T09:27:49,新爸五年计划 - 330 看戏 苹果 南瓜灯 
+conge.livingwithfcs.org,2023-10-03 12:23:49,折返点 2339 - 珍惜阳光 珍惜双脚
+conge.livingwithfcs.org,2023-06-29T10:26:56,新爸五年计划 | 312 乌鸦
+conge.livingwithfcs.org,2023-06-27 09:59:53,折返点 2325 | 你可以跑得更快
+conge.livingwithfcs.org,2023-01-27 07:40:44,新爸五年计划 | 291 过新年
+conge.livingwithfcs.org,2023-11-27 15:20:45,折返点 2347 - 赤脚与跑鞋
+conge.livingwithfcs.org,2023-06-14T12:49:54,《印度佛教史》读后感
+conge.livingwithfcs.org,2023-06-22 12:50:53,折返点 2324 | 生物节律与低潮期
+conge.livingwithfcs.org,2023-09-19 18:12:58,折返点 2337 - 比赛时间到啦
+conge.livingwithfcs.org,2020-09-19T11:28:36,Reinforcement Learning 第十一周课程笔记
+conge.livingwithfcs.org,2020-09-19T11:28:36,Intro to Health Informatics 第一周课程笔记
+conge.livingwithfcs.org,2015-07-11 07:10:10,011-100-《小团圆》-p1-18
+conge.livingwithfcs.org,2020-09-19T11:28:36,浅谈学术期刊为什么这么贵
+conge.livingwithfcs.org,2020-09-19T11:28:36,Reinforcement Learning 第十二周课程笔记
+conge.livingwithfcs.org,2020-09-19T11:28:36,咖啡里加糖前，请先读读《上瘾五百年》
+conge.livingwithfcs.org,2020-09-19T11:28:36,2015的学习、阅读与书写
+conge.livingwithfcs.org,2020-11-30T15:30:35,052-100《The-World-Until-Yesterday》p410-466
+conge.livingwithfcs.org,2015-07-02 07:02:07,002-100-《Origins》-第二月--p10-p40
+conge.livingwithfcs.org,2015-07-06 07:06:06,006-100-《Origins》-第五月--p109-140
+conge.livingwithfcs.org,2015-04-10 04:10:10,推荐书《The-Anatomy-of-Peace》
+conge.livingwithfcs.org,2015-08-31 08:30:30,062-100 《Contemporary Health Informatics》第二章
+conge.livingwithfcs.org,2015-04-04 04:04:04,生小孩的好处
+conge.livingwithfcs.org,2015-07-26 07:26:26,026-100《Evolution-for-Everyone》p1-10
+conge.livingwithfcs.org,2015-09-02 09:02:02,064-100 《Contemporary-Health-Informatics》第四章
+conge.livingwithfcs.org,2015-08-06 08:06:06,关于癌症与死亡的小讨论
+conge.livingwithfcs.org,2015-07-20 07:20:20,020-100《The-Philosophical-Baby》p74-105
+conge.livingwithfcs.org,2015-11-29 11:29:29,Solving Five-step Random-Walk problem with TD(λ) | Fall-2015 CS8803 RL
+conge.livingwithfcs.org,2015-08-22 08:22:22,053-100《东藏记》p1-49
+conge.livingwithfcs.org,2020-09-19T11:28:36,几个微信订阅号－－育儿和心理相关的
+conge.livingwithfcs.org,2020-11-30T15:30:35,047-100《The-World-Until-Yesterday》p276-319
+conge.livingwithfcs.org,2020-09-19T11:28:36,“性欲与淫欲”和“自慰与自渎”
+conge.livingwithfcs.org,2015-08-26 08:26:26,057-100《东藏记》p189-226
+conge.livingwithfcs.org,2015-03-01 03:01:01,我们有个共同的敌人叫雾霾
+conge.livingwithfcs.org,2015-07-10 07:10:10,010-100-《Origins》-第九月--p225-240
+conge.livingwithfcs.org,2015-07-12 07:12:12,012-100-《小团圆》-p19-40
+conge.livingwithfcs.org,2020-11-30T15:30:35,063-100 《Contemporary-Health-Informatics》第三章
+conge.livingwithfcs.org,2015-06-18 06:18:18,给人贩子法律允许内的最高刑罚
+conge.livingwithfcs.org,2015-07-13 07:13:13,013-100-《小团圆》-p40-114
+conge.livingwithfcs.org,2015-08-06 08:06:06,037-100《Evolution-for-Everyone》p305-350
+conge.livingwithfcs.org,2020-09-19T11:28:36,脑残者说之三：点22口径子弹的威力
+conge.livingwithfcs.org,2015-01-17 23:58:40,睡的像婴儿
+conge.livingwithfcs.org,2020-09-19T11:28:36,怎么把小宝宝培养成吃货之－－辅食辅食
+conge.livingwithfcs.org,2015-08-08 08:08:08,039-100《The-World-Until-Yesterday》p35-76
+conge.livingwithfcs.org,2020-11-30T15:30:35,051-100《The-World-Until-Yesterday》p395-409
+conge.livingwithfcs.org,2015-08-24 08:24:24,055-100《东藏记》p97-142
+conge.livingwithfcs.org,2020-09-19T11:28:36,Intro to Health Informatics 第七周课程笔记
+conge.livingwithfcs.org,2020-09-19T11:28:36,RL 阅读材料笔记 Littman (1996) Chapters 1-2
+conge.livingwithfcs.org,2020-09-19T11:28:36,#100天阅读训练营# 第六周阅读总结
+conge.livingwithfcs.org,2015-07-04 07:04:04,004-100-《Origins》-第三月--p59-p74
+conge.livingwithfcs.org,2015-09-10 09:10:10,072-100 《Mother-Daughter-Wisdom》
+conge.livingwithfcs.org,2015-07-29 07:30:30,029-100《Evolution-for-Everyone》p74-81
+conge.livingwithfcs.org,2020-09-19T11:28:36,好饭不怕晚－－我的除夕
+conge.livingwithfcs.org,2020-09-19T11:28:36,Reinforcement Learning 第十四周课程笔记
+conge.livingwithfcs.org,2020-09-19T11:28:36,死線的神奇功能——讀《拖拉一点也无妨》
+conge.livingwithfcs.org,2015-07-17 07:17:17,017-100《The-Philosophical-Baby》p19-25
+conge.livingwithfcs.org,2020-09-19T11:28:36,8803 RL Fall 2015 期末复习笔记精简版
+conge.livingwithfcs.org,2020-09-19T11:28:36,奶爸的一天
+conge.livingwithfcs.org,2015-07-16 07:16:16,016-100《The-Philosophical-Baby》p3-18-导言
+conge.livingwithfcs.org,2020-09-19T11:28:36,你的新年计划失败了吗？
+conge.livingwithfcs.org,2020-09-19T11:28:36,散步
+conge.livingwithfcs.org,2015-01-05 20:44:14,PRN: 为神经科学相关研究而生的预印本服务
+conge.livingwithfcs.org,2015-03-12 03:12:12,烟熏火燎的那个味道
+conge.livingwithfcs.org,2015-07-18 07:07:08,018-100《The-Philosophical-Baby》p26-46
+conge.livingwithfcs.org,2020-11-30T15:30:35,046-100《The-World-Until-Yesterday》p241-275
+conge.livingwithfcs.org,2020-11-30T15:30:35,040-100《The-World-Until-Yesterday》p79-118
+conge.livingwithfcs.org,2015-07-28 07:28:28,028-100《Evolution-for-Everyone》p36-65
+conge.livingwithfcs.org,2020-09-19T11:28:36,要孩子的先决条件
+conge.livingwithfcs.org,2020-09-19T11:28:36,Reinforcement Learning 第二周课程笔记
+conge.livingwithfcs.org,2020-09-19T11:28:36,小孩小孩你别馋，过了腊八就过年－－旧文重发
+conge.livingwithfcs.org,2015-08-25 08:25:25,056-100《东藏记》p143-188
+conge.livingwithfcs.org,2015-07-31 07:31:31,031-100《Evolution-for-Everyone》p125-152
+conge.livingwithfcs.org,2020-09-19T11:28:36,Reinforcement Learning 第五周课程笔记
+conge.livingwithfcs.org,2015-08-03 08:03:03,034-100《Evolution-for-Everyone》p233-267
+conge.livingwithfcs.org,2015-07-08 07:08:08,008-100-《Origins》-第七月--p168-197
+conge.livingwithfcs.org,2015-04-23 04:23:23,奶爸说喂奶：母乳营养高，胸喂好处多
+conge.livingwithfcs.org,2020-11-30T15:30:35,043-100《The-World-Until-Yesterday》p173-209
+conge.livingwithfcs.org,2020-09-19T11:28:36,#100天阅读训练营# 第七周阅读总结
+conge.livingwithfcs.org,2015-07-24 07:24:00,024-100《The-Philosophical-Baby》p202-233
+conge.livingwithfcs.org,2020-09-19T11:28:36,Intro to Health Informatics 第三周笔记
+conge.livingwithfcs.org,2020-09-19T11:28:36,Intro to Health Informatics 第六周笔记
+conge.livingwithfcs.org,2015-08-05 08:05:05,036-100《Evolution-for-Everyone》p282-304
+conge.livingwithfcs.org,2020-09-19T11:28:36,脑残者说之一：卓绝的跑者（上）
+conge.livingwithfcs.org,2020-09-19T11:28:36,雪
+conge.livingwithfcs.org,2015-08-30 08:30:30,061-100 《Contemporary Health Informatics》第一章
+conge.livingwithfcs.org,2015-07-15 07:15:15,015-100《小团圆》p215-283
+conge.livingwithfcs.org,2020-09-19T11:28:36,Intro to Health Informatics 第九周课程笔记
+conge.livingwithfcs.org,2020-09-19T11:28:36,Intro to Health Informatics 第十一周课程笔记
+conge.livingwithfcs.org,2015-08-28 08:28:28,059-100 《东藏记》p268-307
+conge.livingwithfcs.org,2015-07-14 07:14:14,014-100《小团圆》p115-214
+conge.livingwithfcs.org,2020-09-19T11:28:36,黑猫白猫都抓鼠，电书纸书一样读
+conge.livingwithfcs.org,2020-11-30T15:30:35,041-100《The-World-Until-Yesterday》p119-128
+conge.livingwithfcs.org,2020-09-19T11:28:36,Reinforcement Learning 第十周课程笔记
+conge.livingwithfcs.org,2020-09-19T11:28:36,当爹容易，做奶爸难
+conge.livingwithfcs.org,2020-09-19T11:28:36,Reinforcement Learning 第八周课程笔记
+conge.livingwithfcs.org,2015-07-23 07:23:23,023-100《The-Philosophical-Baby》p164-201
+conge.livingwithfcs.org,2020-09-19T11:28:36,#100天阅读计划# 书目推介
+conge.livingwithfcs.org,2015-09-02 08:00:00,#100天阅读训练营#-第九周阅读总结
+conge.livingwithfcs.org,2020-09-19T11:28:36,#100天阅读训练营# 第五周阅读总结
+conge.livingwithfcs.org,2020-11-30T15:30:35,#100天阅读训练营# 2015年八月总结
+conge.livingwithfcs.org,2020-09-19T11:28:36,Reinforcement Learning 第十三周课程笔记
+conge.livingwithfcs.org,2015-08-02 08:02:02,033-100《Evolution-for-Everyone》p182-232
+conge.livingwithfcs.org,2015-07-07 07:07:07,007-100-《Origins》-第六月-p141-167
+conge.livingwithfcs.org,2020-09-19T11:28:36,Intro to Health Informatics 第二周笔记
+conge.livingwithfcs.org,2020-09-19T11:28:36,为什么美国儿医协会不推荐母婴同床？
+conge.livingwithfcs.org,2020-09-19T11:28:36,Reinforcement Learning 第四周课程笔记
+conge.livingwithfcs.org,2015-08-01 08:01:01,032-100《Evolution-for-Everyone》p153-181
+conge.livingwithfcs.org,2020-11-30T15:30:35,045-100《The-World-Until-Yesterday》p210-240
+conge.livingwithfcs.org,2020-09-19T11:28:36,Reinforcement Learning 第六周课程笔记
+conge.livingwithfcs.org,2020-09-19T11:28:36,有位程序员说他不想活了
+conge.livingwithfcs.org,2015-08-28 08:28:28,058-100 《东藏记》p227-267
+conge.livingwithfcs.org,2020-09-19T11:28:36,Intro to Health Informatics 第八周课程笔记
+conge.livingwithfcs.org,2020-09-19T11:28:36,脑残者说之二：卓绝的跑者（下）
+conge.livingwithfcs.org,2020-09-19T11:28:36,Intro to Health Informatics 第十周课程笔记
+conge.livingwithfcs.org,2020-09-19T11:28:36,Intro to Health Informatics 第四周笔记
+conge.livingwithfcs.org,2020-09-19T11:28:36,RL 阅读材料笔记 Sutton (1988)
+conge.livingwithfcs.org,2020-09-19T11:28:36,#100天阅读训练营# 第二周阅读总结
+conge.livingwithfcs.org,2020-09-19T11:28:36,#100天阅读训练营# 第一周阅读总结
+conge.livingwithfcs.org,2020-09-19T11:28:36,#100天阅读训练营# 第十周阅读总结
+conge.livingwithfcs.org,2015-08-04 08:04:04,035-100《Evolution-for-Everyone》p268-282
+conge.livingwithfcs.org,2020-09-19T11:28:36,Reinforcement Learning 第三周课程笔记
+conge.livingwithfcs.org,2020-09-19T11:28:36,我第一次听Kurt的歌的时候
+conge.livingwithfcs.org,2020-09-19T11:28:36,能不能一边玩儿手机一边喂奶？
+conge.livingwithfcs.org,2020-11-30T15:30:35,048-100《The-World-Until-Yesterday》p323-344
+conge.livingwithfcs.org,2020-09-19T11:28:36,为什么要生小孩
+conge.livingwithfcs.org,2020-09-19T11:28:36,获取学术论文的方法
+conge.livingwithfcs.org,2020-09-19T11:28:36,Reinforcement Learning 第一周课程笔记
+conge.livingwithfcs.org,2020-11-30T15:30:35,050-100《The-World-Until-Yesterday》p369-394
+conge.livingwithfcs.org,2020-11-30T15:30:35,049-100《The-World-Until-Yesterday》p345-368
+conge.livingwithfcs.org,2015-08-23 08:23:23,054-100《东藏记》p50-96
+conge.livingwithfcs.org,2015-08-03 08:03:03,034-100《Evolution-for-Everyone》p233-267-1
+conge.livingwithfcs.org,2015-07-30 07:30:03,030-100《Evolution-for-Everyone》p82-124
+conge.livingwithfcs.org,2015-07-09 07:09:09,009-100-《Origins》-第八月-p198-224
+conge.livingwithfcs.org,2015-07-05 07:07:05,005-100-《Origins》-第四月--p75-108
+conge.livingwithfcs.org,2020-09-19T11:28:36,奶爸基本技能：对抗婴儿湿疹方二则
+conge.livingwithfcs.org,2020-09-19T11:28:36,#100天阅读训练营# 第四周阅读总结
+conge.livingwithfcs.org,2020-09-19T11:28:36,Reinforcement Learning 第七周课程笔记
+conge.livingwithfcs.org,2015-07-22 07:22:22,022-100《The-Philosophical-Baby》p134-163
+conge.livingwithfcs.org,2020-09-22T23:47:00,009-100-《Origins》-第八月--p198-224
+conge.livingwithfcs.org,2020-11-30T15:30:35,042-100《The-World-Until-Yesterday》p129-170
+conge.livingwithfcs.org,2020-09-19T11:28:36,Reinforcement Learning 第九周课程笔记
+conge.livingwithfcs.org,2015-07-21 07:21:21,021-100《The-Philosophical-Baby》p106-133
+conge.livingwithfcs.org,2020-09-19T11:28:36,性与色情与脑（四）：老鼠与同性恋（上）
+conge.livingwithfcs.org,2020-09-19T11:28:36,小内存手机LG F6利用外置SD卡解决内存短板
+conge.livingwithfcs.org,2020-09-19T11:28:36,态度，情绪与行为的三角关系
+conge.livingwithfcs.org,2015-07-03 07:03:03,003-100-《Origins》-第三月--p41-p58
+conge.livingwithfcs.org,2020-09-19T11:28:36,Assignment 6 Use Case Model
+conge.livingwithfcs.org,2020-09-19T11:28:36,文章如果只是写给自己看的，就不要在网上发布
+conge.livingwithfcs.org,2015-08-07 08:07:07,038-100《The-World-Until-Yesterday》p1-33
+conge.livingwithfcs.org,2015-07-01 07:07:07,001-100-《Origins》-前言及第一月
+conge.livingwithfcs.org,2020-09-19T11:28:36,2015秋季学期笔记 8803 RL and 6440 HIT
+conge.livingwithfcs.org,2020-09-19T11:28:36,天生牛奶血
+conge.livingwithfcs.org,2020-09-19T11:28:36,Intro to Health Informatics 第五周笔记
+conge.livingwithfcs.org,2015-07-27 07:27:27,027-100《Evolution-for-Everyone》p11-35
+conge.livingwithfcs.org,2015-08-29 08:29:29,060-100 《东藏记》p308-357
+conge.livingwithfcs.org,2020-11-30T15:55:29,#100天阅读训练营# 第三周阅读总结
+conge.livingwithfcs.org,2020-09-19T11:28:36,#100天阅读训练营# 第八周阅读总结
+conge.livingwithfcs.org,2015-07-25 07:25:25,025-100《The-Philosophical-Baby》p234-247
+conge.livingwithfcs.org,2015-07-19 07:10:19,019-100《The-Philosophical-Baby》p47-73
+conge.livingwithfcs.org,2015-02-23 02:23:23,性与色情与脑（五）：老鼠与同性恋（下）
+conge.livingwithfcs.org,2020-09-19T11:28:36,2014年最后一天
+conge.livingwithfcs.org,2012-09-23T15:16:00.000-08:00,[习惯养成]2012第39周记：Long time no see
+conge.livingwithfcs.org,2012-01-14T07:53:00.001-09:00,[习惯养成]周总结 2012/01/08～01/14
+conge.livingwithfcs.org,2012-06-09T20:39:00.001-08:00,嘟嘟和小七在床上
+conge.livingwithfcs.org,2012-01-28T09:17:00.000-09:00,[习惯养成]周总结 2012/01/022～01/28
+conge.livingwithfcs.org,2012-11-04T21:57:00.002-09:00,[习惯养成]2012第43周记：飓风Sandy
+conge.livingwithfcs.org,2012-02-25T04:47:00.000-09:00,[习惯养成]周总结 2012/02/19～02/25
+conge.livingwithfcs.org,2012-01-07T07:45:00.000-09:00,[习惯养成]周总结 2012/01/01～01/07
+conge.livingwithfcs.org,2012-06-09T22:19:00.001-08:00,彩虹
+conge.livingwithfcs.org,2012-01-21T14:40:00.000-09:00,[习惯养成]周总结 2012/01/015～01/21
+conge.livingwithfcs.org,2012-11-10T10:00:00.000-09:00,觉醒 之五
+conge.livingwithfcs.org,2012-06-23T09:50:00.003-08:00,2012第25周记：被Josh的总结所启发
+conge.livingwithfcs.org,2008-01-07T10:31:00.000-09:00,[杂志推荐]《自然》
+conge.livingwithfcs.org,2008-06-25T20:34:00.002-08:00,[自说自话]为了迎接mm归来而换的桌面
+conge.livingwithfcs.org,2008-05-31T19:35:00.004-08:00,[心理视频]精神分裂
+conge.livingwithfcs.org,2008-02-20T12:33:00.004-09:00,[心理藏书]一个心理学为主的网盘
+conge.livingwithfcs.org,2008-08-09T10:21:00.003-08:00,[心理文萃]我脑海中的快乐按钮
+conge.livingwithfcs.org,2008-12-22T05:07:00.003-09:00,[自说自话]冬至.雪.生日
+conge.livingwithfcs.org,2008-06-24T16:30:00.006-08:00,[心理藏书]当尼采哭泣 082 附书评
+conge.livingwithfcs.org,2008-10-31T10:40:00.004-08:00,[杂志推荐] 《Nature》，《Science》，《New Scientist》，《Scientific American》等 zz
+conge.livingwithfcs.org,2008-12-17T08:59:00.004-09:00,[心理藏书]Publication Manual of the American Psychological Association 089
+conge.livingwithfcs.org,2008-07-18T05:45:00.007-08:00,[心理藏书]教授为什么没告诉我 083
+conge.livingwithfcs.org,2008-10-03T05:10:00.005-08:00,"[杂志推荐]Science, Nature, New Scientist等 (zz)"
+conge.livingwithfcs.org,2008-12-07T11:33:00.002-09:00,[心理新知]Nature：视觉注意力调控机制在脑中的精确位置(zz)
+conge.livingwithfcs.org,2008-07-27T07:21:00.002-08:00,[杂志推荐]《科学》《科学美国人》《大众机械》等
+conge.livingwithfcs.org,2008-05-17T11:16:00.003-08:00,[自说自话]mm去巴西一周记
+conge.livingwithfcs.org,2008-01-30T04:42:00.000-09:00,[杂志推荐]新近的<科学美国人>，《科学》
+conge.livingwithfcs.org,2008-05-07T19:11:00.003-08:00,[自说自话]五月三日游Tybee
+conge.livingwithfcs.org,2008-02-14T17:02:00.003-09:00,[自说自话]玫瑰 水晶盒 钻石耳钉 - 情人节【3图】
+conge.livingwithfcs.org,2008-05-14T18:26:00.003-08:00,[杂志推荐] 《科学》《大众机械》《自然综述 - 免疫学》zz
+conge.livingwithfcs.org,2008-06-16T17:20:00.004-08:00,[明信片儿]Uptight All Night
+conge.livingwithfcs.org,2008-10-17T04:32:00.006-08:00,[电脑网络]28个免费的网络存储网站
+conge.livingwithfcs.org,2008-06-19T03:28:00.004-08:00,[明信片儿]寄出的第一张
+conge.livingwithfcs.org,2008-08-08T18:12:00.006-08:00,[心理藏书]弗洛伊德：科学时代的解梦师 084
+conge.livingwithfcs.org,2008-12-27T10:20:00.004-09:00,[读书笔记] The outsider by Nathaniel Lachenmeyer
+conge.livingwithfcs.org,2008-12-06T12:43:00.003-09:00,[本站公告]收心阁从即日起更换域名
+conge.livingwithfcs.org,2008-03-18T13:50:00.003-08:00,"[杂志推荐]《科学》,《科学美国人》,《技术评论》,《大众科学》"
+conge.livingwithfcs.org,2008-12-19T04:09:00.003-09:00,[心理视频]TED讲座：ECT
+conge.livingwithfcs.org,2008-06-26T18:17:00.003-08:00,[自说自话]梦-6月25日
+conge.livingwithfcs.org,2008-08-27T12:10:00.006-08:00,[心理藏书]DSM-IV  085
+conge.livingwithfcs.org,2008-12-08T05:49:00.003-09:00,[电脑网络]SPSS16在Vista下的安装问题
+conge.livingwithfcs.org,2008-08-23T11:30:00.002-08:00,[杂志推荐]《科学》《科学美国人》《新科学家》等
+conge.livingwithfcs.org,2008-06-27T08:55:00.002-08:00,[自说自话]梦-6月26日
+conge.livingwithfcs.org,2008-04-30T07:54:00.003-08:00,[杂志推介]<科学美国人><大众科学>等 zz
+conge.livingwithfcs.org,2008-06-15T07:19:00.004-08:00,[自说自话]门前草坪上的蛇
+conge.livingwithfcs.org,2008-03-15T18:49:00.002-08:00,[自说自话]龙卷风
+conge.livingwithfcs.org,2008-07-14T04:32:00.002-08:00,[自说自话]奶奶过世了
+conge.livingwithfcs.org,2008-04-27T12:48:00.005-08:00,[心理藏书]阿德勒《理解人性》 079
+conge.livingwithfcs.org,2008-11-09T07:28:00.006-09:00,[心理藏书]《注意的认知神经科学研究》 086
+conge.livingwithfcs.org,2008-01-27T09:21:00.004-09:00,[心理藏书]Eye Movements: A Window on Mind and Brain 077
+conge.livingwithfcs.org,2008-12-27T09:27:00.004-09:00,[心理文萃]精神分裂病人并不那样可怕
+conge.livingwithfcs.org,2008-06-12T05:36:00.002-08:00,[电脑网络]读书中文网重新开张
+conge.livingwithfcs.org,2008-11-05T12:19:00.006-09:00,[电脑网络]Acroabt Share 简明教程
+conge.livingwithfcs.org,2008-04-02T20:19:00.007-08:00,[心理藏书]荣格自传 078
+conge.livingwithfcs.org,2008-06-14T06:56:00.002-08:00,[影评]Dogville/狗镇
+conge.livingwithfcs.org,2008-12-05T11:38:00.004-09:00,[电脑网络]iFile.it 下载方法
+conge.livingwithfcs.org,2008-03-02T16:58:00.003-09:00,[自说自话]嘟嘟相亲记【4p】
+conge.livingwithfcs.org,2008-05-11T07:47:00.001-08:00,[自说自话]自采的草莓 香甜可口
+conge.livingwithfcs.org,2008-06-01T04:43:00.006-08:00,[心理藏书]Handbook of the Neuroscience of Language  080
+conge.livingwithfcs.org,2008-02-21T19:19:00.002-09:00,[杂志推荐]《科学》、《科学美国人》和《PC Magazine》
+conge.livingwithfcs.org,2008-09-11T05:20:00.002-08:00,[电脑网络]Google Chrome浏览器的主题
+conge.livingwithfcs.org,2008-01-07T08:01:00.000-09:00,[自说自话]实在是喜欢跑步
+conge.livingwithfcs.org,2008-01-20T20:35:00.000-09:00,[杂志推荐] 最近几期的《自然》和《科学》
+conge.livingwithfcs.org,2008-12-03T08:01:00.004-09:00,[心理藏书] 脑功能成像 唐孝威主编 087
+conge.livingwithfcs.org,2008-06-11T17:12:00.004-08:00,[心理藏书]《科学研究的艺术》 081
+conge.livingwithfcs.org,2008-05-21T18:01:00.002-08:00,[心理视频]EEG/fMRI结合的脑成像研究
+conge.livingwithfcs.org,2008-06-03T15:13:00.003-08:00,倾听大自然
+conge.livingwithfcs.org,2008-12-25T04:26:00.004-09:00,"[心理新知]最新一期Neuropod : HM, 脑库和08年重要发现"
+conge.livingwithfcs.org,2008-04-13T13:37:00.000-08:00,[杂志推介]《科学》+《Latest Wave》 zz
+conge.livingwithfcs.org,2008-02-11T10:30:00.000-09:00,[自说自话]我没过春节
+conge.livingwithfcs.org,2008-05-31T03:54:00.003-08:00,[杂志推介]最近几期的《Science》+《Nature》 zz
+conge.livingwithfcs.org,2008-12-06T07:42:00.007-09:00,[心理藏书]晨间日记的奇迹 088
+conge.livingwithfcs.org,2006-03-27T06:43:00.000-09:00,古典音乐电台
+conge.livingwithfcs.org,2006-04-25T08:46:00.001-08:00,[心理文萃]扫描心理学图书
+conge.livingwithfcs.org,2006-11-07T16:41:00.002-09:00,[心理藏书]Academic Writing 031
+conge.livingwithfcs.org,2006-05-17T13:51:00.001-08:00,[讲心堂]北大考研辅导班 03年 普心 第五讲
+conge.livingwithfcs.org,2006-08-02T18:20:00.001-08:00,[讲心堂]：打包下载03辅导班 普心部分
+conge.livingwithfcs.org,2006-04-29T07:45:00.000-08:00,我知道你是哪条狗
+conge.livingwithfcs.org,2006-04-10T05:44:00.001-08:00,[新闻动态]哈佛学生争上“快乐学”课程 期望改善生活质量
+conge.livingwithfcs.org,2006-04-10T06:02:00.001-08:00,[真题]北京大学2001年硕士研究生入学考试试题--心理统计
+conge.livingwithfcs.org,2006-05-28T04:08:00.001-08:00,[心理人物]艾伟
+conge.livingwithfcs.org,2006-08-25T11:46:00.001-08:00,[讲心堂]北大考研辅导班 03年 心统 第一讲
+conge.livingwithfcs.org,2006-05-02T13:31:00.001-08:00,[讲心堂]北大考研辅导班 03年 普心 第一讲
+conge.livingwithfcs.org,2006-04-14T13:12:00.003-08:00,[心理藏书]评价儿童写作--课堂教学的评分手册 007
+conge.livingwithfcs.org,2006-04-18T12:26:00.001-08:00,[考研方向]认知心理学简介
+conge.livingwithfcs.org,2006-06-28T05:03:00.001-08:00,[新闻动态]中科院心理所07年招生目录
+conge.livingwithfcs.org,2006-10-04T14:11:00.002-08:00,"[心理藏书] Youth, Pornography and the Internet 027"
+conge.livingwithfcs.org,2006-12-15T17:28:00.003-09:00,[心理藏书]Syntactic Structures (2nd Edition) 038
+conge.livingwithfcs.org,2006-04-09T07:21:00.002-08:00,[心理人物] 威廉・詹姆斯
+conge.livingwithfcs.org,2006-04-11T07:04:00.001-08:00,[真题]北京大学2000年硕士研究生入学考试试题
+conge.livingwithfcs.org,2006-05-06T07:50:00.001-08:00,一些心理学书籍推荐
+conge.livingwithfcs.org,2006-10-15T15:47:00.001-08:00,[讲心堂]北大考研辅导班 03年 心统 第四讲
+conge.livingwithfcs.org,2006-04-13T09:25:00.003-08:00,[心理藏书]毕淑敏 <拯救乳房> 005
+conge.livingwithfcs.org,2006-01-22T13:50:00.000-09:00,virtual pet bunny
+conge.livingwithfcs.org,2006-04-09T07:35:00.001-08:00,[新闻动态]最新研究显示负面情绪损害上班族的身体健康
+conge.livingwithfcs.org,2006-04-09T07:30:00.001-08:00,[新闻动态]心理学专业考研复试侧重研究能力
+conge.livingwithfcs.org,2006-09-04T09:56:00.001-08:00,[讲心堂]北大考研辅导班 03年 心统 第二讲
+conge.livingwithfcs.org,2006-04-19T13:35:00.001-08:00,[考研方向]心理统计学简介
+conge.livingwithfcs.org,2006-07-13T19:37:00.001-08:00,[讲心堂]北大考研辅导班 03年 实心 第一讲
+conge.livingwithfcs.org,2006-12-22T06:04:00.003-09:00,[心理藏书]《句法结构》(乔姆斯基) 039
+conge.livingwithfcs.org,2006-02-02T18:16:00.000-09:00,Windows Live Messenger Beta邀请 7个
+conge.livingwithfcs.org,2006-04-11T12:03:00.001-08:00,[新闻动态]模仿胎儿动作据信有助改善学业成绩
+conge.livingwithfcs.org,2006-06-10T07:12:00.000-08:00,Google Earth带我回家
+conge.livingwithfcs.org,2006-10-08T18:12:00.002-08:00,[心理藏书] 50 Best Jobs For Your Personality 028
+conge.livingwithfcs.org,2006-06-10T16:45:00.001-08:00,[讲心堂]北大考研辅导班 03年 普心 第七讲
+conge.livingwithfcs.org,2006-08-01T13:34:00.001-08:00,[讲心堂]北大考研辅导班 03年 实心 第四讲
+conge.livingwithfcs.org,2006-09-28T09:43:00.002-08:00,[心理藏书] 心理学与生活 026
+conge.livingwithfcs.org,2006-03-02T08:33:00.000-09:00,去拿微软免费U盘
+conge.livingwithfcs.org,2006-06-06T20:15:00.001-08:00,[心理文萃]心理咨询师“高危”执业 [转载]
+conge.livingwithfcs.org,2006-07-28T06:44:00.001-08:00,[来函照登]如何在短时间内复习好专业课
+conge.livingwithfcs.org,2006-04-12T13:49:00.004-08:00,[心理藏书]用人做实验：社会心理学的启示(006)
+conge.livingwithfcs.org,2006-03-09T10:04:00.000-09:00,昨天的跑步路线
+conge.livingwithfcs.org,2006-11-28T06:45:00.002-09:00,[心理藏书]超越模块性——认知科学的发展观 034
+conge.livingwithfcs.org,2006-08-20T13:07:00.001-08:00,[讲心堂]打包下载03辅导班 实心部分
+conge.livingwithfcs.org,2006-02-24T20:34:00.000-09:00,难道要去搞生物？
+conge.livingwithfcs.org,2006-09-23T11:36:00.002-08:00,[心理藏书] 实验心理学：掌握心理学的研究 025
+conge.livingwithfcs.org,2006-04-13T09:11:00.001-08:00,[新闻动态]儿童比30年前严重退化 更贴近书本而非自然
+conge.livingwithfcs.org,2006-09-18T18:30:00.001-08:00,[讲心堂]北大考研辅导班 03年 心统 第三讲
+conge.livingwithfcs.org,2006-07-23T13:30:00.001-08:00,[讲心堂]北大考研辅导班 03年 实心 第二讲
+conge.livingwithfcs.org,2006-07-24T15:21:00.001-08:00,[来函照登]要不要考心理学的研究生？
+conge.livingwithfcs.org,2006-05-25T11:17:00.002-08:00,[心理藏书]法定心理学手册 第二版 014
+conge.livingwithfcs.org,2006-05-23T07:10:00.001-08:00,[心理文萃]一类错误与小胸MM的被误杀
+conge.livingwithfcs.org,2006-07-06T05:36:00.001-08:00,[讲心堂]北大考研辅导班 03年 普心 第十讲
+conge.livingwithfcs.org,2006-09-05T12:19:00.003-08:00,[心理藏书] Functional MRI: An Introduction to Methods 022
+conge.livingwithfcs.org,2006-05-11T04:33:00.001-08:00,[心理文萃]致跨专业心理考研的朋友一封信
+conge.livingwithfcs.org,2006-04-11T08:08:00.000-08:00,青青成我的师姐了...
+conge.livingwithfcs.org,2006-06-21T07:34:00.001-08:00,[讲心堂]北大考研辅导班 03年 普心 第八讲
+conge.livingwithfcs.org,2006-11-16T11:20:00.002-09:00,[心理藏书]人格科学 033
+conge.livingwithfcs.org,2006-11-09T07:51:00.004-09:00,[心里藏书]Steps to Writing Well with Additional Readings 032
+conge.livingwithfcs.org,2006-08-26T14:15:00.003-08:00,[心理藏书] Freud A to Z 021
+conge.livingwithfcs.org,2006-04-27T19:34:00.001-08:00,[考研真题]北京大学2006年硕士研究生入学考试试题 心理学研究方法
+conge.livingwithfcs.org,2006-10-20T12:39:00.000-08:00,拿到学习驾照
+conge.livingwithfcs.org,2006-04-09T07:29:00.001-08:00,[新闻动态]首届中国医学心理学发展论坛将举办
+conge.livingwithfcs.org,2006-01-26T13:31:00.000-09:00,MSN Spaces 存储空间升级至500MB
+conge.livingwithfcs.org,2006-12-03T08:10:00.001-09:00,[讲心堂]北大考研辅导班 03年 心统 第六讲
+conge.livingwithfcs.org,2006-04-20T09:21:00.001-08:00,[真题]北京大学2004年硕士研究生入学考试试题
+conge.livingwithfcs.org,2006-02-04T17:41:00.000-09:00,55个windows下的精品开源软件
+conge.livingwithfcs.org,2006-09-06T12:48:00.002-08:00,[心里藏书]How to Study: Use Your Personal Learning Style to Help You Succeed When It Counts 023
+conge.livingwithfcs.org,2006-12-15T14:17:00.002-09:00,[心理藏书]组织行为学（第九版） 037
+conge.livingwithfcs.org,2006-04-11T08:31:00.007-08:00,[心理藏书]心理学原理 英文版第一卷(004)
+conge.livingwithfcs.org,2006-10-25T11:35:00.001-08:00,[讲心堂]转载 心理教学视频下载
+conge.livingwithfcs.org,2006-05-03T12:53:00.001-08:00,[讲心堂]北大考研辅导班 03年 普心 第二讲
+conge.livingwithfcs.org,2006-10-21T19:35:00.001-08:00,[公告]关于文件不能下载的问题
+conge.livingwithfcs.org,2006-07-18T16:54:00.001-08:00,[来函照登]关于北大心理系临床心理学专业
+conge.livingwithfcs.org,2006-04-06T06:40:00.000-08:00,被蝈蝈点名了..
+conge.livingwithfcs.org,2006-04-25T06:14:00.003-08:00,[心理藏书]网站设计与可用性 010
+conge.livingwithfcs.org,2006-08-13T07:53:00.001-08:00,[讲心堂]北大考研辅导班 03年 实心 第六讲
+conge.livingwithfcs.org,2006-05-14T12:32:00.002-08:00,[心理藏书]解密社会心理学 013
+conge.livingwithfcs.org,2006-05-12T04:10:00.001-08:00,[讲心堂]北大考研辅导班 03年 普心 第四讲
+conge.livingwithfcs.org,2006-07-08T10:26:00.001-08:00,[讲心堂]北大考研辅导班 03年 普心 第十一讲
+conge.livingwithfcs.org,2006-07-26T15:44:00.001-08:00,[讲心堂]北大考研辅导班 03年 实心 第三讲
+conge.livingwithfcs.org,2006-04-09T07:31:00.001-08:00,[新闻动态]南京军区招20名心理学应届生
+conge.livingwithfcs.org,2006-01-19T14:41:00.000-09:00,Dudu做了绝育手术
+conge.livingwithfcs.org,2006-12-29T19:28:00.001-09:00,[讲心堂]北大考研辅导班 03年 心统 第七讲
+conge.livingwithfcs.org,2006-08-05T07:42:00.000-08:00,转载：Wiley Publishing Bible collection 48 eBooks
+conge.livingwithfcs.org,2006-05-16T04:52:00.001-08:00,[心理文萃]文献综述的写作步骤
+conge.livingwithfcs.org,2006-04-16T14:04:00.003-08:00,[心理藏书]了解精神分裂症 008
+conge.livingwithfcs.org,2006-08-06T18:51:00.001-08:00,[讲心堂]北大考研辅导班 03年 实心 第五讲
+conge.livingwithfcs.org,2006-05-28T19:07:00.001-08:00,[心理文萃]选择心理学做专业?你需要知道这些
+conge.livingwithfcs.org,2006-05-09T13:10:00.003-08:00,[心理藏书]进化心理学简介 012
+conge.livingwithfcs.org,2006-04-19T13:09:00.003-08:00,[心理藏书]社会心理学导论 英文原版 009
+conge.livingwithfcs.org,2006-04-09T07:33:00.001-08:00,[心理文萃]心理学研究的中国化――一种别无选择的探索（王登峰　侯玉波）
+conge.livingwithfcs.org,2006-04-03T07:45:00.004-08:00,[心理藏书] Introduction to SPSS(001)
+conge.livingwithfcs.org,2006-03-13T10:47:00.000-09:00,用Google 看火星
+conge.livingwithfcs.org,2006-04-09T07:32:00.002-08:00,[心理人物]陈立――为中国工业心理学事业的发展作出重要贡献
+conge.livingwithfcs.org,2006-04-09T07:21:00.003-08:00,[心理人物]周先庚――中国实验及应用心理学的奠基人
+conge.livingwithfcs.org,2006-06-27T11:25:00.001-08:00,[心理人物]所罗门·阿希 [Solomon E. Asch]
+conge.livingwithfcs.org,2006-11-03T12:23:00.001-09:00,[讲心堂]北大考研辅导班 03年 心统 第五讲
+conge.livingwithfcs.org,2006-04-27T14:04:00.000-08:00,gfw都封了谁？
+conge.livingwithfcs.org,2006-06-03T04:24:00.001-08:00,[心理文萃]心理学跨专业考研的经验及教材点评[北大]
+conge.livingwithfcs.org,2006-08-20T14:21:00.000-08:00,介绍两款游戏给大家
+conge.livingwithfcs.org,2006-08-08T06:10:00.002-08:00,[心理藏书]《咨询心理学》张日昇 018
+conge.livingwithfcs.org,2006-06-09T05:30:00.001-08:00,[心理文萃]北大心理学考研经验谈
+conge.livingwithfcs.org,2006-12-06T14:01:00.002-09:00,[心理藏书]思想和行动的社会基础：社会认知论 036
+conge.livingwithfcs.org,2006-05-06T07:24:00.001-08:00,[考研笔记]朱滢 《实验心理学》学习笔记
+conge.livingwithfcs.org,2006-10-31T13:24:00.003-09:00,[心理藏书]Drawing the Line: Art Therapy with the Difficult Client 030
+conge.livingwithfcs.org,2006-03-11T14:34:00.000-09:00,MSN Spaces 更新了！
+conge.livingwithfcs.org,2006-09-16T09:34:00.004-08:00,[心理藏书] Statistics for the Behavioral Sciences 024
+conge.livingwithfcs.org,2006-04-27T10:26:00.001-08:00,[考研真题]北京大学2005年硕士研究生入学考试试题
+conge.livingwithfcs.org,2006-07-25T11:45:00.002-08:00,[心理藏书]The Psychology of leadership 016
+conge.livingwithfcs.org,2006-08-05T07:22:00.002-08:00,[心理藏书] 疼痛——为痛苦而生的科学 017
+conge.livingwithfcs.org,2006-04-15T04:36:00.001-08:00,[心理文萃]学会与压力共舞
+conge.livingwithfcs.org,2006-10-16T11:10:00.000-08:00,翘课在家
+conge.livingwithfcs.org,2006-06-14T07:12:00.002-08:00,[心理藏书]线上消费者心理学 015
+conge.livingwithfcs.org,2006-04-09T07:34:00.003-08:00,[真题]北京大学2003年硕士研究生入学考试试题-普通心理学
+conge.livingwithfcs.org,2006-10-29T12:15:00.003-09:00,[心理藏书]Teaching Psychology 029
+conge.livingwithfcs.org,2006-04-09T07:20:00.004-08:00,[心理藏书] 消费者行为学 中文 第7版(003)
+conge.livingwithfcs.org,2006-06-28T06:49:00.001-08:00,[考研真题]北京师范大学94-04年考研题
+conge.livingwithfcs.org,2006-07-05T04:35:00.001-08:00,[讲心堂]北大考研辅导班 03年 普心 第九讲
+conge.livingwithfcs.org,2006-08-15T05:40:00.002-08:00,[心理藏书]Your Guide to Healthy Sleep 019
+conge.livingwithfcs.org,2006-03-07T09:08:00.000-09:00,要不要再开个新blog呢？
+conge.livingwithfcs.org,2006-12-01T05:11:00.002-09:00,[心理藏书]超越IQ——人类智力的三元理论 035
+conge.livingwithfcs.org,2006-04-09T07:34:00.002-08:00,[真题]北京大学2002年硕士研究生入学考试试题
+conge.livingwithfcs.org,2006-04-27T14:29:00.001-08:00,[心里文萃]２０世纪心理学通览 丛书简介
+conge.livingwithfcs.org,2006-06-16T19:50:00.001-08:00,[心理人物]阿尔弗雷德·阿德勒 [Alfred Adler]
+conge.livingwithfcs.org,2006-02-16T10:39:00.000-09:00,美丽的图片背景..
+conge.livingwithfcs.org,2006-08-20T12:28:00.003-08:00,[心理藏书]色彩心理学 020
+conge.livingwithfcs.org,2006-04-09T07:17:00.006-08:00,[心理藏书]荣格 Psychological_Types(002)
+conge.livingwithfcs.org,2006-04-12T13:40:00.001-08:00,[新闻动态]谢军博客泄露“第二职业” 棋后竟当起 “心理医生业”
+conge.livingwithfcs.org,2006-04-09T07:36:00.001-08:00,[新闻动态]人性本善找到科学根据 婴儿天生有助人的欲望
+conge.livingwithfcs.org,2006-05-26T06:57:00.001-08:00,[讲心堂]北大考研辅导班 03年 普心 第六讲
+conge.livingwithfcs.org,2006-04-09T07:32:00.003-08:00,[心理文萃]行走在心理学的山阴道上――当代心理学研究热点一瞥
+conge.livingwithfcs.org,2006-04-28T13:51:00.004-08:00,[心理藏书]统计推论及其应用导论-使用R 011
+conge.livingwithfcs.org,2006-06-21T07:02:00.000-08:00,有电脑 手机忘在家里也不怕
+conge.livingwithfcs.org,2006-05-04T07:00:00.001-08:00,[讲心堂]北大考研辅导班 03年 普心 第三讲
+conge.livingwithfcs.org,2007-02-14T12:06:00.001-09:00,[来函照登]有人员测评方向的大学
+conge.livingwithfcs.org,2007-03-15T07:57:00.002-08:00,"[心理藏书]Eating Disorders  (WPA Series in Evidence & Experience in Psychiatry, VOL 6) 057"
+conge.livingwithfcs.org,2007-05-31T05:43:00.000-08:00,[心理视频]反毒品广告: 吸食大脑
+conge.livingwithfcs.org,2007-03-21T13:05:00.000-08:00,[ 游戏休闲]精美杂志电子版37本 zz
+conge.livingwithfcs.org,2007-03-03T07:15:00.001-09:00,[ 游戏休闲]精美杂志34本 zz
+conge.livingwithfcs.org,2007-05-13T12:18:00.000-08:00,[游戏休闲]精美杂志14本 zz 《新科学家》《读者文摘》《电子游戏》
+conge.livingwithfcs.org,2007-03-05T12:29:00.001-09:00,[ 游戏休闲]精美杂志16本 zz
+conge.livingwithfcs.org,2007-06-17T05:51:00.000-08:00,[心理视频]什么将我们与黑猩猩区别开
+conge.livingwithfcs.org,2007-04-16T08:18:00.000-08:00,[游戏休闲]精美杂志6本 zz
+conge.livingwithfcs.org,2007-06-10T22:11:00.006-08:00,[考研相关]统计名次中英文对照
+conge.livingwithfcs.org,2007-07-14T07:43:00.000-08:00,[心理视频]Barry Schwartz——选择的悖论
+conge.livingwithfcs.org,2007-12-04T08:22:00.001-09:00,[自说自话]咖啡香
+conge.livingwithfcs.org,2007-06-13T05:22:00.000-08:00,[心理视频]展示各种脑损伤的flash动画
+conge.livingwithfcs.org,2007-05-27T20:39:00.000-08:00,[游戏休闲]精美杂志9本 zz 《科学》《自然》《科学美国人》《简氏防务周刊》
+conge.livingwithfcs.org,2007-10-11T05:59:00.002-08:00,[心理藏书]SPSS 11统计分析教程.基础篇+高级篇 (072)
+conge.livingwithfcs.org,2007-03-11T19:11:00.001-08:00,[ 游戏休闲]精美杂志27本 zz
+conge.livingwithfcs.org,2007-04-14T05:00:00.000-08:00,[心理人物]看，津巴多！
+conge.livingwithfcs.org,2007-06-12T15:56:00.000-08:00,[ 游戏休闲]精美杂志4本 zz
+conge.livingwithfcs.org,2007-05-23T04:44:00.002-08:00,[心理藏书]心理学导论——思想与行为的认识之路 066
+conge.livingwithfcs.org,2007-04-21T13:55:00.000-08:00,[游戏休闲]精美杂志18本 zz
+conge.livingwithfcs.org,2007-12-31T14:40:00.000-09:00,[自说自话]新年 新车
+conge.livingwithfcs.org,2007-03-03T13:10:00.001-09:00,[本站公告]告别sitesled.com，回归blogspot.
+conge.livingwithfcs.org,2007-03-20T07:04:00.001-08:00,"[心理藏书]Personality Disorders (WPA Series in Evidence & Experience in Psychiatry, Vol 8) 059"
+conge.livingwithfcs.org,2007-01-06T15:41:00.003-09:00,[心理藏书]Handbook Of Psychology - Vol 02 - Research Methods in Psychology 041
+conge.livingwithfcs.org,2007-05-24T06:14:00.000-08:00,[考研相关]08年心理学考研9问
+conge.livingwithfcs.org,2007-01-14T08:38:00.002-09:00,"[心理藏书]Handbook of Psychology, Volume 3, Biological Psychology 042"
+conge.livingwithfcs.org,2007-04-25T10:58:00.004-08:00,[心理藏书]应酬心理学 062
+conge.livingwithfcs.org,2007-06-06T10:26:00.000-08:00,[心里文萃]两个人决定你股市成败 zz
+conge.livingwithfcs.org,2007-03-14T03:12:00.003-08:00,"[心理藏书]Bipolar Disorders (WPA Series in Evidence & Experience in Psychiatry, Vol 5) 056"
+conge.livingwithfcs.org,2007-07-31T19:15:00.002-08:00,[心理藏书]The MIT Encyclopedia of the Cognitive Sciences 071
+conge.livingwithfcs.org,2007-07-29T06:22:00.003-08:00,[心理藏书]Research Proposals - A Guide to Success 069
+conge.livingwithfcs.org,2007-11-03T05:26:00.000-08:00,[电脑网络]bloggerspaces的倒掉及blogspot的访问方法。
+conge.livingwithfcs.org,2007-03-14T09:54:00.001-08:00,[ 游戏休闲]精美杂志33本 PDF格式 zz
+conge.livingwithfcs.org,2007-04-26T18:13:00.000-08:00,[本站公告]sitesled.com 挂了 我的blog裸了
+conge.livingwithfcs.org,2007-01-26T12:25:00.001-09:00,[讲心堂]教育心理学视频（共42集）
+conge.livingwithfcs.org,2007-10-28T09:13:00.000-08:00,[心理新知]我订阅的心理学博客
+conge.livingwithfcs.org,2007-01-30T13:30:00.002-09:00,"[心理藏书]Handbook of Psychology, Volume 8, Clinical Psychology 047"
+conge.livingwithfcs.org,2007-04-07T10:10:00.000-08:00,[ 游戏休闲]精美杂志70本 zz
+conge.livingwithfcs.org,2007-02-11T16:04:00.000-09:00,国臭队 国奥队
+conge.livingwithfcs.org,2007-01-09T11:49:00.001-09:00,[心理译作]清清楚楚看大脑
+conge.livingwithfcs.org,2007-10-02T05:59:00.001-08:00,小小外甥女
+conge.livingwithfcs.org,2007-06-03T15:19:00.001-08:00,[ 游戏休闲]精美杂志11本 zz 《新科学家》《自然》《硬核玩家》《商业周刊》
+conge.livingwithfcs.org,2007-03-26T08:44:00.000-08:00,为生者祈福
+conge.livingwithfcs.org,2007-02-11T12:28:00.001-09:00,[ 游戏休闲]精美杂志48本 zz
+conge.livingwithfcs.org,2007-05-08T11:58:00.000-08:00,[游戏休闲]精美杂志14本 zz 《科学》《 自然》
+conge.livingwithfcs.org,2007-05-14T12:53:00.002-08:00,[心理藏书] 嫉妒心理学 064
+conge.livingwithfcs.org,2007-01-21T07:37:00.002-09:00,"[心理藏书]Handbook of Psychology, Volume 5, Personality and Social Psychology 044"
+conge.livingwithfcs.org,2007-04-09T11:54:00.000-08:00,[心理软件]自然的声音 来自 你的电脑
+conge.livingwithfcs.org,2007-05-15T14:48:00.000-08:00,[ 游戏休闲]精美杂志8本 zz 《光谱》《科学》《新科学家》
+conge.livingwithfcs.org,2007-01-15T12:10:00.002-09:00,"[心理藏书]Handbook of Psychology, Volume 4: Experimental Psychology 043"
+conge.livingwithfcs.org,2007-04-10T07:53:00.004-08:00,[心理藏书]神经影像学 060
+conge.livingwithfcs.org,2007-05-26T07:31:00.002-08:00,[心理藏书] 现代心理与教育统计学 067
+conge.livingwithfcs.org,2007-05-23T19:03:00.000-08:00,[ 游戏休闲]精美杂志11本 zz《财富》《金钱》《世界贸易》《读者文摘》
+conge.livingwithfcs.org,2007-01-07T12:47:00.001-09:00,[游戏休闲]吃豆子 Pacman
+conge.livingwithfcs.org,2007-11-08T09:02:00.000-09:00,［杂志推荐］科普杂志9本zz 《科学美国人》《国家地理》《流行机械》
+conge.livingwithfcs.org,2007-02-08T13:34:00.002-09:00,"[心理藏书]Handbook of Psychology, Volume 10, Assessment Psychology 049"
+conge.livingwithfcs.org,2007-03-01T08:15:00.003-09:00,"[心理藏书]Depressive Disorders (Wpa Series in Evidence and Experience in Psychiatry, V. 1) 052"
+conge.livingwithfcs.org,2007-01-14T12:13:00.001-09:00,[ 游戏休闲]精美杂志9本[zz]
+conge.livingwithfcs.org,2007-01-16T05:36:00.001-09:00,[游戏休闲]精美杂志14本[zz]
+conge.livingwithfcs.org,2007-02-14T12:46:00.002-09:00,"[心理藏书]Handbook of Psychology, Volume 12, Industrial and Organizational Psychology 051"
+conge.livingwithfcs.org,2007-07-08T09:19:00.002-08:00,[心理藏书]睡眠与做梦（第三版）069
+conge.livingwithfcs.org,2007-12-23T13:25:00.007-09:00,[心理藏书]Introduction to Psychology: Gateways to Mind and Behavior 076
+conge.livingwithfcs.org,2007-01-19T05:45:00.001-09:00,[考研相关]祝愿参加研究生考试的大家 考试顺利！
+conge.livingwithfcs.org,2007-09-22T07:54:00.000-08:00,[自说自话]中秋
+conge.livingwithfcs.org,2007-01-31T11:16:00.001-09:00,[ 游戏休闲]精美杂志好多本[zz]
+conge.livingwithfcs.org,2007-01-17T09:00:00.001-09:00,[ 游戏休闲]精美杂志12本[zz]
+conge.livingwithfcs.org,2007-12-28T09:36:00.000-09:00,[杂志推荐]《科学》 2007 12 21
+conge.livingwithfcs.org,2007-03-18T10:03:00.000-08:00,[游戏休闲]精美杂志电子版20本 zz
+conge.livingwithfcs.org,2007-03-26T16:44:00.000-08:00,[游戏休闲]精美杂志33本 zz
+conge.livingwithfcs.org,2007-03-18T07:21:00.002-08:00,"[心理藏书]Phobias (WPA Series in Evidence & Experience in Psychiatry, Vol 7) 058"
+conge.livingwithfcs.org,2007-04-26T20:18:00.000-08:00,[游戏休闲]精美杂志18本 zz <中国国家地理>等
+conge.livingwithfcs.org,2007-03-10T20:04:00.002-09:00,"[心理藏书]Obsessive-Compulsive Disorder (WPA Series in Evidence & Experience in Psychiatry, Vol 4) 055"
+conge.livingwithfcs.org,2007-07-25T16:21:00.000-08:00,[心理视频]小汽车
+conge.livingwithfcs.org,2007-01-11T07:26:00.001-09:00,[ 游戏休闲]精美杂志35本
+conge.livingwithfcs.org,2007-02-06T06:55:00.001-09:00,[ 游戏休闲]精美杂志38本 zz
+conge.livingwithfcs.org,2007-02-15T09:12:00.001-09:00,[游戏休闲]精美杂志22本 zz
+conge.livingwithfcs.org,2007-01-24T12:44:00.001-09:00,[ 游戏休闲]精美杂志14本[zz]
+conge.livingwithfcs.org,2007-03-08T09:34:00.001-09:00,[游戏休闲]精美杂志20本 zz
+conge.livingwithfcs.org,2007-10-07T04:32:00.001-08:00,[自说自话] 我比鸟儿醒的早
+conge.livingwithfcs.org,2007-11-14T19:33:00.002-09:00,[心理藏书]精神障碍与犯罪  074
+conge.livingwithfcs.org,2007-11-10T09:27:00.002-09:00,[心理藏书]改变心理学的40项研究:探索心理学研究的历史 073
+conge.livingwithfcs.org,2007-02-15T12:28:00.001-09:00,收心阁向大家拜年  祝大家新春快乐！
+conge.livingwithfcs.org,2007-01-04T10:18:00.002-09:00,"[心理藏书]Handbook of Psychology, Volume 1, History of Psychology 040"
+conge.livingwithfcs.org,2007-02-03T11:11:00.002-09:00,"[心理藏书]Handbook of Psychology, Volume 9, Health Psychology 048"
+conge.livingwithfcs.org,2007-11-30T17:52:00.000-09:00,[自说自话]记录自己的健康状况 之一
+conge.livingwithfcs.org,2007-06-09T07:21:00.000-08:00,[心理视频]错觉建筑物
+conge.livingwithfcs.org,2007-11-29T09:24:00.000-09:00,[杂志推荐]《科学》（转载）
+conge.livingwithfcs.org,2007-06-06T08:29:00.000-08:00,[ 游戏休闲]精美杂志8本 zz《科学》《大众科学》《电子游戏月刊》《财富》等
+conge.livingwithfcs.org,2007-02-13T09:57:00.002-09:00,"[心理藏书]Handbook of Psychology, Volume 11, Forensic Psychology 050"
+conge.livingwithfcs.org,2007-06-16T20:11:00.000-08:00,【Music video】Global Warming By Una
+conge.livingwithfcs.org,2007-01-23T15:45:00.002-09:00,"[心理藏书]Handbook of Psychology, Volume 6, Developmental Psychology 045"
+conge.livingwithfcs.org,2007-04-11T08:49:00.000-08:00,[ 游戏休闲]精美杂志电子版30本 zz
+conge.livingwithfcs.org,2007-11-14T04:42:00.000-09:00,[杂志推荐]《大众机械》《科学》免费下载(zz)
+conge.livingwithfcs.org,2007-05-30T05:46:00.000-08:00,[ 游戏休闲]精美杂志10本 zz <新科学家><经济学家><电脑图形>
+conge.livingwithfcs.org,2007-06-30T20:21:00.000-08:00,大学生们避免寻求心理援助
+conge.livingwithfcs.org,2007-04-01T08:32:00.000-08:00,中招
+conge.livingwithfcs.org,2007-07-06T10:24:00.000-08:00,[心理译作]心理学十大站点
+conge.livingwithfcs.org,2007-11-21T08:28:00.002-09:00,[心理藏书]音乐心理学 075
+conge.livingwithfcs.org,2007-05-20T16:16:00.000-08:00,[ 游戏休闲]精美杂志20本 zz 《科学》《自然》《科学美国人》《超级游戏玩家》
+conge.livingwithfcs.org,2007-05-17T05:15:00.002-08:00,[心理藏书]逆境心理学 065
+conge.livingwithfcs.org,2007-01-21T09:46:00.001-09:00,[ 游戏休闲]精美杂志27本
+conge.livingwithfcs.org,2007-04-21T13:22:00.002-08:00,[心理藏书]崇拜心理学 061
+conge.livingwithfcs.org,2007-02-06T16:05:00.001-09:00,[ 游戏休闲]幻觉 （日）渡边淳一
+conge.livingwithfcs.org,2007-05-08T12:14:00.002-08:00,[心理藏书]爱情心理学 063
+conge.livingwithfcs.org,2007-02-25T10:28:00.001-09:00,[ 游戏休闲]精美杂志10本 zz
+conge.livingwithfcs.org,2022-07-04T08:12:23,[心理人物]纳塔丽·波特曼，电影明星，认知心理学家
+conge.livingwithfcs.org,2007-03-04T16:55:00.002-09:00,"[心理藏书]Schizophrenia (WPA Series in Evidence and Experience in Psychiatry, Vol 2) 053"
+conge.livingwithfcs.org,2007-03-07T17:01:00.002-09:00,"[心理藏书]Dementia 2e (WPA Series in Evidence & Experience in Psychiatry, VOL 3) 054"
+conge.livingwithfcs.org,2007-01-25T13:39:00.002-09:00,"[心理藏书]Handbook of Psychology, Volume 7, Educational Psychology 046"
+conge.livingwithfcs.org,2007-03-17T07:44:00.000-08:00,[ 本站公告] 寻人启事
+conge.livingwithfcs.org,2007-06-05T07:38:00.002-08:00,[心理藏书]金融心理学——掌握市场波动的真谛 068
+conge.livingwithfcs.org,2007-10-27T06:55:00.000-08:00,[心理新知]Neurolaw
+conge.livingwithfcs.org,2007-05-28T13:08:00.000-08:00,[心理译作]天线宝宝看多了会变成同性恋？
+conge.livingwithfcs.org,2009-04-18T12:19:00.007-08:00,[心理藏书]Writing Your Doctoral Dissertation  098
+conge.livingwithfcs.org,2009-01-23T05:42:00.012-09:00,[心理藏书]《Methods in Mind》 092
+conge.livingwithfcs.org,2009-04-09T11:43:00.007-08:00,[习惯养成]2009年3月总结与4月计划
+conge.livingwithfcs.org,2009-07-23T14:58:00.002-08:00,[自说自话]冒个泡吧
+conge.livingwithfcs.org,2009-06-15T17:17:00.003-08:00,[自说自话]提醒自己
+conge.livingwithfcs.org,2009-01-10T12:58:00.006-09:00,[心理藏书]发现的种子 091
+conge.livingwithfcs.org,2009-04-21T14:54:00.003-08:00,[心理藏书]收心阁的藏书从哪里来-英文书
+conge.livingwithfcs.org,2009-02-13T11:14:00.006-09:00,[心理藏书]In Search of Memory 093
+conge.livingwithfcs.org,2009-05-12T19:51:00.003-08:00,[习惯养成]The now habit
+conge.livingwithfcs.org,2009-04-12T11:52:00.004-08:00,[自说自话]倒霉的一周
+conge.livingwithfcs.org,2009-01-08T13:28:00.010-09:00,[心理藏书]上瘾五百年 090
+conge.livingwithfcs.org,2009-03-10T13:06:00.001-08:00,[心理藏书]An Introduction to the Event-Related Potential Technique 096
+conge.livingwithfcs.org,2009-01-07T13:08:00.003-09:00,[本站公告]收心阁的08总结和09计划
+conge.livingwithfcs.org,2009-03-10T10:58:00.001-08:00,[习惯养成]提高早上起床的动力
+conge.livingwithfcs.org,2009-02-22T12:37:00.010-09:00,"[心理藏书]Brain Mapping: The Methods, Second Edition 094"
+conge.livingwithfcs.org,2009-06-17T15:34:00.003-08:00,[自说自话]我的快手可比奥巴马
+conge.livingwithfcs.org,2009-03-05T02:30:00.000-09:00,[习惯养成]一灯计划
+conge.livingwithfcs.org,2009-06-02T13:59:00.008-08:00,[自说自话]二十年前的这个时候究竟死没死人？
+conge.livingwithfcs.org,2009-03-28T15:50:00.008-08:00,[心理藏书]少有人走的路 097
+conge.livingwithfcs.org,2009-06-28T16:00:00.002-08:00,[心理藏书]Handbook of Brain Connectivity 100
+conge.livingwithfcs.org,2009-06-16T15:09:00.001-08:00,[电脑网络]便携的电脑会将人类带到何方？
+conge.livingwithfcs.org,2009-06-07T05:35:00.001-08:00,[心理藏书]Functional Magnetic Resonance Imaging 099
+conge.livingwithfcs.org,2009-12-20T12:32:00.003-09:00,[电脑网络]卡巴斯基与网盘的冲突解决一例
+conge.livingwithfcs.org,2009-07-01T14:10:00.000-08:00,[习惯养成]别让时间控制你
+conge.livingwithfcs.org,2009-02-15T05:38:00.003-09:00,[自说自话]情人节
+conge.livingwithfcs.org,2009-03-04T07:15:00.001-09:00,[心理藏书]Principles and Recent Advances in Medical Imaging and Image Analysis 095
+conge.livingwithfcs.org,2009-02-14T11:16:00.006-09:00,[GTD]闭关30天，养成新习惯
+conge.livingwithfcs.org,2009-11-14T07:19:00.002-09:00,在gmail中听歌
+conge.livingwithfcs.org,2009-03-21T04:12:00.002-08:00,[GTD]时间日志
+conge.livingwithfcs.org,2009-06-06T02:56:00.001-08:00,[习惯养成]鞋里的沙
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点 1729 跑步是快乐的
+conge.livingwithfcs.org,2020-09-19T11:28:36,KBAI 笔记 07 Frames
+conge.livingwithfcs.org,2021-04-12T12:49:23,折返点 1735 新耳机
+conge.livingwithfcs.org,2017-07-30 07:30:30,新爸五年计划 | 006 洗澡那些事
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点 1714 倏忽而过
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点1707 又感冒了
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点 1732 夜了，不见雾霾
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点 1730 做孩子的榜样
+conge.livingwithfcs.org,2020-09-19T11:28:36,AI 笔记 Week 04 Simulated Annealing
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点1702 冷
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点1710 压力
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点 1738 再次说说我的睡眠
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点 1719 定个比较低的标准就是为了关键时刻不掉链子
+conge.livingwithfcs.org,2020-09-19T11:28:36,KBAI 笔记 09 Case-based reasoning
+conge.livingwithfcs.org,2020-11-30T15:52:51,新爸五年计划 | 018 在幼儿园里没有流的眼泪，留到了睡觉前
+conge.livingwithfcs.org,2020-11-30T15:52:51,新爸五年计划 ｜ 022 儿子半岁
+conge.livingwithfcs.org,2017-09-03 09:03:00,新爸五年计划 ｜ 011 我的智商去哪儿了
+conge.livingwithfcs.org,2017-07-02 07:02:02,新爸五年计划 | 002 只打一下，也得道歉
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点1727 跑步，我的禅
+conge.livingwithfcs.org,2017-08-20 9:30:00,新爸五年计划 ｜ 009 理发
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点1708 换新鞋新手机
+conge.livingwithfcs.org,2020-09-19T11:28:36,2017年4月 重点投入FCS相关事务
+conge.livingwithfcs.org,2017-12-26 12:26:26,新爸五年计划 | 027 白色圣诞
+conge.livingwithfcs.org,2020-09-19T11:28:36,AI 笔记 Week 05 Constraint Satisfaction
+conge.livingwithfcs.org,2020-09-19T11:28:36,2017年6月 返岗
+conge.livingwithfcs.org,2017-10-11 10:11:00,新爸五年计划 | 016 楼梯
+conge.livingwithfcs.org,2020-11-30T15:52:51,新爸五年计划 ｜ 021 叫爸爸
+conge.livingwithfcs.org,2020-09-19T11:28:36,AI 笔记 Week 06 Probability
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点 1722 15万步
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点 1746 报名了明年春天的半马
+conge.livingwithfcs.org,2020-09-19T11:28:36,2017年1月 过个假年
+conge.livingwithfcs.org,2021-04-12T12:49:23,折返点 1733 耳机与脚底板
+conge.livingwithfcs.org,2020-11-30T15:52:51,新爸五年计划 ｜ 023 江表虎臣
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点1701 时间
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点 1748 寒假快来了
+conge.livingwithfcs.org,2020-11-27T12:51:57,折返点 1742 雨季就算是开始了
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点 1743 每天平均睡到了6个小时
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点 1741 这一周多是晨跑
+conge.livingwithfcs.org,2020-09-19T11:28:36,2017年5月 值得庆祝的日子比较多
+conge.livingwithfcs.org,2020-09-19T11:28:36,2016年12月  节日季
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点 1712 习以为常
+conge.livingwithfcs.org,2020-09-19T11:28:36,是时候写2017年度总结了
+conge.livingwithfcs.org,2017-09-18 09:18:00,新爸五年计划 | 013 开学季
+conge.livingwithfcs.org,2017-08-07 08:07:07,新爸五年计划 | 007 哭与笑
+conge.livingwithfcs.org,2020-09-19T11:28:36,2017年2月 世界罕见病日
+conge.livingwithfcs.org,2020-09-19T11:28:36,AI 笔记 Week 01-02 Game Playing
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点 1723 21万步
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点 1744 心脏每分钟跳37下
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点 1736 Irvine
+conge.livingwithfcs.org,2020-09-19T11:28:36,AI 笔记 Week 11-12 Pattern Rec Through Time
+conge.livingwithfcs.org,2017-07-09 07:09:09,新爸五年计划 | 003 睡
+conge.livingwithfcs.org,2017-06-28 06:28:28,新爸五年计划 | 001 你爸我也爱着你们呐！
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点 1724 Fitbit challenge 完结
+conge.livingwithfcs.org,2020-09-19T11:28:36,"如何使得工作变得愉悦-- 读《Joy, Inc.》"
+conge.livingwithfcs.org,2020-09-19T11:28:36,AI 笔记 Week 10 Machine Learning
+conge.livingwithfcs.org,2017-12-29 12:29:29,"新爸五年计划 | 028 别了, 2017"
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点 1715 为罕见病义跑募捐
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点 1721 这一次我想得第一
+conge.livingwithfcs.org,2017-09-25 09:25:00,新爸五年计划 | 014 孩子教会了我那么多
+conge.livingwithfcs.org,2017-08-25 08:25:25,新爸五年计划 | 010 陪睡
+conge.livingwithfcs.org,2017-09-11 09:11:00,新爸五年计划 | 012 翻身仗
+conge.livingwithfcs.org,2020-11-30T15:52:51,新爸五年计划 ｜ 019 姥姥回国了
+conge.livingwithfcs.org,2020-09-19T11:28:36,AI 笔记 Week 03 Search
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点 1705 四百天
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点 1713 心跳
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点1703 午间跑
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点 1728 跑步上下班的优缺点
+conge.livingwithfcs.org,2020-09-19T11:28:36,理财扫盲课：9块钱能买啥？
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点 1720 五百天
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点1725 赢了
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点 1747 感恩季
+conge.livingwithfcs.org,2020-11-27T12:51:57,新爸五年计划 | 005 兔子与孩子
+conge.livingwithfcs.org,2017-08-15 08:15:15,新爸五年计划 | 008 晨起例行
+conge.livingwithfcs.org,2020-09-19T11:28:36,KBAI 笔记 08 Learning by recording cases
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点1718 跑步通勤的几点心得
+conge.livingwithfcs.org,2017-07-15 07:15:15,新爸五年计划 | 004 时间的圈圈
+conge.livingwithfcs.org,2020-11-30T15:52:51,新爸五年计划 ｜ 020 爷爷奶奶来了
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点 1751 白色圣诞
+conge.livingwithfcs.org,2020-09-19T11:28:36,AI 笔记 总目录
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点 1737 遭遇猫头鹰
+conge.livingwithfcs.org,2017-09-30 09:30:00,新爸五年计划 | 015 你笑，你哭，我不会不在乎
+conge.livingwithfcs.org,2017-12-30 12:30:30,2017年度总结
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点1717 义跑汇报
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点 1716 跑步去上班
+conge.livingwithfcs.org,2020-11-30T15:52:51,新爸五年计划 | 024 教养东西
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点 1740 慢下来，生个病
+conge.livingwithfcs.org,2020-09-19T11:28:36,2017年7月 - 不安生
+conge.livingwithfcs.org,2017-10-18 10:18:00,新爸五年计划 ｜ 017 女儿的学校
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点1711 减法
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点1706 把点联结成线
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点1704 生着病过年
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点 1734 600天与新鞋
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点1709 我的美国参政经历
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点 1750 同样的错误犯两次
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点 1726 入禅
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点 1739 补觉
+conge.livingwithfcs.org,2020-09-19T11:28:36,2016年度总结 记 得
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点 1749 考试周
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点 1745 我到底需要多长的睡眠时间？
+conge.livingwithfcs.org,2020-09-19T11:28:36,KBAI 笔记 11 Classification
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点 1731 当节奏被打乱
+conge.livingwithfcs.org,2020-11-30T15:52:51,新爸五年计划 | 025 没有屋顶的幼儿园
+conge.livingwithfcs.org,2020-09-19T11:28:36,AI 笔记 Week 07 Bayes Nets
+conge.livingwithfcs.org,2010-07-27T19:31:00.001-08:00,超越思考 之一
+conge.livingwithfcs.org,2010-12-31T08:50:00.001-09:00,我是谁 之八
+conge.livingwithfcs.org,2010-08-26T18:03:00.001-08:00,当下的力量 之一
+conge.livingwithfcs.org,2010-06-09T07:36:00.005-08:00,5月31-6月6日一周总结
+conge.livingwithfcs.org,2010-07-21T19:38:00.001-08:00,The CVS Game
+conge.livingwithfcs.org,2010-09-04T12:15:00.001-08:00,当下的力量 之五
+conge.livingwithfcs.org,2010-09-11T16:51:00.001-08:00,当下的力量 之七
+conge.livingwithfcs.org,2010-12-30T11:40:00.001-09:00,我是谁 之七
+conge.livingwithfcs.org,2010-06-19T08:43:00.002-08:00,EndNote X4 破解版网盘下载
+conge.livingwithfcs.org,2010-08-02T10:01:00.000-08:00,fitness coffee usa
+conge.livingwithfcs.org,2010-11-10T17:59:00.002-09:00,我是谁 之五
+conge.livingwithfcs.org,2010-06-21T17:24:00.006-08:00,周总结 6月14日-6月20日
+conge.livingwithfcs.org,2010-09-19T07:13:00.001-08:00,当下的力量 之九
+conge.livingwithfcs.org,2010-10-02T04:07:00.001-08:00,当下的力量 之十二
+conge.livingwithfcs.org,2010-08-03T05:33:00.001-08:00,超越思考 之四
+conge.livingwithfcs.org,2010-08-28T10:38:00.000-08:00,当下的力量 之二
+conge.livingwithfcs.org,2010-11-04T16:41:00.003-08:00,"Athens Half Marathon Runners, Let Me Show You How to get your running proof photos, for free"
+conge.livingwithfcs.org,2010-10-03T12:51:00.001-08:00,当下的力量 之十三
+conge.livingwithfcs.org,2010-07-28T11:59:00.001-08:00,[trade/sell] Stamina Body Trac Glider 1050 Rowing Machine
+conge.livingwithfcs.org,2010-06-19T08:41:00.002-08:00,周总结6月7日-6月13日
+conge.livingwithfcs.org,2010-09-26T16:42:00.001-08:00,当下的力量 之十一
+conge.livingwithfcs.org,2010-04-19T02:30:00.000-08:00,百本心理学书籍 下载
+conge.livingwithfcs.org,2010-12-06T16:46:00.000-09:00,我是谁 之六
+conge.livingwithfcs.org,2010-11-02T04:05:00.001-08:00,我是谁 之四
+conge.livingwithfcs.org,2010-09-03T05:29:00.003-08:00,当下的力量 之四
+conge.livingwithfcs.org,2010-04-16T09:33:00.014-08:00,《把时间当作朋友》 Firefox侧栏书签
+conge.livingwithfcs.org,2010-09-21T18:17:00.001-08:00,当下的力量 之十
+conge.livingwithfcs.org,2010-08-08T16:15:00.001-08:00,CVS and RiteAid shopping planner worksheet
+conge.livingwithfcs.org,2010-03-05T07:19:00.003-09:00,turorial: installing AFNI on a Windows machine using Cynwin
+conge.livingwithfcs.org,2010-08-16T18:45:00.001-08:00,超越思考 之九
+conge.livingwithfcs.org,2010-07-25T06:27:00.001-08:00,CVS deals - 7/25-31，2020
+conge.livingwithfcs.org,2010-07-29T07:43:00.001-08:00,超越思考 之二
+conge.livingwithfcs.org,2010-03-13T19:09:00.001-09:00,[身心健康]Fat Head - 你是怎么变胖的
+conge.livingwithfcs.org,2010-08-31T07:05:00.001-08:00,当下的力量 之三
+conge.livingwithfcs.org,2010-07-30T16:22:00.001-08:00,超越思考 之三
+conge.livingwithfcs.org,2010-09-07T14:24:00.001-08:00,当下的力量 之六
+conge.livingwithfcs.org,2010-03-14T12:52:00.001-08:00,[美食健康]鸡蛋黄变成咸蛋黄
+conge.livingwithfcs.org,2010-04-25T08:14:00.001-08:00,我的第一次5千米比赛
+conge.livingwithfcs.org,2010-05-30T11:09:00.001-08:00,周总结，5月24日-5月30日
+conge.livingwithfcs.org,2010-08-24T16:04:00.001-08:00,超越思考 之十一
+conge.livingwithfcs.org,2010-04-15T06:34:00.001-08:00,[GTD]晨间日记和我的GTD小本子
+conge.livingwithfcs.org,2010-04-10T15:19:00.001-08:00,更多来自于《Fat head》的片段
+conge.livingwithfcs.org,2010-08-09T04:59:00.002-08:00,超越思考 之七
+conge.livingwithfcs.org,2010-08-05T20:00:00.002-08:00,超越思考 之五
+conge.livingwithfcs.org,2010-08-22T05:35:00.001-08:00,超越思考 之十
+conge.livingwithfcs.org,2010-09-15T05:04:00.001-08:00,当下的力量 之八
+conge.livingwithfcs.org,2010-07-26T18:01:00.001-08:00,today’s CVS trip
+conge.livingwithfcs.org,2010-06-14T14:52:00.001-08:00,粽子与凉皮儿
+conge.livingwithfcs.org,2010-06-12T07:53:00.005-08:00,[美食健康]塑料 食物 健康
+conge.livingwithfcs.org,2010-08-02T18:14:00.001-08:00,"My wallet, lost then found"
+conge.livingwithfcs.org,2010-07-30T03:22:00.001-08:00,Shopping Trip 20100729
+conge.livingwithfcs.org,2010-10-15T05:01:00.001-08:00,我是谁 之三
+conge.livingwithfcs.org,2010-08-07T19:44:00.001-08:00,超越思考 之六
+conge.livingwithfcs.org,2010-10-04T07:21:00.001-08:00,"[健康] Oct. 2nd, Nuci’s SPACE 5k"
+conge.livingwithfcs.org,2010-04-29T06:07:00.001-08:00,52个实用网站
+conge.livingwithfcs.org,2010-05-14T09:30:00.001-08:00,网盘下载工具FreeRapid Downloader
+conge.livingwithfcs.org,2010-07-13T19:14:00.001-08:00,检测结果出来了
+conge.livingwithfcs.org,2010-10-06T06:58:00.001-08:00,我是谁 之一
+conge.livingwithfcs.org,2010-07-10T19:47:00.001-08:00,帽子 滚烫的跑道 重返健身房 巴西的电话
+conge.livingwithfcs.org,2010-10-13T19:19:00.001-08:00,我是谁 之二
+conge.livingwithfcs.org,2010-08-08T05:35:00.001-08:00,Drugstore trips on 8.6 and 8.7
+conge.livingwithfcs.org,2010-02-05T19:55:00.003-09:00,[电脑网络]电脑复生记
+conge.livingwithfcs.org,2010-08-14T05:39:00.002-08:00,超越思考 之八
+conge.livingwithfcs.org,2019-10-07 10:07:07,折返点-1940---夜跑之后怎么才能不影响睡眠？
+conge.livingwithfcs.org,2020-09-19T11:28:36,工具馆
+conge.livingwithfcs.org,2019-06-10 06:10:10,GTD（十）终于用回了Doit-im
+conge.livingwithfcs.org,2020-09-19T11:28:36,《The Year Of Less》读后 一
+conge.livingwithfcs.org,2020-09-19T11:28:36,KBAI 笔记 01 Intro to Knowledge-based AI
+conge.livingwithfcs.org,2020-09-19T11:28:36,《牧羊少年奇幻之旅》
+conge.livingwithfcs.org,2019-11-25 11:11:11,折返点-1947---再次重装上阵
+conge.livingwithfcs.org,2020-09-19T11:28:36,困惑
+conge.livingwithfcs.org,2019-09-23 20:20:20,折返点-1938---光脚不犯法
+conge.livingwithfcs.org,2019-03-14 03:14:14,新爸五年计划 | 091 下班后
+conge.livingwithfcs.org,2020-09-19T11:28:36,《带着鲑鱼去旅行》
+conge.livingwithfcs.org,2019-07-27 07:27:27,折返点-1930---开始赤脚跑
+conge.livingwithfcs.org,2019-06-16 06:16:16,折返点-1924---爱跑步的人
+conge.livingwithfcs.org,2020-09-19T11:28:36,阻击胰腺炎（一）
+conge.livingwithfcs.org,2020-09-19T11:28:36,职业发展反思 (五)：还是做好自己
+conge.livingwithfcs.org,2019-12-27 12:27:27,新爸五年计划 | 132 我不要刷牙
+conge.livingwithfcs.org,2020-09-19T11:28:36,我的早餐
+conge.livingwithfcs.org,2020-09-19T11:28:36,职业发展反思 (六)：接下来的计划
+conge.livingwithfcs.org,2019-02-05 02:05:05,ML4T笔记 | 02-01 So you want to be a fund manager
+conge.livingwithfcs.org,2019-02-18 02:18:17,ML4T笔记 | 02-04 The Capital Asset Pricing Model (CAPM)
+conge.livingwithfcs.org,2019-10-29 10:29:00,折返点-1943---讨厌的足跟开裂又来了
+conge.livingwithfcs.org,2020-09-19T11:28:36,如何消除读书的乐趣
+conge.livingwithfcs.org,2020-09-19T11:28:36,《基督山伯爵》
+conge.livingwithfcs.org,2020-09-19T11:28:36,KBAI 笔记 05 Means-Ends Analysis and Problem Reduction
+conge.livingwithfcs.org,2020-09-19T11:28:36,一天 4
+conge.livingwithfcs.org,2019-09-08 09:08:08,折返点-1936---雨季前的晴空更可贵
+conge.livingwithfcs.org,2019-02-24 02:24:24,ML4T笔记 | 02-08 The Efficient Markets Hypothesis
+conge.livingwithfcs.org,2020-09-19T11:28:36,《你坚持的原则，其实害了你》
+conge.livingwithfcs.org,2019-08-24 08:24:24,折返点-1934---带着儿子跑了一次
+conge.livingwithfcs.org,2019-06-04 06:04:00,新爸五年计划 ｜ 103 不拉屎的小孩
+conge.livingwithfcs.org,2020-09-19T11:28:36,有的便宜不能占
+conge.livingwithfcs.org,2022-07-04T08:12:23,新爸五年计划 | 107 Bring Your Kids to Work Day 2019
+conge.livingwithfcs.org,2019-06-09 06:09:09,折返点-1923---做自己的周扒皮
+conge.livingwithfcs.org,2019-10-22 10:10:10,《巨人的陨落》
+conge.livingwithfcs.org,2020-09-19T11:28:36,为什么我要开FCS病友小组
+conge.livingwithfcs.org,2019-02-11 02:11:11,ML4T笔记 | 02-02 Market Mechanics
+conge.livingwithfcs.org,2019-05-10 05:10:10,新爸五年计划 | 099 写出来就好了
+conge.livingwithfcs.org,2020-09-19T11:28:36,GTD （八）EverDo
+conge.livingwithfcs.org,2020-09-19T11:28:36,《西方的衰落》
+conge.livingwithfcs.org,2019-02-23 02:23:23,折返点-1908---跑步如何不受伤-（一）我的跑步故事
+conge.livingwithfcs.org,2019-03-25 03:25:25,除非在恋爱中，人人都该读一下 《The 5 Love Languages》读后（一）
+conge.livingwithfcs.org,2020-09-19T11:28:36,《The Rosie Effect》
+conge.livingwithfcs.org,2019-07-10 07:10:10,折返点-1928---带俩孩子去跑步
+conge.livingwithfcs.org,2019-10-11 10:10:10,《父母的语言》
+conge.livingwithfcs.org,2019-11-24 ,新爸五年计划 | 127 看极光
+conge.livingwithfcs.org,2019-03-31 03:00:00,ML4T笔记 | 03-07 Dyna
+conge.livingwithfcs.org,2019-02-20 02:20:20,新爸五年计划 | 088 生病(一)
+conge.livingwithfcs.org,2019-05-04 05:04:04,折返点-1918---立夏
+conge.livingwithfcs.org,2019-11-25 11:25:11,折返点-1945---又被病痛打倒了
+conge.livingwithfcs.org,2020-11-27T13:04:12,和女儿聊天（一） 有劲的飞机和自己开走的汽车
+conge.livingwithfcs.org,2019-08-03 08:03:03,折返点-1931---好动不好静的儿子
+conge.livingwithfcs.org,2019-02-03 02:03:03,折返点-1905---回国跑
+conge.livingwithfcs.org,2019-11-06 11:06:06,FCS病友简介：Koa
+conge.livingwithfcs.org,2020-09-19T11:28:36,GTD （二）我是如何错误的使用清单的
+conge.livingwithfcs.org,2020-09-19T11:28:36,富裕 - 《Your Money or Your Life》读后2
+conge.livingwithfcs.org,2020-09-19T11:28:36,《The Miracle of Mindfulness》读后
+conge.livingwithfcs.org,2019-01-12 01:12:12,折返点-1902---关于足跟开裂的自省
+conge.livingwithfcs.org,2020-09-19T11:28:36,《所谓情商高，就是会说话》
+conge.livingwithfcs.org,2019-05-12 05:12:12,折返点-1919---热了一下
+conge.livingwithfcs.org,2019-09-24 09:24:24,折返点-1937---只有积累没有奇迹
+conge.livingwithfcs.org,2020-12-17T14:20:35,新爸五年计划 | 129 Kapka
+conge.livingwithfcs.org,2020-09-19T11:28:36,《我十五岁，还不想死》
+conge.livingwithfcs.org,2020-11-27T12:51:57,嘟嘟的安乐死
+conge.livingwithfcs.org,2019-06-24 06:24:00,"新爸五年计划 | 106 No, No, No, No, No"
+conge.livingwithfcs.org,2023-01-30T14:15:03,人活着就有意义
+conge.livingwithfcs.org,2020-09-19T11:28:36,一天 9
+conge.livingwithfcs.org,2020-09-19T11:28:36,《教出乐观的孩子》（一）
+conge.livingwithfcs.org,2020-09-19T11:28:36,职业发展反思 (八)：真的要换组吗？
+conge.livingwithfcs.org,2019-01-11 01:11:11,ML4T笔记 | 01-04 Statistical analysis of time series
+conge.livingwithfcs.org,2020-09-19T11:28:36,《被掩埋的巨人》
+conge.livingwithfcs.org,2019-06-01 06:01:01,折返点-1922---一切都要当心
+conge.livingwithfcs.org,2019-03-25 03:25:25,ML4T 笔记 | 03-05 Reinforcement learning
+conge.livingwithfcs.org,2019-01-27 01:27:27,折返点-1904---这一周都是夜跑
+conge.livingwithfcs.org,2020-09-19T11:28:36,FCS病友故事：Justin （二）
+conge.livingwithfcs.org,2019-03-31 03:31:31,ML4T笔记 | 03-06 Q-Learning
+conge.livingwithfcs.org,2022-07-06T16:08:04,折返点-1925---暑假不暑
+conge.livingwithfcs.org,2020-09-19T11:28:36,醋能降低血脂吗？
+conge.livingwithfcs.org,2019-02-27 02:27:27,新爸五年计划 | 089 生病(二)
+conge.livingwithfcs.org,2020-09-19T11:28:36,村上春树和牛油果
+conge.livingwithfcs.org,2020-09-19T11:28:36,请病假的这一天
+conge.livingwithfcs.org,2020-09-19T11:28:36,《见好》
+conge.livingwithfcs.org,2020-09-19T11:28:36,The FCS Foundation - FCS基金会
+conge.livingwithfcs.org,2020-09-19T11:28:36,一天 1
+conge.livingwithfcs.org,2019-12-23 12:23:23,新爸五年计划 | 131 不良情绪的发泄，要避开年龄过小的孩子
+conge.livingwithfcs.org,2019-07-24 07:24:24,新爸五年计划 | 110《呀!屁股》
+conge.livingwithfcs.org,2022-07-04T08:12:23,《大师与玛格丽特》
+conge.livingwithfcs.org,2020-09-19T11:28:36,今天是奇怪的一天
+conge.livingwithfcs.org,2020-09-19T11:28:36,和女儿聊天（三） 大房子 小地球
+conge.livingwithfcs.org,2020-09-19T11:28:36,职业发展反思 (十一)：面试之二
+conge.livingwithfcs.org,2020-09-19T11:28:36,FCS与胰腺炎
+conge.livingwithfcs.org,2019-09-13 09:13:13,新爸五年计划 117 | 女儿的生日会
+conge.livingwithfcs.org,2020-09-19T11:28:36,世界上第一个基因疗法药物的故事
+conge.livingwithfcs.org,2019-11-05 11:05:05,新爸五年计划 | 126 女儿断奶
+conge.livingwithfcs.org,2019-02-24 02:24:20,ML4T笔记 | 02-07 Dealing with data
+conge.livingwithfcs.org,2019-05-22 05:22:22,新爸五年计划 | 101 早睡早起
+conge.livingwithfcs.org,2019-07-02 07:02:02,职业发展反思-(一）：DS，RS-or-AS
+conge.livingwithfcs.org,2019-10-29 10:29:29,新爸五年计划 | 124 一托二
+conge.livingwithfcs.org,2019-02-18 02:18:18,ML4T笔记 | 02-05 How hedge funds use the CAPM
+conge.livingwithfcs.org,2019-01-28 01:28:28,ML4T笔记 | 03-03 Assessing a learning algorithm
+conge.livingwithfcs.org,2019-08-21 08:21:00,新爸五年计划 | 114 坏爸爸
+conge.livingwithfcs.org,2020-09-19T11:28:36,职业发展反思 (三)：转岗还是升职？
+conge.livingwithfcs.org,2019-01-21 01:21:21,ML4T笔记 | 03-01 How Machine Learning is used at a hedge fund
+conge.livingwithfcs.org,2020-09-19T11:28:36,你每小时赚多少钱？ -《Your Money or Your Life》读后3
+conge.livingwithfcs.org,2019-03-19 03:19:00,新爸五年计划 | 092 给儿子断夜奶
+conge.livingwithfcs.org,2020-09-19T11:28:36,一天 10
+conge.livingwithfcs.org,2020-09-19T11:28:36,《人性的弱点》读后
+conge.livingwithfcs.org,2020-09-19T11:28:36,差点儿忘了往退休账户里存钱
+conge.livingwithfcs.org,2019-10-03 10:03:03,新爸五年计划 | 120 和女儿聊天（五）不要生孩子
+conge.livingwithfcs.org,2019-11-13 11:13:13,ML4T 笔记 01-07 Sharpe ratio and other portfolio statistics
+conge.livingwithfcs.org,2020-09-19T11:28:36,《You Can't Make Me》
+conge.livingwithfcs.org,2020-09-19T11:28:36,FCS Support Group 成员满101啦
+conge.livingwithfcs.org,2019-01-29 01:29:29,"ML4T笔记 | 03-04 Ensemble learners, bagging and boosting"
+conge.livingwithfcs.org,2019-10-20 10:20:20,折返点-1942---秋
+conge.livingwithfcs.org,2020-09-19T11:28:36,《激荡十年，水大鱼大》
+conge.livingwithfcs.org,2020-09-19T11:28:36,《自由》
+conge.livingwithfcs.org,2020-09-19T11:28:36,KBAI 笔记 12 Logic
+conge.livingwithfcs.org,2019-01-10 10:01:01,ML4T-笔记---01-03-The-power-of-NumPy
+conge.livingwithfcs.org,2020-09-19T11:28:36,生命与财富 -《Your Money or Your Life》读后1
+conge.livingwithfcs.org,2020-09-19T11:28:36,FCS基金会医疗委员会成员介绍：Zahid Ahmad医生
+conge.livingwithfcs.org,2020-09-19T11:28:36,《黄雀记》读后 - 魂儿是个什么东西？ (1)
+conge.livingwithfcs.org,2020-09-19T11:28:36,FCS病友故事：Justin （一）
+conge.livingwithfcs.org,2020-09-19T11:28:36,KBAI 笔记 10 Incremental Concept Learning
+conge.livingwithfcs.org,2020-09-19T11:28:36,《投资最重要的事》
+conge.livingwithfcs.org,2019-09-18 09:18:18,新爸五年计划--118-儿子上幼儿园
+conge.livingwithfcs.org,2020-09-19T11:28:36,《金色梦乡》
+conge.livingwithfcs.org,2020-09-19T11:28:36,一天 5
+conge.livingwithfcs.org,2022-07-06T16:08:04,折返点 1927 | 带儿子去跑步
+conge.livingwithfcs.org,2020-09-19T11:28:36,《Soulful Simplicity》
+conge.livingwithfcs.org,2019-12-25 12:12:12,折返点-1951---铁人
+conge.livingwithfcs.org,2019-09-06 09:06:00,新爸五年计划 | 116 海洋馆
+conge.livingwithfcs.org,2019-04-17 04:17:17,新爸五年计划 | 096 哄睡的最快记录
+conge.livingwithfcs.org,2020-09-19T11:28:36,职业发展反思 (十)：面试之一
+conge.livingwithfcs.org,2020-09-19T11:28:36,每个罕见病，都有个拗口的名字
+conge.livingwithfcs.org,2020-09-19T11:28:36,一天 6
+conge.livingwithfcs.org,2019-05-18 05:18:18,折返点-1920---汗脚和旱脚
+conge.livingwithfcs.org,2019-03-23 03:23:23,Assignment 6:Design Document
+conge.livingwithfcs.org,2020-09-19T11:28:36,致我想见该见却未能见的
+conge.livingwithfcs.org,2020-09-19T11:28:36,给你们看看牛奶血
+conge.livingwithfcs.org,2020-09-19T11:28:36,今儿我中了15次四叶草勋章
+conge.livingwithfcs.org,2020-09-19T11:28:36,职业发展反思 (十二)：把换组的机会聊没了
+conge.livingwithfcs.org,2020-11-30T15:33:46,新爸五年计划 ｜ 094 流鼻血
+conge.livingwithfcs.org,2020-10-07T00:14:15,折返点 1802 ｜ 周日10英里
+conge.livingwithfcs.org,2020-09-19T11:28:36,一天 3
+conge.livingwithfcs.org,2019-02-12 02:12:12,新爸五年计划 | 087 年过了
+conge.livingwithfcs.org,2019-03-13 03:13:13,ML4T笔记 | 02-10 Portfolio optimization and the efficient frontier
+conge.livingwithfcs.org,2019-06-29 06:06:06,《Why-Wait-to-Be-Great-》
+conge.livingwithfcs.org,2019-02-09 02:09:09,折返点-1906---战低温
+conge.livingwithfcs.org,2020-09-19T11:28:36,价值投资 - 《Money Machine》读后
+conge.livingwithfcs.org,2020-09-19T11:28:36,FCS基金会医疗委员会成员介绍：Mary Felando
+conge.livingwithfcs.org,2020-09-19T11:28:36,父母对决MiraLax
+conge.livingwithfcs.org,2020-09-19T11:28:36,异地恋，怎样才能成功？ (一)
+conge.livingwithfcs.org,2020-09-19T11:28:36,为什么FCS患者特别不喜欢参加社交餐会
+conge.livingwithfcs.org,2019-05-12 05:12:12,新爸五年计划 | 100 落水
+conge.livingwithfcs.org,2020-09-19T11:28:36,《螺旋楼梯》与《和氏璧》
+conge.livingwithfcs.org,2019-10-16 10:16:16,新爸五年计划 | 122 南瓜农场
+conge.livingwithfcs.org,2020-09-19T11:28:36,职业发展反思 (四)：一个同事离职了
+conge.livingwithfcs.org,2019-09-01 09:01:01,折返点-1935---又买了两双Fitkicks
+conge.livingwithfcs.org,2020-09-19T21:34:16,《一本书读懂大数据》
+conge.livingwithfcs.org,2019-11-02 11:02:21,折返点-1944---打破夜跑的循环
+conge.livingwithfcs.org,2020-09-19T11:28:36,我的读书与听书APP
+conge.livingwithfcs.org,2019-04-13 04:13:13,GTD（一）终于听了《搞定》
+conge.livingwithfcs.org,2019-12-05 05:05:05,折返点-1948---这就是我跑步的功利性目的
+conge.livingwithfcs.org,2020-09-19T11:28:36,2017年3月 工作一周年
+conge.livingwithfcs.org,2019-07-19 07:19:19,新爸五年计划 | 109 唱歌催眠
+conge.livingwithfcs.org,2019-08-05 08:05:05,FCS-病人能献血吗？-1
+conge.livingwithfcs.org,2020-09-19T11:28:36,简书是否该开发个敏感词提醒功能？
+conge.livingwithfcs.org,2019-02-16 02:16:16,ML4T笔记 | 02-03 What is a company worth
+conge.livingwithfcs.org,2019-01-16 01:16:16,新爸五年计划 | 083 犟
+conge.livingwithfcs.org,2020-09-19T11:28:36,《The minimalist home》
+conge.livingwithfcs.org,2020-09-19T11:28:36,FCS Fundation的增加新人了
+conge.livingwithfcs.org,2019-03-31 03:31:31,情感槽 |《The 5 Love Languages》读后（三）
+conge.livingwithfcs.org,2019-05-30 05:30:30,新爸五年计划 | 102 带一天的孩子
+conge.livingwithfcs.org,2020-09-19T11:28:36,《为何家会伤人》
+conge.livingwithfcs.org,2020-09-19T11:28:36,《黄雀记》读后 - 魂儿是个什么东西？ (2)
+conge.livingwithfcs.org,2020-09-19T11:28:36,GTD （九） 我的GTD软件需求
+conge.livingwithfcs.org,2020-09-19T11:28:36,这几天的网络事件，Sony，朝鲜，美国，中国，Gmail
+conge.livingwithfcs.org,2019-12-05 12:05:05,新爸五年计划 ｜ 128 给女儿选学校
+conge.livingwithfcs.org,2020-09-19T11:28:36,小七
+conge.livingwithfcs.org,2019-10-21 10:21:21,新爸五年计划 | 123 一对一
+conge.livingwithfcs.org,2020-09-19T11:28:36,KBAI 笔记 13 Planning
+conge.livingwithfcs.org,2019-01-12 01:12:12,ML4T笔记 | 01-05 Incomplete data
+conge.livingwithfcs.org,2020-09-19T11:28:36,FCS 病人能献血吗？
+conge.livingwithfcs.org,2020-09-19T11:28:36,一天 2
+conge.livingwithfcs.org,2019-08-29 08:29:29,新爸五年计划 | 115 情绪传染
+conge.livingwithfcs.org,2020-09-19T11:28:36,有点儿不对劲儿
+conge.livingwithfcs.org,2019-01-06 01:06:06,折返点-1901---新的一年-加油
+conge.livingwithfcs.org,2020-09-19T11:28:36,KBAI 笔记 06 Production Systems
+conge.livingwithfcs.org,2020-09-19T11:28:36,ML4T 总结
+conge.livingwithfcs.org,2020-09-19T11:28:36,《无所畏》冯唐
+conge.livingwithfcs.org,2020-09-19T11:28:36,零购买 Buy nothing
+conge.livingwithfcs.org,2019-08-01 08:01:00,新爸五年计划 ｜ 111 装病？
+conge.livingwithfcs.org,2020-09-19T11:28:36,《How to Have a Good Day》
+conge.livingwithfcs.org,2019-09-30 09:30:00,折返点-1939---又一家店对我光脚有意见
+conge.livingwithfcs.org,2020-10-07T00:14:15,"ML4T | week9 The Big Short, Time Series Data and Technical Trading"
+conge.livingwithfcs.org,2020-09-19T11:28:36,LPLD Alliance - LPLD 联盟
+conge.livingwithfcs.org,2019-03-25 03:25:25,折返点-1912---陪女儿夜跑成为我的新习惯
+conge.livingwithfcs.org,2020-09-19T11:28:36,一天 8
+conge.livingwithfcs.org,2019-04-07 04:07:07,折返点-1914---跑步如何不受伤-（五）别跑
+conge.livingwithfcs.org,2019-08-07 08:07:07,新爸五年计划 112 | 孩子的暑假累大人
+conge.livingwithfcs.org,2020-09-19T11:28:36,《贫穷的终结》重贴
+conge.livingwithfcs.org,2020-09-19T11:28:36,《假如给我三天光明》
+conge.livingwithfcs.org,2019-12-29 12:12:12,折返点-1952---重心
+conge.livingwithfcs.org,2019-03-05 03:05:05,ML4T笔记 | 02-09 The Fundamental Law of active portfolio management
+conge.livingwithfcs.org,2020-09-19T11:28:36,《妈阁是座城》
+conge.livingwithfcs.org,2020-11-27T12:51:57,小七和嘟嘟的告别
+conge.livingwithfcs.org,2020-09-19T11:28:36,生气
+conge.livingwithfcs.org,2019-01-20 01:20:20,折返点-1903---感冒快点儿好
+conge.livingwithfcs.org,2019-03-28 03:28:28,新爸五年计划 | 093 给儿子断夜奶（二）
+conge.livingwithfcs.org,2020-09-19T11:28:36,不好吃，不想吃，不爱吃，不能吃
+conge.livingwithfcs.org,2019-07-18 07:18:18,折返点-1929---也许，无鞋是最好的鞋
+conge.livingwithfcs.org,2019-10-14 10:14:14,折返点-1941---当疲惫来袭
+conge.livingwithfcs.org,2020-09-19T11:28:36,FCS基金会医疗委员会成员介绍：Vikesh Singh医生
+conge.livingwithfcs.org,2020-09-19T11:28:36,《银河系搭车客指南》
+conge.livingwithfcs.org,2022-02-17T15:14:07,《The minimalist home》中的极简技巧
+conge.livingwithfcs.org,2020-09-19T11:28:36,《菊次郎与佐纪》
+conge.livingwithfcs.org,2019-04-26 04:26:26,GTD （五）我为什么喜欢Doit-im
+conge.livingwithfcs.org,2020-09-19T11:28:36,像叠石那样叠习惯
+conge.livingwithfcs.org,2020-09-19T11:28:36,对iPhone SE的几点不满意
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点 1949 ｜脚趾下的小洞
+conge.livingwithfcs.org,2019-03-17 03:17:17,折返点-1911---夜跑的一周
+conge.livingwithfcs.org,2020-09-19T11:28:36,白色血液
+conge.livingwithfcs.org,2019-02-08 02:08:08,新爸五年计划 | 086 过年
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点 1950 ｜黑
+conge.livingwithfcs.org,2019-12-10 12:10:10,《Digital-Minimalism》
+conge.livingwithfcs.org,2018-01-07 01:07:07,折返点-1801---新年第一周
+conge.livingwithfcs.org,2019-04-29 04:29:29,折返点-1917---女儿的第一次跑步比赛
+conge.livingwithfcs.org,2020-09-19T11:28:36,KBAI 笔记 04 Generate and Test
+conge.livingwithfcs.org,2021-08-18T12:21:39,折返点-1909 | 跑步如何不受伤（二）控制野心
+conge.livingwithfcs.org,2020-09-19T11:28:36,职业发展反思 (二)：转岗还是升职？
+conge.livingwithfcs.org,2019-03-07 03:07:07,新爸五年计划 | 090 生病(三)
+conge.livingwithfcs.org,2019-08-07 07:07:07,《八十天环游地球》-1
+conge.livingwithfcs.org,2019-11-02 11:02:02,新爸五年计划 | 125 Halloween
+conge.livingwithfcs.org,2019-06-11 06:11:00,新爸五年计划 | 104 西梅赞
+conge.livingwithfcs.org,2020-09-19T11:28:36,《The Rosie Project》
+conge.livingwithfcs.org,2019-04-24 04:24:00,新爸五年计划 | 097 给儿子断夜奶（三）
+conge.livingwithfcs.org,2020-09-19T11:28:36,《风之影四部曲》
+conge.livingwithfcs.org,2020-09-19T11:28:36,《知易行难 王阳明》
+conge.livingwithfcs.org,2020-09-19T11:28:36,异地恋，怎样才能成功？ (二)
+conge.livingwithfcs.org,2020-09-19T11:28:36,不测风云
+conge.livingwithfcs.org,2020-09-19T11:28:36,《Living an Examined Life》
+conge.livingwithfcs.org,2019-01-02 01:02:02,新爸五年计划 | 081 在动物园跨年
+conge.livingwithfcs.org,2020-09-19T11:28:36,GTD （七）NirvanaHQ
+conge.livingwithfcs.org,2020-09-19T11:28:36,《世界的凛冬》
+conge.livingwithfcs.org,2019-10-11 11:11:11,《贫穷的终结》
+conge.livingwithfcs.org,2020-09-19T11:28:36,异地恋，怎样才能成功？ (三)
+conge.livingwithfcs.org,2020-09-19T11:28:36,一天 7
+conge.livingwithfcs.org,2019-07-10 07:10:10,新爸五年计划 | 108 夜哭和开塞露
+conge.livingwithfcs.org,2019-02-01 02:01:01,新爸五年计划 | 085 回国
+conge.livingwithfcs.org,2020-09-19T11:28:36,2018二三事
+conge.livingwithfcs.org,2020-09-19T11:28:36,《关键提问》
+conge.livingwithfcs.org,2020-09-19T11:28:36,零收件箱原则
+conge.livingwithfcs.org,2020-09-19T11:28:36,《My Life as Goddess》
+conge.livingwithfcs.org,2019-05-26 05:26:26,折返点-1921---70后都有人说老了？
+conge.livingwithfcs.org,2022-07-06T16:08:04,折返点-1926---黑猫
+conge.livingwithfcs.org,2020-09-19T11:28:36,退了iPhone SE
+conge.livingwithfcs.org,2020-09-19T11:28:36,吞下那只青蛙
+conge.livingwithfcs.org,2020-09-19T11:28:36,和女儿聊天（二）地球，星星和软月亮
+conge.livingwithfcs.org,2020-09-19T11:28:36,我进公司后参加的微信群
+conge.livingwithfcs.org,2020-09-19T11:28:36,落枕
+conge.livingwithfcs.org,2019-04-14 04:14:14,折返点-1915---脚豆儿
+conge.livingwithfcs.org,2019-04-22 04:22:22,GTD （三）Doit-im
+conge.livingwithfcs.org,2020-09-19T11:28:36,2日游记
+conge.livingwithfcs.org,2019-01-22 01:22:22,新爸五年计划 084 “我生气啦”
+conge.livingwithfcs.org,2020-09-19T11:28:36,西雅图小震
+conge.livingwithfcs.org,2020-09-19T11:28:36,人生玩儿着过 - 读《玩儿》
+conge.livingwithfcs.org,2019-01-12 01:12:12,ML4T笔记 | 01-06 Histograms and scatterplots
+conge.livingwithfcs.org,2020-09-19T11:28:36,和女儿聊天（四）烤星星
+conge.livingwithfcs.org,2019-01-21 01:21:21,ML4T笔记 | 01-09 Optimizers: How to optimize a portfolio
+conge.livingwithfcs.org,2019-03-30 03:02:02,折返点 1913 | 跑步如何不受伤（四）慢跑的窍门
+conge.livingwithfcs.org,2019-08-19 08:19:19,折返点-1933---恢复脚底
+conge.livingwithfcs.org,2020-09-19T11:28:36,《门口的野蛮人》
+conge.livingwithfcs.org,2019-10-28 10:28:28,《永恒的边缘》
+conge.livingwithfcs.org,2022-02-17T15:14:07,《极简父母法则》
+conge.livingwithfcs.org,2020-09-19T11:28:36,职业发展反思 (九)：同事的建议
+conge.livingwithfcs.org,2020-09-19T11:28:36,GTD （四）来杯茶（TEA）
+conge.livingwithfcs.org,2020-09-19T11:28:36,户口
+conge.livingwithfcs.org,2019-10-07 10:07:07,新爸五年计划 | 121 女儿学会骑自行车了
+conge.livingwithfcs.org,2019-01-23 09:13:42,ML4T笔记 | 03-02 Regression
+conge.livingwithfcs.org,2019-08-14 08:14:00,新爸五年计划 ｜ 113 看灯
+conge.livingwithfcs.org,2019-06-09 06:09:00,新爸五年计划 | 105 孩子学英语
+conge.livingwithfcs.org,2020-09-19T11:28:36,纯色桌面
+conge.livingwithfcs.org,2020-09-19T11:28:36,《教出乐观的孩子》（二）
+conge.livingwithfcs.org,2020-09-19T11:28:36,KBAI 笔记 03 Semantic Networks
+conge.livingwithfcs.org,2021-04-12T12:49:23,折返点 1916 | 耳机
+conge.livingwithfcs.org,2020-09-19T11:28:36,GTD （六）Things
+conge.livingwithfcs.org,2019-05-01 05:01:01,新爸五年计划 | 098 爱与自由
+conge.livingwithfcs.org,2020-09-19T11:28:36,智能设备 傻瓜操作
+conge.livingwithfcs.org,2020-09-19T11:28:36,KBAI 笔记 02 Intro to CS6737
+conge.livingwithfcs.org,2020-09-19T11:28:36,是什么使你开始改变？
+conge.livingwithfcs.org,2020-09-22T23:47:00,折返点-1932---赤脚四个星期的感受
+conge.livingwithfcs.org,2020-09-19T11:28:36,用三星的 970 EVO M.2 替换了Macbook Pro SSD
+conge.livingwithfcs.org,2020-09-19T11:28:36,职业发展反思 (七)：换组
+conge.livingwithfcs.org,2019-02-17 02:17:17,折返点-1907---没想到每天跑步还会有肌肉酸痛的现象
+conge.livingwithfcs.org,2019-03-09 03:09:09,折返点-1910---跑步如何不受伤-（三）了解身体
+conge.livingwithfcs.org,2020-09-19T11:28:36,"《你要做的,只不过是发现生活之美》"
+conge.livingwithfcs.org,2019-03-28 08:26:26,爱与性 《The 5 Love Languages》读后（二）
+conge.livingwithfcs.org,2020-09-19T11:28:36,穷家富路
+conge.livingwithfcs.org,2019-12-21 12:21:21,新爸五年计划 | 130 公立还是私立
+conge.livingwithfcs.org,2019-02-20 02:20:20,ML4T笔记 | 02-06 Technical Analysis
+conge.livingwithfcs.org,2020-09-19T11:28:36,降血脂的一个偏方
+conge.livingwithfcs.org,2022-07-05T11:19:35,阻击胰腺炎（二）
+conge.livingwithfcs.org,2020-09-19T11:28:36,《教出乐观的孩子》（三）
+conge.livingwithfcs.org,2019-09-24 09:24:24,新爸五年计划 | 119 儿子哭了一早上
+conge.livingwithfcs.org,2020-09-19T11:28:36,买了个iPhone SE
+conge.livingwithfcs.org,2019-04-10 04:10:10,新爸五年计划 | 095 屎尿歌
+conge.livingwithfcs.org,2020-09-19T11:28:36,好爸爸会怎么做
+conge.livingwithfcs.org,2020-09-19T11:28:36,《The Untethered Soul》
+conge.livingwithfcs.org,2020-09-19T11:28:36,我不是瘦子
+conge.livingwithfcs.org,2020-09-19T11:28:36,FCS 病友要注意不能缺水
+conge.livingwithfcs.org,2020-09-19T11:28:36,出差
+conge.livingwithfcs.org,2019-02-02 02:02:02,护照
+conge.livingwithfcs.org,2020-09-19T11:28:36,《金字塔原理》
+conge.livingwithfcs.org,2021-08-16 13:56:00,折返点 2132｜沙滩
+conge.livingwithfcs.org,2021-07-24 08:04:11,新爸五年计划 | 212 Camping at Ohanapecosh and White River
+conge.livingwithfcs.org,2021-06-27 08:22:00,折返点 2125｜ 早上跑步空腹跑真的一点东西都不吃吗？
+conge.livingwithfcs.org,2021-06-19 00:52:11,新爸五年计划 | 207 老师们的礼物
+conge.livingwithfcs.org,2021-10-18 22:37:00,折返点 2141｜跑马拉松最好给自己至少三个月的训练时间
+conge.livingwithfcs.org,2021-05-23 11:55:00,折返点 2120｜ 愿在甘肃白银越野马拉松比赛中失去生命的跑者们安息
+conge.livingwithfcs.org,2021-05-09 14:42:00,新爸五年计划 | 201 小鸭小鹅
+conge.livingwithfcs.org,2021-04-03 00:23:11,新爸五年计划 | 196 车祸
+conge.livingwithfcs.org,2021-01-24 12:47:00,折返点 2103｜ 跑个2021
+conge.livingwithfcs.org,2021-09-06T14:01:44,新爸五年计划 | 205 DashPoint State Park
+conge.livingwithfcs.org,2021-02-27 23:12:00,折返点 2108｜ 骑车
+conge.livingwithfcs.org,2021-03-21T21:56:12,折返点 2111 ｜ 赤脚跑步的挑战
+conge.livingwithfcs.org,2021-01-02 23:14:00,折返点 2053 | Happy New Year!
+conge.livingwithfcs.org,2021-07-31T15:33:56,新爸五年计划 | 213 信箱里的树叶
+conge.livingwithfcs.org,2021-02-19 22:23:11,新爸五年计划 | 190 推车发霉长锈了
+conge.livingwithfcs.org,2021-03-20T23:28:02,折返点 2110｜ 初学跑者不妨试试赤脚
+conge.livingwithfcs.org,2021-01-14T11:28:32,设计生活 - 读《Design the Life You Love》
+conge.livingwithfcs.org,2021-04-23 17:41:11,新爸五年计划 | 199 Gecki
+conge.livingwithfcs.org,2021-10-10 17:52:11,新爸五年计划 | 223 Kids Learning Tube
+conge.livingwithfcs.org,2021-02-06 09:23:11,新爸五年计划 | 188 该不该对小孩子进行政治上的教育呢
+conge.livingwithfcs.org,2021-05-01 15:10:11,新爸五年计划 | 200 关于自由与自律的一些思考
+conge.livingwithfcs.org,2021-06-02 11:49:00,折返点 2121｜ 不要推迟锻炼，可以推迟犯懒
+conge.livingwithfcs.org,2021-05-02T11:53:19,折返点 2116｜ 运动加补钙可以长高呀！
+conge.livingwithfcs.org,2021-09-06T13:59:12,新爸五年计划 | 215 Kalaloch Beach Campground
+conge.livingwithfcs.org,2021-12-19 00:06:06,折返点 2150｜成为跑者
+conge.livingwithfcs.org,2021-12-10 16:41:32,新爸五年计划 | 232 如何养育男孩
+conge.livingwithfcs.org,2021-12-31T20:28:20,2021跑步总结
+conge.livingwithfcs.org,2021-05-09 16:13:00,折返点 2118｜ 先半马破2还是先刷全马？
+conge.livingwithfcs.org,2021-03-07T23:27:19,折返点 2109｜ Phaiser Flexcore
+conge.livingwithfcs.org,2021-04-23T17:46:36,新爸五年计划 | 197 复活节
+conge.livingwithfcs.org,2021-09-17 23:02:41,新爸五年计划 | 220 女儿七岁了
+conge.livingwithfcs.org,2021-03-06T18:37:18,新爸五年计划 | 191 无条件的爱孩子
+conge.livingwithfcs.org,2021-08-29T01:52:44,折返点 2134｜跑步动力不足怎么半？
+conge.livingwithfcs.org,2021-12-04T22:45:23,折返点 2148｜能不能跑步？
+conge.livingwithfcs.org,2021-12-31T20:30:52,2020，我读过的书
+conge.livingwithfcs.org,2021-01-30T23:16:49,折返点 2104｜ GME
+conge.livingwithfcs.org,2021-01-16 00:46:11,新爸五年计划 | 185 在美国Woke的环境下如何带孩子
+conge.livingwithfcs.org,2021-01-05T14:29:28,2020，我的新习惯
+conge.livingwithfcs.org,2021-10-03 22:47:00,折返点 2139｜保护膝盖
+conge.livingwithfcs.org,2021-09-12 11:13:00,折返点 2136｜秋天快来了
+conge.livingwithfcs.org,2021-01-02 22:40:11,新爸五年计划 | 183 减少怒气
+conge.livingwithfcs.org,2021-01-10 00:23:11,新爸五年计划 | 184 玩雪
+conge.livingwithfcs.org,2021-02-13 20:45:00,折返点 2106｜ 在雪地里撒点儿野
+conge.livingwithfcs.org,2021-09-06 15:08:00,折返点 2135｜冬季跑步怎么穿？
+conge.livingwithfcs.org,2021-07-24 09:41:00,折返点 2129｜人和人是有先天巨大差距的
+conge.livingwithfcs.org,2021-04-18T23:29:21,折返点 2115｜ 每双鞋子大概能跑600公里
+conge.livingwithfcs.org,2021-12-11T23:30:21,折返点 2149 ｜ 说几句跑步减肥的话题
+conge.livingwithfcs.org,2021-03-20 11:23:11,新爸五年计划 | 194 理发
+conge.livingwithfcs.org,2021-04-04T23:39:17,折返点 2112 ｜ 对一些跑步相关问题的回答
+conge.livingwithfcs.org,2021-10-30 23:40:46,新爸五年计划 | 226 信任如何建立
+conge.livingwithfcs.org,2021-11-20 21:59:00,新爸五年计划 | 229 冬令时和睡眠变化
+conge.livingwithfcs.org,2021-09-18 10:56:00,折返点 2137｜为什么跑步
+conge.livingwithfcs.org,2021-07-17 13:23:00,折返点 2128｜慢慢跑，比较快
+conge.livingwithfcs.org,2021-06-01 23:59:11,新爸五年计划 | 204 三文鱼和 Jog-a-thon
+conge.livingwithfcs.org,2021-10-24T20:45:38,新爸五年计划 | 224 滑冰课
+conge.livingwithfcs.org,2021-09-06T13:59:12,新爸五年计划 | 209 Camano Island State Park
+conge.livingwithfcs.org,2021-10-31 11:56:42,折返点 2143｜ 坚持跑过冬天
+conge.livingwithfcs.org,2021-07-17T14:08:24,新爸五年计划 | 211 合气道
+conge.livingwithfcs.org,2021-01-22 15:47:11,新爸五年计划 | 186 一盘炒鸡蛋
+conge.livingwithfcs.org,2021-06-19 22:29:00,折返点 2124｜空腹跑还是吃完东西跑？
+conge.livingwithfcs.org,2021-09-06 14:24:00,新爸五年计划 | 218 Dash Point State Park again
+conge.livingwithfcs.org,2022-07-12T14:20:34,新爸五年计划 | 234 圣诞快乐
+conge.livingwithfcs.org,2021-02-23T11:41:21,折返点 2107｜ 二摔
+conge.livingwithfcs.org,2021-07-09 22:24:11,新爸五年计划 | 210 屡教不改的发脾气
+conge.livingwithfcs.org,2021-04-10 09:41:00,折返点 2114｜ 一事有恒，则万事皆可渐振
+conge.livingwithfcs.org,2021-06-13 23:16:00,折返点 2123｜ 初跑者，不要追求距离或速度
+conge.livingwithfcs.org,2021-12-05T08:52:24,折返点 2146 | 尝试断食
+conge.livingwithfcs.org,2021-09-06T13:59:12,新爸五年计划 | 208 Cama Beach State Park
+conge.livingwithfcs.org,2024-01-19T14:40:56,新爸五年计划 | 225 钢琴
+conge.livingwithfcs.org,2021-11-28T14:07:08,折返点 2147｜Never stop running
+conge.livingwithfcs.org,2021-07-11T11:53:59,折返点 2126｜ 500米都跑不了，该怎么开始？
+conge.livingwithfcs.org,2021-07-12 21:21:00,折返点 2127｜大家下雨天也会去室外跑步吗？
+conge.livingwithfcs.org,2021-01-11T00:54:34,折返点 2101｜ 记录跑步天气
+conge.livingwithfcs.org,2021-11-13 21:30:00,折返点 2145｜小腿
+conge.livingwithfcs.org,2021-10-03 23:34:11,新爸五年计划 | 222 一次聚会
+conge.livingwithfcs.org,2021-06-02T11:48:09,折返点 2119｜ 祝我生日快乐
+conge.livingwithfcs.org,2021-09-26 13:39:00,折返点 2138｜用20天准备半马的方法
+conge.livingwithfcs.org,2021-11-27 22:14:55,新爸五年计划 | 230 Thanksgiving
+conge.livingwithfcs.org,2021-08-07 15:20:00,折返点 2131｜遇到极端天气还跑步吗？
+conge.livingwithfcs.org,2021-04-04T23:39:17,折返点 2113｜ 运动手表要买吗？
+conge.livingwithfcs.org,2021-09-27 01:32:11,新爸五年计划 | 221 Twin Harbors State Park
+conge.livingwithfcs.org,2021-08-29T01:18:28,新爸五年计划 | 217 孩子们的画
+conge.livingwithfcs.org,2021-12-27T01:36:15,折返点 2151｜赤脚跑步的危险之处
+conge.livingwithfcs.org,2021-03-06T18:37:18,新爸五年计划 | 192 好妈妈胜过好老师
+conge.livingwithfcs.org,2021-10-10T17:51:06,折返点 2140｜疼的话，就应该休息
+conge.livingwithfcs.org,2021-01-17 13:59:00,折返点 2102｜ 关于存在的层次
+conge.livingwithfcs.org,2021-05-22 00:23:11,新爸五年计划 | 203 感恩
+conge.livingwithfcs.org,2021-09-11 22:17:11,新爸五年计划 | 219 Skipley Farm
+conge.livingwithfcs.org,2021-12-19T01:06:46,新爸五年计划 | 233 冬至将至
+conge.livingwithfcs.org,2022-03-14T21:05:22,新爸五年计划 | 198 春假
+conge.livingwithfcs.org,2021-09-06T14:01:44,新爸五年计划 | 206 Penrose Point State Park Camping
+conge.livingwithfcs.org,2021-10-24 20:54:00,折返点 2142｜避免伤痛
+conge.livingwithfcs.org,2021-08-22 23:24:11,新爸五年计划 | 216 Farm Life
+conge.livingwithfcs.org,2022-01-02T01:29:38,2021，我读过的书
+conge.livingwithfcs.org,2021-05-16T23:42:41,新爸五年计划 | 202 儿子四岁了
+conge.livingwithfcs.org,2021-02-13 17:09:11,新爸五年计划 | 189 新春快乐 牛年大吉
+conge.livingwithfcs.org,2021-11-13 08:53:11,新爸五年计划 | 228 学滑冰 学拼音
+conge.livingwithfcs.org,2021-03-12 10:07:11,新爸五年计划 | 193 儿子学英语
+conge.livingwithfcs.org,2021-01-15 12:10:11,报纸消失
+conge.livingwithfcs.org,2021-12-04 22:14:10,新爸五年计划 | 231 女儿首次独奏
+conge.livingwithfcs.org,2021-05-02 11:50:00,折返点 2117｜叉腰大师
+conge.livingwithfcs.org,2021-11-07 21:09:30,折返点 2144 | 跑鞋带来的问题
+conge.livingwithfcs.org,2021-07-31 15:31:00,折返点 2130｜跑与不跑，哪个更难？
+conge.livingwithfcs.org,2021-08-07 13:16:11,新爸五年计划 | 214 看奥运
+conge.livingwithfcs.org,2021-01-30 08:40:11,新爸五年计划 | 187 Secret Agent 23 Skidoo
+conge.livingwithfcs.org,2021-11-06 23:37:53,新爸五年计划 | 227 Holloween 要糖
+conge.livingwithfcs.org,2021-03-27T02:26:13,新爸五年计划 | 195 孩子的中文课
+conge.livingwithfcs.org,2021-08-23T16:31:01,折返点 2133｜跑步的意义
+conge.livingwithfcs.org,2021-06-07 15:07:00,折返点 2122｜ 怎样跑步不伤膝盖啊?
+conge.livingwithfcs.org,2021-02-13T21:51:56,折返点 2105｜ 自行车 
+conge.livingwithfcs.org,2020-11-07 20:23:11,新爸五年计划 | 175 万圣节的糖果
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点 2018 ｜ 跑步流程的小改动
+conge.livingwithfcs.org,2020-09-19T11:28:36,新爸五年计划 ｜ 162 和泥
+conge.livingwithfcs.org,2020-12-17T14:04:23,折返点 2047｜ Water Bottle
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点 2031 ｜ 每天在朋友圈发一条跑步的消息
+conge.livingwithfcs.org,2020-01-17 01:17:17,新爸五年计划 | 134 冒傻气
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点 2032 ｜ 重跑上班路
+conge.livingwithfcs.org,2020-03-31 08:08:08,折返点-2012---记一次面试
+conge.livingwithfcs.org,2020-09-19T11:28:36,新爸五年计划 ｜160 不要打孩子
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点 2024 ｜又开始赤脚跑步了
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点 2016 ｜想要早起
+conge.livingwithfcs.org,2020-10-24T01:02:00,新爸五年计划 | 172 儿子二三事
+conge.livingwithfcs.org,2020-12-19T21:47:31,折返点 2050｜ NLA 线上五公里比赛
+conge.livingwithfcs.org,2020-01-28 01:28:20,折返点 2004｜曼巴精神
+conge.livingwithfcs.org,2020-02-28 02:28:28,新爸五年计划 | 14 -这个小孩决定自己拉粑粑了
+conge.livingwithfcs.org,2020-10-29 11:05:00,用写字打败沮丧
+conge.livingwithfcs.org,2020-10-02 10:44:00,新爸五年计划 170｜ 开学开门红
+conge.livingwithfcs.org,2022-02-17T15:14:07,折返点 2028 ｜ 夏日跑步，装备极简
+conge.livingwithfcs.org,2020-09-19T11:28:36,新爸五年计划 ｜161  关于开学
+conge.livingwithfcs.org,2020-11-29T09:04:58,折返点 2048｜怕冷吗
+conge.livingwithfcs.org,2020-04-29 04:29:29,新爸五年计划 | 148 爱自己
+conge.livingwithfcs.org,2020-09-19T11:28:36,新爸五年计划 ｜158 爱扔东西
+conge.livingwithfcs.org,2020-03-07 08:08:08,折返点-2010---健康最重要
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点 2023 ｜如何创造奇迹？
+conge.livingwithfcs.org,2020-06-24 06:24:24,新爸五年计划 | 156 过父亲节
+conge.livingwithfcs.org,2020-10-13T17:34:36,新爸五年计划 171｜ 女儿在学校的庆生
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点 2036｜区别
+conge.livingwithfcs.org,2020-12-15T16:31:55,新爸五年计划 | 145 越起越早
+conge.livingwithfcs.org,2020-01-25 01:25:25,新爸五年计划 | 135儿子学了两个坏毛病
+conge.livingwithfcs.org,2020-01-04 04:04:04,折返点-2001---挑战开始
+conge.livingwithfcs.org,2022-07-07T08:54:29,折返点2027 ｜ 跑个步也得受教育
+conge.livingwithfcs.org,2022-06-24T18:06:53,折返点 2020 ｜ 数呼吸
+conge.livingwithfcs.org,2020-03-23 03:23:23,新爸五年计划 | 143 老得快太快了
+conge.livingwithfcs.org,2020-03-07 07:08:09,折返点-2009---西雅图的COVID-19疫情开始
+conge.livingwithfcs.org,2020-02-20 02:20:20,新爸五年计划 | 139 Snow Tubing
+conge.livingwithfcs.org,2020-02-06 02:06:06,新爸五年计划 | 137 上班游戏
+conge.livingwithfcs.org,2020-05-30 05:30:30,新爸五年计划 | 152 如何做一个好爸爸
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点 2035 ｜ 偷不得懒
+conge.livingwithfcs.org,2022-04-08T12:34:16,折返点 2005 | 冥想
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点 2033 ｜山里毕竟清凉
+conge.livingwithfcs.org,2020-07-17 07:17:17,新爸五年计划-｜159-三件套
+conge.livingwithfcs.org,2020-10-13T17:34:36,折返点 2040｜ 女儿的车夫
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点 2021 ｜ 五月天
+conge.livingwithfcs.org,2020-04-02 04:02:02,新爸五年计划 | 144 度疫如年
+conge.livingwithfcs.org,2020-10-25T11:19:08,折返点 2043｜ 常在路上赤脚跑，怎能不见Splinter
+conge.livingwithfcs.org,2020-11-17T11:31:16,折返点 2045｜ 跑步的时候不怕冷
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点2026 ｜ 改变需要付出代价
+conge.livingwithfcs.org,2020-10-05T00:06:24,折返点 2039｜FCS RUN4RARE Virtual 5K
+conge.livingwithfcs.org,2020-09-19T11:28:36,新爸五年计划 ｜ 165 捡果子 （一）黑莓
+conge.livingwithfcs.org,2020-12-12 10:40:00,新爸五年计划 | 180 学期末的反馈
+conge.livingwithfcs.org,2020-04-16 04:16:16,新爸五年计划 | 146 还是公园好
+conge.livingwithfcs.org,2020-12-25 21:53:11,新爸五年计划 | 182 居然下了雪
+conge.livingwithfcs.org,2020-09-21T00:03:19,折返点 2038｜雾霾终于过去
+conge.livingwithfcs.org,2020-02-12 02:12:12,新爸五年计划 | 138 又得调整小家伙儿们的睡眠了
+conge.livingwithfcs.org,2020-10-19T22:47:49,折返点 2042｜ 不怕冷的人
+conge.livingwithfcs.org,2020-10-31 23:35:11,新爸五年计划 | 174 买房
+conge.livingwithfcs.org,2020-12-20T23:51:57,折返点 2051 | 痛苦，但可承受
+conge.livingwithfcs.org,2020-12-19T21:40:48,新爸五年计划  | 181 寒假第一天
+conge.livingwithfcs.org,2020-07-02 07:02:02,新爸五年计划 | 157 夜惊症 Night Terror
+conge.livingwithfcs.org,2020-06-06 06:06:06,新爸五年计划 | |153 和儿子理了同样的发型
+conge.livingwithfcs.org,2022-04-08T11:12:37,折返点 2017 ｜跑步时冥想
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点 2034 ｜ 掉一小块肉
+conge.livingwithfcs.org,2021-01-01T09:35:06,2020跑步总结
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点 2015 ｜关闭公园
+conge.livingwithfcs.org,2020-06-12 06:12:12,新爸五年计划 | 154 警报耳朵
+conge.livingwithfcs.org,2020-01-07 01:07:07,新爸五年计划 | 133 日记
+conge.livingwithfcs.org,2020-09-19T11:28:36,新爸五年计划 ｜ 163 当爸爸
+conge.livingwithfcs.org,2020-12-29T16:17:23,折返点-2003---下雪的一周
+conge.livingwithfcs.org,2022-06-24T18:06:53,折返点-2006 ｜ 呼吸的冥想
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点 2025 ｜ 跑步的美感
+conge.livingwithfcs.org,2021-01-02T23:28:41,折返点 2046｜ 我都跑步穿衣指导原则
+conge.livingwithfcs.org,2020-01-29 01:29:29,新爸五年计划 | 136 爆竹声中一岁除
+conge.livingwithfcs.org,2020-12-01T13:57:46,新爸五年计划 | 178 彩虹桥
+conge.livingwithfcs.org,2020-04-02 04:02:02,折返点-2013---感恩于我仍能跑步
+conge.livingwithfcs.org,2020-11-01 22:28:00,折返点 2044｜ 世界换了中心
+conge.livingwithfcs.org,2020-10-11T01:01:58,折返点 2041 | 正反循环
+conge.livingwithfcs.org,2020-05-23 05:23:23,新爸五年计划 | 151 Happy-Birthdays
+conge.livingwithfcs.org,2020-01-11 01:11:11,折返点-2002---精力管理
+conge.livingwithfcs.org,2020-09-24 17:10:11,新爸五年计划 169｜ 疫情中的开学
+conge.livingwithfcs.org,2020-09-19T11:28:36,新爸五年计划 ｜ 164 西雅图很是热了几天
+conge.livingwithfcs.org,2020-03-14 14:14:14,折返点-2011---人在屋里呆久了，会疯吗
+conge.livingwithfcs.org,2020-05-12 05:12:12,新爸五年计划 | 150 初夏两则
+conge.livingwithfcs.org,2020-10-24 00:04:11,新爸五年计划 | 173 更多儿子喜欢上学的证据
+conge.livingwithfcs.org,2020-09-19T11:28:36,新爸五年计划 ｜ 167 离开简书
+conge.livingwithfcs.org,2020-06-18 06:18:18,新爸五年计划 | 155 女儿的Storybots 手工玩具
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点 2030 ｜口罩令
+conge.livingwithfcs.org,2020-04-04 04:04:04,折返点-2014---跑步趁人少
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点 2022 ｜brain dump
+conge.livingwithfcs.org,2020-12-06T23:23:21,折返点 2049 | 这还是西雅图的冬天吗？
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点 2037 ｜雾霾又来
+conge.livingwithfcs.org,2020-11-13 22:40:11,新爸五年计划 | 176 can I have 喵喵 so you can have 喵喵？
+conge.livingwithfcs.org,2020-02-20 14:20:20,折返点-2007---赤脚跑步，就等到春暖花开的时候再说吧
+conge.livingwithfcs.org,2020-02-25 02:25:00,折返点-2008---跑步不要思前想后
+conge.livingwithfcs.org,2020-05-02 05:02:02,新爸五年计划 | 149 推着儿子跑了两次步
+conge.livingwithfcs.org,2020-03-07 03:07:07,新爸五年计划 ｜ 141 孩子还是应该宠一宠
+conge.livingwithfcs.org,2020-09-19T11:28:36,新爸五年计划  166 捡果子 （二）李子
+conge.livingwithfcs.org,2020-09-19T11:28:36,FCS Foundation 网站小记
+conge.livingwithfcs.org,2020-09-24T17:12:57,新爸五年计划 ｜168 捡果子（三） 西红柿
+conge.livingwithfcs.org,2020-04-23 04:23:23,新爸五年计划 | 147 循环播放的StoryBots
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点 2029 ｜2020的第200天
+conge.livingwithfcs.org,2020-11-20 23:23:11,新爸五年计划 | 177 新的作息
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点 2019 ｜卸载了Fitbit App
+conge.livingwithfcs.org,2020-12-04 20:23:11,新爸五年计划 | 179 Shark Teeth
+conge.livingwithfcs.org,2020-12-29T14:15:54,折返点 2052 | 跑步伤害膝盖，那还跑吗？
+conge.livingwithfcs.org,2021-05-17T12:36:24,HCI 笔记 总目录
+conge.livingwithfcs.org,2018-09-09 09:09:09,折返点 1836 | 跑在下雨天
+conge.livingwithfcs.org,2018-02-12 02:12:12,新爸五年计划 | 034 夜醒
+conge.livingwithfcs.org,2018-12-14 12:14:14,"新爸五年计划 | 078 不用照顾孩子, 却得照顾兔子"
+conge.livingwithfcs.org,2018-09-14 09:14:14,新爸五年计划 | 065 一个人（3）
+conge.livingwithfcs.org,2018-11-30 11:30:30,新爸五年计划 | 076 姥姥姥爷来了
+conge.livingwithfcs.org,2018-08-02 08:02:02,折返点-1830---阶段性睡眠
+conge.livingwithfcs.org,2018-10-17 10:17:17,折返点1840 | 回国的两周都是美好的晴天
+conge.livingwithfcs.org,2018-11-21 11:21:21,折返点-1846---晴与温暖不可兼得
+conge.livingwithfcs.org,2018-02-26 02:26:26,折返点 1808 | 发烧39度5
+conge.livingwithfcs.org,2018-01-21 01:21:21,新爸五年计划 | 031 牛百叶
+conge.livingwithfcs.org,2018-06-18 06:18:18,HCI笔记 | Week-05 Design Principles and Mental Models
+conge.livingwithfcs.org,2020-09-19T11:28:36,AI 笔记 Week 08-09 Machine Learning
+conge.livingwithfcs.org,2018-07-12 07:12:12,新爸五年计划 | 056 游泳课
+conge.livingwithfcs.org,2018-03-12 03:12:12,折返点 1810 | 800天4双鞋
+conge.livingwithfcs.org,2018-05-08 05:08:08,新爸五年计划 | 046-带俩娃去旅行（上）
+conge.livingwithfcs.org,2018-04-17 04:17:17,折返点-1815---光脚还是穿鞋
+conge.livingwithfcs.org,2018-10-27 10:27:10,折返点1844---蘑菇
+conge.livingwithfcs.org,2018-03-24 03:24:24,折返点-1812 | 半马后的休整
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点 1752 我的2017最后一天记
+conge.livingwithfcs.org,2022-02-17T15:14:07,新爸五年计划 | 035 极简春节
+conge.livingwithfcs.org,2018-11-01 11:01:01,新爸五年计划 | 072 阿夏
+conge.livingwithfcs.org,2018-10-23 10:23:23,折返点-1842---本周继续休息
+conge.livingwithfcs.org,2018-06-22 06:22:22,新爸五年计划 | 053 Laura Markham的两本书
+conge.livingwithfcs.org,2018-04-19 04:19:19,新爸五年计划 | 044 生气后
+conge.livingwithfcs.org,2018-08-15 08:15:15,新爸五年计划 | 061 雾霾 蜜蜂 眼
+conge.livingwithfcs.org,2018-05-13 05:13:13,折返点-1819---又坏了一双鞋
+conge.livingwithfcs.org,2018-01-21 01:21:21,折返点-1803 | Glitch
+conge.livingwithfcs.org,2018-06-29 06:29:29,新爸五年计划 | 054 喊爸爸
+conge.livingwithfcs.org,2018-07-26 07:26:26,新爸五年计划 | 058 吊床
+conge.livingwithfcs.org,2018-08-14 08:14:14,折返点 1832 | 三藩
+conge.livingwithfcs.org,2018-06-18 06:18:18,HCI 笔记 | Week 04 Design Alternatives
+conge.livingwithfcs.org,2018-11-25 11:25:25,新爸五年计划 | 075 感恩节
+conge.livingwithfcs.org,2018-05-25 05:25:25,新爸五年计划 | 049 害怕
+conge.livingwithfcs.org,2018-10-17 10:17:17,折返点-1841---中断，记录
+conge.livingwithfcs.org,2018-05-13 05:13:13,新爸五年计划 | 047 带俩娃去旅行（下）
+conge.livingwithfcs.org,2018-02-04 02:04:04,折返点-1805 | Long-Run
+conge.livingwithfcs.org,2018-12-16 13:16:16,折返点-1850---放松周
+conge.livingwithfcs.org,2018-11-16 11:16:16,新爸五年计划 | 074 孩子越大越难带
+conge.livingwithfcs.org,2022-07-04T08:12:23,折返点1826 | 你好七月
+conge.livingwithfcs.org,2018-04-09 04:09:09,折返点 1814 | 脖子痛
+conge.livingwithfcs.org,2018-02-02 02:02:02,新爸五年计划 | 033 身体健康就好啦
+conge.livingwithfcs.org,2018-05-27 05:27:27,折返点-1821 | 《The Long Run》
+conge.livingwithfcs.org,2018-11-12 11:12:12,折返点 1845 | 秋寒
+conge.livingwithfcs.org,2018-09-27 09:27:27,新爸五年计划 | 067 一个人（结束）
+conge.livingwithfcs.org,2018-12-24 11:24:24,折返点-1851---养成好习惯，不要中断
+conge.livingwithfcs.org,2018-04-13 04:13:13,新爸五年计划 | 043 脾气
+conge.livingwithfcs.org,2018-05-28 05:28:28,"HCI 笔记| Week 02 Methods, Ethic and Needfinding and Requirements Gathering"
+conge.livingwithfcs.org,2018-04-30 04:30:30,折返点 1817 | 休假
+conge.livingwithfcs.org,2018-02-17 02:17:17,折返点-1807---距离Mercer-Island-半马还有一个月
+conge.livingwithfcs.org,2018-09-10 09:10:10,新爸五年计划 | 064 一个人（2）
+conge.livingwithfcs.org,2018-07-16 07:16:16,折返点-1828---追求挑战会上瘾
+conge.livingwithfcs.org,2018-04-30 04:30:30,新爸五年计划 | 045-没帮手了
+conge.livingwithfcs.org,2018-01-29 01:29:29,折返点-1804 | 盼头儿
+conge.livingwithfcs.org,2018-06-27 06:27:27,HCI笔记 | Week 07 Task Analysis And Distributed Cognition
+conge.livingwithfcs.org,2018-04-04 04:04:04,"新爸五年计划 | 042 走走走, 走啊走"
+conge.livingwithfcs.org,2018-10-29 10:29:00,折返点1843---重装上阵
+conge.livingwithfcs.org,2018-08-06 08:06:06,新爸五年计划 | 059 野营
+conge.livingwithfcs.org,2018-07-09 07:09:09,折返点-1827 | 闺女，睡前跟爸爸出去跑一圈儿
+conge.livingwithfcs.org,2018-04-03 04:03:03,折返点-1813 ｜ 变化路线
+conge.livingwithfcs.org,2018-08-10 08:10:10,折返点-1831 | 湖光山色自险出
+conge.livingwithfcs.org,2022-10-02T11:07:10,折返点-1823 | Xero Genesis 运动凉鞋一周记
+conge.livingwithfcs.org,2018-12-10 12:10:10,折返点-1849---考试周
+conge.livingwithfcs.org,2018-09-21 09:21:21,新爸五年计划 | 066 一个人（4）
+conge.livingwithfcs.org,2018-01-09 01:09:09,新爸五年计划 | 082 如何跟孩子谈死亡呢？
+conge.livingwithfcs.org,2018-03-21 03:21:21,折返点 1811 ｜ 比8年前更快
+conge.livingwithfcs.org,2018-05-08 05:08:08,折返点 1818 | Huntington Beach
+conge.livingwithfcs.org,2018-10-26 10:26:26,新爸五年计划 ｜ 071 全家病倒
+conge.livingwithfcs.org,2018-08-10 08:10:10,新爸五年计划 | 060 为了旅行的旅行
+conge.livingwithfcs.org,2018-05-31 05:31:31,新爸五年计划 | 050 好吧 也行
+conge.livingwithfcs.org,2021-12-14T09:54:36,AI 笔记 Week 13 Logic & Planning
+conge.livingwithfcs.org,2018-09-06 09:06:06,折返点 1835 | 管他赤脚还是穿鞋-跑的开心就好
+conge.livingwithfcs.org,2018-06-05 06:05:05,折返点-1822 | Fitkicks退居二线
+conge.livingwithfcs.org,2018-10-05 10:05:05,折返点-1839---跑到了1000天
+conge.livingwithfcs.org,2018-07-07 07:07:07,HCI笔记 | Week 08 Evaluation
+conge.livingwithfcs.org,2018-04-22 04:22:22,折返点-1816 | 第一次带儿子一起跑
+conge.livingwithfcs.org,2018-07-21 07:21:21,折返点-1829---我的晨起例行
+conge.livingwithfcs.org,2018-01-15 01:15:15,ML4T笔记 | 01-08 Optimizers: Building a parameterized model
+conge.livingwithfcs.org,2018-10-08 10:08:08,新爸五年计划 | 068 又见到孩子们
+conge.livingwithfcs.org,2018-08-28 08:28:28,折返点 1834 | 泡脚
+conge.livingwithfcs.org,2018-08-22 08:22:22,新爸五年计划 | 062 弟弟也爱读书
+conge.livingwithfcs.org,2018-05-18 05:18:18,新爸五年计划 | 048 舍不得
+conge.livingwithfcs.org,2018-03-12 03:12:12,新爸五年计划 ｜ 038 夏令时
+conge.livingwithfcs.org,2018-09-18 09:18:18,折返点-1837---怎么才能睡得多点儿
+conge.livingwithfcs.org,2018-12-21 12:21:21,新爸五年计划 | 079 智能时代
+conge.livingwithfcs.org,2018-01-14 01:14:14,新爸五年计划 | 030 夜晚的天空是蓝的吗？
+conge.livingwithfcs.org,2020-09-19T11:28:36,AI 笔记 Week 15 Planning under uncertainty
+conge.livingwithfcs.org,2018-01-08 01:08:08,新爸五年计划 ｜ 029 好人坏人
+conge.livingwithfcs.org,2018-12-29 11:29:29,折返点-1852---2018四双跑鞋
+conge.livingwithfcs.org,2018-03-16 03:16:16,新爸五年计划 | 039 幼儿园的糟心事儿
+conge.livingwithfcs.org,2018-12-19 12:19:19,新爸五年计划 | 026 儿子的辅食
+conge.livingwithfcs.org,2018-07-05 07:05:05,新爸五年计划 | 055 七月四日
+conge.livingwithfcs.org,2018-09-02 09:02:02,新爸五年计划 | 063 一个人（1）
+conge.livingwithfcs.org,2018-09-27 09:27:27,折返点-1838---背着电脑跑步是自残
+conge.livingwithfcs.org,2018-12-26 12:26:26,新爸五年计划 ｜ 080 圣诞节
+conge.livingwithfcs.org,2018-03-27 03:27:27,新爸五年计划 | 040 控制情绪
+conge.livingwithfcs.org,2018-07-21 07:21:22,新爸五年计划 ｜ 057独处的需要
+conge.livingwithfcs.org,2020-11-30T19:27:07,新爸五年计划 | 037 我会保护你的
+conge.livingwithfcs.org,2018-11-12 11:12:12,新爸五年计划 | 073 希望全家健康
+conge.livingwithfcs.org,2018-06-18 06:18:18,HCI笔记 ｜ Week 03 Direct Manipulation and Human Abilities
+conge.livingwithfcs.org,2021-05-17T12:13:59,HCI笔记 | Week-09-Interfaces-and-Politics-and-Conclusions-to-Principles
+conge.livingwithfcs.org,2018-10-16 10:16:16,新爸五年计划 | 069 我又生病了
+conge.livingwithfcs.org,2018-06-25 06:06:06,折返点-1825---第900天
+conge.livingwithfcs.org,2018-06-20 2018-06-20,HCI 笔记 | Week 06 Prototyping
+conge.livingwithfcs.org,2018-07-21 07:21:21,新爸五年计划 | 057 独处的需要（重发）
+conge.livingwithfcs.org,2018-06-19 06:19:19,折返点-1824 | 脚的护理
+conge.livingwithfcs.org,2020-11-30T19:25:28,新爸五年计划 | 036 独立
+conge.livingwithfcs.org,2018-10-23 10:23:23,新爸五年计划 | 070 倒时差
+conge.livingwithfcs.org,2018-11-26 11:26:26,折返点-1847---精进
+conge.livingwithfcs.org,2018-08-18 08:18:18,折返点 1833 | 雾霾还在继续
+conge.livingwithfcs.org,2018-02-12 02:12:12,折返点-1806 | 阳光下跑步的好心情
+conge.livingwithfcs.org,2018-12-06 12:06:06,新爸五年计划 | 077 爸爸，你今天跑步了吗？
+conge.livingwithfcs.org,2018-01-29 01:29:29,新爸五年计划 | 032 童谣
+conge.livingwithfcs.org,2018-12-05 12:05:05,折返点-1848---弄丢了我的-Fitbit-Alta
+conge.livingwithfcs.org,2018-03-29 03:29:29,新爸五年计划 | 041 赏樱
+conge.livingwithfcs.org,2021-05-17T12:13:59,HCI笔记 | Week-10-HCI-and-Agile-Development
+conge.livingwithfcs.org,2018-03-06 03:06:06,折返点-1809---身体缓慢恢复
+conge.livingwithfcs.org,2018-05-21 05:21:21,折返点-1820---停用了一段Fitbit
+conge.livingwithfcs.org,2018-06-14 06:14:14,新爸五年计划 | 052 好爸爸 坏爸爸
+conge.livingwithfcs.org,2018-06-11 06:11:11,新爸五年计划 | 051 给你一朵小花
+conge.livingwithfcs.org,2011-01-10T04:51:00.001-09:00,小孩小孩你别馋，过了腊八就过年
+conge.livingwithfcs.org,2011-10-31T13:10:00.000-08:00,疾风劲雪的万圣节周末
+conge.livingwithfcs.org,2011-03-12T09:46:00.003-09:00,[读书笔记]记忆术 - 读《右脑超常记忆术》
+conge.livingwithfcs.org,2011-01-16T11:31:00.003-09:00,一月第二周 总结
+conge.livingwithfcs.org,2011-12-11T07:47:00.001-09:00,[习惯养成]周总结 2011/12/5～12/10
+conge.livingwithfcs.org,2011-12-24T10:26:00.000-09:00,[习惯养成]周总结 2011/12/18～12/24
+conge.livingwithfcs.org,2011-05-01T11:02:00.005-08:00,推荐书《The Anatomy of Peace》
+conge.livingwithfcs.org,2011-11-19T08:11:00.001-09:00,[习惯养成]周总结 2011/11/13～19
+conge.livingwithfcs.org,2011-04-18T18:49:00.001-08:00,我是谁 之十一
+conge.livingwithfcs.org,2011-05-20T18:25:00.003-08:00,[自说自话]态度/情绪/行为 三角
+conge.livingwithfcs.org,2011-10-01T05:00:00.000-08:00,[习惯养成]找到自己喜欢的方式，你就会坚持了
+conge.livingwithfcs.org,2011-04-21T05:04:00.001-08:00,我是谁 之十二
+conge.livingwithfcs.org,2011-10-02T20:30:00.000-08:00,[自说自话]搬家（2）
+conge.livingwithfcs.org,2011-01-27T09:13:00.002-09:00,I had a dream this morning
+conge.livingwithfcs.org,2011-09-29T13:30:00.000-08:00,[读书笔记]小企业生存指南
+conge.livingwithfcs.org,2011-03-14T09:17:00.000-08:00,[电脑网络]Filezilla 以明文方式存储密码
+conge.livingwithfcs.org,2011-09-27T19:46:00.000-08:00,[FoodLog]2011年9月27日
+conge.livingwithfcs.org,2011-12-31T08:55:00.000-09:00,[习惯养成]周总结 2011/12/25～12/31
+conge.livingwithfcs.org,2011-12-03T07:36:00.001-09:00,[习惯养成]周总结 2011/11/27～12/3
+conge.livingwithfcs.org,2011-09-26T01:30:00.000-08:00,[电脑网络] 将 PC 虚拟化 手记
+conge.livingwithfcs.org,2011-05-31T04:57:00.002-08:00,觉醒 之一
+conge.livingwithfcs.org,2011-06-28T16:04:00.000-08:00,觉醒 之三
+conge.livingwithfcs.org,2011-03-10T16:54:00.001-09:00,我是谁 之九
+conge.livingwithfcs.org,2011-10-05T19:00:00.000-08:00,[FoodLog]2001年10月05
+conge.livingwithfcs.org,2011-01-01T05:55:00.001-09:00,新年快乐
+conge.livingwithfcs.org,2011-10-02T19:50:00.000-08:00,[自说自话]搬家 （1）
+conge.livingwithfcs.org,2011-11-26T07:33:00.000-09:00,[习惯养成]周总结 2011/11/20～26
+conge.livingwithfcs.org,2011-04-12T10:57:00.001-08:00,我是谁 之十
+conge.livingwithfcs.org,2011-02-03T09:47:00.002-09:00,Happy Lunar New Year
+conge.livingwithfcs.org,2011-09-26T19:50:00.000-08:00,[FoodLog]2011年9月26日
+conge.livingwithfcs.org,2011-03-11T10:46:00.001-09:00,[读书笔记] 轻公司
+conge.livingwithfcs.org,2011-06-09T07:46:00.002-08:00,觉醒 之二
+conge.livingwithfcs.org,2011-01-16T05:50:00.004-09:00,Generate anatomical ROI mask based on available atlas in AFNI
+conge.livingwithfcs.org,2011-01-23T08:16:00.000-09:00,一月第三周总结
+conge.livingwithfcs.org,2011-02-01T12:04:00.001-09:00,一月第四周总结
+conge.livingwithfcs.org,2011-10-02T07:32:00.000-08:00,觉醒 之四
+conge.livingwithfcs.org,2011-10-05T01:29:00.000-08:00,［自说自话］Trip to Baltimore
+conge.livingwithfcs.org,2011-03-07T11:53:00.002-09:00,[自说自话]面试感受 expect the best
+conge.livingwithfcs.org,2011-01-09T09:29:00.001-09:00,一月第一周 总结
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点1604 每月养成一个好习惯
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点1609 跑步的心流
+conge.livingwithfcs.org,2020-09-19T11:28:36,Machine Learning笔记 第09周
+conge.livingwithfcs.org,2020-09-19T11:28:36,Machine Learning笔记 第01周 
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点1652 跑成习惯
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点1627 懒
+conge.livingwithfcs.org,2020-09-19T11:28:36,我的新年夜，应该写点儿什么
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点1637 回家（下）
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点1639 单身生活 （中）
+conge.livingwithfcs.org,2020-09-19T11:28:36,2016年三月 我要上班儿啦
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点1643 三百天 
+conge.livingwithfcs.org,2020-09-19T11:28:36,Machine Learning笔记 第16周 
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点1650 居然下了雪
+conge.livingwithfcs.org,2020-09-19T11:28:36,2016年2月 奥斯卡的喧嚣中二月走了
+conge.livingwithfcs.org,2020-09-19T11:28:36,Machine Learning笔记 第08周
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点1635 下一个目标晨跑早睡
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点1642 需要几双跑鞋 
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点0018 那一夜，我睡的格外香
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点1631 热
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点0019 结束单身
+conge.livingwithfcs.org,2020-09-19T11:28:36,Machine Learning笔记 第05周
+conge.livingwithfcs.org,2020-09-19T11:28:36,[译]我为什么对Glybera无感
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点0021 生命在于运动还是被动
+conge.livingwithfcs.org,2020-09-19T11:28:36,Machine Learning笔记 第03周
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点1649 带女儿跑步
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点1630 空白
+conge.livingwithfcs.org,2020-09-19T11:28:36,2016年5月 时间都哪儿去了？
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点1640 单身生活 （下）
+conge.livingwithfcs.org,2020-09-19T11:28:36,Machine Learning笔记 第04周
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点1610 病了 还跑吗？
+conge.livingwithfcs.org,2022-10-02T11:11:48,折返点1629 两百天 战靴退役
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点0022 调整睡眠 恢复精力
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点1603 改变，朝着跑者的方向
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点1608 向左跑向右跑
+conge.livingwithfcs.org,2020-09-19T11:28:36,Machine Learning笔记 第06周
+conge.livingwithfcs.org,2020-09-19T11:28:36,Machine Learning笔记 第10周
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点1611 夜跑
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点1641 入秋
+conge.livingwithfcs.org,2020-09-19T11:28:36,世界罕见病日｜写给FCS的一封信
+conge.livingwithfcs.org,2020-09-19T11:28:36,2016年7月进取
+conge.livingwithfcs.org,2016-08-12 08:12:12,折返点1632-Peace-of-Mind
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点1636 回家（上）
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点1606 一直跑下去
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点1602：为什么喜欢跑步
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点1612 身体和灵魂
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点0024 周末去了芝加哥
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点0015 百天成就达成
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点1647 感恩
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点1651  要不要成立个跑步俱乐部呢？
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点1605 晚安，世界
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点1633 踝坏
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点1634 欲速则不达
+conge.livingwithfcs.org,2020-09-19T11:28:36,2016年11月 感恩吧
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点1628 每天最后一件事
+conge.livingwithfcs.org,2020-09-19T11:28:36,2016年9月 FCS Foundation 成立了
+conge.livingwithfcs.org,2020-09-19T11:28:36,2016年6月 拖延但不放弃
+conge.livingwithfcs.org,2020-09-19T11:28:36,2016年4月 总要开个头
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点1648 芝加哥
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点1626 我的跑步原则
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点1625 冷雨夜
+conge.livingwithfcs.org,2020-09-19T11:28:36,2016年10月 金秋十月总结
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点0023 抽筋儿
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点1607 雨雪，是跑者的调剂
+conge.livingwithfcs.org,2020-09-19T11:28:36,Machine Learning笔记 第02周 
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点1646 太阳太阳
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点1613 事情多得做不完
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点0017 觉可以不睡跑步还得继续
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点1614 不变的锚点
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点0016 锻炼无法代劳
+conge.livingwithfcs.org,2020-09-19T11:28:36,2016年1月 勒紧生活的脖子 让它听话
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点1645 美国大选之后的反思
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点1601：跑步是有害的
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点0020 fitbit
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点1644 雨和鞋
+conge.livingwithfcs.org,2020-09-19T11:28:36,折返点1638 单身生活 （上）
+conge.livingwithfcs.org,2005-03-06T21:07:00.000-09:00,城市让人得各种病
+conge.livingwithfcs.org,2005-09-28T15:00:00.000-08:00,健身计划from9.25 to 10.25
+conge.livingwithfcs.org,2005-09-08T03:56:00.000-08:00,REdCROSS 梦与记忆
+conge.livingwithfcs.org,2005-05-08T07:48:00.001-08:00,文章分类:考研真题
+conge.livingwithfcs.org,2005-12-29T08:15:00.000-09:00,给blog做做广告
+conge.livingwithfcs.org,2005-03-10T21:51:00.000-09:00,网络书签2
+conge.livingwithfcs.org,2005-10-20T08:24:00.000-08:00,linux
+conge.livingwithfcs.org,2005-05-08T07:06:00.001-08:00,文章分类:讲心堂
+conge.livingwithfcs.org,2005-12-01T11:20:00.000-09:00,我的青青的杰作们[food]
+conge.livingwithfcs.org,2005-03-07T20:50:00.000-09:00,closer
+conge.livingwithfcs.org,2005-05-16T01:03:00.000-08:00,评一下新陆峰洲的菜吧
+conge.livingwithfcs.org,2005-10-23T21:07:00.000-08:00,Crash(2004)
+conge.livingwithfcs.org,2005-03-06T21:21:00.000-09:00,给青青的信
+conge.livingwithfcs.org,2005-12-26T15:45:00.000-09:00,Dudu近照
+conge.livingwithfcs.org,2005-10-06T16:29:00.000-08:00,30GB Email
+conge.livingwithfcs.org,2005-05-31T18:16:00.000-08:00,卡巴斯基pro不能升级问题解决一例
+conge.livingwithfcs.org,2005-07-03T03:36:00.000-08:00,死 .. .. 不死！
+conge.livingwithfcs.org,2005-07-13T18:11:00.000-08:00,7.12 BJ F2 黑mm 1k pass
+conge.livingwithfcs.org,2005-06-19T07:11:00.000-08:00,毕业论文的致谢
+conge.livingwithfcs.org,2005-10-06T06:28:00.000-08:00,三国演义 评书下载
+conge.livingwithfcs.org,2005-11-25T16:42:00.000-09:00,mm的摄影作品
+conge.livingwithfcs.org,2005-09-09T07:30:00.000-08:00,全麦饺子
+conge.livingwithfcs.org,2005-03-21T05:26:00.000-09:00,无题
+conge.livingwithfcs.org,2005-05-13T12:02:00.001-08:00,[本站公告]留言本
+conge.livingwithfcs.org,2005-05-08T06:48:00.002-08:00,文章分类:心理藏书
+conge.livingwithfcs.org,2005-05-16T01:02:00.000-08:00,[气愤]新陆峰洲 区别对待清华 与 北大的学生
+conge.livingwithfcs.org,2021-11-28T14:12:29,MSN玩我？
+conge.livingwithfcs.org,2005-09-05T10:40:00.000-08:00,Pink Floyd在庞贝古城的Live DVD
+conge.livingwithfcs.org,2005-03-23T03:59:00.000-09:00,为孤独写几句
+conge.livingwithfcs.org,2005-05-08T09:13:00.000-08:00,记忆力.. .. ..
+conge.livingwithfcs.org,2005-05-15T20:43:00.000-08:00,[自说自话]关于我自己
+conge.livingwithfcs.org,2005-11-14T09:12:00.000-09:00,也做了那个人格测评
+conge.livingwithfcs.org,2005-04-08T05:36:00.000-08:00,谈论MSN Space 入门读物
+conge.livingwithfcs.org,2005-05-31T10:54:00.001-08:00,心理考研互助 组 组员招募
+conge.livingwithfcs.org,2005-11-11T11:47:00.000-09:00,袁阔成 三国演义 评书下载
+conge.livingwithfcs.org,2005-11-12T05:34:00.000-09:00,我家的兔子Dudu
+conge.livingwithfcs.org,2005-09-03T17:46:00.000-08:00,哦，哦，动笔了
+conge.livingwithfcs.org,2005-03-10T21:48:00.000-09:00,网络书签--
+conge.livingwithfcs.org,2005-05-31T08:50:00.000-08:00,几个黎明以后  幸福就        来了……
+conge.livingwithfcs.org,2005-12-05T12:06:00.000-09:00,原声大碟《哈利波特与火焰杯 - Harry Potter and the Goblet of Fire》
+conge.livingwithfcs.org,2005-04-23T17:16:00.000-08:00,视觉游戏
+conge.livingwithfcs.org,2004-12-02T09:38:00.000-09:00,寻找自我
 shiina18.github.io,2021-01-12T16:12:15,浦月斜三长蛇必败
 shiina18.github.io,2022-05-05T12:47:55,2022 年贵州省五子棋网络公开赛战报
 shiina18.github.io,2022-12-28T17:39:37,GPT-1 到 ChatGPT 简介
@@ -4693,8 +6549,8 @@ blog.mauve.icu,2020-01-08 19:56:18,【bzoj2049】[Sdoi2008]Cave 洞穴勘测—�
 young-lord.github.io,2023-11-10T13:17:09,Coursera 课程免费旁听申请教程
 young-lord.github.io,2024-02-16T09:28:21,常用软件换源表
 young-lord.github.io,2024-04-04T11:33:02,华为hap安装包逆向记录
-young-lord.github.io,2023-11-10T13:17:09,小米 Mix 2S 修改开机第一屏
-young-lord.github.io,2023-11-10T13:17:09,为安卓编译 SELinux 相关工具
+young-lord.github.io,2024-05-12T08:23:06,小米 Mix 2S 修改开机第一屏
+young-lord.github.io,2024-05-12T08:23:06,为安卓编译 SELinux 相关工具
 young-lord.github.io,2023-11-10T13:17:09,Kindle 越狱记录
 young-lord.github.io,2024-01-07T13:37:20,PPT 教程
 young-lord.github.io,2023-11-10T13:17:09,一劳永逸解决 apt 的触发器
@@ -4703,20 +6559,20 @@ young-lord.github.io,2023-08-30T13:28:53,买前生产力，买后…gal？——
 young-lord.github.io,2024-01-07T15:49:18,"使用 Caddy 搭建 WebDAV 服务器（Windows, Linux 等全平台通用）"
 young-lord.github.io,2023-11-10T13:17:09,SQL Server 另类 getshell
 young-lord.github.io,2023-11-10T13:17:09,允许安卓应用访问 /proc/stat
-young-lord.github.io,2024-02-09T14:00:18,我都拿服务器跑些啥
+young-lord.github.io,2024-05-12T07:59:04,我都拿服务器跑些啥
 young-lord.github.io,2023-11-10T13:17:09,一个小解密
 young-lord.github.io,2023-11-10T13:17:09,Arcaea 的校验研究
 young-lord.github.io,2023-12-03T07:45:28,解包《雨宿公车站》与《黄昏的叙事诗》
 young-lord.github.io,2023-11-10T13:17:09,修改安卓 10 音量阶数
 young-lord.github.io,2023-08-30,Windows 下编译 Gitea
 young-lord.github.io,2023-11-10T13:17:09,使用谷歌相机与相册的记录
-young-lord.github.io,2023-12-15T22:44:17,Ventoy Arch Linux To Go 十分钟速通
-young-lord.github.io,2023-11-10T13:17:09,某核酸二维码数据解析
+young-lord.github.io,2024-06-16T16:40:16,Ventoy Arch Linux To Go 十分钟速通
 young-lord.github.io,2024-01-07T13:29:47,设计一个前后端分离的管理系统
 young-lord.github.io,2023-11-10T13:17:09,关闭 Android 文件系统强制加密
 young-lord.github.io,2023-11-11T10:12:54,pymssql编码问题报错UnicodeDecodeError: 'gbk' codec can't decode byte...
 young-lord.github.io,2023-09-20,个人用语索引
-young-lord.github.io,2024-03-03T17:38:36,科学苗子游记
+young-lord.github.io,2024-05-12T07:59:04,科学苗子游记
+young-lord.github.io,2024-06-16,Windows 使用 USB/IP 通过网络共享 USB 设备
 young-lord.github.io,2024-02-09T14:01:18,Inconventional Commits
 young-lord.github.io,2023-11-10T13:17:09,为 Metasploit 的后门内置 persistence
 young-lord.github.io,2024-01-17T12:44:36,逆向 COM dll
@@ -4725,7 +6581,7 @@ young-lord.github.io,2023-12-02T04:50:14,我的 YANL 笔记法
 young-lord.github.io,2023-11-10T13:17:09,Windows 禁用资源管理器地址栏历史记录
 young-lord.github.io,2023-12-02T07:22:29,GitHub 学生认证踩坑记
 young-lord.github.io,2023-11-10T13:17:09,通过 Xposed 与 frp 远程读取短信验证码
-young-lord.github.io,2024-02-09T13:02:35,安卓使用 PN532 读写 NFC
+young-lord.github.io,2024-05-12T08:23:06,安卓使用 PN532 读写 NFC
 young-lord.github.io,2023-11-10T13:17:09,某社区网络门禁协议解析
 young-lord.github.io,2023-11-25T11:15:26,浅谈计算机中的“栈”
 young-lord.github.io,2023-12-02T07:22:29,哔哩哔哩 冒-_-泡 技术视频的笔记
@@ -4738,15 +6594,54 @@ young-lord.github.io,2023-11-10T13:17:09,智能门锁临时密码逆向
 young-lord.github.io,2024-03-02T22:44:06,Jekyll 支持哪些语言高亮
 young-lord.github.io,2023-11-01T06:52:10,风暴条掉血研究
 young-lord.github.io,2023-11-10T13:17:09,软件层面禁用安卓音量键
-young-lord.github.io,2023-12-02T07:22:29,解包 Arcaea_NS
+young-lord.github.io,2024-05-13,Android 音乐 ID3 标签乱码初探
+young-lord.github.io,2024-05-12T08:23:06,解包 Arcaea_NS
 young-lord.github.io,2023-11-10T13:17:09,使用 BlackDex 脱壳梆梆加固
+young-lord.github.io,2024-05-01,qq-win-db-key 一周年啦！
 young-lord.github.io,2023-11-10T13:17:09,从零开始写一个 Arcaea 的爬梯脚本
 young-lord.github.io,2023-11-10T13:17:09,使用安卓手机破解 WiFi
-young-lord.github.io,2023-11-10T13:17:09,Arcaea 的一些破解记录
+young-lord.github.io,2024-05-12T08:23:06,Arcaea 的一些破解记录
 young-lord.github.io,2023-12-01T08:50:39,Arch 安装包时校验失败怎么办？
 young-lord.github.io,2024-02-07T23:45:48,解包 Arcaea_NS（二）
 young-lord.github.io,2023-08-29T09:55:03,开始使用 Bootstrap
 young-lord.github.io,2023-09-23,也谈《樱之诗》
+sakurawald.github.io,2023-11-26T21:53:24,[Algorithm] Back-Tracking & IDDFS
+sakurawald.github.io,2023-11-26T21:53:24,[Algorithm] Set Partition Problem
+sakurawald.github.io,2023-12-28T15:52:26,trick-to-fake-the-github-board
+sakurawald.github.io,2024-04-21T01:42:53,make persistent windows 11 usb sticker
+sakurawald.github.io,2023-12-12T14:04:02,guide-to-install-qubes-on-qemu
+sakurawald.github.io,2023-11-26T21:53:24,play-on-wordpress
+sakurawald.github.io,2024-03-14T04:22:43,apple magic touch pad review
+sakurawald.github.io,2023-11-26T21:53:24,play on hexo
+sakurawald.github.io,2023-12-22T16:23:47,Expression Evaluation
+sakurawald.github.io,2023-11-26T21:53:24,[Algorithm] Multiple-Knapsack Problem & Pebble Merge Problem
+sakurawald.github.io,2023-11-26T21:53:24,play on android emulator
+sakurawald.github.io,2023-12-21T13:42:09,use c language standard library to solve problems!
+sakurawald.github.io,2023-11-26T21:53:24,play on wallpaper
+sakurawald.github.io,2023-11-26T21:53:24,[Algorithm] Oiling Car & Optimal Merge
+sakurawald.github.io,2023-11-26T21:53:24,[Database] Elementary SQL
+sakurawald.github.io,2024-01-01T06:00:17,text auto highlighter configuration
+sakurawald.github.io,2024-04-09 19:19:12,pin refresh rate of an android phone
+sakurawald.github.io,2023-11-26T21:53:24,play on kde
+sakurawald.github.io,2023-12-28T18:19:05,clean-unused-chunks-in-minecraft
+sakurawald.github.io,2024-03-26T15:31:13,rescue - system corrupted after forced shutdown during system upgrade
+sakurawald.github.io,2024-04-07T04:35:52,launch tor browser without tor network
+sakurawald.github.io,2023-11-26T21:53:24,[Database] Advanced SQL
+sakurawald.github.io,2023-11-26T21:53:24,play on google pixel
+sakurawald.github.io,2023-11-26T21:53:24,[CodeSnippet] - A Simple Judger for Java
+sakurawald.github.io,2023-11-26T21:53:24,[Database] Intermediate SQL
+sakurawald.github.io,2023-11-26T21:53:24,[Database] Relational Query Language
+sakurawald.github.io,2023-12-28T12:47:23,play on anbox
+sakurawald.github.io,2023-11-26T21:53:24,play on stable-diffusion
+sakurawald.github.io,2024-06-24T19:39:14,good application set
+sakurawald.github.io,2023-11-26T21:53:24,play on vim
+sakurawald.github.io,2023-12-28T13:02:16,[Branch-Bound] Circle Permutation
+sakurawald.github.io,2023-11-26T21:53:24,[Algorithm] Majority Problem
+sakurawald.github.io,2023-11-26T21:53:24,play on minecraft server configuration
+sakurawald.github.io,2023-11-26T21:53:24,[Database] Design
+sakurawald.github.io,2023-12-28T15:52:26,play on stl
+sakurawald.github.io,2023-11-26T21:53:24,[JSP] Servlet & JSP Short-Hand
+sakurawald.github.io,2024-06-21T10:37:56,how to let chrome browser auto clean datas on exit
 jerkwin.github.io,2014-08-02,【转】Griffiths：二十一世纪科学和数学的趋势
 jerkwin.github.io,2019-11-19,在线计算兼单位换算器
 jerkwin.github.io,2015-10-12,GROMACS质心牵引的几点说明
@@ -5268,7 +7163,7 @@ kexizeroing.github.io,2024-04-10T10:47:50,Using Blob in JavaScript
 kexizeroing.github.io,2024-07-01T17:38:32,Curated link collection
 kexizeroing.github.io,2024-03-05T17:35:00,Add watermark to images
 kexizeroing.github.io,2024-05-07T11:24:20,Frontend interview questions
-kexizeroing.github.io,2024-06-19T12:03:10,Debugging CSS
+kexizeroing.github.io,2024-07-03T10:34:18,Debugging CSS
 kexizeroing.github.io,2023-11-09T10:41:06,Rice course - intro to database
 kexizeroing.github.io,2024-03-09T11:31:05,An example of compiling C code to Wasm
 kexizeroing.github.io,2024-06-30T11:54:28,Start a Javascript stack project
@@ -5925,14 +7820,17 @@ gitee.com/Kenneth-Lee-2012/MySummary,2019-12-22T17:47:24,例三：名的边界�
 gitee.com/Kenneth-Lee-2012/MySummary,2020-10-14T02:09:21,《大唐双龙传》的武功层次
 gitee.com/Kenneth-Lee-2012/MySummary,2021-06-11T09:21:45,10.知人者智
 gitee.com/Kenneth-Lee-2012/MySummary,2019-12-22T17:47:24,再谈因果
-gitee.com/Kenneth-Lee-2012/MySummary,2024-07-02T11:44:22,index
+gitee.com/Kenneth-Lee-2012/MySummary,2024-07-03T09:47:06,index
 gitee.com/Kenneth-Lee-2012/MySummary,2024-07-02T11:44:22,天地不仁
+gitee.com/Kenneth-Lee-2012/MySummary,2024-07-02T15:59:37,道常无为而无不为
 gitee.com/Kenneth-Lee-2012/MySummary,2024-07-02T11:44:22,上善若水
+gitee.com/Kenneth-Lee-2012/MySummary,2024-07-02T15:59:37,善行无辙迹
 gitee.com/Kenneth-Lee-2012/MySummary,2024-07-01T11:00:33,序
-gitee.com/Kenneth-Lee-2012/MySummary,2024-07-02T11:44:22,other
+gitee.com/Kenneth-Lee-2012/MySummary,2024-07-03T09:47:06,天下皆谓我道大
 gitee.com/Kenneth-Lee-2012/MySummary,2024-07-02T11:44:22,古之善为道者
 gitee.com/Kenneth-Lee-2012/MySummary,2024-07-01T11:00:33,道可道
 gitee.com/Kenneth-Lee-2012/MySummary,2024-07-02T11:44:22,孔德之容
+gitee.com/Kenneth-Lee-2012/MySummary,2024-07-03T09:47:06,圣人常无心
 gitee.com/Kenneth-Lee-2012/MySummary,2020-11-24T09:47:11,将军双饮马
 gitee.com/Kenneth-Lee-2012/MySummary,2020-10-14T02:09:21,惯性系
 gitee.com/Kenneth-Lee-2012/MySummary,2020-10-10T11:13:30,言为心声
