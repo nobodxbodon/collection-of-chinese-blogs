@@ -1401,6 +1401,7 @@ qingbob.com,2022-05-05T23:35:48,"不要用JWT替代session管理（上）：全�
 qingbob.com,2010-12-28,【原创翻译】深入理解CSS盒子模型
 qingbob.com,2023-08-20T00:27:49,人肉智能#004：还原偶像
 qingbob.com,2022-05-05T23:35:48,React + Redux 性能优化（二）工具篇： Immutablejs
+qingbob.com,2024-04-11,我入门了一项新技术，然后呢
 qingbob.com,2022-08-23,理解流程
 qingbob.com,2022-05-05T23:35:48,仪表盘场景前端优化经验谈
 qingbob.com,2022-05-05T23:35:48,小心 Serverless
@@ -6561,7 +6562,7 @@ young-lord.github.io,2024-01-07T13:37:20,PPT 教程
 young-lord.github.io,2023-11-10T13:17:09,一劳永逸解决 apt 的触发器
 young-lord.github.io,2024-03-03T17:23:44,Windows 远程桌面的探索
 young-lord.github.io,2023-08-30T13:28:53,买前生产力，买后…gal？——小米平板 5 Pro 的“生产力”体验
-young-lord.github.io,2024-01-07T15:49:18,"使用 Caddy 搭建 WebDAV 服务器（Windows, Linux 等全平台通用）"
+young-lord.github.io,2024-07-06T12:50:55,"使用 Caddy 搭建 WebDAV 服务器（Windows, Linux 等全平台通用）"
 young-lord.github.io,2023-11-10T13:17:09,SQL Server 另类 getshell
 young-lord.github.io,2023-11-10T13:17:09,允许安卓应用访问 /proc/stat
 young-lord.github.io,2024-05-12T07:59:04,我都拿服务器跑些啥
@@ -7165,13 +7166,14 @@ kexizeroing.github.io,2024-03-03T10:39:49,Learn the new frontend build tool Vite
 kexizeroing.github.io,2024-06-13T21:12:13,Rendering performance
 kexizeroing.github.io,2024-03-11T11:00:28,Intro to Authorization and Authentication
 kexizeroing.github.io,2024-04-10T10:47:50,Using Blob in JavaScript
-kexizeroing.github.io,2024-07-01T17:38:32,Curated link collection
+kexizeroing.github.io,2024-07-08T16:50:35,Curated link collection
 kexizeroing.github.io,2024-03-05T17:35:00,Add watermark to images
 kexizeroing.github.io,2024-05-07T11:24:20,Frontend interview questions
 kexizeroing.github.io,2024-07-03T10:34:18,Debugging CSS
 kexizeroing.github.io,2023-11-09T10:41:06,Rice course - intro to database
 kexizeroing.github.io,2024-03-09T11:31:05,An example of compiling C code to Wasm
 kexizeroing.github.io,2024-06-30T11:54:28,Start a Javascript stack project
+kexizeroing.github.io,2024-07-08T16:50:35,A basic Dockerfile and Intro to Kubernetes
 kexizeroing.github.io,2024-07-01T17:38:32,Get started with LangChain
 kexizeroing.github.io,2024-05-06T22:04:48,Bitwise operations
 kexizeroing.github.io,2024-06-13T14:44:27,CSS effects collection
@@ -7217,7 +7219,6 @@ kexizeroing.github.io,2024-05-12T16:02:18,React hooks clone
 kexizeroing.github.io,2024-06-28T21:45:08,"HTTP connection, caching and HTTP/2"
 kexizeroing.github.io,2023-08-07T10:23:32,Rice clear turn-in
 kexizeroing.github.io,2024-06-18T10:27:21,A tiny functional event emitter
-kexizeroing.github.io,2024-07-05T15:33:18,A Dockerfile for a NodeJS application
 kexizeroing.github.io,2023-08-03T11:45:19,My early career notes (in Chinese)
 kexizeroing.github.io,2024-07-05T15:33:18,The end of localhost
 kexizeroing.github.io,2024-06-30T11:54:28,How semantic image search works
@@ -7757,6 +7758,7 @@ gitee.com/Kenneth-Lee-2012/MySummary,2020-10-21T09:48:03,思维上的洞
 gitee.com/Kenneth-Lee-2012/MySummary,2021-06-11T09:21:45,02.不尚贤
 gitee.com/Kenneth-Lee-2012/MySummary,2021-03-17T23:43:52,形势情
 gitee.com/Kenneth-Lee-2012/MySummary,2019-12-22T11:55:03,报怨以德
+gitee.com/Kenneth-Lee-2012/MySummary,2024-07-08T14:01:56,名称空间的一点心得
 gitee.com/Kenneth-Lee-2012/MySummary,2019-12-22T11:55:03,怎样讨论问题
 gitee.com/Kenneth-Lee-2012/MySummary,2020-10-14T02:09:21,守弱思维介绍——学懂《道德经》的入门知识
 gitee.com/Kenneth-Lee-2012/MySummary,2020-10-09T15:53:42,关于道的几个问题讨论
@@ -7811,7 +7813,7 @@ gitee.com/Kenneth-Lee-2012/MySummary,2020-10-21T22:42:32,鱼不可脱于渊—�
 gitee.com/Kenneth-Lee-2012/MySummary,2021-06-11T09:21:45,09.以道佐人主者
 gitee.com/Kenneth-Lee-2012/MySummary,2020-12-31T22:06:07,恍惚
 gitee.com/Kenneth-Lee-2012/MySummary,2021-04-11T17:32:45,道之可道与不可道
-gitee.com/Kenneth-Lee-2012/MySummary,2024-07-05T10:38:28,README
+gitee.com/Kenneth-Lee-2012/MySummary,2024-07-08T09:18:23,README
 gitee.com/Kenneth-Lee-2012/MySummary,2020-10-06T15:22:04,余食赘形
 gitee.com/Kenneth-Lee-2012/MySummary,2020-10-06T16:06:15,温故而知新
 gitee.com/Kenneth-Lee-2012/MySummary,2021-06-11T09:21:45,11.上德不德是以有德
@@ -7832,7 +7834,7 @@ gitee.com/Kenneth-Lee-2012/MySummary,2024-07-02T15:59:37,道常无为而无不�
 gitee.com/Kenneth-Lee-2012/MySummary,2024-07-02T11:44:22,上善若水
 gitee.com/Kenneth-Lee-2012/MySummary,2024-07-02T15:59:37,善行无辙迹
 gitee.com/Kenneth-Lee-2012/MySummary,2024-07-01T11:00:33,序
-gitee.com/Kenneth-Lee-2012/MySummary,2024-07-03T09:47:06,天下皆谓我道大
+gitee.com/Kenneth-Lee-2012/MySummary,2024-07-08T14:01:56,天下皆谓我道大
 gitee.com/Kenneth-Lee-2012/MySummary,2024-07-02T11:44:22,古之善为道者
 gitee.com/Kenneth-Lee-2012/MySummary,2024-07-01T11:00:33,道可道
 gitee.com/Kenneth-Lee-2012/MySummary,2024-07-02T11:44:22,孔德之容
