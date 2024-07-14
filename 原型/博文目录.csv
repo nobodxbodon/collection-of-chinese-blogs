@@ -1020,7 +1020,7 @@ jasonkayzk.github.io,2023-11-26T23:59:58,一个可以使用文本文字描绘流
 jasonkayzk.github.io,2023-11-26T23:59:58,Fibonacci序列生成算法的优化
 jasonkayzk.github.io,2023-11-26T23:59:58,算法:对称的二叉树
 jasonkayzk.github.io,2023-12-17 20:24:00,使用jenv管理jdk版本
-jasonkayzk.github.io,2023-11-26T23:59:58,【顶】ようこそ、見知らぬ旅人
+jasonkayzk.github.io,2024-07-11T16:18:37,【顶】ようこそ、見知らぬ旅人
 jasonkayzk.github.io,2023-11-26T23:59:58,排查tcp连接数不断升高的问题
 jasonkayzk.github.io,2023-11-26T23:59:58,算法:复杂链表的复制
 jasonkayzk.github.io,2023-11-26T23:59:58,SpringBoot集成Swagger
@@ -6428,7 +6428,7 @@ blog.mauve.icu,2023-08-13T03:36:43,使用 Junit5 和 Mockito 实现 SpringBoot �
 blog.mauve.icu,2022-3-15 10:02:00,Portable OJ 三期工程技术方案
 blog.mauve.icu,2022-02-17 20:38:29,Portable OJ 二期工程技术方案
 blog.mauve.icu,2021-10-31 20:09:29,Portable OJ 一期工程技术方案
-blog.mauve.icu,2024-06-09T12:27:15,日本旅游杂记-东京篇
+blog.mauve.icu,2024-07-10T08:53:27,日本旅游杂记-东京篇
 blog.mauve.icu,2023-08-13T03:36:43,macOS 更新后导致 sdk 丢失问题
 blog.mauve.icu,2023-08-13T03:36:43,Mac 使用带 python 的 vim
 blog.mauve.icu,2023-08-13T03:36:43,Mac 截图唤起速度慢
@@ -6449,6 +6449,7 @@ blog.mauve.icu,2021-10-13 21:52:28,Strassen算法代码
 blog.mauve.icu,2023-12-12T00:50:08,一段奇怪的 CPP 代码
 blog.mauve.icu,2023-09-03T13:48:18,C++ 语言实现动态变化的线程池
 blog.mauve.icu,2024-01-01 13:42:42,C++自定义的字面量
+blog.mauve.icu,2024-07-10 09:06:10,用 magic 变量解决 UAF 问题
 blog.mauve.icu,2022-01-12 23:26:29,C++ 模版可变参数列表传递给 C 的 va_list 可变参数列表
 blog.mauve.icu,2019-07-22 22:22:55,C/C++ 实现下标为负数的数组
 blog.mauve.icu,2023-12-18 08:38:05,关于 LRU map 的一些灵感
@@ -6577,7 +6578,7 @@ young-lord.github.io,2024-01-07T13:29:47,设计一个前后端分离的管理系
 young-lord.github.io,2023-11-10T13:17:09,关闭 Android 文件系统强制加密
 young-lord.github.io,2023-11-11T10:12:54,pymssql编码问题报错UnicodeDecodeError: 'gbk' codec can't decode byte...
 young-lord.github.io,2023-09-20,个人用语索引
-young-lord.github.io,2024-05-12T07:59:04,科学苗子游记
+young-lord.github.io,2024-07-10T19:42:32,科学苗子游记
 young-lord.github.io,2024-06-16,Windows 使用 USB/IP 通过网络共享 USB 设备
 young-lord.github.io,2024-02-09T14:01:18,Inconventional Commits
 young-lord.github.io,2023-11-10T13:17:09,为 Metasploit 的后门内置 persistence
@@ -6626,6 +6627,7 @@ sakurawald.github.io,2023-12-21T13:42:09,use c language standard library to solv
 sakurawald.github.io,2023-11-26T21:53:24,play on wallpaper
 sakurawald.github.io,2023-11-26T21:53:24,[Algorithm] Oiling Car & Optimal Merge
 sakurawald.github.io,2023-11-26T21:53:24,[Database] Elementary SQL
+sakurawald.github.io,2024-07-12T00:22:21,how to fix corrupted packages in archlinux
 sakurawald.github.io,2024-01-01T06:00:17,text auto highlighter configuration
 sakurawald.github.io,2024-04-09 19:19:12,pin refresh rate of an android phone
 sakurawald.github.io,2023-11-26T21:53:24,play on kde
@@ -6647,7 +6649,7 @@ sakurawald.github.io,2023-11-26T21:53:24,play on minecraft server configuration
 sakurawald.github.io,2023-11-26T21:53:24,[Database] Design
 sakurawald.github.io,2023-12-28T15:52:26,play on stl
 sakurawald.github.io,2023-11-26T21:53:24,[JSP] Servlet & JSP Short-Hand
-sakurawald.github.io,2024-06-21T10:37:56,how to let chrome browser auto clean datas on exit
+sakurawald.github.io,2024-07-12T00:19:41,how to let chrome browser auto clean datas on exit
 jerkwin.github.io,2014-08-02,【转】Griffiths：二十一世纪科学和数学的趋势
 jerkwin.github.io,2019-11-19,在线计算兼单位换算器
 jerkwin.github.io,2015-10-12,GROMACS质心牵引的几点说明
@@ -7164,23 +7166,23 @@ jerkwin.github.io,2023-03-07,二维红外谱图的模拟计算及gmx_ir脚本更
 kexizeroing.github.io,2024-06-18T17:45:45,How does browser load videos
 kexizeroing.github.io,2024-03-03T10:39:49,Learn the new frontend build tool Vite
 kexizeroing.github.io,2024-06-13T21:12:13,Rendering performance
-kexizeroing.github.io,2024-03-11T11:00:28,Intro to Authorization and Authentication
+kexizeroing.github.io,2024-07-13T19:15:15,Intro to Authorization and Authentication
 kexizeroing.github.io,2024-04-10T10:47:50,Using Blob in JavaScript
-kexizeroing.github.io,2024-07-08T16:50:35,Curated link collection
+kexizeroing.github.io,2024-07-14T19:32:35,Curated link collection
 kexizeroing.github.io,2024-03-05T17:35:00,Add watermark to images
 kexizeroing.github.io,2024-05-07T11:24:20,Frontend interview questions
 kexizeroing.github.io,2024-07-03T10:34:18,Debugging CSS
 kexizeroing.github.io,2023-11-09T10:41:06,Rice course - intro to database
 kexizeroing.github.io,2024-03-09T11:31:05,An example of compiling C code to Wasm
 kexizeroing.github.io,2024-06-30T11:54:28,Start a Javascript stack project
-kexizeroing.github.io,2024-07-08T16:50:35,A basic Dockerfile and Intro to Kubernetes
+kexizeroing.github.io,2024-07-14T10:40:01,A basic Dockerfile and Intro to Kubernetes
 kexizeroing.github.io,2024-07-01T17:38:32,Get started with LangChain
 kexizeroing.github.io,2024-05-06T22:04:48,Bitwise operations
 kexizeroing.github.io,2024-06-13T14:44:27,CSS effects collection
 kexizeroing.github.io,2024-05-09T17:34:13,JavaScript Observer APIs
 kexizeroing.github.io,2024-06-05T13:41:26,Practical considerations for Input fields
 kexizeroing.github.io,2024-06-08T10:45:25,Form validation with React Hook Form and Zod
-kexizeroing.github.io,2024-04-04T15:27:59,"Pixel, resolution and fps"
+kexizeroing.github.io,2024-07-13T19:15:15,"Pixel, resolution and fps"
 kexizeroing.github.io,2024-04-17T22:00:56,Understand the event loop
 kexizeroing.github.io,2024-04-10T10:47:50,Module bundler clone
 kexizeroing.github.io,2024-06-07T10:57:32,Learn from Advent of Vue 2022
@@ -7214,7 +7216,7 @@ kexizeroing.github.io,2024-06-11T10:27:24,Intro to TypeScript
 kexizeroing.github.io,2023-12-14T18:50:23,Create a video player
 kexizeroing.github.io,2024-07-05T15:33:18,What is Nginx
 kexizeroing.github.io,2024-05-05T14:42:39,Learn 1-Line Layouts from Una
-kexizeroing.github.io,2024-06-17T21:27:39,Notes on work projects (in Chinese)
+kexizeroing.github.io,2024-07-13T19:15:15,Notes on work projects (in Chinese)
 kexizeroing.github.io,2024-05-12T16:02:18,React hooks clone
 kexizeroing.github.io,2024-06-28T21:45:08,"HTTP connection, caching and HTTP/2"
 kexizeroing.github.io,2023-08-07T10:23:32,Rice clear turn-in
@@ -7226,11 +7228,11 @@ kexizeroing.github.io,2024-05-19T14:09:01,"JavaScript String, Array and Object"
 kexizeroing.github.io,2024-06-27T10:32:02,A guide to Prompt Engineering
 kexizeroing.github.io,2023-05-31T16:06:30,Node-Sass troubleshooting
 kexizeroing.github.io,2024-06-08T10:45:25,Some network knowledge (in Chinese)
-kexizeroing.github.io,2024-07-04T15:33:15,TIL
+kexizeroing.github.io,2024-07-14T19:32:35,TIL
 kexizeroing.github.io,2024-07-01T10:45:17,Understand npm concepts
 kexizeroing.github.io,2024-07-05T15:33:18,Functional programming jargon
 kexizeroing.github.io,2024-07-05T15:33:18,Techniques beyond basic RAG
-kexizeroing.github.io,2024-06-01T11:43:03,Mac terminal
+kexizeroing.github.io,2024-07-13T10:57:30,Mac terminal
 kexizeroing.github.io,2024-05-17T10:23:07,"JavaScript prototype chain, Class and Proxy"
 lihan3238.github.io,2024-01-19 16:20:00+0800,word文档图片插入显示不全问题
 lihan3238.github.io,2023-09-17 13:54:00+0800,有趣的字符串
@@ -8532,6 +8534,7 @@ sund.site,2023-10-30T06:58:39,Building a File Parser
 sund.site,2024-05-17T23:07:29+08:00,Ricoh GR 2 使用心得
 sund.site,2024-06-15T00:24:19,如何设计一个符合工业标准的审计系统
 sund.site,2024-06-23T19:48:40,乐山游记
+sund.site,2024-07-13T16:12:34+08:00,RESTful Web Service Cookbook 笔记
 sund.site,2023-10-06T19:26:35,Go Server Side Events
 sund.site,2023-12-26T00:28:58,2023 年终个人总结
 sund.site,2023-06-23T10:36:36+08:00,Kong网关极简入门
