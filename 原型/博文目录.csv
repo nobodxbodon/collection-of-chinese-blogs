@@ -915,6 +915,7 @@ jasonkayzk.github.io,2023-11-26T23:59:58,新的博客主题以及最近的总结
 jasonkayzk.github.io,2023-11-26T23:59:58,XML的总结
 jasonkayzk.github.io,2023-11-26T23:59:58,Linux命令概念
 jasonkayzk.github.io,2023-11-26T23:59:58,使用Docker部署kafka集群
+jasonkayzk.github.io,2024-07-28 09:32:46,简单易用的内网穿透组网工具ZeroTier
 jasonkayzk.github.io,2023-11-26T23:59:58,网页是如何一夜之间变成黑白的
 jasonkayzk.github.io,2023-11-26T23:59:58,感谢一直以来支持我的那些人
 jasonkayzk.github.io,2024-01-21T21:15:25,mini-redis项目-2-存储层
@@ -950,6 +951,7 @@ jasonkayzk.github.io,2023-11-26T23:59:58,算法:矩形覆盖
 jasonkayzk.github.io,2023-11-26T23:59:58,VMWare安装Ubuntu虚拟机
 jasonkayzk.github.io,2023-11-26T23:59:58,Telegraf简介
 jasonkayzk.github.io,2023-11-26T23:59:58,使用Rust实现一个双向链表
+jasonkayzk.github.io,2024-07-18 04:40:58,Debian系统设置合上笔记本盖子不休眠
 jasonkayzk.github.io,2023-11-26T23:59:58,解决提交代码到Github不显示小绿点的问题
 jasonkayzk.github.io,2023-11-26T23:59:58,分享一个在线编译器
 jasonkayzk.github.io,2023-11-26T23:59:58,Start a new phase in my life
@@ -1022,6 +1024,7 @@ jasonkayzk.github.io,2023-11-26T23:59:58,算法:对称的二叉树
 jasonkayzk.github.io,2023-12-17 20:24:00,使用jenv管理jdk版本
 jasonkayzk.github.io,2024-07-11T16:18:37,【顶】ようこそ、見知らぬ旅人
 jasonkayzk.github.io,2023-11-26T23:59:58,排查tcp连接数不断升高的问题
+jasonkayzk.github.io,2024-07-27 17:46:54,人生は一度きり。だから楽しむべきよ
 jasonkayzk.github.io,2023-11-26T23:59:58,算法:复杂链表的复制
 jasonkayzk.github.io,2023-11-26T23:59:58,SpringBoot集成Swagger
 jasonkayzk.github.io,2023-11-26T23:59:58,在python中使用ssh隧道连接mysql
@@ -1053,6 +1056,7 @@ jasonkayzk.github.io,2020-08-30T15:22:28,为什么Spring中不推荐使用@Autow
 jasonkayzk.github.io,2023-11-26T23:59:58,WLB看似简单，其实很难！
 jasonkayzk.github.io,2023-11-26T23:59:58,Bash命令自动补全实战
 jasonkayzk.github.io,2023-11-26T23:59:58,CentOS7安装minikube
+jasonkayzk.github.io,2024-07-23 08:21:19,一些tg使用指南总结
 jasonkayzk.github.io,2023-11-26T23:59:58,最近一个月以来的总结
 jasonkayzk.github.io,2023-11-26T23:59:58,算法:二叉搜索树的第k个结点
 jasonkayzk.github.io,2020-03-03T13:12:36,Java实现的一个原生RPC例子
@@ -1069,6 +1073,7 @@ jasonkayzk.github.io,2023-11-26T23:59:58,使用Wakatime记录你的Coding数据
 jasonkayzk.github.io,2023-11-26T23:59:58,算法:按之字形顺序打印二叉树
 jasonkayzk.github.io,2023-11-26T23:59:58,算法:二叉树的镜像
 jasonkayzk.github.io,2024-03-22T16:18:10,【译】实现一个简单的内存分配器
+jasonkayzk.github.io,2024-07-18 08:04:29,老旧笔记本安装Debian系统后Broadcom驱动缺失解决方法
 jasonkayzk.github.io,2023-11-26T23:59:58,Linux下自制OCR软件
 jasonkayzk.github.io,2023-11-26T23:59:58,Spring项目配置文件中的xmlns、xmlns:xsi和xsi:schemaLocation理解
 jasonkayzk.github.io,2023-11-26T23:59:58,调教Chrome中的小恐龙游戏
@@ -1103,6 +1108,7 @@ jasonkayzk.github.io,2023-07-25T08:57:37,ElasticSearch之学习篇-1
 jasonkayzk.github.io,2023-11-26T23:59:58,几种常见排序方法的优化(下)
 jasonkayzk.github.io,2023-11-26T23:59:58,算法:数组中的逆序对
 jasonkayzk.github.io,2023-11-26T23:59:58,在Golang发生Panic后打印出堆栈信息
+jasonkayzk.github.io,2024-07-18 08:25:47,使用nmtui配置wifi连接
 jasonkayzk.github.io,2023-11-26T23:59:58,在Gitee搭建Github Pages
 jasonkayzk.github.io,2023-11-26T23:59:58,CN2网络线路总结
 jasonkayzk.github.io,2023-12-27 22:12:07,Rust中使用libp2p
@@ -1162,9 +1168,11 @@ jasonkayzk.github.io,2023-12-13 08:46:29,Rust中的向下转型
 jasonkayzk.github.io,2023-11-26T23:59:58,怎么保证Redis和DB中的数据一致
 jasonkayzk.github.io,2024-01-21T21:15:25,实时流数据库PipelineDB介绍
 jasonkayzk.github.io,2023-11-26T23:59:58,Rust实现WebAssembly初窥
+jasonkayzk.github.io,2024-07-20 11:53:04,内网穿透或联机系列文章汇总
 jasonkayzk.github.io,2023-11-26T23:59:58,记录服务器迁移Debian
 jasonkayzk.github.io,2023-11-26T23:59:58,算法:二叉搜索树与双向链表
 jasonkayzk.github.io,2023-11-26T23:59:58,Postman中Tests脚本总结
+jasonkayzk.github.io,2024-07-26 18:03:33,【转】MacOS双开微信的方法
 jasonkayzk.github.io,2023-11-26T23:59:58,【转】在AMD处理器上通过VMWare15安装MacOS
 jasonkayzk.github.io,2020-04-30T17:31:00,有关博客源代码如何在Github上保存的相关总结
 jasonkayzk.github.io,2023-11-26T23:59:58,C++库之fmt
@@ -1265,7 +1273,9 @@ jasonkayzk.github.io,2023-11-26T23:59:58,Java线程池ThreadPoolExecutor分析�
 jasonkayzk.github.io,2023-11-26T23:59:58,Java面试题总结之一续
 jasonkayzk.github.io,2023-11-26T23:59:58,Go实现HTTP断点续传多线程下载
 jasonkayzk.github.io,2023-11-26T23:59:58,浅谈C++中的RAII
+jasonkayzk.github.io,2024-07-21 11:11:34,【转】關於日文漢字與平假名的使用
 jasonkayzk.github.io,2023-11-26T23:59:58,使用WifiAudio让Android机充当无线音箱
+jasonkayzk.github.io,2024-07-21 10:47:05,日语时态总结
 jasonkayzk.github.io,2023-11-26T23:59:58,使用装饰器模式给你的异步回调设置超时重试
 jasonkayzk.github.io,2023-11-26T23:59:58,算法:重建二叉树
 jasonkayzk.github.io,2023-11-26T23:59:58,Docker原理实战-3：UnionFS
@@ -1277,6 +1287,7 @@ jasonkayzk.github.io,2023-11-26T23:59:58,Rust反射之Any
 jasonkayzk.github.io,2023-11-26T23:59:58,记一次面试前和阿里员工交流感悟
 jasonkayzk.github.io,2023-11-26T23:59:58,cURL命令转代码工具
 jasonkayzk.github.io,2019-11-19T21:57:12,ElasticSearch为什么在高版本移除映射类型
+jasonkayzk.github.io,2024-07-27 16:17:11,解决VMWare桥接模式下无法自动获取IP的问题
 jasonkayzk.github.io,2023-11-27 20:31:30,Rust中创建全局变量
 jasonkayzk.github.io,2023-11-26T23:59:58,使用Docker搭建图片服务器
 jasonkayzk.github.io,2023-11-26T23:59:58,算法:二叉树中和为某一值的路径
@@ -1311,6 +1322,7 @@ jasonkayzk.github.io,2023-07-25T08:57:37,NIO相关基础篇之实战
 jasonkayzk.github.io,2023-11-26T23:59:58,分享几个直播源地址
 jasonkayzk.github.io,2023-11-26T23:59:58,使用Go构建GraphQL API
 jasonkayzk.github.io,2023-11-26T23:59:58,mybatis-generator逆向工程总结
+jasonkayzk.github.io,2024-07-23 08:06:53,DockerHub被墙之后的一些替代方案汇总
 jasonkayzk.github.io,2019-12-31T11:05:22,Java并发总结-3-ThreadLocalRandom类
 jasonkayzk.github.io,2023-11-26T23:59:58,推荐一些台式机共享音视频的软件
 jasonkayzk.github.io,2023-11-26T23:59:58,算法:树的子结构
@@ -1572,6 +1584,7 @@ hijiangtao.github.io,2019-04-13T11:00:18,社交网络配图安全指南
 hijiangtao.github.io,2018-12-24T23:09:04,\[译\] Vue.js 2.0 Introduction
 hijiangtao.github.io,2018-12-22T23:28:14,Learning in IEEE VIS 2016
 hijiangtao.github.io,2018-12-24T23:09:04,\[译\] 从1.6万篇文章中挑出的最棒的 Web 开发学习指南（2018版）
+hijiangtao.github.io,2024-07-25,车里的微光
 hijiangtao.github.io,2020-04-29T23:07:50,在家办公这一个月
 hijiangtao.github.io,2018-09-23,我的人生每天都在举办一筹莫展
 hijiangtao.github.io,2018-12-24T23:09:04,\[译\] 2017前端技术发展回顾
@@ -4107,6 +4120,7 @@ codeinchinese.com,2020-01-22 00:00:00 -0700,各大媒体对「木兰」编程语
 codeinchinese.com,2020-04-01,为什么我不再支持中文编程
 codeinchinese.com,2019-10-25 00:00:00 -0700,大疆机甲大师Python API之七：做个闹钟
 codeinchinese.com,2020-06-29,逐帧吐槽反智视频《编程语言为什么不能用中文，这真是把老外难住了》
+codeinchinese.com,2024-07-23,仓颉语言试写猜数字（二）
 codeinchinese.com,2023-04-30,如何评价王垠《聊聊 DSL》？
 codeinchinese.com,2019-09-10 00:00:00 -0700,手工翻译方舟编译器源码: IR相关节点类
 codeinchinese.com,2018-08-13 15:00:00 -0700,Head First OO分析设计一书略读与例子中文化
@@ -4116,6 +4130,7 @@ codeinchinese.com,2017-12-05 00:00:00 -0700,JavaScript实现ZLOGO子集: 前进+
 codeinchinese.com,2022-03-01,从小学一年级数学看知识积累过程中的纷扰（二）
 codeinchinese.com,2019-10-24T11:04:36,大疆机甲大师教育机器人Python开发：API中文化初尝试
 codeinchinese.com,2021-03-31,首发于开源中国——《开源项目必须用英文命名标识符吗？》
+codeinchinese.com,2024-07-27T15:30:09,仓颉语言试写猜数字（三）
 codeinchinese.com,2020-03-16,那些忍了很久的话——人工智能盲目跟风该休了
 codeinchinese.com,2019-05-14 00:00:00 -0700,中文命名之Hibernate 5演示 - 使用注解(annotation)而非xml定义映射
 codeinchinese.com,2019-11-18 12:00:00 -0700,【家务】盘点小孩玩具零件缺失情况
@@ -4140,6 +4155,8 @@ codeinchinese.com,2022-10-26,你支持语文退出主课地位么
 codeinchinese.com,2019-10-28 00:00:00 -0700,[意外走向] 大疆机甲大师Python API之八：计时 -- 为性能测试展开1000次循环
 codeinchinese.com,2018-07-24 00:00:00 -0700,Z语言实现基本原理
 codeinchinese.com,2020-01-31 00:05:00 -0700,木兰编程语言入门教程之一——浅介
+codeinchinese.com,2024-07-22,仓颉语言试写猜数字（一）
+codeinchinese.com,2024-07-27,仓颉语言试写猜数字（完）
 codeinchinese.com,2020-07-04T17:00:08,今天你用中文命名变量了吗？
 codeinchinese.com,2020-01-14 00:00:00 -0700,草蟒 Python 中文 API 与 VS Code 支持尝鲜
 codeinchinese.com,2020-07-03,认真分析针对中文编程的负面宣传新策略
@@ -4596,6 +4613,7 @@ conge.livingwithfcs.org,2024-01-11T15:00:46,2023读书回顾 165本中选2
 conge.livingwithfcs.org,2024-06-03T16:52:59,折返点 2421 - 2024 隧道马训练第 16 周 终于去成了赛道预览
 conge.livingwithfcs.org,2024-02-02T12:12:26,2024 一月读金融，比特币，心理学，传记，小说…9本
 conge.livingwithfcs.org,2024-03-25T16:50:17,新爸五年计划 - 353 喉咙的启示
+conge.livingwithfcs.org,2024-07-17 16:33:04,折返点 2427 - 隧道马的天时地利
 conge.livingwithfcs.org,2024-05-13 08:07:56,折返点 2419 - 2024 隧道马训练第 14 周 本次训练中最快的半马
 conge.livingwithfcs.org,2024-01-16T14:06:44,折返点 2402 - 清华跑者 
 conge.livingwithfcs.org,2024-07-02 13:55:05,新爸五年计划 - 367 露营
@@ -4633,6 +4651,7 @@ conge.livingwithfcs.org,2024-04-01 10:59:36,新爸五年计划 - 354 湿疹
 conge.livingwithfcs.org,2024-03-11 23:21:44,折返点 2410 - 2024 隧道马训练第 5 周 野心膨胀到了要破三
 conge.livingwithfcs.org,2024-05-07 16:01:35,新爸五年计划 - 359 两场生日会
 conge.livingwithfcs.org,2024-02-20T22:12:42,折返点 2407 - 2024 隧道马训练第 2 周
+conge.livingwithfcs.org,2024-07-21T08:26:44,折返点 2429 - 隧道马的人和（一）
 conge.livingwithfcs.org,2024-04-30T23:23:31,折返点 2416 - 2024 隧道马训练第 11 周 强度到顶
 conge.livingwithfcs.org,2024-06-13T11:43:29,2024隧道马训练笔记汇总
 conge.livingwithfcs.org,2024-02-19 22:27:10,新爸五年计划 - 348 感谢信会扔掉 但感谢不会丢
@@ -6425,6 +6444,7 @@ blog.mauve.icu,2023-08-13T03:36:43,Gitbook 安装出错
 blog.mauve.icu,2023-08-13T03:36:43,Java 生成验证码 Captcha
 blog.mauve.icu,2024-04-27T22:16:31,个人网络 + NAS 折腾日记-1
 blog.mauve.icu,2024-01-07T11:30:45,test
+blog.mauve.icu,2024-07-28 22:11:22,Golang 踩坑 —— interface 为参数的时候传 nil 指针
 blog.mauve.icu,2023-08-13T03:36:43,使用 Junit5 和 Mockito 实现 SpringBoot 的单元测试最优美的解决方案
 blog.mauve.icu,2022-3-15 10:02:00,Portable OJ 三期工程技术方案
 blog.mauve.icu,2022-02-17 20:38:29,Portable OJ 二期工程技术方案
@@ -6443,7 +6463,7 @@ blog.mauve.icu,2023-12-24T11:57:57,面试复习（Git）
 blog.mauve.icu,2024-01-07T11:30:45,面试复习（C++）
 blog.mauve.icu,2023-12-24T11:57:57,面试复习（计算机图形学）
 blog.mauve.icu,2023-12-24T11:57:57,面试复习（数据库）
-blog.mauve.icu,2023-09-16T15:47:12,左值-右值-将亡值
+blog.mauve.icu,2024-07-28T22:31:30,左值-右值-将亡值
 blog.mauve.icu,2023-12-12T00:45:00,反复横跳的 Clang-Tidy(cert-dcl21-cpp)
 blog.mauve.icu,2023-08-13T03:36:43,GCC/G++ 预编译头性能优化
 blog.mauve.icu,2021-10-13 21:52:28,Strassen算法代码
@@ -7164,33 +7184,31 @@ jerkwin.github.io,2021-03-16,gmx_mmpbsa脚本更新：屏蔽效应与熵贡献
 jerkwin.github.io,2014-09-08,【转】沂蒙老乡
 jerkwin.github.io,2014-08-11,【转】关于编程语言的经典名言
 jerkwin.github.io,2023-03-07,二维红外谱图的模拟计算及gmx_ir脚本更新
-kexizeroing.github.io,2024-06-18T17:45:45,How does browser load videos
+kexizeroing.github.io,2024-07-22T15:51:20,How does browser load videos
 kexizeroing.github.io,2024-03-03T10:39:49,Learn the new frontend build tool Vite
-kexizeroing.github.io,2024-06-13T21:12:13,Rendering performance
-kexizeroing.github.io,2024-07-13T19:15:15,Intro to Authorization and Authentication
-kexizeroing.github.io,2024-04-10T10:47:50,Using Blob in JavaScript
-kexizeroing.github.io,2024-07-14T19:32:35,Curated link collection
-kexizeroing.github.io,2024-03-05T17:35:00,Add watermark to images
-kexizeroing.github.io,2024-05-07T11:24:20,Frontend interview questions
-kexizeroing.github.io,2024-07-03T10:34:18,Debugging CSS
+kexizeroing.github.io,2024-07-20T14:27:26,Rendering performance
+kexizeroing.github.io,2024-07-23T08:48:17,Intro to Authorization and Authentication
+kexizeroing.github.io,2024-07-27T20:39:55,Curated link collection
+kexizeroing.github.io,2024-07-21T21:16:57,Add watermark to images
+kexizeroing.github.io,2024-07-20T09:22:33,Frontend interview questions
+kexizeroing.github.io,2024-07-27T20:39:55,Debugging CSS
 kexizeroing.github.io,2023-11-09T10:41:06,Rice course - intro to database
 kexizeroing.github.io,2024-03-09T11:31:05,An example of compiling C code to Wasm
-kexizeroing.github.io,2024-07-17T21:17:25,Start a Javascript stack project
+kexizeroing.github.io,2024-07-27T15:45:13,Start a Javascript stack project
 kexizeroing.github.io,2024-07-14T10:40:01,A basic Dockerfile and Intro to Kubernetes
-kexizeroing.github.io,2024-07-01T17:38:32,Get started with LangChain
+kexizeroing.github.io,2024-07-28T22:50:28,Get started with LangChain
 kexizeroing.github.io,2024-05-06T22:04:48,Bitwise operations
-kexizeroing.github.io,2024-06-13T14:44:27,CSS effects collection
+kexizeroing.github.io,2024-07-27T10:52:45,CSS effects collection
 kexizeroing.github.io,2024-05-09T17:34:13,JavaScript Observer APIs
 kexizeroing.github.io,2024-06-05T13:41:26,Practical considerations for Input fields
-kexizeroing.github.io,2024-06-08T10:45:25,Form validation with React Hook Form and Zod
-kexizeroing.github.io,2024-07-13T19:15:15,"Pixel, resolution and fps"
-kexizeroing.github.io,2024-04-17T22:00:56,Understand the event loop
-kexizeroing.github.io,2024-04-10T10:47:50,Module bundler clone
-kexizeroing.github.io,2024-06-07T10:57:32,Learn from Advent of Vue 2022
-kexizeroing.github.io,2024-03-16T11:01:47,Setup a new mac
+kexizeroing.github.io,2024-07-20T14:27:26,"Pixel, resolution and fps"
+kexizeroing.github.io,2024-07-20T14:27:26,Understand the event loop
+kexizeroing.github.io,2024-07-18T11:32:32,Module bundler clone
+kexizeroing.github.io,2024-07-22T21:34:34,Learn from Advent of Vue 2022
+kexizeroing.github.io,2024-07-20T16:52:39,Setup a new mac
 kexizeroing.github.io,2023-04-21T18:13:45,State management clone
 kexizeroing.github.io,2023-04-21T18:13:45,Simple frontend router
-kexizeroing.github.io,2024-06-18T10:27:21,Vue reactivity clone
+kexizeroing.github.io,2024-07-27T09:39:45,Vue reactivity clone
 kexizeroing.github.io,2024-03-05T11:16:13,Intro to GraphQL
 kexizeroing.github.io,2024-06-16T17:08:16,Unlock the power of Generative UI
 kexizeroing.github.io,2024-07-18T07:44:45,Fetch API requests and CORS
@@ -7201,40 +7219,41 @@ kexizeroing.github.io,2024-03-11T14:47:41,A quick way to serve HTTPS localhost
 kexizeroing.github.io,2024-06-18T10:27:21,PDF custom rendering
 kexizeroing.github.io,2024-04-16T13:26:37,React Server Side Rendering and Server Components
 kexizeroing.github.io,2024-03-30T19:42:25,String Matching – What’s behind Ctrl+F
+kexizeroing.github.io,2024-07-22T15:13:11,Using Blob and ArrayBuffer in JavaScript
 kexizeroing.github.io,2024-06-27T18:16:39,Inspirations
 kexizeroing.github.io,2024-05-05T14:42:39,Using ES modules
-kexizeroing.github.io,2024-07-05T15:33:18,Notes on domain-specific ChatGPT
-kexizeroing.github.io,2024-05-05T14:42:39,Using images in web
+kexizeroing.github.io,2024-07-29T08:14:39,Notes on domain-specific ChatGPT
+kexizeroing.github.io,2024-07-18T20:54:53,Using images in web
 kexizeroing.github.io,2024-05-07T11:24:20,Container queries and :has selector
 kexizeroing.github.io,2024-03-12T14:33:01,Explore interactive blog cells
-kexizeroing.github.io,2024-06-18T10:27:21,Git knowledge that not clear to me
+kexizeroing.github.io,2024-07-20T21:13:03,Git knowledge that not clear to me
 kexizeroing.github.io,2024-06-21T14:25:31,React 18 Suspense and startTransition
-kexizeroing.github.io,2024-04-04T20:45:33,HTTP cookies explained and security policy
-kexizeroing.github.io,2024-06-15T17:22:08,Server-sent events with examples
+kexizeroing.github.io,2024-07-21T11:34:49,HTTP cookies explained and security policy
+kexizeroing.github.io,2024-07-29T10:12:16,Server-sent events with examples
 kexizeroing.github.io,2024-05-12T16:02:18,"SWR, SWC, and MSW"
-kexizeroing.github.io,2024-06-18T10:27:21,Screen and webcam recording
-kexizeroing.github.io,2024-06-11T10:27:24,Intro to TypeScript
-kexizeroing.github.io,2023-12-14T18:50:23,Create a video player
+kexizeroing.github.io,2024-07-22T15:51:20,Screen and webcam recording
+kexizeroing.github.io,2024-07-23T10:45:52,Intro to TypeScript
+kexizeroing.github.io,2024-07-22T10:34:17,Create a video player
 kexizeroing.github.io,2024-07-05T15:33:18,What is Nginx
 kexizeroing.github.io,2024-05-05T14:42:39,Learn 1-Line Layouts from Una
-kexizeroing.github.io,2024-07-17T11:33:22,Notes on work projects (in Chinese)
-kexizeroing.github.io,2024-05-12T16:02:18,React hooks clone
-kexizeroing.github.io,2024-06-28T21:45:08,"HTTP connection, caching and HTTP/2"
+kexizeroing.github.io,2024-07-27T11:15:38,Notes on work projects (in Chinese)
+kexizeroing.github.io,2024-07-27T20:39:55,React hooks clone
+kexizeroing.github.io,2024-07-21T15:18:04,"HTTP connection, caching and HTTP/2"
 kexizeroing.github.io,2023-08-07T10:23:32,Rice clear turn-in
-kexizeroing.github.io,2024-06-18T10:27:21,A tiny functional event emitter
+kexizeroing.github.io,2024-07-22T10:34:17,A tiny functional event emitter
 kexizeroing.github.io,2023-08-03T11:45:19,My early career notes (in Chinese)
 kexizeroing.github.io,2024-07-05T15:33:18,The end of localhost
 kexizeroing.github.io,2024-06-30T11:54:28,How semantic image search works
 kexizeroing.github.io,2024-05-19T14:09:01,"JavaScript String, Array and Object"
-kexizeroing.github.io,2024-06-27T10:32:02,A guide to Prompt Engineering
-kexizeroing.github.io,2023-05-31T16:06:30,Node-Sass troubleshooting
-kexizeroing.github.io,2024-06-08T10:45:25,Some network knowledge (in Chinese)
-kexizeroing.github.io,2024-07-17T22:43:45,TIL
-kexizeroing.github.io,2024-07-17T08:42:24,Understand npm concepts
+kexizeroing.github.io,2024-07-28T22:50:28,A guide to Prompt Engineering
+kexizeroing.github.io,2024-07-21T16:04:46,Node-Sass troubleshooting
+kexizeroing.github.io,2024-07-20T21:22:35,Some network knowledge (in Chinese)
+kexizeroing.github.io,2024-07-28T22:50:28,TIL
+kexizeroing.github.io,2024-07-19T09:52:16,Understand npm concepts
 kexizeroing.github.io,2024-07-05T15:33:18,Functional programming jargon
 kexizeroing.github.io,2024-07-05T15:33:18,Techniques beyond basic RAG
-kexizeroing.github.io,2024-07-13T10:57:30,Mac terminal
-kexizeroing.github.io,2024-05-17T10:23:07,"JavaScript prototype chain, Class and Proxy"
+kexizeroing.github.io,2024-07-20T19:22:53,Mac terminal
+kexizeroing.github.io,2024-07-27T15:45:13,"JavaScript prototype chain, Class and Proxy"
 lihan3238.github.io,2024-01-19 16:20:00+0800,word文档图片插入显示不全问题
 lihan3238.github.io,2023-09-17 13:54:00+0800,有趣的字符串
 lihan3238.github.io,2023-09-13 13:24:00+0800,随想
@@ -7755,6 +7774,7 @@ gitee.com/Kenneth-Lee-2012/MySummary,2023-02-19T21:51:14,sphinx
 gitee.com/Kenneth-Lee-2012/MySummary,2021-05-07T17:31:08,iommu_vfio
 gitee.com/Kenneth-Lee-2012/MySummary,2020-12-02T12:22:48,vfio-mdev
 gitee.com/Kenneth-Lee-2012/MySummary,2021-07-01T09:27:49,README
+gitee.com/Kenneth-Lee-2012/MySummary,2024-07-27T17:08:50,LKMM
 gitee.com/Kenneth-Lee-2012/MySummary,2020-12-02T12:22:48,infiniband
 gitee.com/Kenneth-Lee-2012/MySummary,2020-10-09T15:53:42,名字在什么时候彻底变成名字的
 gitee.com/Kenneth-Lee-2012/MySummary,2020-10-21T09:48:03,思维上的洞
@@ -7881,7 +7901,7 @@ gitee.com/Kenneth-Lee-2012/MySummary,2023-09-20T14:52:21,初中《西游记》�
 gitee.com/Kenneth-Lee-2012/MySummary,2020-10-21T09:48:03,理解电流
 gitee.com/Kenneth-Lee-2012/MySummary,2023-09-20T14:52:21,初中《西游记》导读2：主线故事
 gitee.com/Kenneth-Lee-2012/MySummary,2024-04-11T17:41:10,README
-gitee.com/Kenneth-Lee-2012/MySummary,2024-04-11T17:41:10,几个操作系统实验
+gitee.com/Kenneth-Lee-2012/MySummary,2024-07-29T10:56:04,几个操作系统实验
 gitee.com/Kenneth-Lee-2012/MySummary,2024-01-04T16:35:28,软件如何在CPU上运行起来的
 gitee.com/Kenneth-Lee-2012/MySummary,2020-10-14T02:09:21,内能的逻辑链整理
 gitee.com/Kenneth-Lee-2012/MySummary,2021-04-11T17:32:45,鲁迅的《白光》表达了什么？
@@ -8061,6 +8081,7 @@ babyno.top,2024-04-19 10:17:47,在本地跑一个AI模型(5) - Stable Diffusion
 babyno.top,2024-03-10T09:26:15,Run a large language models locally (3) - Enabling the Model to Use Tools Autonomously
 babyno.top,2024-03-11 09:42:43,「译」iMessage采用PQ3量子密码技术实现消息传递
 babyno.top,2024-04-22T17:36:37,在本地跑一个AI模型(6) - Stable Diffusion模型微调
+babyno.top,2024-07-24 08:50:18,自己写一个RAG应用
 babyno.top,2024-03-04T10:44:09,使用「快捷指令」在Mac上的任何地方创建文件
 babyno.top,2024-03-04T10:44:09,「快捷指令」- 智能闹钟
 babyno.top,2024-03-04T10:44:09,再平凡的你，也是自己人生的主角
@@ -8496,6 +8517,7 @@ yuanj.top,2024-02-22T11:11:58,月末成都散心
 yuanj.top,2024-06-12T17:45:12,Seurat 4 与 5 共存
 yuanj.top,2023-12-15T21:01:16,立下大三第一学期的 flag
 yuanj.top,2024-05-24T18:33:57+08:00,翻到了高中时的笔记本
+yuanj.top,2024-07-19T20:40:08+08:00,Legado 阅读+书源
 yuanj.top,2023-12-05T16:09:37,Linux 下 R 使用新罗马字体
 yuanj.top,2024-02-22T11:11:58,希望让你重获自由
 yuanj.top,2024-02-22T11:11:58,2024 新年快乐
