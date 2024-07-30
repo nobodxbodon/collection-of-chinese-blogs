@@ -44,7 +44,7 @@ func 生成原文链接(简报) {
   // 2024-02-24- 替换为 2024/02/24/，去掉末尾扩展
   链接化 = re.sub('(\\d{4})-(\\d{2})-(\\d{2})-', '\\1/\\2/\\3/', 文件名).replace('.md', '').strip().replace(' ', '-')
 
-  if 域名 == "iphyer.github.io" or 域名 == "www.barretlee.com" or 域名 == "lutaonan.com" {
+  if 域名 == "iphyer.github.io" or 域名 == "www.barretlee.com" or 域名 == "lutaonan.com" or 域名 == "informal.top" {
     链接化 = "blog/" + 链接化
   } elif 域名 == "youerning.top" {
     链接化 = "post/" + 链接化
