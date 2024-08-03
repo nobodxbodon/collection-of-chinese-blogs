@@ -28,14 +28,6 @@ using 原型.网页相关测试
 for 仓库地址 in 仓库表 {
     本仓库内简报 = 各仓库简报[仓库地址]
 
-    // mac 下部分仓库简报为空
-    /*
-    https://gitee.com/jaredtao/jaredtao
-https://github.com/Liu0330/Liu0330.github.io
-https://github.com/biezhi/blog
-https://github.com/conge/conge.github.io
-https://github.com/sakurawald/sakurawald.github.io
-    */
     { println('此库无简报：`仓库地址`'); continue } if #本仓库内简报 == 0
 
     最新简报 = max(本仓库内简报, key=简报 -> 简报.时间)
