@@ -27,7 +27,12 @@ func 取新博文(当前内容, 之前内容) {
 func 取博文(当前内容) {
   新博文 = []
   当前博文 = feedparser.parse(当前内容).entries
+  // 部分博文 无 title
   for 博文 in 当前博文 {
+    if !博文.__contains__('title') {
+      println(博文)
+      continue
+    }
     简介 = {'题目': 博文.title, '链接': 博文.link}
     新博文.append(简介)
     println('新添:`简介`')
