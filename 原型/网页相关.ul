@@ -48,6 +48,8 @@ func 生成原文链接(简报) {
     链接化 = "blog/" + 链接化
   } elif 域名 == "youerning.top" {
     链接化 = "post/" + 链接化
+  } elif 域名 == "www.zhaohuabing.com" {
+    链接化 = "post/" + 文件名.replace('.md', '')
   } elif 域名 == "jalenz.cn" or 域名 == "babyno.top" or 域名 == "sakurawald.github.io"{
     链接化 = "posts/" + 链接化
   } elif 域名 == "f2h2h1.github.io" {

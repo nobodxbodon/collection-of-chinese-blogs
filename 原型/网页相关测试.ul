@@ -37,6 +37,14 @@ sund简报 = 简报结构.由表转换单个({
 确认相等('https://sund.site/posts/2024/decision_to_leave',
   生成原文链接(sund简报))
 
+zhaohuabing简报 = 简报结构.由表转换单个({
+  '文件名': '2024-04-28-silicon-valley.md',
+  '路径': os.path.join(源数据路径, 'www.zhaohuabing.com/content/post/2024-04-28-silicon-valley.md'),
+  '本地相对路径': 'www.zhaohuabing.com'
+})
+确认相等('https://www.zhaohuabing.com/post/2024-04-28-silicon-valley',
+  生成原文链接(zhaohuabing简报))
+
 木兰简报 = 简报结构.由表转换单个({
   '仓库源地址': 'https://gitee.com/MulanRevive/bounty',
   '路径': os.path.join(源数据路径, 'gitee.com/MulanRevive/bounty/进展小结/test.md'),
