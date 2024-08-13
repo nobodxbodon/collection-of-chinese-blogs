@@ -407,7 +407,8 @@ iphyer.github.io,2020-02-24T14:58:21,USA印象11:北密游记
 iphyer.github.io,2018-12-31T21:43:14,Python编程6——Python实现Collatz
 iphyer.github.io,2022-07-03T20:32:40,助教感受
 iphyer.github.io,2022-04-10 21:54,2022 Q1 总结
-iphyer.github.io,2024-08-08T22:45:00,搬家记录5: Year 2024
+iphyer.github.io,2024-08-10T19:37:29,搬家记录5: Year 2024
+iphyer.github.io,2024-08-10 22:54,AWS 使用注意点总结
 iphyer.github.io,2024-04-12T14:38:57,麦迪逊印象
 iphyer.github.io,2018-12-31T22:03:19,阶段总结+读书笔记2013-09-24
 iphyer.github.io,2023-05-22T20:34:39,USA印象18: 圣安东尼奥游记
@@ -3663,7 +3664,7 @@ blog.forecho.com,2016-02-15T15:08:00+08:00,GitHub 单独设置某个项目的配
 blog.forecho.com,2021-12-27T15:25:41,让我变得更加有效率的工具
 blog.forecho.com,2021-02-09T16:28:10,2020年终总结之阅读篇
 blog.forecho.com,2017-03-05T21:23:00+08:00,初步了解微服务架构
-blog.forecho.com,2024-08-06T13:57:30,RichCalls Warden 使用指南
+blog.forecho.com,2024-08-10T20:38:46,RichCalls Warden 使用指南
 blog.forecho.com,2024-01-29T00:15:49,期权要学会滚仓
 blog.forecho.com,2023-11-21T16:31:27,【深度阅读 009】《软技能》
 blog.forecho.com,2013-07-30T09:30:00+08:00,PHP MySQL Yii更新数据库时 字段值自增
@@ -3831,6 +3832,7 @@ codeinchinese.com,2021-05-10,浅尝 minikanren，传说中的逻辑式编程（�
 codeinchinese.com,2019-04-07,用中文编程是种什么体验？
 codeinchinese.com,2022-01-26,如何看待 2025 年日本高考使用日语编程语言“DNCL”？
 codeinchinese.com,2021-10-26,J语言词典中英对照（一）
+codeinchinese.com,2024-08-10,从例程看仓颉与木兰编程语言设计（一）
 codeinchinese.com,2019-02-10 00:00:00 -0700,扩展Python控制台实现中文反馈信息
 codeinchinese.com,2018-09-24 00:00:00 -0700,Java源码英翻中网页演示
 codeinchinese.com,2019-10-28 00:00:00 -0700,[意外走向] 大疆机甲大师Python API之八：计时 -- 为性能测试展开1000次循环
@@ -4121,7 +4123,7 @@ codeinchinese.com,2020-01-31 00:05:00 -0700,木兰编程语言入门教程之二
 codeinchinese.com,2018-06-20 00:00:00 -0700,中文代码示例视频演示Python入门教程第三章 简介Python
 codeinchinese.com,2020-02-19 00:05:00 -0700,基于「木兰」逆向工程用 pyinstaller 生成可执行文件
 codeinchinese.com,2021-09-24,用 RPly 按语法分词实现中文无空格语法设计（二）——生成对应SQL演示
-codeinchinese.com,2022-08-26,是否可以设计一种标记语言，用于表示汉字的生僻字
+codeinchinese.com,2024-08-10T16:37:23,是否可以设计一种标记语言，用于表示汉字的生僻字
 codeinchinese.com,2022-01-06T19:11:40,中文命名标识符如何区分类型和变量
 codeinchinese.com,2024-02-12,小学数学到底有多难？
 codeinchinese.com,2019-03-17 00:00:00 -0700,重拾《 两周自制脚本语言 》- 中文关键字与原生函数
@@ -7229,18 +7231,18 @@ kexizeroing.github.io,2024-07-22T15:51:20,How does browser load videos
 kexizeroing.github.io,2024-03-03T10:39:49,Learn the new frontend build tool Vite
 kexizeroing.github.io,2024-07-20T14:27:26,Rendering performance
 kexizeroing.github.io,2024-08-02T11:21:13,Intro to Authorization and Authentication
-kexizeroing.github.io,2024-08-08T10:45:25,Curated link collection
-kexizeroing.github.io,2024-07-31T20:11:32,Add watermark to images
+kexizeroing.github.io,2024-08-10T14:58:09,Curated link collection
+kexizeroing.github.io,2024-08-12T14:30:57,Add watermark to images
 kexizeroing.github.io,2024-08-07T18:14:04,Frontend interview questions
 kexizeroing.github.io,2024-08-06T18:54:58,Debugging CSS
 kexizeroing.github.io,2023-11-09T10:41:06,Rice course - intro to database
 kexizeroing.github.io,2024-03-09T11:31:05,An example of compiling C code to Wasm
 kexizeroing.github.io,2024-07-27T15:45:13,Start a Javascript stack project
-kexizeroing.github.io,2024-07-14T10:40:01,A basic Dockerfile and Intro to Kubernetes
+kexizeroing.github.io,2024-08-10T14:58:09,A basic Dockerfile and Intro to Kubernetes
 kexizeroing.github.io,2024-07-29T22:19:31,Get started with LangChain
 kexizeroing.github.io,2024-08-03T14:03:35,CSS effects collection
 kexizeroing.github.io,2024-08-01T17:16:29,JavaScript Observer APIs
-kexizeroing.github.io,2024-07-30T20:57:15,Practical considerations for Input fields
+kexizeroing.github.io,2024-08-12T14:30:57,Practical considerations for Input fields
 kexizeroing.github.io,2024-08-05T11:00:55,"Pixel, resolution and fps"
 kexizeroing.github.io,2024-07-20T14:27:26,Understand the event loop
 kexizeroing.github.io,2024-07-18T11:32:32,Module bundler clone
@@ -7274,6 +7276,7 @@ kexizeroing.github.io,2024-07-29T10:12:16,Server-sent events with examples
 kexizeroing.github.io,2024-05-12T16:02:18,"SWR, SWC, and MSW"
 kexizeroing.github.io,2024-07-22T15:51:20,Screen and webcam recording
 kexizeroing.github.io,2024-08-08T10:45:25,Intro to TypeScript
+kexizeroing.github.io,2024-08-12T14:30:57,Notes on running code online in browser
 kexizeroing.github.io,2024-07-22T10:34:17,Create a video player
 kexizeroing.github.io,2024-07-05T15:33:18,What is Nginx
 kexizeroing.github.io,2024-05-05T14:42:39,Learn 1-Line Layouts from Una
@@ -7285,15 +7288,15 @@ kexizeroing.github.io,2024-07-22T10:34:17,A tiny functional event emitter
 kexizeroing.github.io,2023-08-03T11:45:19,My early career notes (in Chinese)
 kexizeroing.github.io,2024-07-05T15:33:18,The end of localhost
 kexizeroing.github.io,2024-06-30T11:54:28,How semantic image search works
-kexizeroing.github.io,2024-08-04T21:02:42,"JavaScript String, Array and Object"
-kexizeroing.github.io,2024-08-03T14:03:35,A guide to Prompt Engineering
+kexizeroing.github.io,2024-08-10T14:58:09,"JavaScript String, Array and Object"
+kexizeroing.github.io,2024-08-10T14:58:09,A guide to Prompt Engineering
 kexizeroing.github.io,2024-07-21T16:04:46,Node-Sass troubleshooting
 kexizeroing.github.io,2024-07-20T21:22:35,Some network knowledge (in Chinese)
 kexizeroing.github.io,2024-08-02T20:34:00,TIL
 kexizeroing.github.io,2024-07-19T09:52:16,Understand npm concepts
 kexizeroing.github.io,2024-07-05T15:33:18,Functional programming jargon
 kexizeroing.github.io,2024-07-20T19:22:53,Mac terminal
-kexizeroing.github.io,2024-08-06T20:37:45,Algorithm basics and sample problems
+kexizeroing.github.io,2024-08-12T22:27:41,Algorithm basics and sample problems
 kexizeroing.github.io,2024-08-07T18:14:04,"JavaScript prototype chain, Class and Proxy"
 lihan3238.github.io,2024-01-19 16:20:00+0800,word文档图片插入显示不全问题
 lihan3238.github.io,2023-09-17 13:54:00+0800,有趣的字符串
@@ -8410,6 +8413,7 @@ lutaonan.com,2022-08-20,读《九宫格写作法》
 lutaonan.com,2021-03-09,我对 Svelte 的看法
 lutaonan.com,2024-01-04,读 React 18 文档有感
 lutaonan.com,2023-12-22T23:32:01,2023 年终总结: 和自己对话
+lutaonan.com,2024-08-10,「代码艺术家」不会被 AI 取代
 lutaonan.com,2019-06-12,为你写的一首诗
 lutaonan.com,2014-12-31,2014 年终总结
 lutaonan.com,2019-11-05,来自 2014 年给未来的我的一封信
