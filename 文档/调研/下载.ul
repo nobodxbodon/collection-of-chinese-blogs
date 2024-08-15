@@ -11,9 +11,23 @@ using Template in jinja2
 
 func 取新博文(当前内容, 之前内容) {
   新博文 = []
+
+    // 部分博文 无 title
+  之前博文题目 = []
+  for 博文 in feedparser.parse(之前内容).entries {
+    if !博文.__contains__('title') {
+      println(博文)
+      continue
+    }
+    之前博文题目.append(博文.title)
+  }
+
   当前博文 = feedparser.parse(当前内容).entries
-  之前博文题目 = list(map(博文 -> 博文.title, feedparser.parse(之前内容).entries))
   for 博文 in 当前博文 {
+    if !博文.__contains__('title') {
+      println(博文)
+      continue
+    }
     if !之前博文题目.__contains__(博文.title) {
       简介 = {'题目': 博文.title, '链接': 博文.link}
       新博文.append(简介)
