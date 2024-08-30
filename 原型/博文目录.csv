@@ -3674,7 +3674,7 @@ blog.forecho.com,2016-02-15T15:08:00+08:00,GitHub 单独设置某个项目的配
 blog.forecho.com,2021-12-27T15:25:41,让我变得更加有效率的工具
 blog.forecho.com,2021-02-09T16:28:10,2020年终总结之阅读篇
 blog.forecho.com,2017-03-05T21:23:00+08:00,初步了解微服务架构
-blog.forecho.com,2024-08-10T20:38:46,RichCalls Warden 使用指南
+blog.forecho.com,2024-08-25T00:25:37,RichCalls Warden 使用指南
 blog.forecho.com,2024-01-29T00:15:49,期权要学会滚仓
 blog.forecho.com,2023-11-21T16:31:27,【深度阅读 009】《软技能》
 blog.forecho.com,2013-07-30T09:30:00+08:00,PHP MySQL Yii更新数据库时 字段值自增
@@ -7239,16 +7239,17 @@ jerkwin.github.io,2014-08-11,【转】关于编程语言的经典名言
 jerkwin.github.io,2023-03-07,二维红外谱图的模拟计算及gmx_ir脚本更新
 kexizeroing.github.io,2024-07-22T15:51:20,How does browser load videos
 kexizeroing.github.io,2024-03-03T10:39:49,Learn the new frontend build tool Vite
-kexizeroing.github.io,2024-07-20T14:27:26,Rendering performance
+kexizeroing.github.io,2024-08-26T18:35:35,Rendering performance
 kexizeroing.github.io,2024-08-02T11:21:13,Intro to Authorization and Authentication
-kexizeroing.github.io,2024-08-22T14:42:24,Curated link collection
+kexizeroing.github.io,2024-08-28T09:40:51,Curated link collection
 kexizeroing.github.io,2024-08-13T12:00:25,Add watermark to images
 kexizeroing.github.io,2024-08-21T18:14:14,Frontend interview questions
+kexizeroing.github.io,2024-08-24T13:55:41,Demystifying HMR and Source Maps
 kexizeroing.github.io,2024-08-15T13:52:05,Debugging CSS
 kexizeroing.github.io,2024-08-13T08:15:43,Rice course - intro to database
 kexizeroing.github.io,2024-03-09T11:31:05,An example of compiling C code to Wasm
-kexizeroing.github.io,2024-08-21T11:55:30,Start a Javascript stack project
-kexizeroing.github.io,2024-08-10T14:58:09,A basic Dockerfile and Intro to Kubernetes
+kexizeroing.github.io,2024-08-27T11:50:33,Start a Javascript stack project
+kexizeroing.github.io,2024-08-28T09:40:51,A basic Dockerfile and Intro to Kubernetes
 kexizeroing.github.io,2024-07-29T22:19:31,Get started with LangChain
 kexizeroing.github.io,2024-08-03T14:03:35,CSS effects collection
 kexizeroing.github.io,2024-08-17T10:10:37,JavaScript Observer APIs
@@ -7265,7 +7266,7 @@ kexizeroing.github.io,2024-03-05T11:16:13,Intro to GraphQL
 kexizeroing.github.io,2024-06-16T17:08:16,Unlock the power of Generative UI
 kexizeroing.github.io,2024-08-21T11:55:30,Fetch API requests and CORS
 kexizeroing.github.io,2024-08-07T18:14:04,Intro to Bun
-kexizeroing.github.io,2024-08-16T11:41:34,JavaScript basics you should know
+kexizeroing.github.io,2024-08-26T18:35:35,JavaScript basics you should know
 kexizeroing.github.io,2024-08-18T15:10:16,Bitwise operations and related concepts
 kexizeroing.github.io,2024-03-11T14:47:41,A quick way to serve HTTPS localhost
 kexizeroing.github.io,2024-08-09T17:47:04,PDF custom rendering
@@ -7273,23 +7274,23 @@ kexizeroing.github.io,2024-08-17T10:10:37,React Server Side Rendering and Server
 kexizeroing.github.io,2024-03-30T19:42:25,String Matching – What’s behind Ctrl+F
 kexizeroing.github.io,2024-07-22T15:13:11,Using Blob and ArrayBuffer in JavaScript
 kexizeroing.github.io,2024-06-27T18:16:39,Inspirations
-kexizeroing.github.io,2024-08-21T18:14:14,Using ES modules
+kexizeroing.github.io,2024-08-26T18:35:35,Using ES modules
 kexizeroing.github.io,2024-08-22T14:42:24,Notes on domain-specific ChatGPT
-kexizeroing.github.io,2024-07-18T20:54:53,Using images in web
+kexizeroing.github.io,2024-08-25T10:02:31,Using images in web
 kexizeroing.github.io,2024-08-08T10:45:25,Run MySQL locally and manipulate Node.js files
 kexizeroing.github.io,2024-05-07T11:24:20,Container queries and :has selector
 kexizeroing.github.io,2024-08-22T14:42:24,Explore interactive blog cells
-kexizeroing.github.io,2024-07-20T21:13:03,Git knowledge that not clear to me
+kexizeroing.github.io,2024-08-28T09:40:51,Git knowledge that not clear to me
 kexizeroing.github.io,2024-08-01T21:40:51,React 18 Suspense and startTransition
 kexizeroing.github.io,2024-08-06T10:48:15,HTTP cookies explained and security policy
 kexizeroing.github.io,2024-07-29T10:12:16,Server-sent events with examples
-kexizeroing.github.io,2024-08-20T11:15:31,"SWR, SWC, and MSW"
+kexizeroing.github.io,2024-08-24T13:55:41,"SWR, SWC, and MSW"
 kexizeroing.github.io,2024-07-22T15:51:20,Screen and webcam recording
-kexizeroing.github.io,2024-08-22T14:42:24,Intro to TypeScript
+kexizeroing.github.io,2024-08-24T22:10:49,Intro to TypeScript
 kexizeroing.github.io,2024-07-22T10:34:17,Create a video player
 kexizeroing.github.io,2024-07-05T15:33:18,What is Nginx
 kexizeroing.github.io,2024-05-05T14:42:39,Learn 1-Line Layouts from Una
-kexizeroing.github.io,2024-08-16T11:41:34,Notes on work projects (in Chinese)
+kexizeroing.github.io,2024-08-26T18:35:35,Notes on work projects (in Chinese)
 kexizeroing.github.io,2024-07-27T20:39:55,React hooks clone
 kexizeroing.github.io,2024-08-09T17:47:04,"HTTP connection, caching and HTTP/2"
 kexizeroing.github.io,2023-08-07T10:23:32,Rice clear turn-in
@@ -7297,14 +7298,14 @@ kexizeroing.github.io,2024-07-22T10:34:17,A tiny functional event emitter
 kexizeroing.github.io,2023-08-03T11:45:19,My early career notes (in Chinese)
 kexizeroing.github.io,2024-07-05T15:33:18,The end of localhost
 kexizeroing.github.io,2024-08-10T14:58:09,"JavaScript String, Array and Object"
-kexizeroing.github.io,2024-08-17T10:10:37,A guide to Prompt Engineering
+kexizeroing.github.io,2024-08-27T11:50:33,A guide to Prompt Engineering
 kexizeroing.github.io,2024-07-21T16:04:46,Node-Sass troubleshooting
 kexizeroing.github.io,2024-07-20T21:22:35,Some network knowledge (in Chinese)
-kexizeroing.github.io,2024-08-14T11:14:58,TIL
-kexizeroing.github.io,2024-08-20T11:15:31,Understand npm concepts
+kexizeroing.github.io,2024-08-27T11:50:33,TIL
+kexizeroing.github.io,2024-08-26T18:35:35,Understand npm concepts
 kexizeroing.github.io,2024-07-05T15:33:18,Functional programming jargon
-kexizeroing.github.io,2024-07-20T19:22:53,Mac terminal
-kexizeroing.github.io,2024-08-20T11:15:31,Algorithm basics and sample problems
+kexizeroing.github.io,2024-08-25T10:02:31,Mac terminal
+kexizeroing.github.io,2024-08-25T17:13:02,Algorithm basics and sample problems
 kexizeroing.github.io,2024-08-07T18:14:04,"JavaScript prototype chain, Class and Proxy"
 lihan3238.github.io,2024-01-19 16:20:00+0800,word文档图片插入显示不全问题
 lihan3238.github.io,2023-09-17 13:54:00+0800,有趣的字符串
@@ -8128,6 +8129,7 @@ babyno.top,2024-01-23T15:32:58,Archive
 babyno.top,2024-03-08T13:46:49,Search
 babyno.top,2024-03-08T13:46:49,Archive
 babyno.top,2024-08-15T11:59:43,在本地跑一个大语言模型
+babyno.top,2024-08-27 16:36:44,隐私政策
 babyno.top,2024-08-15T11:59:43,在本地跑一个AI模型(7) - 你打草稿，模型来画
 babyno.top,2024-08-15T11:59:43,Run a large language models locally (2) - Providing an External Knowledge Base to the Model
 babyno.top,2024-08-15T11:59:43,在本地跑一个AI模型(5) - Stable Diffusion
@@ -8166,7 +8168,7 @@ babyno.top,2024-08-15T11:59:43,PS2纹理图片编码算法「A1B5G5R5」
 babyno.top,2024-08-15T11:59:43,从PS2记忆卡中导出存档文件
 babyno.top,2024-08-15T11:59:43,「ps2mc-browser」新功能发布
 babyno.top,2024-08-15T11:59:43,解析PS2游戏存档3D图标
-babyno.top,2024-08-15T11:59:43,使用Python和OpenGL渲染PS2存档3D图标
+babyno.top,2024-08-27T16:51:56,使用Python和OpenGL渲染PS2存档3D图标
 babyno.top,2024-08-15T11:59:43,Analysis of the PS2 Memory Card Storage Format
 babyno.top,2024-08-15T11:59:43,用「Github」和「Cloudflare」自建博客
 babyno.top,2024-03-29T11:26:01,Hello World
@@ -8488,7 +8490,7 @@ lutaonan.com,2023-07-31T11:19:39,开发一个浏览器插件在第三天卖出 1
 lutaonan.com,2019-09-16 # cover https://gbstatic.djyde.com/cover/AAAABT4QF9hCG8i7wl7n9jxl95Zzz76F74AC0qRHECq5tVPy9EnjydEPgXZh6P5t8hppG5wd5_T51MjzuIhqVm4_eyCRVxdGNRw3bw.jpg,爱情是愿意为你放弃寻新鲜
 lutaonan.com,2020-05-17,离开阿里巴巴
 lutaonan.com,2019-07-18,未来属于声明式编程
-yuanj.top,2024-08-21T15:07:27,README
+yuanj.top,2024-08-27T14:59:18,README
 yuanj.top,2024-05-03T16:02:11,专题：RNA-Seq 上游分析学习
 yuanj.top,2024-02-22T11:11:58,重玩《世界征服者 3》
 yuanj.top,2024-08-08T21:11:09,今天“调教”了一下我的手机
@@ -8690,6 +8692,7 @@ informal.top,2022-11-16,强化学习简介
 informal.top,2024-08-23T22:23:17,雅思备考 2024Q3
 informal.top,2022-07-31,读《人类简史》有感
 informal.top,2022-07-30,妙峰山骑行
+informal.top,2024-08-25T22:45:49,First week of indie develop
 informal.top,2022-06-22,模型解释性
 informal.top,2022-07-28,黑客帝国
 informal.top,2021-12-31,2021年度总结
