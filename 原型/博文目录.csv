@@ -3961,6 +3961,7 @@ codeinchinese.com,2021-07-08,汉语编程只需要学习几十个汉字就可以
 codeinchinese.com,2024-06-07T15:37:49,双胞胎为什么要穿得一模一样，目的何在？
 codeinchinese.com,2019-03-09 08:00:00 -0700,中文代码示例之NW.js桌面应用开发初体验
 codeinchinese.com,2019-11-05 00:00:00 -0700,大疆机甲大师Python API之十一：用上电时间实测电池放电曲线
+codeinchinese.com,2024-09-07,现在业界是否需要新的编程语言？如果需要，那需要什么类型的编程语言？
 codeinchinese.com,2022-01-19,《关于日语编程语言“抚子”的解释》摘要（一）
 codeinchinese.com,2022-01-20,《关于日语编程语言“抚子”的解释》摘要（二）
 codeinchinese.com,2023-08-10,为什么没有一个大公司垄断编程语言？
@@ -4304,7 +4305,7 @@ gitee.com/MulanRevive/bounty,2020-04-15,搭建木兰原型（一）——加法
 gitee.com/MulanRevive/bounty,2020-03-25,木兰编译器技术验证——通过 AST 转换和 eval 实现语法定制
 gitee.com/MulanRevive/bounty,2020-05-23,木兰编程语言体验版更新，附带 VS Code 支持插件
 gitee.com/MulanRevive/bounty,2023-02-02T13:44:38,README
-f2h2h1.github.io,2024-09-06T18:16:53,在Windows下安装Magento2
+f2h2h1.github.io,2024-09-07T19:25:47,在Windows下安装Magento2
 f2h2h1.github.io,2020-06-20T00:45:57,mongodb分片
 f2h2h1.github.io,2024-02-02T18:09:35,密码学入门简明指南
 f2h2h1.github.io,2023-01-19T18:43:45,浏览器和服务器通讯方式的不完整总结
@@ -6504,6 +6505,7 @@ blog.mauve.icu,2024-04-27T22:16:31,个人网络 + NAS 折腾日记-1
 blog.mauve.icu,2024-01-07T11:30:45,test
 blog.mauve.icu,2024-07-28 22:11:22,Golang 踩坑 —— interface 为参数的时候传 nil 指针
 blog.mauve.icu,2023-08-13T03:36:43,使用 Junit5 和 Mockito 实现 SpringBoot 的单元测试最优美的解决方案
+blog.mauve.icu,2024-09-08T17:59:17,《黑神话:悟空》游玩评测
 blog.mauve.icu,2022-3-15 10:02:00,Portable OJ 三期工程技术方案
 blog.mauve.icu,2022-02-17 20:38:29,Portable OJ 二期工程技术方案
 blog.mauve.icu,2021-10-31 20:09:29,Portable OJ 一期工程技术方案
@@ -7248,20 +7250,20 @@ kexizeroing.github.io,2024-08-26T18:35:35,Rendering performance
 kexizeroing.github.io,2024-08-30T10:28:31,Intro to Authorization and Authentication
 kexizeroing.github.io,2024-08-30T10:28:31,Curated link collection
 kexizeroing.github.io,2024-08-13T12:00:25,Add watermark to images
-kexizeroing.github.io,2024-09-02T18:28:52,Frontend interview questions
+kexizeroing.github.io,2024-09-07T10:21:55,Frontend interview questions
 kexizeroing.github.io,2024-08-24T13:55:41,Demystifying HMR and Source Maps
 kexizeroing.github.io,2024-08-15T13:52:05,Debugging CSS
 kexizeroing.github.io,2024-08-13T08:15:43,Rice course - intro to database
 kexizeroing.github.io,2024-03-09T11:31:05,An example of compiling C code to Wasm
 kexizeroing.github.io,2024-08-27T11:50:33,Start a Javascript stack project
-kexizeroing.github.io,2024-08-28T09:40:51,A basic Dockerfile and Intro to Kubernetes
+kexizeroing.github.io,2024-09-08T12:31:46,A basic Dockerfile and Intro to Kubernetes
 kexizeroing.github.io,2024-07-29T22:19:31,Get started with LangChain
 kexizeroing.github.io,2024-08-31T20:56:48,CSS effects collection
 kexizeroing.github.io,2024-08-17T10:10:37,JavaScript Observer APIs
 kexizeroing.github.io,2024-08-17T10:10:37,Practical considerations for Input fields
 kexizeroing.github.io,2024-08-05T11:00:55,"Pixel, resolution and fps"
 kexizeroing.github.io,2024-07-20T14:27:26,Understand the event loop
-kexizeroing.github.io,2024-09-05T21:23:31,Module bundler clone
+kexizeroing.github.io,2024-09-07T10:21:55,Module bundler clone
 kexizeroing.github.io,2024-08-03T16:46:36,Learn from Advent of Vue 2022
 kexizeroing.github.io,2024-07-20T16:52:39,Setup a new mac
 kexizeroing.github.io,2024-08-03T14:03:35,State management clone
@@ -7269,7 +7271,7 @@ kexizeroing.github.io,2023-04-21T18:13:45,Simple frontend router
 kexizeroing.github.io,2024-07-27T09:39:45,Vue reactivity clone
 kexizeroing.github.io,2024-03-05T11:16:13,Intro to GraphQL
 kexizeroing.github.io,2024-06-16T17:08:16,Unlock the power of Generative UI
-kexizeroing.github.io,2024-08-21T11:55:30,Fetch API requests and CORS
+kexizeroing.github.io,2024-09-07T10:21:55,Fetch API requests and CORS
 kexizeroing.github.io,2024-08-07T18:14:04,Intro to Bun
 kexizeroing.github.io,2024-08-26T18:35:35,JavaScript basics you should know
 kexizeroing.github.io,2024-08-18T15:10:16,Bitwise operations and related concepts
@@ -7297,7 +7299,7 @@ kexizeroing.github.io,2024-07-05T15:33:18,What is Nginx
 kexizeroing.github.io,2024-05-05T14:42:39,Learn 1-Line Layouts from Una
 kexizeroing.github.io,2024-09-05T21:23:31,Notes on work projects (in Chinese)
 kexizeroing.github.io,2024-07-27T20:39:55,React hooks clone
-kexizeroing.github.io,2024-09-05T21:23:31,"HTTP connection, caching and HTTP/2"
+kexizeroing.github.io,2024-09-07T11:17:43,"HTTP connection, caching and HTTP/2"
 kexizeroing.github.io,2023-08-07T10:23:32,Rice clear turn-in
 kexizeroing.github.io,2024-07-22T10:34:17,A tiny functional event emitter
 kexizeroing.github.io,2023-08-03T11:45:19,My early career notes (in Chinese)
@@ -7310,7 +7312,7 @@ kexizeroing.github.io,2024-08-30T10:28:31,TIL
 kexizeroing.github.io,2024-08-31T20:56:48,Understand npm concepts
 kexizeroing.github.io,2024-07-05T15:33:18,Functional programming jargon
 kexizeroing.github.io,2024-08-25T10:02:31,Mac terminal
-kexizeroing.github.io,2024-09-04T11:49:02,Algorithm basics and sample problems
+kexizeroing.github.io,2024-09-08T19:15:48,Algorithm basics and sample problems
 kexizeroing.github.io,2024-08-07T18:14:04,"JavaScript prototype chain, Class and Proxy"
 lihan3238.github.io,2024-01-19 16:20:00+0800,word文档图片插入显示不全问题
 lihan3238.github.io,2023-09-17 13:54:00+0800,有趣的字符串
@@ -7951,6 +7953,7 @@ gitee.com/Kenneth-Lee-2012/MySummary,2020-10-10T11:13:30,教中学生学编程2�
 gitee.com/Kenneth-Lee-2012/MySummary,2023-09-20T14:52:21,初中《西游记》导读9-习题1
 gitee.com/Kenneth-Lee-2012/MySummary,2020-10-10T11:13:30,倒霉的理发师
 gitee.com/Kenneth-Lee-2012/MySummary,2020-10-21T09:48:03,《出师表》欣赏
+gitee.com/Kenneth-Lee-2012/MySummary,2024-09-08T13:40:35,在WSL上安装和使用MySQL
 gitee.com/Kenneth-Lee-2012/MySummary,2024-04-18T19:50:19,CSS布局
 gitee.com/Kenneth-Lee-2012/MySummary,2023-09-20T14:52:21,初中《西游记》导读5-谈一下文笔问题
 gitee.com/Kenneth-Lee-2012/MySummary,2024-04-01T18:44:20,非线性电路分析
@@ -7958,7 +7961,7 @@ gitee.com/Kenneth-Lee-2012/MySummary,2023-09-20T14:52:21,初中《西游记》�
 gitee.com/Kenneth-Lee-2012/MySummary,2023-09-20T14:52:21,初中《西游记》导读7-唐僧师徒的关系
 gitee.com/Kenneth-Lee-2012/MySummary,2020-10-21T09:48:03,理解电流
 gitee.com/Kenneth-Lee-2012/MySummary,2023-09-20T14:52:21,初中《西游记》导读2：主线故事
-gitee.com/Kenneth-Lee-2012/MySummary,2024-08-23T17:24:37,README
+gitee.com/Kenneth-Lee-2012/MySummary,2024-09-08T13:40:35,README
 gitee.com/Kenneth-Lee-2012/MySummary,2024-08-23T17:24:37,怎样理解递归
 gitee.com/Kenneth-Lee-2012/MySummary,2024-08-06T16:19:02,几个操作系统实验
 gitee.com/Kenneth-Lee-2012/MySummary,2024-01-04T16:35:28,软件如何在CPU上运行起来的
@@ -8532,13 +8535,14 @@ yuanj.top,2023-12-15T21:01:16,十二月病情
 yuanj.top,2024-02-22T11:11:58,对人类基因进行 GO 富集分析
 yuanj.top,2024-04-02T13:25:48,Debian 安装中文输入法
 yuanj.top,2024-03-08T14:05:29,比 Hisat2 更强的 bowtie2
+yuanj.top,2024-09-07T20:47:40,文献分享|单细胞转录组图谱揭示拟南芥愈伤组织诱导过程中早期细胞命运转变轨迹
 yuanj.top,2024-07-05T17:01:32+08:00,服务器上的一揽子服务
 yuanj.top,2024-05-11T22:44:52,揭示生命起源之谜|为什么蛋白质都是“左撇子”？
 yuanj.top,2023-12-17T22:10:49,富集分析原理
 yuanj.top,2024-03-27T22:54:40,表观遗传学之 Chip-Seq
 yuanj.top,2024-05-09T08:21:50,DESeq2 差异表达分析
 yuanj.top,2024-08-08T21:11:09,一些 Python 基础知识
-yuanj.top,2024-08-30T23:35:33+08:00,拟南芥根部的单细胞分辨率调控景观
+yuanj.top,2024-09-07T20:47:40,文献分享|拟南芥根部的单细胞分辨率调控景观
 yuanj.top,2024-02-22T11:11:58,社交媒体真的这么重要？
 yuanj.top,2023-12-15T21:01:16,孤独是一个人的狂欢
 yuanj.top,2024-03-04T20:49:31+08:00,努力是解决问题最好的办法
@@ -8861,7 +8865,7 @@ www.zhaohuabing.com,2022-07-07T10:15:31,CNBPS 2020：云原生应用架构专场
 www.zhaohuabing.com,2024-02-06T13:11:45,Envoy Gateway：十分钟搞定单点登录（SSO）！
 www.zhaohuabing.com,2022-07-07T10:15:31,ONS ONAP Minisummit: Microservice Powered Orchestration Architecture
 www.zhaohuabing.com,2021-09-04T09:34:52,一文带你彻底厘清 Isito 中的证书工作机制
-www.zhaohuabing.com,2024-08-31,超越 Gateway API：深入探索 Envoy Gateway 的扩展功能（未完成）
+www.zhaohuabing.com,2024-09-08T17:52:37,超越 Gateway API：深入探索 Envoy Gateway 的扩展功能（未完成）
 www.zhaohuabing.com,2021-12-31T14:23:50,Incentives and Proof of Work
 www.zhaohuabing.com,2021-12-31T14:23:50,Istio v1aplha3 routing API介绍(译文）
 www.zhaohuabing.com,2022-01-11T12:59:15,Kubernetes 知识图谱
