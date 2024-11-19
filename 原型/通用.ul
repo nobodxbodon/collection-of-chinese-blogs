@@ -15,7 +15,6 @@ using time
     "lihan3238.github.io": "content/post",
     "lutaonan.com": "src/pages/blog",
     "youerning.top": "",
-    "informal.top": "blog/_posts",
     "www.zhaohuabing.com": "content/post",
     // 下面为通用格式
     "hexo": "source/_posts",
