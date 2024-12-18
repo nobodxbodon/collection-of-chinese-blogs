@@ -16,6 +16,7 @@ using time
     "lutaonan.com": "src/pages/blog",
     "youerning.top": "",
     "www.zhaohuabing.com": "content/post",
+    "kexizeroing.github.io": "src/blog",
     // 下面为通用格式
     "hexo": "source/_posts",
     "gridsome": "content/posts",

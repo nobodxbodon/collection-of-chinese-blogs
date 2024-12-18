@@ -64,8 +64,12 @@ func 取时间戳(简报) {
   // TODO: 加入格式表
   if 简报.头部信息.__contains__('date') {
     return 剔除引号(简报.头部信息['date'])
+  } elif 简报.头部信息.__contains__('added') {
+    return 剔除引号(简报.头部信息['added'])
   } elif 简报.头部信息.__contains__('modified') {
     return 剔除引号(简报.头部信息['modified'])
+  } elif 简报.头部信息.__contains__('updatedDate') {
+    return 剔除引号(简报.头部信息['updatedDate'])
   } else {
     return 文件名提取时间戳(简报.文件名)
   }
