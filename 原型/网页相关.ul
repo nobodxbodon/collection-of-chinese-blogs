@@ -120,7 +120,14 @@ func 生成网页(简报, 网页路径) {
   // 如果表格内容行开头无 | 则不渲染为表格
   网页 = mistune.markdown(原内容)
   try 文件=open(网页路径, 'w') {
-      文件.write(补全资源路径(网页, 简报))
+    文件.write(补全资源路径(网页, 简报))
+
+    if 域名 == "young-lord.github.io" or 域名 == "zhangwenli.com" {
+      try 版权=open("原型/各站版权说明/`域名`.html") {
+        版权声明=版权.read()
+        文件.write(版权声明)
+      }
+    }
   }
 }
 

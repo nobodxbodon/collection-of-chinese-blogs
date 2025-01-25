@@ -1,3 +1,4 @@
+using datetime
 using sys
 
 using Template in jinja2
@@ -15,12 +16,14 @@ using 原型.网页相关测试
 重新生成 = false
 
 所有博文 = []
-所有简报 = []
 
 // 加任意选项则仅统计
 仅统计 = len(sys.argv) == 3
 
+println("开始：`datetime.datetime.now()`")
+
 各仓库简报 = 取各仓库简报()
+println("取各仓库简报完成：`datetime.datetime.now()`")
 
 统计数据 = []
 所有回复 = []
@@ -68,7 +71,15 @@ sys.exit() if 仅统计
 // 以上为统计部分
 
 println("开始生成网页")
-for 仓库地址 in 仓库表 {
+
+// 待做：
+// - 提供快速生成选项，避免每次查询文件更新时间
+// - 指定博客更新: 暂用手工修改仓库列表，重新生成=true
+
+func 获取所有简报() {
+
+  所有简报 = []
+  for 仓库地址 in 仓库表 {
     目标目录 = 仓库表[仓库地址]
     本仓库内简报 = 各仓库简报[仓库地址]
     for 简报 in 本仓库内简报 {
@@ -99,6 +110,8 @@ for 仓库地址 in 仓库表 {
     }
 
     所有简报 += 本仓库内简报
+  }
+return 所有简报
 }
 
 // 根据更新情况（对比博文目录），仅对有修改或添加的部分作生成
@@ -128,7 +141,13 @@ func 获取新添博文(更新) {
   return 未见 + 有修改
 }
 
+println("统计完成：`datetime.datetime.now()`")
+
+所有简报 = 获取所有简报()
+println("获取所有 `#所有简报` 篇简报完成：`datetime.datetime.now()`")
+
 新添博文 = 获取新添博文(所有简报)
+println("获取新添博文完成：`datetime.datetime.now()`")
 
 写入csv文件("原型/博文目录.csv", 所有博文)
 
@@ -178,3 +197,4 @@ try 索引=open('html/index.html', 'w') {
       '文章数': 总博文数
     }))
 }
+println("生成完成：`datetime.datetime.now()`")
