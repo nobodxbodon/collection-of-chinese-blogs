@@ -1,3 +1,4 @@
+using frontmatter
 using re
 using shutil
 
@@ -94,7 +95,10 @@ func 生成网页(简报, 网页路径) {
 
   md文件 = 简报.路径
   try 文件=open(md文件) {
-      原内容=文件.read()
+      原内容=frontmatter.load(文件).content
+  } catch e {
+    println('`e`：`md文件`')
+    return 简报
   }
 
   域名 = 简报.本地相对路径

@@ -1,3 +1,5 @@
+using datetime
+using frontmatter
 using re
 
 using * in 原型.通用
@@ -10,31 +12,16 @@ func 添加头部信息(文件名, 简报) : 简报结构 {
   } catch e : UnicodeDecodeError {
     println('编码不同：`文件名`')
     return 简报
+  } catch e {
+    println('`e`：`文件名`')
+    return 简报
   }
 }
 
 /* 将 两个 --- 之间的 YAML 格式内容提取到字典 */
 func 解析头部信息(文件内容) {
-    简报表 = {:}
-    找头部 = re.search("---\n([\s\S]*?)\n---", 文件内容)
-    return 简报表 if !找头部
-
-    原始头部 = 找头部.group(1).split("\n")
-    头部内容 = list(filter(行内容 -> 行内容, map(行 -> 行.strip(), 原始头部)))
-
-    上个属性名 = ""
-    for 行 in 头部内容 {
-      分段 = re.search("^(\w+):\s*(.*)", 行)
-      if 分段 {
-        上个属性名 = 分段.group(1)
-        简报表[上个属性名] = 分段.group(2).strip()
-      } else {
-        // 如 行 不是完整属性，则添加到上个属性值
-        // 待做：重构以减少每次处理多个中间格式
-        简报表[上个属性名] += " `行`" if 上个属性名
-      }
-    }
-    return 简报表
+  内容 = frontmatter.loads(文件内容)
+  return 内容.metadata
 }
 
 // 2020-04-30-vscode-conventional-commits-extension-cn.md
@@ -56,43 +43,34 @@ func 剔除引号(文本) {
   分段 = re.search("(.*)\"(.*)\"(.*)", 文本)
   文本 = 分段.group(1) + "“" + 分段.group(2) + "”" + 分段.group(3) if 分段
 
-  分段 = re.search("'(.*)'", 文本)
+  分段 = re.search("^'(.*)'$", 文本)
   return 分段 ? 分段.group(1) : 文本
 }
 
+// 一致输出为文本
 func 取时间戳(简报) {
   // TODO: 加入格式表
   if 简报.头部信息.__contains__('date') {
-    return 剔除引号(简报.头部信息['date'])
+    时间戳 = 简报.头部信息['date']
   } elif 简报.头部信息.__contains__('added') {
-    return 剔除引号(简报.头部信息['added'])
+    时间戳 = 简报.头部信息['added']
   } elif 简报.头部信息.__contains__('modified') {
-    return 剔除引号(简报.头部信息['modified'])
+    时间戳 = 简报.头部信息['modified']
   } elif 简报.头部信息.__contains__('updatedDate') {
-    return 剔除引号(简报.头部信息['updatedDate'])
+    时间戳 = 简报.头部信息['updatedDate']
   } else {
-    return 文件名提取时间戳(简报.文件名)
+    时间戳 = 文件名提取时间戳(简报.文件名)
   }
+  return str(时间戳)
 }
 
 func 取分类(简报) {
   if 简报.头部信息.__contains__('categories') {
-    数据 = 简报.头部信息['categories'].lower()
-    多类 = re.search("^\[(.+)\]$", 数据)
-    if 多类 {
-      return list(map(类别 -> 类别.strip(), 多类.group(1).split(',')))
+    各类别 = 简报.头部信息['categories']
+    if typeof(各类别) == 'list' {
+      return list(map(类 -> 类.lower(), 各类别))
     }
-    换行分类 = 数据.split(' -')
-    if #换行分类 == 1 {
-      return 换行分类
-    } else {
-      所有类 = []
-      for 部分 in 换行分类 {
-        去空 = 部分.strip()
-        所有类.append(去空) if 去空
-      }
-      return 所有类
-    }
+    return 各类别 == nil ? [] : [各类别.lower()]
   }
   return []
 }
@@ -107,7 +85,8 @@ func 取题目(简报) {
       题目 = 文件名提取题目(简报.文件名)
     }
   }
-  return 剔除引号(题目)
+  // 符合 2014-01-01 等格式时，题目为 date
+  return 题目 ? 剔除引号(str(题目)) : ''
 }
 
 func 取首行题目(简报) {
