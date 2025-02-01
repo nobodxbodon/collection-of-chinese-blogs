@@ -981,6 +981,7 @@ jasonkayzk.github.io,2023-11-26T23:59:58,数据库总结之一
 jasonkayzk.github.io,2023-11-26T23:59:58,算法:矩形覆盖
 jasonkayzk.github.io,2023-11-26T23:59:58,VMWare安装Ubuntu虚拟机
 jasonkayzk.github.io,2023-11-26T23:59:58,Telegraf简介
+jasonkayzk.github.io,2025-01-30T11:08:09,使用AnythingLLM+SillconFlow+Milvus快速搭建个人云端知识库
 jasonkayzk.github.io,2023-11-26T23:59:58,使用Rust实现一个双向链表
 jasonkayzk.github.io,2024-07-18 04:40:58,Debian系统设置合上笔记本盖子不休眠
 jasonkayzk.github.io,2025-01-21T11:40:10,解决提交代码到Github不显示小绿点的问题
@@ -1076,6 +1077,7 @@ jasonkayzk.github.io,2023-11-26T23:59:58,JuiceFS使用总结
 jasonkayzk.github.io,2023-11-26T23:59:58,算法:第N个丑数
 jasonkayzk.github.io,2023-11-26T23:59:58,Docker原理实战-1：Namespace
 jasonkayzk.github.io,2024-06-30 10:01:08,Mac合盖后不休眠
+jasonkayzk.github.io,2025-01-30 11:13:54,通过GithubActions拉取并推送Docker镜像到国内云
 jasonkayzk.github.io,2023-07-25T08:57:37,为什么在Java中String被设计为不可变
 jasonkayzk.github.io,2019-12-31T11:05:22,Java并发编程-2-锁的概述
 jasonkayzk.github.io,2023-11-26T23:59:58,Promise中的all、race和any
@@ -1138,7 +1140,7 @@ jasonkayzk.github.io,2023-11-26T23:59:58,深入剖析Java中的void和java.lang.
 jasonkayzk.github.io,2023-11-26T23:59:58,使用mongodb和serverless给你的博客添加点赞吧
 jasonkayzk.github.io,2023-11-26T23:59:58,A method to add string literals in C++
 jasonkayzk.github.io,2020-03-03T13:12:36,Lambda表达式总结
-jasonkayzk.github.io,2025-01-17 13:45:11,【顶】さよなら２０２４、こんにちは２０２５！
+jasonkayzk.github.io,2025-01-30T11:58:16,【顶】さよなら２０２４、こんにちは２０２５！
 jasonkayzk.github.io,2019-12-05T16:11:28,IDEA的maven工程读取resource资源文件
 jasonkayzk.github.io,2023-07-25T08:57:37,ElasticSearch之学习篇-1
 jasonkayzk.github.io,2023-11-26T23:59:58,几种常见排序方法的优化(下)
@@ -4091,6 +4093,7 @@ gitee.com/MulanRevive/bounty,2024-03-10T19:53:06,神奇的 RPython 初探：解�
 gitee.com/MulanRevive/bounty,2020-12-06,用木兰语言编写文字冒险游戏，期待合作者一同重现 try...catch 语法
 gitee.com/MulanRevive/bounty,2020-05-04,重现木兰编程语言（七）——赋值语句
 gitee.com/MulanRevive/bounty,2020-04-16,为何木兰编译器采用 RPly 而非 Ply？RPython 和 PyPy 才是真意？
+gitee.com/MulanRevive/bounty,2025-01-30,Python 转换木兰功能修正：二元运算加括号
 gitee.com/MulanRevive/bounty,2020-03-22,木兰编译器技术验证——用 cmd 模块实现最简单交互控制台
 gitee.com/MulanRevive/bounty,2021-05-06T01:02:41,木兰语言 0.0.17.2 实现简易网页浏览器，又一次碰到语法歧义
 gitee.com/MulanRevive/bounty,2020-11-04,木兰编程语言 0.0.14.8：websocket 聊天演示；部分比较 Python 语法
@@ -4497,8 +4500,12 @@ conge.livingwithfcs.org,2022-07-12 13:23:31,折返点 2227｜力竭
 conge.livingwithfcs.org,2025-01-22T15:52:21,折返点 2503 清华冬季勇士赛第三周
 conge.livingwithfcs.org,2025-01-16 17:41:26,折返点 2502 新年跑和清华冬季勇士赛第二周
 conge.livingwithfcs.org,2025-01-10 13:52:41,2024 年跑步总结 首马破三 里程 3460 公里
+conge.livingwithfcs.org,2025-01-17 17:33:46,父范学堂 2502 肉酱千层面 加菲猫最爱
+conge.livingwithfcs.org,2025-01-23 12:53:44,父范学堂 2503 春花与小熊
 conge.livingwithfcs.org,2025-01-09T17:31:46,折返点 2501 新年跑和清华冬季勇士赛
+conge.livingwithfcs.org,2025-01-31T12:55:04,父范学堂 2504 新年表演
 conge.livingwithfcs.org,2025-01-09 17:33:46,父范学堂 2501 箭术与徒步
+conge.livingwithfcs.org,2025-01-30 15:51:34,折返点 2504 清华冬季勇士赛第四周
 conge.livingwithfcs.org,2025-01-22T12:46:37,2024 年读书总结 
 conge.livingwithfcs.org,2024-03-05 08:07:50,2024 二月读数学，论语，心理学，直觉，小说…11 本
 conge.livingwithfcs.org,2024-12-04 14:07:44,2024 十一月读军事，觉醒，黄易……7 本
@@ -7121,7 +7128,7 @@ kexizeroing.github.io,2025-01-28T08:20:49,Intro to Authorization and Authenticat
 kexizeroing.github.io,2025-01-19T18:16:53,Tech Share Rewind 2024
 kexizeroing.github.io,Nov 2 2024,Getting to know LLM-as-a-Judge
 kexizeroing.github.io,2025-01-25T09:45:36,Explore running code in browser
-kexizeroing.github.io,2025-01-28T08:20:49,Curated link collection
+kexizeroing.github.io,2025-01-28T11:40:03,Curated link collection
 kexizeroing.github.io,2025-01-07T11:41:56,Add watermark to images
 kexizeroing.github.io,2025-01-25T11:47:44,Frontend interview questions
 kexizeroing.github.io,Aug 24 2024,Demystifying HMR and Source Maps
