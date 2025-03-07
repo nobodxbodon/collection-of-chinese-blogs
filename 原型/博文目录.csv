@@ -631,6 +631,7 @@ mabbs.github.io,2020-01-21,Mayx的运维笔记 - 应用优化
 mabbs.github.io,2019-12-17,New Game!
 mabbs.github.io,2024-10-14T02:27:17,Linux ARM生态评测
 mabbs.github.io,2023-08-01,如何让Python脚本接收OAuth2.0的Code？
+mabbs.github.io,2025-02-22,近期LLM的部署与应用经历
 mabbs.github.io,2018-10-28,Mayx的自检报告
 mabbs.github.io,2022-06-07T09:44:08,在平板上使用Termux的经历
 mabbs.github.io,2023-03-12,PHP异步执行的探索
@@ -657,6 +658,7 @@ mabbs.github.io,2022-03-27T15:07:44,Alpine的使用体验
 mabbs.github.io,2019-08-05,记一次办理22卡的经历
 mabbs.github.io,2020-01-05,Mayx的运维笔记
 mabbs.github.io,2022-12-26,为自己的i2p站点添加一个SSL证书
+mabbs.github.io,2025-02-09,新旧服务器的使用体验与对比
 mabbs.github.io,2019-07-02,制作分布式加密邮件系统的计划
 mabbs.github.io,2019-11-01,Mayx应聘失败(Python版)
 mabbs.github.io,2019-04-13,如何下载Iwara上的视频？
@@ -847,6 +849,7 @@ luyuhuang.github.io,2021-02-05,自动生成 Lua 热更新代码
 luyuhuang.github.io,2023-02-18T17:47:10,Jekyll Email Protection
 luyuhuang.github.io,2020-05-22,[翻译] Nginx 入门指南
 luyuhuang.github.io,2023-02-19T01:34:03,并不简单的二分查找
+luyuhuang.github.io,2025-02-16,使用 Address Sanitizer 排查内存越界
 luyuhuang.github.io,2021-01-24,Go 设置 socket 端口复用
 luyuhuang.github.io,2023-02-19T01:34:03,编辑距离
 luyuhuang.github.io,2023-02-18T17:47:10,[翻译] Jekyll 手把手教学
@@ -3690,7 +3693,7 @@ codeinchinese.com,2023-12-21,国务院关税税则委员会发布通知，部分
 codeinchinese.com,2019-04-28 12:00:00 -0700,谁说API必须用英文？中文API的Java库可以有！
 codeinchinese.com,2017-11-27 12:00:00 -0700,中文编程兴起的可能途径
 codeinchinese.com,2019-11-18 00:00:00 -0700,”为什么有这么多人执着于中文编程?”第二春：新评论的一并回应
-codeinchinese.com,2025-01-23,Rust 在线摸索（十二）：泛型之where、反面代码初探
+codeinchinese.com,2025-02-27T10:10:39,Rust 在线摸索（十二）：泛型之where、反面代码初探
 codeinchinese.com,2017-10-26 00:00:00 -0700,13年后的共鸣-在代码中用中文命名的优势和问题
 codeinchinese.com,2020-01-07T23:57:41,开发中文 API 的一些策略
 codeinchinese.com,2018-01-19 00:00:00 -0700,Xtext试用: 快速实现简单领域专用语言(DSL)
@@ -3816,6 +3819,7 @@ codeinchinese.com,2020-04-23,大数据看青史留名的大姓，暨 Java 读取
 codeinchinese.com,2022-10-27,英美语系的人编程写代码有先天优势吗？为什么我们没有什么牛逼的系统
 codeinchinese.com,2021-06-09,中国什么时候才能有一门自己的编程语言，不是套着皮的那一种！？
 codeinchinese.com,2019-11-10,为什么有很多人执着于中文编程?
+codeinchinese.com,2025-01-19,《The Calculus of Friendship》摘录（上）
 codeinchinese.com,2017-12-26 00:00:00 -0700,Java关键字的汉化用词探讨
 codeinchinese.com,2019-10-07 00:00:00 -0700,自制TTS引擎第0.01步-Python实现拼接单字wav文件
 codeinchinese.com,2018-10-08 00:00:00 -0700,Java源码英翻中进展-内测上线
@@ -3890,6 +3894,7 @@ codeinchinese.com,2018-11-23 00:00:00 -0700,手工翻译Vue.js源码:尝试重�
 codeinchinese.com,2018-12-10 00:00:00 -0700,Scala疑似中文命名问题后续
 codeinchinese.com,2019-06-06,沉迷于头条回复难以自拔
 codeinchinese.com,2024-05-30T20:04:58,博客聚合工具与当前博客评论系统的对比
+codeinchinese.com,2025-01-31,「抚子」语言的调试功能??
 codeinchinese.com,2020-02-18T16:04:42,为「木兰」编程语言添加对中文命名标识符的支持
 codeinchinese.com,2020-11-11,“中文编程”知乎专栏三岁了——任尔东西南北风
 codeinchinese.com,2017-02-13,使用自然语言进行编程
@@ -3936,6 +3941,7 @@ codeinchinese.com,2023-08-12,汉字的部件怎么打？
 codeinchinese.com,2020-05-17,在 PyPI 发布 Python 纯文字游戏试水——猜数字
 codeinchinese.com,2019-02-18 00:00:00 -0700,扩展Python控制台实现中文反馈信息之二-正则替换
 codeinchinese.com,2025-01-20,Rust 在线摸索（九）：泛型之函数
+codeinchinese.com,2025-02-27,随书编程语言工具Sunaba本地开发搭建
 codeinchinese.com,2020-07-25,以史为鉴：初代程序员自述七十五年前的编程心得（完）
 codeinchinese.com,2020-07-09,为什么大部分程序员不用中文命名变量函数等标识符？
 codeinchinese.com,2019-03-30 00:00:00 -0700,Java实现“命令式”简易文本编辑器原型
@@ -3957,6 +3963,7 @@ codeinchinese.com,2019-02-20 00:00:00 -0700,在PyPI测试平台发布Python包
 codeinchinese.com,2024-12-06T10:31:33,开源
 codeinchinese.com,2021-09-17,解析中文编程语法诸如“删除钟表表”的一次粗糙尝试（上）
 codeinchinese.com,2018-08-27 00:00:00 -0700,使用JDT核心库解析JDK源码后初步分析API命名
+codeinchinese.com,2025-02-03,Python和木兰报错信息对应例程整理（一）
 codeinchinese.com,2020-01-31 00:05:00 -0700,木兰编程语言入门教程之二——控制走向
 codeinchinese.com,2018-06-20 00:00:00 -0700,中文代码示例视频演示Python入门教程第三章 简介Python
 codeinchinese.com,2020-02-19 00:05:00 -0700,基于「木兰」逆向工程用 pyinstaller 生成可执行文件
@@ -4004,6 +4011,7 @@ codeinchinese.com,2020-04-01,为什么我不再支持中文编程
 codeinchinese.com,2019-10-25 00:00:00 -0700,大疆机甲大师Python API之七：做个闹钟
 codeinchinese.com,2020-06-29,逐帧吐槽反智视频《编程语言为什么不能用中文，这真是把老外难住了》
 codeinchinese.com,2024-07-23,仓颉语言试写猜数字（二）
+codeinchinese.com,2025-02-06,《The Calculus of Friendship》摘录（下）
 codeinchinese.com,2023-04-30,如何评价王垠《聊聊 DSL》？
 codeinchinese.com,2019-09-10 00:00:00 -0700,手工翻译方舟编译器源码: IR相关节点类
 codeinchinese.com,2018-08-13 15:00:00 -0700,Head First OO分析设计一书略读与例子中文化
@@ -4137,9 +4145,9 @@ gitee.com/MulanRevive/bounty,2020-04-15,搭建木兰原型（一）——加法
 gitee.com/MulanRevive/bounty,2020-03-25,木兰编译器技术验证——通过 AST 转换和 eval 实现语法定制
 gitee.com/MulanRevive/bounty,2020-05-23,木兰编程语言体验版更新，附带 VS Code 支持插件
 gitee.com/MulanRevive/bounty,2023-02-02T13:44:38,README
-f2h2h1.github.io,2025-01-20T18:34:45,在Windows下安装Magento2
+f2h2h1.github.io,2025-03-07T18:19:14,在Windows下安装Magento2
 f2h2h1.github.io,2020-06-20T00:45:57,mongodb分片
-f2h2h1.github.io,2024-11-29T18:11:02,密码学入门简明指南
+f2h2h1.github.io,2025-02-21T18:27:00,密码学入门简明指南
 f2h2h1.github.io,2024-12-27T18:15:55,浏览器和服务器通讯方式的不完整总结
 f2h2h1.github.io,2024-09-06T18:16:53,把网页导出成PDF
 f2h2h1.github.io,2022-07-30T21:01:39,使用PowerShell实现的http服务器
@@ -4148,10 +4156,10 @@ f2h2h1.github.io,2021-07-15T22:36:31,FirstData后台的设置
 f2h2h1.github.io,2024-04-11T18:31:09,Windows下通过PEB读取进程的环境变量
 f2h2h1.github.io,2021-10-15T13:28:51,使用Tesseract识别字符验证码
 f2h2h1.github.io,2024-08-23T18:18:32,PHP各种运行方式的不完整总结
-f2h2h1.github.io,2024-11-15T19:24:11,关于字符编码的一些坑
-f2h2h1.github.io,2024-11-07T18:50:01,ACME的使用经验
-f2h2h1.github.io,2024-06-28T18:12:23,和颜色相关的笔记
-f2h2h1.github.io,2025-01-27T15:15:08,_draft
+f2h2h1.github.io,2025-02-12T18:11:42,关于字符编码的一些坑
+f2h2h1.github.io,2025-02-27T18:28:30,ACME的使用经验
+f2h2h1.github.io,2025-02-19T18:39:34,和颜色相关的笔记
+f2h2h1.github.io,2025-03-07T18:19:14,_draft
 f2h2h1.github.io,2021-07-10T23:47:47,paypal，firtdata，支付宝的不完整接入指南
 f2h2h1.github.io,2022-07-30T21:01:39,kind相关经验
 f2h2h1.github.io,2022-06-22T18:53:13,DNSSEC简介
@@ -4164,17 +4172,17 @@ f2h2h1.github.io,2024-11-01T18:58:33,定时任务
 f2h2h1.github.io,2024-11-09T14:18:52,nc的使用和原理
 f2h2h1.github.io,2022-05-07T13:53:20,magento2加上varnish缓存
 f2h2h1.github.io,2024-03-19T18:04:06,关于
-f2h2h1.github.io,2025-01-20T18:34:45,电子邮件的不完整总结
+f2h2h1.github.io,2025-02-28T18:26:27,电子邮件的不完整总结
 f2h2h1.github.io,2023-10-17T18:45:52,HTTP认证方式的不完整总结
 f2h2h1.github.io,2024-10-10T18:53:48,MySQL的时间类型和时间相关的函数
 f2h2h1.github.io,2025-01-03T18:46:09,Linux的GUI
 f2h2h1.github.io,2020-01-06T00:32:21,练习
-f2h2h1.github.io,2025-01-27T15:15:08,开发Magento2的模块
-f2h2h1.github.io,2024-12-09T18:46:59,终端，控制台和外壳
+f2h2h1.github.io,2025-02-28T18:26:27,开发Magento2的模块
+f2h2h1.github.io,2025-02-10T00:42:53,终端，控制台和外壳
 f2h2h1.github.io,2024-12-27T18:15:55,SEO的经验
 f2h2h1.github.io,2021-07-19T23:31:14,git的笔记
 f2h2h1.github.io,2021-07-10T23:44:05,微信支付的不完整接入指南
-f2h2h1.github.io,2024-05-31T18:24:39,对JS原型链的理解
+f2h2h1.github.io,2025-02-27T18:28:30,对JS原型链的理解
 f2h2h1.github.io,2023-09-19T18:33:39,关于环境变量的不完整总结
 f2h2h1.github.io,2024-10-15T19:04:06,在Windows下安装pear
 f2h2h1.github.io,2024-05-08T18:34:39,用纯CSS3实现的滑动按钮
@@ -4183,7 +4191,7 @@ f2h2h1.github.io,2025-01-20T18:34:45,使用docker-compose部署magento2
 f2h2h1.github.io,2023-03-20T13:00:14,使用shell实现的kv数据库
 f2h2h1.github.io,2024-10-16T18:59:18,在Windows下配置PHP服务器
 f2h2h1.github.io,2023-09-26T18:46:02,在Windows下搭建git服务
-f2h2h1.github.io,2024-12-27T18:15:55,一些开发笔记
+f2h2h1.github.io,2025-03-07T18:19:14,一些开发笔记
 f2h2h1.github.io,2024-11-29T18:11:02,一些关于Linux的笔记
 f2h2h1.github.io,2022-07-30T21:01:39,各种标记语言
 f2h2h1.github.io,2023-02-08T18:06:53,数字号码资源
@@ -4497,16 +4505,29 @@ conge.livingwithfcs.org,2022-04-23T22:59:50,折返点 2216｜护膝护踝并不�
 conge.livingwithfcs.org,2022-08-30 11:48:48,折返点 2234｜准备在义跑时冲击个人的最好成绩
 conge.livingwithfcs.org,2022-06-24T18:06:53,折返点 2213｜跑步与呼吸
 conge.livingwithfcs.org,2022-07-12 13:23:31,折返点 2227｜力竭
+conge.livingwithfcs.org,2025-02-12 11:03:40,父范学堂 2506 一场雪
+conge.livingwithfcs.org,2025-02-18 11:57:00,折返点 2507 开启今年的训练
+conge.livingwithfcs.org,2025-02-06T18:14:10,折返点 2505 冬勇赛 勇者恒强
+conge.livingwithfcs.org,2025-02-23 11:50:40,父范学堂 2508 Harrison Hot Spring
 conge.livingwithfcs.org,2025-01-22T15:52:21,折返点 2503 清华冬季勇士赛第三周
 conge.livingwithfcs.org,2025-01-16 17:41:26,折返点 2502 新年跑和清华冬季勇士赛第二周
+conge.livingwithfcs.org,2025-03-03T11:33:29,折返点 2509 训练第四周 完全躺平休息
+conge.livingwithfcs.org,2025-02-12 11:44:29,2025 一月读科学史 心理学 宗教 育儿小说…… 11 本
 conge.livingwithfcs.org,2025-01-10 13:52:41,2024 年跑步总结 首马破三 里程 3460 公里
+conge.livingwithfcs.org,2025-02-24 11:57:00,折返点 2508 第三周计划 开局很好结局生病
+conge.livingwithfcs.org,2025-03-04 17:17:32,2025 二月读地球科学 设计理论 文学小说 传记 佛经…… 10 本
 conge.livingwithfcs.org,2025-01-17 17:33:46,父范学堂 2502 肉酱千层面 加菲猫最爱
 conge.livingwithfcs.org,2025-01-23 12:53:44,父范学堂 2503 春花与小熊
+conge.livingwithfcs.org,2025-03-04 11:50:40,父范学堂 2509 挂钩儿
+conge.livingwithfcs.org,2025-02-27 18:12:24,空话
 conge.livingwithfcs.org,2025-01-09T17:31:46,折返点 2501 新年跑和清华冬季勇士赛
 conge.livingwithfcs.org,2025-01-31T12:55:04,父范学堂 2504 新年表演
 conge.livingwithfcs.org,2025-01-09 17:33:46,父范学堂 2501 箭术与徒步
 conge.livingwithfcs.org,2025-01-30 15:51:34,折返点 2504 清华冬季勇士赛第四周
+conge.livingwithfcs.org,2025-02-12T10:28:07,折返点 2506 病
+conge.livingwithfcs.org,2025-02-07T11:31:55,父范学堂 2505 过新年和女儿再次登台
 conge.livingwithfcs.org,2025-01-22T12:46:37,2024 年读书总结 
+conge.livingwithfcs.org,2025-02-20 11:03:40,父范学堂 2507 看了哪吒
 conge.livingwithfcs.org,2024-03-05 08:07:50,2024 二月读数学，论语，心理学，直觉，小说…11 本
 conge.livingwithfcs.org,2024-12-04 14:07:44,2024 十一月读军事，觉醒，黄易……7 本
 conge.livingwithfcs.org,2024-04-04 14:56:08,2024 三月读逻辑学，觉醒，小王子…5 本
@@ -6518,9 +6539,10 @@ blog.mauve.icu,2020-01-08 19:56:18,【bzoj2049】[Sdoi2008]Cave 洞穴勘测—�
 young-lord.github.io,2023-11-10T13:17:09,Coursera 课程免费旁听申请教程
 young-lord.github.io,2024-02-16T09:28:21,常用软件换源表
 young-lord.github.io,2024-04-04T11:33:02,华为hap安装包逆向记录
-young-lord.github.io,2024-05-12T08:23:06,小米 Mix 2S 修改开机第一屏
+young-lord.github.io,2025-01-16T10:29:12,小米 Mix 2S 修改开机第一屏
 young-lord.github.io,2024-05-12T08:23:06,为安卓编译 SELinux 相关工具
 young-lord.github.io,2023-11-10T13:17:09,Kindle 越狱记录
+young-lord.github.io,2025-01-28,Linux 自制鼠标指针
 young-lord.github.io,2024-01-07T13:37:20,PPT 教程
 young-lord.github.io,2023-11-10T13:17:09,一劳永逸解决 apt 的触发器
 young-lord.github.io,2024-03-03T17:23:44,Windows 远程桌面的探索
@@ -6540,7 +6562,7 @@ young-lord.github.io,2024-01-07T13:29:47,设计一个前后端分离的管理系
 young-lord.github.io,2023-11-10T13:17:09,关闭 Android 文件系统强制加密
 young-lord.github.io,2023-11-11T10:12:54,pymssql编码问题报错UnicodeDecodeError: 'gbk' codec can't decode byte...
 young-lord.github.io,2023-09-20,个人用语索引
-young-lord.github.io,2024-10-26T20:20:41,科学苗子游记
+young-lord.github.io,2024-12-22T18:05:00,科学苗子游记
 young-lord.github.io,2024-06-16,Windows 使用 USB/IP 通过网络共享 USB 设备
 young-lord.github.io,2024-02-09T14:01:18,Inconventional Commits
 young-lord.github.io,2023-11-10T13:17:09,为 Metasploit 的后门内置 persistence
@@ -6550,7 +6572,7 @@ young-lord.github.io,2023-12-02T04:50:14,我的 YANL 笔记法
 young-lord.github.io,2023-11-10T13:17:09,Windows 禁用资源管理器地址栏历史记录
 young-lord.github.io,2023-12-02T07:22:29,GitHub 学生认证踩坑记
 young-lord.github.io,2023-11-10T13:17:09,通过 Xposed 与 frp 远程读取短信验证码
-young-lord.github.io,2024-05-12T08:23:06,安卓使用 PN532 读写 NFC
+young-lord.github.io,2025-01-27T18:43:35,安卓使用 PN532 读写 NFC
 young-lord.github.io,2023-11-10T13:17:09,某社区网络门禁协议解析
 young-lord.github.io,2023-11-25T11:15:26,浅谈计算机中的“栈”
 young-lord.github.io,2023-12-02T07:22:29,哔哩哔哩 冒-_-泡 技术视频的笔记
@@ -6597,6 +6619,7 @@ sakurawald.github.io,2022-04-12 21:15:00,solve back-tracking & IDDFS
 sakurawald.github.io,2022-04-05 22:22:32,a simple judger in java
 sakurawald.github.io,2022-04-29 16:39:00,database intermediate sql
 sakurawald.github.io,2023-01-22 21:01:39,database schema design
+sakurawald.github.io,2025-03-02T23:37:15,comparing-emacs-and-idea-in-java-development-environment
 sakurawald.github.io,2022-04-30 10:53:00,database relational query language
 sakurawald.github.io,2022-06-09 17:41:00,play on anbox
 sakurawald.github.io,2023-02-08 08:35:54,play on stable-diffusion
@@ -7121,79 +7144,78 @@ jerkwin.github.io,2021-03-16,gmx_mmpbsa脚本更新：屏蔽效应与熵贡献
 jerkwin.github.io,2014-09-08,【转】沂蒙老乡
 jerkwin.github.io,2014-08-11,【转】关于编程语言的经典名言
 jerkwin.github.io,2023-03-07,二维红外谱图的模拟计算及gmx_ir脚本更新
-kexizeroing.github.io,July 27 2023,How does browser load videos
-kexizeroing.github.io,Jan 29 2022,Learn the new frontend build tool Vite
-kexizeroing.github.io,2025-01-28T08:20:49,Rendering performance
-kexizeroing.github.io,2025-01-28T08:20:49,Intro to Authorization and Authentication
+kexizeroing.github.io,2025-02-11T19:58:01,How does browser load videos
+kexizeroing.github.io,2025-02-15T11:26:33,Learn the new frontend build tool Vite
+kexizeroing.github.io,2025-02-19T14:27:40,Rendering performance
+kexizeroing.github.io,2025-02-05T18:05:10,Intro to Authorization and Authentication
 kexizeroing.github.io,2025-01-19T18:16:53,Tech Share Rewind 2024
-kexizeroing.github.io,Nov 2 2024,Getting to know LLM-as-a-Judge
-kexizeroing.github.io,2025-01-25T09:45:36,Explore running code in browser
-kexizeroing.github.io,2025-01-28T11:40:03,Curated link collection
+kexizeroing.github.io,2025-02-09T17:03:58,Getting to know LLM-as-a-Judge
+kexizeroing.github.io,2025-03-03T09:55:54,Explore running code in browser
+kexizeroing.github.io,2025-03-01T21:01:55,Curated link collection
 kexizeroing.github.io,2025-01-07T11:41:56,Add watermark to images
-kexizeroing.github.io,2025-01-25T11:47:44,Frontend interview questions
+kexizeroing.github.io,2025-02-28T20:53:48,Frontend interview questions
 kexizeroing.github.io,Aug 24 2024,Demystifying HMR and Source Maps
-kexizeroing.github.io,2025-01-25T10:42:33,Debugging CSS
+kexizeroing.github.io,2025-02-04T15:40:07,Debugging CSS
 kexizeroing.github.io,2025-01-12T14:53:26,Rice course - intro to database
 kexizeroing.github.io,2025-01-25T21:48:53,URL-driven state in React
-kexizeroing.github.io,2024-12-14T20:29:06,Type challenges solutions
+kexizeroing.github.io,2025-02-09T17:03:58,Type challenges solutions
 kexizeroing.github.io,2025-01-07T21:05:39,An example of compiling C code to Wasm
-kexizeroing.github.io,2025-01-25T11:47:44,Start a Javascript stack project
-kexizeroing.github.io,Mar 12 2023,A basic Dockerfile and Intro to Kubernetes
-kexizeroing.github.io,2025-01-18T17:03:34,Get started with LangChain
+kexizeroing.github.io,2025-03-01T17:38:31,Start a Javascript stack project
+kexizeroing.github.io,2025-03-05T11:27:42,A basic Dockerfile and Intro to Kubernetes
+kexizeroing.github.io,2025-03-01T17:38:31,Get started with LangChain
 kexizeroing.github.io,2025-01-25T10:42:33,CSS effects collection
-kexizeroing.github.io,May 9 2024,JavaScript Observer APIs
-kexizeroing.github.io,2025-01-08T11:26:50,Practical considerations for Input fields
-kexizeroing.github.io,2025-01-10T11:24:58,"Pixel, resolution and fps"
-kexizeroing.github.io,2024-12-23T12:51:53,Understand the event loop
+kexizeroing.github.io,2025-02-03T20:44:41,JavaScript Observer APIs
+kexizeroing.github.io,2025-02-23T21:06:04,Next.js Forms are different now
+kexizeroing.github.io,2025-02-22T19:44:03,Practical considerations for Input fields
+kexizeroing.github.io,2025-02-05T18:05:10,"Pixel, resolution and fps"
+kexizeroing.github.io,2025-02-04T10:29:16,Understand the event loop
 kexizeroing.github.io,Nov 18 2024,Awesome prompts from Li jigang (in Chinese)
-kexizeroing.github.io,2025-01-14T11:05:41,Learn from Advent of Vue 2022
 kexizeroing.github.io,2024-12-14T12:41:35,Setup a new mac
-kexizeroing.github.io,Aug 18 2020,Simple frontend router
-kexizeroing.github.io,Jun 18 2023,Vue reactivity clone
+kexizeroing.github.io,2025-02-13T20:21:50,Vue reactivity clone
 kexizeroing.github.io,Nov 7 2022,Intro to GraphQL
-kexizeroing.github.io,Apr 16 2024,Unlock the power of Generative UI
-kexizeroing.github.io,2025-01-27T18:38:47,Micro-frontends with Module Federation
-kexizeroing.github.io,2024-12-28T12:46:33,Fetch API requests and CORS
+kexizeroing.github.io,2025-02-22T18:46:24,Fetch API requests and CORS
 kexizeroing.github.io,Jan 22 2024,Intro to Bun
-kexizeroing.github.io,2024-12-21T21:46:12,JavaScript basics you should know
+kexizeroing.github.io,2025-02-15T18:13:52,JavaScript basics you should know
+kexizeroing.github.io,2025-02-17T20:28:05,Algorithm basics and LeetCode problems
 kexizeroing.github.io,2025-01-25T09:45:36,Bitwise operations and related concepts
 kexizeroing.github.io,2025-01-01T11:09:52,A quick way to serve HTTPS localhost
 kexizeroing.github.io,Nov 6 2022,PDF custom rendering
-kexizeroing.github.io,2024-12-23T12:51:53,React Server Side Rendering and Server Components
+kexizeroing.github.io,2025-02-19T14:27:40,React Server Side Rendering and Server Components
 kexizeroing.github.io,Mar 24 2024,String Matching – What’s behind Ctrl+F
-kexizeroing.github.io,2024-12-14T12:41:35,Using Blob and ArrayBuffer in JavaScript
-kexizeroing.github.io,2025-01-04T12:37:05,Inspirations
-kexizeroing.github.io,2025-01-25T09:45:36,Using ES modules
-kexizeroing.github.io,Mar 25 2023,Notes on domain-specific ChatGPT
+kexizeroing.github.io,2025-03-01T17:38:31,Using Blob and ArrayBuffer in JavaScript
+kexizeroing.github.io,2025-03-01T17:38:31,Inspirations
+kexizeroing.github.io,2025-02-06T13:32:42,Using ES modules
+kexizeroing.github.io,2025-02-24T17:57:45,Learning notes about TanStack Router
+kexizeroing.github.io,2025-02-13T08:02:47,Notes on domain-specific ChatGPT
 kexizeroing.github.io,2024-12-29T12:37:53,Using images in web
 kexizeroing.github.io,2025-01-11T14:07:16,Run MySQL locally and some Node.js operations
 kexizeroing.github.io,2025-01-18T17:03:34,Container queries and :has selector
-kexizeroing.github.io,2025-01-25T09:45:36,Git knowledge that not clear to me
+kexizeroing.github.io,2025-03-05T11:27:42,Git knowledge that not clear to me
 kexizeroing.github.io,Oct 7 2023,React 18 Suspense and startTransition
-kexizeroing.github.io,2025-01-12T14:53:26,HTTP cookies explained and security policy
-kexizeroing.github.io,2025-01-25T11:47:44,Server-sent events with examples
-kexizeroing.github.io,2025-01-12T14:53:26,"SWR, SWC, and MSW"
+kexizeroing.github.io,2025-02-15T11:26:33,HTTP cookies explained and security policy
+kexizeroing.github.io,2025-02-19T14:27:40,Server-sent events with examples
+kexizeroing.github.io,2025-02-25T10:27:29,"SWR, SWC, and MSW"
 kexizeroing.github.io,Oct 14 2022,Screen and webcam recording
-kexizeroing.github.io,2025-01-25T11:47:44,Intro to TypeScript
-kexizeroing.github.io,Sep 18 2022,Create a video player
-kexizeroing.github.io,Nov 3 2022,What is Nginx
+kexizeroing.github.io,2025-03-05T11:27:42,Intro to TypeScript
+kexizeroing.github.io,2025-02-03T20:44:41,Create a video player
+kexizeroing.github.io,2025-02-28T20:53:48,What is Nginx
 kexizeroing.github.io,May 27 2023,Learn 1-Line Layouts from Una
-kexizeroing.github.io,2025-01-25T09:45:36,Notes on work projects (in Chinese)
-kexizeroing.github.io,2025-01-19T18:16:53,React hooks clone and related concepts
-kexizeroing.github.io,Nov 20 2022,"HTTP connection, caching and HTTP/2"
+kexizeroing.github.io,2025-02-28T20:53:48,Notes on work projects (in Chinese)
+kexizeroing.github.io,2025-02-22T15:17:20,"HTTP connection, caching and HTTP/2"
 kexizeroing.github.io,Jan 28 2019,Rice clear turn-in
 kexizeroing.github.io,May 31 2023,A tiny functional event emitter
-kexizeroing.github.io,Apr 24 2016,My early career notes (in Chinese)
+kexizeroing.github.io,2025-02-15T18:13:52,My early career notes (in Chinese)
 kexizeroing.github.io,July 10 2022,The end of localhost
-kexizeroing.github.io,2024-12-24T08:33:58,"JavaScript String, Array and Object"
-kexizeroing.github.io,2025-01-01T11:09:52,A guide to Prompt Engineering
+kexizeroing.github.io,2025-02-22T18:46:24,"JavaScript String, Array and Object"
+kexizeroing.github.io,2025-02-13T08:02:47,A guide to Prompt Engineering
 kexizeroing.github.io,Nov 23 2022,Node-Sass troubleshooting
 kexizeroing.github.io,May 21 2022,Some network knowledge (in Chinese)
-kexizeroing.github.io,2024-12-22T18:57:07,TIL
-kexizeroing.github.io,2025-01-11T14:07:16,Understand npm concepts
+kexizeroing.github.io,2025-02-25T17:36:08,TIL
+kexizeroing.github.io,2025-02-05T18:05:10,Understand npm concepts
 kexizeroing.github.io,July 24 2022,Functional programming jargon
-kexizeroing.github.io,2025-01-04T12:37:05,Mac terminal
-kexizeroing.github.io,2025-01-04T12:37:05,Algorithm basics and sample problems
+kexizeroing.github.io,Dec 27 2022,Learn from Advent of Vue
+kexizeroing.github.io,2025-03-03T09:55:54,React hooks clone and related concepts
+kexizeroing.github.io,2025-03-05T11:27:42,Mac terminal
 kexizeroing.github.io,Aug 4 2020,"JavaScript prototype chain, Class and Proxy"
 lihan3238.github.io,2024-01-19 16:20:00+0800,word文档图片插入显示不全问题
 lihan3238.github.io,2023-09-17 13:54:00+0800,有趣的字符串
@@ -7324,7 +7346,7 @@ xnum.github.io,2017-11-13,libuv 1.16.0 連線關閉處理
 xnum.github.io,2023-11-18,今年撰寫的軟體工程師入職指南
 xnum.github.io,2024-05-08T16:08:20,anova舒肥機購買紀錄
 xnum.github.io,2018-12-04 22:32 +0800,distributed lock
-xnum.github.io,2019-06-19 17:07 +0800,日本沖繩遊記
+xnum.github.io,2025-02-10T23:45:28,日本沖繩遊記
 xnum.github.io,2023-11-09,SSH金鑰使用1Password管理超過6把會登入失敗的問題
 xnum.github.io,2023-01-31,遠端重灌伺服器，安裝成PVE
 xnum.github.io,2017-10-21,BATS 使用方式 & 心得
@@ -7339,6 +7361,7 @@ xnum.github.io,2022-08-17,解決在gerrit上的ssh rsa key不能使用的問題
 xnum.github.io,2020-10-17 11:11 +0800,GraphQL api performance tuning紀錄
 xnum.github.io,2020-01-14 18:58 +0800,libmysqlclient crash debug
 xnum.github.io,2018-02-01,MQTT與AMQP對比xdmq的差異
+xnum.github.io,2024-09-05,2024/8 菲律賓遊學記
 xnum.github.io,2022-03-17 00:00 +0800,go generic 版本實作的 migrate 方式
 xnum.github.io,2021-07-06 12:00 +0800,prometheus operator scrape external target for HAProxy
 xnum.github.io,2024-06-14,使用DNS紀錄來自動更新IP白名單
@@ -7490,6 +7513,7 @@ gitee.com/Kenneth-Lee-2012/MySummary,2021-07-05T16:43:09,一个逻辑链断裂�
 gitee.com/Kenneth-Lee-2012/MySummary,2023-09-20T14:52:21,什么是架构设计2023
 gitee.com/Kenneth-Lee-2012/MySummary,2020-10-14T02:09:21,高层封装的设计战略
 gitee.com/Kenneth-Lee-2012/MySummary,2021-06-16T19:23:24,理解指令集
+gitee.com/Kenneth-Lee-2012/MySummary,2025-03-07T11:20:20,填空问题
 gitee.com/Kenneth-Lee-2012/MySummary,2022-04-04T17:49:15,逻辑闭包
 gitee.com/Kenneth-Lee-2012/MySummary,2020-10-12T10:23:43,让设计自生
 gitee.com/Kenneth-Lee-2012/MySummary,2022-03-17T11:47:23,道和名的信息屏障
@@ -7637,7 +7661,7 @@ gitee.com/Kenneth-Lee-2012/MySummary,2020-10-09T10:17:48,思维上的洞2
 gitee.com/Kenneth-Lee-2012/MySummary,2020-10-14T02:09:21,利益链
 gitee.com/Kenneth-Lee-2012/MySummary,2020-10-12T23:57:01,关于设计方案中的逻辑链问题
 gitee.com/Kenneth-Lee-2012/MySummary,2020-10-12T23:57:01,怎样写标准提案
-gitee.com/Kenneth-Lee-2012/MySummary,2024-12-20T14:26:34,README
+gitee.com/Kenneth-Lee-2012/MySummary,2025-02-28T17:24:08,README
 gitee.com/Kenneth-Lee-2012/MySummary,2020-10-12T19:54:31,生成优秀的架构
 gitee.com/Kenneth-Lee-2012/MySummary,2020-10-11T16:42:40,弯道问题
 gitee.com/Kenneth-Lee-2012/MySummary,2020-10-11T16:42:40,软件构架设计的入题角度问题
@@ -8022,6 +8046,7 @@ babyno.top,2024-03-08T13:46:49,Search
 babyno.top,2024-03-08T13:46:49,Archive
 babyno.top,2025-01-14T16:22:49,球会04游戏逆向-存档文件解析
 babyno.top,2025-01-17 09:04:50,球会04游戏逆向-存档加密算法
+babyno.top,2025-02-21T11:26:59,文颜3.0发布，支持自动上传图片
 babyno.top,2024-08-15T11:59:43,在本地跑一个大语言模型
 babyno.top,2024-08-15T11:59:43,在本地跑一个AI模型(7) - 你打草稿，模型来画
 babyno.top,2024-08-15T11:59:43,Run a large language models locally (2) - Providing an External Knowledge Base to the Model
@@ -8034,7 +8059,7 @@ babyno.top,2024-08-15T11:59:43,在本地跑一个AI模型(6) - Stable Diffusion�
 babyno.top,2024-08-15T11:59:43,自己写一个RAG应用
 babyno.top,2024-08-15T11:59:43,使用「快捷指令」在Mac上的任何地方创建文件
 babyno.top,2024-08-15T11:59:43,「快捷指令」- 智能闹钟
-babyno.top,2024-12-03T16:03:03,文颜支持导出长图
+babyno.top,2025-02-21T11:26:59,文颜支持导出长图
 babyno.top,2024-08-15T11:59:43,再平凡的你，也是自己人生的主角
 babyno.top,2024-09-10 11:41:16,聊聊建站那些事
 babyno.top,2024-08-15T11:59:43,读后感两篇
@@ -8042,7 +8067,7 @@ babyno.top,2024-08-15T11:59:43,使用「Cloudflare WARP」优化网络体验
 babyno.top,2024-12-04 14:12:48,自己写一个智能体-理论篇
 babyno.top,2024-08-15T11:59:43,使用IndexNow提升Github Pages网站SEO
 babyno.top,2024-08-15T11:59:43,在本地跑一个AI模型(4) - 会说话的模型
-babyno.top,2025-01-17T11:06:46,文颜支持自定义主题
+babyno.top,2025-02-21T11:26:59,文颜支持自定义主题
 babyno.top,2024-08-15T11:59:43,Run a large language models locally
 babyno.top,2024-08-15T11:59:43,在本地跑一个大语言模型(2) - 给模型提供外部知识库
 babyno.top,2024-08-15T11:59:43,在本地跑一个大语言模型(3) - 让模型自主使用工具
@@ -8070,19 +8095,15 @@ babyno.top,2024-08-27T16:51:56,使用Python和OpenGL渲染PS2存档3D图标
 babyno.top,2024-08-15T11:59:43,Analysis of the PS2 Memory Card Storage Format
 babyno.top,2024-08-15T11:59:43,用「Github」和「Cloudflare」自建博客
 babyno.top,2024-03-29T11:26:01,Hello World
-tifa-233.com,2024-11-26T23:05:04,模板 - string 转 uint 的一种快速算法
-tifa-233.com,2021-03-27 17:36:32,"集合论03 - 映射, 基数/势"
 tifa-233.com,2020-07-25 22:14:38,题解 - [POJ 1141] [ZOJ 1463] [UVa 1626] [Ural 1183] Brackets Sequence
 tifa-233.com,2024-11-26T23:05:04,笔记 - 线性空间
 tifa-233.com,2024-06-12T17:49:52,题解 - [LOJ 2286] 「WC2017」挑战
-tifa-233.com,2023-04-01 09:06:31,目录 - 学术垃圾
-tifa-233.com,2024-11-26T23:05:04,模板 - 基于 fread / fwrite 的快读快写
+tifa-233.com,2025-01-02T14:59:51,目录 - 学术垃圾
 tifa-233.com,2024-04-28T00:05:06,题解 - [Luogu P3183] [HAOI2016] 食物链
 tifa-233.com,2024-06-12T17:49:52,VP记录 - 2021 ICPC 亚洲区域赛(澳门)
 tifa-233.com,2024-09-16T15:57:40,题解 - [BZOJ 5301] [LOJ 2534] [Luogu P4462] [CQOI2018] 异或序列
 tifa-233.com,2023-07-14T19:11:10,题解 - [Luogu P5025] [LOJ 2255] [SNOI2017] 炸弹
 tifa-233.com,2024-11-27T18:23:00,随笔 - 目录页
-tifa-233.com,2022-02-26 21:44:56,Namomo Spring Camp 2022 Div1 每日一题记录 (Week 1)
 tifa-233.com,2024-06-12T17:49:52,VP记录 - 2022 CCPC 广州站
 tifa-233.com,2022-03-02 10:02:42,题解 - [CodeForces 1637 F] Towers
 tifa-233.com,2024-06-12T17:49:52,VP记录 - 2022 CCPC 黑龙江省赛
@@ -8096,27 +8117,21 @@ tifa-233.com,2024-06-12T17:49:52,数值分析实验 - 数值积分与数值微�
 tifa-233.com,2024-01-26T17:57:38,科普 - 更高更妙视角下的 Fourier 变换
 tifa-233.com,2022-10-27 01:11:30,题解 - Codeforces Round #830 (Div. 2)
 tifa-233.com,2020-07-27 22:55:48,题解 - [POJ 1528] [ZOJ 1284] [UVA 382] Perfection
-tifa-233.com,2020-06-20 16:08:42,笔记 - 对称双线性度量空间与线性方程组
 tifa-233.com,2024-04-28T00:05:06,题解 - [Luogu P1337] [JSOI2004] 平衡点 / 吊打XXX
 tifa-233.com,2024-11-26T23:05:04,笔记 - 无向图连通子图 & 环计数
-tifa-233.com,2024-11-26T23:05:04,模板 - Legendre 符号 & 二次剩余
-tifa-233.com,2022-03-26 16:00:57,Namomo Spring Camp 2022 Div1 每日一题记录 (Week 5)
 tifa-233.com,2024-04-28T00:05:06,题解 - [Luogu P7075] [CSP-S2020] 儒略日
 tifa-233.com,2020-07-31 10:17:18,题解 - [UVa 10497] Sweet Child Makes Trouble
 tifa-233.com,2024-04-28T00:05:06,题解 - [Luogu P3878] [TJOI2010] 分金币
 tifa-233.com,2024-11-26T23:05:04,笔记 - 线性基 (Hamel 基)
 tifa-233.com,2024-06-12T17:49:52,数值分析实验 - 线性方程组的直接解法
-tifa-233.com,2024-11-26T23:05:04,模板 - Newton 插值
 tifa-233.com,2024-06-12T17:49:52,题解 - 洛谷 10 月月赛 II & JROI R3
 tifa-233.com,2021-04-27 22:52:08,题解 - [LOJ 6053] 简单的函数
 tifa-233.com,2021-10-29 03:09:51,题解 - [Luogu P2258] [NOIP2014 普及组] 子矩阵
 tifa-233.com,2020-07-31 20:59:10,题解 - [Ural 1091] Tmutarakan Exams
 tifa-233.com,2020-01-15 09:47:41,题解 - [Luogu P1182] 数列分段 Section II
 tifa-233.com,2024-04-28T00:05:06,题解 - [POJ 2309] BST
-tifa-233.com,2022-03-19 16:00:56,Namomo Spring Camp 2022 Div1 每日一题记录 (Week 4)
 tifa-233.com,2018-04-06 21:02:28,题解 - [Luogu P2413] yyy loves physics IV
 tifa-233.com,2024-06-12T17:49:52,【洛谷日报#53】浅谈一些求近似值的方法
-tifa-233.com,2024-11-26T23:05:04,模板 - Gauss 整数
 tifa-233.com,2024-06-12T17:49:52,数值分析实验 - Hamming 级数求和
 tifa-233.com,2024-06-12T17:49:52,VP记录 - 2018 ICPC 亚洲区域赛(沈阳)
 tifa-233.com,2024-04-28T00:05:06,题解 - [Luogu P1074] 靶形数独
@@ -8127,7 +8142,6 @@ tifa-233.com,2021-06-04 20:59:51,题解 - [Luogu P1829] [国家集训队] Crash�
 tifa-233.com,2021-04-25 22:07:03,题解 - [CodeForces 1139 D] Steps to One (杜教筛版)
 tifa-233.com,2021-07-12 21:33:51,题解 - [POJ 3734] Gaussian Prime Factors
 tifa-233.com,2024-04-28T00:05:06,题解 - Japanese Student Championship 2021
-tifa-233.com,2024-11-26T23:05:04,微分几何笔记00 - 基础知识与约定
 tifa-233.com,2024-11-26T23:05:04,随笔 - 运用 MATLAB 基于 Lotka-Volterra 模型模拟种群演化
 tifa-233.com,2024-11-26T23:05:04,随笔 - 最长下降子序列问题的 O(n log n) 解法
 tifa-233.com,2020-07-27 23:00:20,题解 - [UVa 1415] Gauss Prime
@@ -8137,7 +8151,6 @@ tifa-233.com,2020-07-25 11:32:24,题解 - [HDU 2973] YAPTCHA
 tifa-233.com,2024-11-26T23:05:04,模板 - Miller-Rabin 素性检验与 Pollard-Rho 算法
 tifa-233.com,2022-10-22 23:02:15,题解 - [Luogu P2150] [NOI2015] 寿司晚宴
 tifa-233.com,2024-06-12T17:49:52,VP记录 - 2021 ICPC 亚洲区域赛(上海)
-tifa-233.com,2023-05-01T16:35:03,Namomo Spring Camp 2022 Div1 每日一题记录 (Week 14)
 tifa-233.com,2024-06-12T17:49:52,题解 - [Luogu P2277] [HNOI2003] 24点游戏
 tifa-233.com,2024-04-28T00:05:06,比赛记录 - Hello 2023
 tifa-233.com,2020-07-28 21:47:20,题解 - [POJ 1650] Integer Approximation
@@ -8148,7 +8161,6 @@ tifa-233.com,2020-01-15 09:54:49,题解 - [Luogu P1507] NASA的食物计划
 tifa-233.com,2024-06-12T17:49:52,VP记录 - 2022 ICPC 亚洲区域赛(济南)
 tifa-233.com,2024-04-28T00:05:06,题解 - Codeforces Round #639 Div. 2 (A-D)
 tifa-233.com,2024-11-26T23:05:04,随笔 - n 结点二叉搜索树计数问题
-tifa-233.com,2022-04-30 16:00:56,Namomo Spring Camp 2022 Div1 每日一题记录 (Week 10)
 tifa-233.com,2023-05-01T16:35:03,题解 - [Luogu P5462]【X龙珠】
 tifa-233.com,2024-06-12T17:49:52,VP记录 - 2022 CCPC 桂林站
 tifa-233.com,2024-11-26T23:05:04,模板 - 自动取模的整数类 (mod_int)
@@ -8162,8 +8174,6 @@ tifa-233.com,2024-11-26T23:05:04,随笔 - C 语言宏定义的一些进阶操作
 tifa-233.com,2020-07-25 00:19:21,题解 - [LightOJ 1259] Goldbach`s Conjecture
 tifa-233.com,2024-04-28T00:05:06,题解 - [POJ 2568] [ZOJ 1965] Decode the Tree
 tifa-233.com,2023-01-06 20:11:31,比赛记录 - Codeforces Round #842 (Div. 2)
-tifa-233.com,2022-05-07 16:00:56,Namomo Spring Camp 2022 Div1 每日一题记录 (Week 11)
-tifa-233.com,2024-11-26T23:05:04,模板 - ST 表
 tifa-233.com,2024-04-28T00:05:06,题解 - Codeforces Round #791 Div. 2 (A-D)
 tifa-233.com,2024-10-15T23:47:39,题解 - [第六届团体程序设计天梯赛 L3-3] 可怜的简单题
 tifa-233.com,2024-06-12T17:49:52,VP记录 - 2023 CCPC 桂林站
@@ -8172,7 +8182,6 @@ tifa-233.com,2024-06-12T17:49:52,VP记录 - 2023 ICPC 亚洲区域赛(南京)
 tifa-233.com,2024-06-12T17:49:52,"笔记 - 整除分块, Dirichlet卷积, Dirichlet前缀和, 积性函数, Möbius反演, 杜教筛"
 tifa-233.com,2021-10-29 03:09:51,题解 - [Luogu P2508] [HAOI2008] 圆上的整点
 tifa-233.com,2024-11-26T23:05:04,论文阅读笔记 - Multiscale structural complexity of natural patterns
-tifa-233.com,2024-11-26T23:05:04,微分几何笔记01 - 曲线论
 tifa-233.com,2024-06-12T17:49:52,题解 - Codeforces Round #641 Div. 2 (A-E)
 tifa-233.com,2024-11-26T23:05:04,"随笔 - C++ 元组的一些应用 (子元组, 流式 IO, 运算符重载)"
 tifa-233.com,2024-11-27T18:23:00,随笔 - Miller-Rabin + Pollard-Rho 分解质因子的时间复杂度分析
@@ -8180,6 +8189,7 @@ tifa-233.com,2020-07-31 20:58:31,题解 - [POJ 2356] [Ural 1032] Find a multiple
 tifa-233.com,2018-06-09 21:23:48,题解 - [BalticOI 2016 day1] [Luogu P4675] [LOJ 2781] Park
 tifa-233.com,2024-04-28T00:05:06,题解 - [Luogu P2011] 计算电压
 tifa-233.com,2024-06-12T17:49:52,VP记录 - 2023 ICPC 亚洲区域赛(网络预选赛Ⅰ)
+tifa-233.com,2023-04-01 09:07:31,目录 - 算法竞赛模板
 tifa-233.com,2023-12-07T18:38:00,题解 - 2021 ICPC 亚洲区域赛(沈阳)
 tifa-233.com,2020-07-27 22:58:08,题解 - [POJ 1777] [UVA 1323] Vivian's Problem
 tifa-233.com,2024-11-26T23:05:04,随笔 - 一道树上贪心题
@@ -8187,20 +8197,17 @@ tifa-233.com,2020-07-31 20:59:25,题解 - [ZOJ 3638] Fruit Ninja
 tifa-233.com,2024-06-12T17:49:52,VP记录 - 2021 CCPC 威海站
 tifa-233.com,2024-04-28T00:05:06,题解 - [Luogu P4205] [NOI2005] 智慧珠游戏
 tifa-233.com,2024-11-26T23:05:04,随笔 - Java: 基于 ScriptEngine 和 Swing 的极简科学计算器
-tifa-233.com,2022-05-14 16:00:56,Namomo Spring Camp 2022 Div1 每日一题记录 (Week 12)
 tifa-233.com,2020-07-29 23:27:26,题解 - [POJ 1850] Code
 tifa-233.com,2020-08-12 11:31:46,题解 - [Luogu P5627] 【AFOI-19】sum与prod
 tifa-233.com,2020-07-27 22:49:46,题解 - [POJ 3904] Sky Code
 tifa-233.com,2024-06-12T17:49:52,VP记录 - 2021 ICPC Asia Taiwan Online Programming Contest
 tifa-233.com,2024-10-15T23:47:39,题解 - 2020 ICPC 亚洲区域赛(昆明) 热身赛
 tifa-233.com,2024-06-12T17:49:52,"笔记 - 整除, 素数, gcd & lcm, 同余, 逆元, CRT, exCRT"
-tifa-233.com,2024-11-27 09:23:57,模板 - 红黑树
 tifa-233.com,2023-12-07T18:38:00,题解 - 2020 ICPC 亚洲区域赛(南京)
-tifa-233.com,2024-11-26T23:05:04,笔记 - Huffman 树与 Huffman 编码
+tifa-233.com,2025-01-02T14:59:51,笔记 - Huffman 树与 Huffman 编码
 tifa-233.com,2024-11-26T23:05:04,随笔 - MATLAB 练习: 频谱分析之寻找峰值
 tifa-233.com,2023-05-16T10:55:45,笔记 - 关于 gcd 求和与计数的问题
 tifa-233.com,2024-11-26T23:05:04,随笔 - C++ 基于标签分发的线性筛
-tifa-233.com,2024-04-28T00:05:06,Namomo Spring Camp 2022 Div1 每日一题记录 (Week 9)
 tifa-233.com,2022-10-31 21:39:14,题解 - [Luogu P3974] [TJOI2015] 组合数学
 tifa-233.com,2024-06-12T17:49:52,VP记录 - 2020 ICPC Asia EC-final
 tifa-233.com,2018-06-09 21:23:47,题解 - [BalticOI 2016 day1] [Luogu P4674] [LOJ 2780] Bosses
@@ -8216,7 +8223,6 @@ tifa-233.com,2024-11-26T23:05:04,模板 - 矩阵
 tifa-233.com,2024-11-26T23:05:04,"随笔 - MATLAB 练习: 直方图, 归一化和概率分布拟合"
 tifa-233.com,2020-05-10 01:03:23,题解 - Codeforces Round #640 Div. 4
 tifa-233.com,2024-11-26T23:05:04,随笔 - Chicken McNugget 定理 (麦乐鸡定理)
-tifa-233.com,2022-04-16 16:00:56,Namomo Spring Camp 2022 Div1 每日一题记录 (Week 8)
 tifa-233.com,2024-06-12T18:22:49,VP记录 - 2019 ICPC 亚洲区域赛(银川)
 tifa-233.com,2024-11-26T23:05:04,笔记 - 异或线性基
 tifa-233.com,2024-11-26T23:05:04,模板 - 德州扑克
@@ -8229,7 +8235,6 @@ tifa-233.com,2021-06-02 13:25:11,题解 - [Luogu P6156] 简单题
 tifa-233.com,2020-12-18 22:43:39,题解 - [CodeForces 906 D] Power Tower
 tifa-233.com,2020-11-04 16:32:04,题解 - [Luogu P3524] [POI2011] IMP-Party
 tifa-233.com,2024-11-26T23:05:04,随笔 - 获取 CPU 信息
-tifa-233.com,2024-09-16T15:57:40,Namomo Spring Camp 2022 Div1 每日一题记录 (Week 13)
 tifa-233.com,2024-09-16T15:57:40,比赛记录 - Codeforces Round #796 (Div. 2)
 tifa-233.com,2023-05-16 08:25:11,题解 - [Luogu P7486] 「Stoi2031」彩虹
 tifa-233.com,2024-11-26T23:05:04,随笔 - 根据给定序列构造周期数列 (附 MATLAB 程序)
@@ -8245,13 +8250,10 @@ tifa-233.com,2024-04-28T00:05:06,比赛记录 - Pinely Round 1 (Div. 1 + Div. 2)
 tifa-233.com,2024-10-15T23:47:39,题解 - 2020 ICPC 亚洲区域赛(南京) 热身赛
 tifa-233.com,2024-04-28T00:05:06,题解 - ICPC North Central NA Regional Contest 2019
 tifa-233.com,2021-11-08 18:38:23,题解 - [Luogu P3768] 简单的数学题
-tifa-233.com,2024-04-28T00:05:06,Namomo Spring Camp 2022 Div1 每日一题记录 (Week 7)
 tifa-233.com,2020-07-27 22:59:46,题解 - [POJ 3361] Gaussian Prime Factors
-tifa-233.com,2024-11-26T23:05:04,模板 - 光速幂
 tifa-233.com,2024-11-26T23:05:04,随笔 - 批量重命名 APK 文件的 Python 脚本
 tifa-233.com,2023-05-01T16:35:03,题解 - [Luogu P5221] Product
 tifa-233.com,2021-06-03 14:02:01,题解 - [Luogu P5177] 签到
-tifa-233.com,2021-03-27 17:34:32,集合论01 - 基本概念
 tifa-233.com,2020-12-06 19:02:01,题解 - [AtCoder ARC110D] Binomial Coefficient is Fun
 tifa-233.com,2023-05-01T16:35:03,题解 - [Luogu P3599] Koishi Loves Construction
 tifa-233.com,2024-11-26T23:05:04,笔记 - Dilworth 定理 & Mirsky 定理
@@ -8264,26 +8266,22 @@ tifa-233.com,2021-11-03 17:56:45,题解 - [Luogu P3200] [HNOI2009] 有趣的数�
 tifa-233.com,2020-02-10 02:04:18,「线段树的扩展之浅谈zkw线段树」一文的测试代码与结果更新
 tifa-233.com,2024-11-26T23:05:04,笔记 - Simpson法与自适应Simpson法
 tifa-233.com,2024-11-26T23:05:04,笔记 - 扩展中国剩余定理(exCRT)
-tifa-233.com,2024-04-28T00:05:06,Namomo Spring Camp 2022 Div1 每日一题记录 (Week 3)
 tifa-233.com,2024-06-12T17:49:52,VP记录 - 2022 ICPC 亚洲区域赛(杭州)
-tifa-233.com,2024-11-27T18:23:00,关于本博客 & FAQ
+tifa-233.com,2025-01-02T14:59:51,关于本博客 & FAQ
 tifa-233.com,2020-01-17 10:26:14,题解 - [Luogu P2915] [USACO08NOV] 奶牛混合起来Mixed Up Cows
 tifa-233.com,2021-11-18 00:40:39,题解 - [Luogu P5042] [UOJ 100] [集训队互测2015] 丢失的题面（ydc的题面）
-tifa-233.com,2024-11-26T23:05:04,模板 - 模拟退火
 tifa-233.com,2023-05-01T16:35:03,题解 - [Hydro #H1060] 绝世傻逼题
 tifa-233.com,2024-04-28T00:05:06,题解 - Codeforces Round #645 Div. 2 (A-D)
 tifa-233.com,2021-11-12 01:55:36,题解 - [Luogu P3396] 哈希冲突
 tifa-233.com,2020-07-25 00:12:29,题解 - [LightOJ 1245] Harmonic Number (II)
-tifa-233.com,2024-06-12T17:49:52,数值分析实验 - 函数逼近与曲线拟合
+tifa-233.com,2025-01-02T14:59:51,数值分析实验 - 函数逼近与曲线拟合
 tifa-233.com,2024-04-28T00:05:06,比赛记录 - Codeforces Round #831 (Div. 1 + Div. 2)
 tifa-233.com,2020-07-25 00:24:27,题解 - [LightOJ 1282] Leading and Trailing
 tifa-233.com,2020-07-25 00:39:08,题解 - [LightOJ 1370] Bi-shoe and Phi-shoe
 tifa-233.com,2024-04-28T00:05:06,题解 - [Luogu P1244] [NOI2000] 青蛙过河
 tifa-233.com,2022-05-27 14:24:10,比赛记录 - Codeforces Round #794 (Div. 2) (A-D)
 tifa-233.com,2023-05-01T16:35:03,题解 - [Luogu P4896]【Oier们的烦恼】
-tifa-233.com,2024-04-28T00:05:06,Namomo Spring Camp 2022 Div1 每日一题记录 (Week 2)
 tifa-233.com,2024-11-26T23:05:04,随笔 - Laplace算子的旋转不变性
-tifa-233.com,2021-03-27 17:38:32,集合论04 - R^n 上的点集
 tifa-233.com,2024-11-26T23:05:04,"笔记 - 精确覆盖问题, 重复覆盖问题与DLX"
 tifa-233.com,2024-04-28T00:05:06,题解 - [Atcoder ABC 184] (C - F)
 tifa-233.com,2021-02-02 12:06:09,题解 - [Atcoder ABC 126] (C - F)
@@ -8291,10 +8289,9 @@ tifa-233.com,2023-05-01T16:35:03,题解 - [SDOI2017] 龙与地下城
 tifa-233.com,2022-07-01 04:00:27,图论笔记01 - 基础概念
 tifa-233.com,2024-04-28T00:05:06,题解 - Codeforces Round #793 (Div. 2) (A-D)
 tifa-233.com,2022-12-28 20:11:31,比赛记录 - Codeforces Round #841 (Div. 2) and Divide by Zero 2022
-tifa-233.com,2024-06-12T17:49:52,【洛谷日报#35】线段树的扩展之浅谈zkw线段树
+tifa-233.com,2024-11-27T18:23:00,【洛谷日报#35】线段树的扩展之浅谈zkw线段树
 tifa-233.com,2021-06-03 14:00:59,题解 - [Luogu P4861] 按钮 (aka 模板 - 阶)
 tifa-233.com,2024-04-28T00:05:06,题解 - Codeforces Round #829 (Div. 2)
-tifa-233.com,2022-04-02 16:00:56,Namomo Spring Camp 2022 Div1 每日一题记录 (Week 6)
 tifa-233.com,2024-11-26T23:05:04,随笔 - C++ 的高维向量
 lutaonan.com,2022-05-01,遗憾最小化框架 —— 如何做决定
 lutaonan.com,2020-12-25,用 Code Snippet 提高开发效率
@@ -8303,6 +8300,7 @@ lutaonan.com,2021-05-12,我给自己设立了每月 $20 的开源捐赠预算
 lutaonan.com,2024-06-28T14:14:58,回顾了一些读者来信
 lutaonan.com,2022-09-19,每个人都能用点正则表达式
 lutaonan.com,2022-08-20,读《九宫格写作法》
+lutaonan.com,2025-02-08,新 MacBook 的设置和软件
 lutaonan.com,2021-03-09,我对 Svelte 的看法
 lutaonan.com,2024-01-04,读 React 18 文档有感
 lutaonan.com,2023-12-22T23:32:01,2023 年终总结: 和自己对话
@@ -8549,8 +8547,8 @@ sund.site,2024-08-31T00:54:02,番茄工作法和Keep是绝配
 sund.site,2024-08-31T00:54:02,如何练习双拼输入法
 sund.site,2022-12-24T08:11:36,谣言的利与弊
 sund.site,2022-12-24T08:11:36,跨过真实和虚无的河
-sund.site,2024-08-10T03:53:05,Hello
-sund.site,2024-10-23T21:21:45,Blogroll
+sund.site,2025-02-11T22:11:35,Hi
+sund.site,2025-02-11T22:11:35,友情链接
 informal.top,2024-10-21T13:49:19,Weekly-#8 Start Reading
 informal.top,2025-01-02T10:02:27,Weekly-#18 Cross Entropy Loss of Triton
 informal.top,2024-10-16T18:04:32,特殊的日子
@@ -8562,7 +8560,7 @@ informal.top,2024-10-16T18:04:32,模型解释性-PDP
 informal.top,2024-04-24,learning english in April
 informal.top,2024-10-16T18:04:32,神经网络解释性
 informal.top,2023-04-01,learning english in April
-informal.top,2024-09-19,Validated example of LLM acceleration
+informal.top,2025-02-19T20:31:50,Validated example of LLM acceleration
 informal.top,2024-10-16T18:04:32,我的第一款 iOS APP
 informal.top,2024-11-20T19:26:08,Weekly-#12 summary of LLM acceleration
 informal.top,2023-10-07,learning english in October
@@ -8587,7 +8585,6 @@ informal.top,2024-10-16T18:04:32,新年新气象-碎碎念
 informal.top,2024-10-16T18:04:32,AtCoder Beginner Contest 268
 informal.top,2023-09-05,learning english in September
 informal.top,2024-10-16T18:04:32,2022年总结
-informal.top,2024-05-10,离职了
 informal.top,2024-10-21T13:31:53,Weekly-#8 Summary for two month
 informal.top,2024-11-11T16:05:05,Weekly-#11 Copilot-type products
 informal.top,2024-07-19,slack迁移discord
@@ -8597,9 +8594,9 @@ informal.top,2023-08-06,top hack news 收集
 informal.top,2024-10-16T18:04:32,人穷极一生到底在追求什么
 informal.top,2024-10-16T18:04:32,特征工程
 informal.top,2024-10-24T17:44:06,Notes of flash-attention
+informal.top,2025-02-02,Weekly-#22 2025 New Year
 informal.top,2024-10-16T18:04:32,强化学习简介
 informal.top,2024-10-25T11:20:33,雅思备考 2024Q3
-informal.top,2024-10-25T11:33:38,今天OPR了
 informal.top,2024-10-16T18:04:32,读《人类简史》有感
 informal.top,2024-10-16T18:04:32,妙峰山骑行
 informal.top,2025-01-07T17:58:56,Weekly-#19 Full Cross Entropy Loss of Triton
@@ -8628,14 +8625,14 @@ informal.top,2024-04-06,离职前的状态
 informal.top,2024-10-16T18:04:32,刷剧
 informal.top,2024-10-16T18:04:32,《幸福的方法》
 informal.top,2024-10-21T13:31:53,Weekly-#7 Staying home
-informal.top,2025-01-15T11:26:27,Outline of LLM acceleration
+informal.top,2025-02-19T21:15:45,Outline of LLM acceleration
 informal.top,2023-08-16,learning english in August
 informal.top,2024-10-18T21:25:50,Acceleration of LLM - Matrix Multiplication
 informal.top,2023-10-22,duckdb 看懂的第一个PR
 informal.top,2024-10-16T18:04:32,Web3 入门科普
 informal.top,2024-10-16T18:04:32,读论文
 informal.top,2024-01-01,2024-01-01
-informal.top,2025-01-18,Weekly-#20 AutoSwitch Translate
+informal.top,2025-02-06T19:57:04,Weekly-#21 AutoSwitch Translate
 informal.top,2024-06-29,中文博客合集
 www.zhaohuabing.com,2023-09-05T09:23:49,index
 www.zhaohuabing.com,2020-03-25T17:53:45,洞若观火：使用OpenTracing增强Istio的调用链跟踪
