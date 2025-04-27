@@ -5,11 +5,11 @@ vivaxyblog.github.io,94,51,2021-03-07,SameSite Cookies 解读
 jaredtao.gitee.io,38,136,2021-01-21 13:44:23,玩转QtQuick(2)-默认渲染器
 claude-ray.github.io,54,8,2022-06-28 12:16:30,浅谈 npm 依赖治理
 iphyer.github.io,247,1905,2024-12-31 20:54,2024总结 并 2025规划
-mabbs.github.io,160,33,2025-02-22,近期LLM的部署与应用经历
+mabbs.github.io,164,33,2025-04-04,最近对博客搜索功能的优化记录
 thewanderingpotato.github.io,11,133,2021-03-26,中式膝跳反應
-zsqk.github.io,62,0,2025-01-14,JS 中的链式调用
-luyuhuang.github.io,80,78,2025-02-16,使用 Address Sanitizer 排查内存越界
-jasonkayzk.github.io,509,95,2025-01-30 11:13:54,通过GithubActions拉取并推送Docker镜像到国内云
+zsqk.github.io,63,0,2025-03-13,TypeScript 使用 Go 进行了重构
+luyuhuang.github.io,81,79,2025-03-30,Clang 编译安装指南
+jasonkayzk.github.io,509,101,2025-01-30 11:13:54,通过GithubActions拉取并推送Docker镜像到国内云
 qingbob.com,119,198,2024-10-14,我们还需要极客吗
 cyril3.github.io,20,0,需git信息,Bingwhispers | Hi there!
 hijiangtao.github.io,152,391,2024-12-31,2024年终总结
@@ -24,30 +24,30 @@ blog.biezhi.me,27,15,2019-01-21,零拷贝 - 用户态分析
 www.cnfeat.com,570,16,2024-11-29,卡片创作标准流水线 01：初衷
 www.barretlee.com,406,466,2023-10-27 15:13:00,Load 持续飙高的原理讲解和应急机制
 www.jeffjade.com,78,24,2018-09-21 00:21:21 +0800,快应用之开发体验纪要
-blog.forecho.com,470,34,2024-08-06 12:58:00+08:00,RichCalls Warden 使用指南
-codeinchinese.com,430,213,2025-02-27,随书编程语言工具Sunaba本地开发搭建
+blog.forecho.com,475,34,2025-04-03 23:44:00+08:00,使用价格行为学交易犯的错误
+codeinchinese.com,441,213,2025-03-27,《Rule-Based 编程的冒险》CLIPS入门笔记（八）：测试及与CLIPS源码合成可执行
 gitee.com/MulanRevive/bounty,78,41,2025-01-30,Python 转换木兰功能修正：二元运算加括号
-f2h2h1.github.io,52,86,需git信息,在Windows下安装Magento2
-aemoncao.github.io,61,668,2024-06-12 14:46:13,榨干这台 NAS 第 005 话-外网访问之 Tailscale
+f2h2h1.github.io,52,87,需git信息,在Windows下安装Magento2
+aemoncao.github.io,61,671,2024-06-12 14:46:13,榨干这台 NAS 第 005 话-外网访问之 Tailscale
 dianjiaogit.github.io,33,3,2023-5-27 02:00:00 +1000,ChatGPT Prompt Engineering for Developers学习笔记
-xieguanglei.github.io,44,19,需git信息,2020-d2-speech
-conge.livingwithfcs.org,1884,5764,2025-03-04 17:17:32,2025 二月读地球科学 设计理论 文学小说 传记 佛经…… 10 本
-shiina18.github.io,169,221,2025-01-21,LightRAG 源码简要分享
+xieguanglei.github.io,44,19,需git信息,2023-05-03/编程随笔
+conge.livingwithfcs.org,1892,5814,2025-04-03 14:56:09,父范学堂 2513 全家滑雪 摔跤比成功更珍贵
+shiina18.github.io,171,222,2025-01-21,LightRAG 源码简要分享
 blog.mauve.icu,148,106,2024-11-26 08:55:38,香港银行开卡记-1
 young-lord.github.io,60,14,2025-01-28,Linux 自制鼠标指针
 sakurawald.github.io,32,447,2025-03-02 13:38:42,comparing-emacs-and-idea-in-java-development-environment
 jerkwin.github.io,516,2143,9999-12-31,GROMACS中文手册
-kexizeroing.github.io,73,16,Sep 5 2020,Bitwise operations and related concepts
+kexizeroing.github.io,76,17,Sep 5 2020,Bitwise operations and related concepts
 lihan3238.github.io,41,135,2024-01-23 23:50:00+0800,幻兽帕鲁服务器搭建
-xnum.github.io,138,516,2024-09-05,2024/8 菲律賓遊學記
+xnum.github.io,139,649,2025-03-27,2025/03 初春日本四國遊記
 gitee.com/Kenneth-Lee-2012/MySummary,523,69,需git信息,index
 zhangwenli.com,121,151,2021-01-01,2020 年度小结暨羡辙的 30 年小结
-babyno.top,55,83,2025-02-19 08:05:43,文颜3.0发布，支持自动上传图片
-tifa-233.com,198,386,2024-11-29 20:43:13,随笔 - Miller-Rabin + Pollard-Rho 分解质因子的时间复杂度分析
+babyno.top,56,83,2025-03-26 17:25:27,开源Markdown提取工具-Omni Article Markdown
+tifa-233.com,199,386,2025-02-25 18:19:37,随笔 - 关于 C++ 模板的部分特化
 lutaonan.com,78,41,2025-02-08,新 MacBook 的设置和软件
-yuanj.top,118,232,2024-09-07 20:26:52+08:00,文献分享|单细胞转录组图谱揭示拟南芥愈伤组织诱导过程中早期细胞命运转变轨迹
-sund.site,60,174,2024-12-11 17:02:43+08:00,与AI协作编程──测试篇
-informal.top,85,902,2025-02-02,Weekly-#22 2025 New Year
+yuanj.top,50,100,2025-03-31,GeoAB 模型安装与训练
+sund.site,60,176,2025-03-23 00:00:01+08:00,与AI协作编程──痛点篇
+informal.top,86,902,2025-03-09,Weekly-#23 seeking job
 www.zhaohuabing.com,156,147,2024-11-05,Envoy Gateway v 1.2.0 版本发布：新功能与改进介绍
-qubeijun.github.io,87,209,2024-12-08 13:33:22,言语理解与表达
-kneep.github.io,6,141,2024-07-28,2024 澳大利亚之行
+qubeijun.github.io,87,210,2024-12-08 13:33:22,言语理解与表达
+kneep.github.io,8,143,2025-04-04,意大利申根签证通关
