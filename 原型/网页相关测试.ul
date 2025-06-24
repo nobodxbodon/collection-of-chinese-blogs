@@ -37,6 +37,14 @@ sund简报 = 简报结构.由表转换单个({
 确认相等('https://sund.site/posts/2024/decision_to_leave',
   生成原文链接(sund简报))
 
+lhasa简报 = 简报结构.由表转换单个({
+  '文件名': '2025-05-11-yilu-xiang-nan-qi-jian-jiang-nan.md',
+  '路径': os.path.join(源数据路径, 'lhasa.icu/_posts/2025-05-11-yilu-xiang-nan-qi-jian-jiang-nan.md'),
+  '本地相对路径': 'lhasa.icu'
+})
+确认相等('https://lhasa.icu/yilu-xiang-nan-qi-jian-jiang-nan',
+  生成原文链接(lhasa简报))
+
 zhaohuabing简报 = 简报结构.由表转换单个({
   '文件名': '2024-04-28-silicon-valley.md',
   '路径': os.path.join(源数据路径, 'www.zhaohuabing.com/content/post/2024-04-28-silicon-valley.md'),

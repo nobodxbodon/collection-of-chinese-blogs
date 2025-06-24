@@ -33,7 +33,7 @@ func 生成原文链接(简报) {
   } elif 域名 == "blog.mauve.icu" {
     子目录 = 简报.路径[#简报.仓库本地路径 + 1 : -#文件名]
     文件名 = 简报.时间.split(' ')[0] + "-" + 子目录 + 文件名
-  } elif 域名 == "qingbob.com" {
+  } elif 域名 == "qingbob.com" or 域名 == "lhasa.icu" {  // 从文件名去掉日期部分
     文件名 = re.sub('(\\d{4})-(\\d{2})-(\\d{2})-', '', 文件名)
   } elif 域名 == "objcoding.com" {
     // 月日如为单数字则补0
